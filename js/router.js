@@ -216,6 +216,10 @@ function setSelectedExam(exam) {
   saveToStorage("selectedExam", exam);
 }
 
+function buildAttemptQuestionKey(attemptId) {
+  return `otp_attempt_questions_${attemptId}`;
+}
+
 function buildAttempt({ examId, mode, id, title, filePath, durationMinutes }) {
   return {
     attemptId: `${mode}_${id}_${Date.now()}`,
@@ -738,6 +742,9 @@ function submitTest() {
   if (activeAttempt.customQuestionsKey) {
     removeFromStorage(activeAttempt.customQuestionsKey);
   }
+  if (activeAttempt.questionSetKey) {
+    removeFromStorage(activeAttempt.questionSetKey);
+  }
   removeFromStorage("currentAttempt");
   navigate("result.html");
 }
@@ -798,8 +805,22 @@ async function initTestPage() {
   if (activeAttempt.customQuestionsKey) {
     activeQuestions = getFromStorage(activeAttempt.customQuestionsKey, []).filter(isValidQuestion);
   } else {
-    // Question sets are selected via metadata and loaded from JSON paths.
-    activeQuestions = (await loadQuestionSet(activeAttempt.filePath)).filter(isValidQuestion);
+    let questionSetKey = activeAttempt.questionSetKey;
+    if (!questionSetKey) {
+      questionSetKey = buildAttemptQuestionKey(activeAttempt.attemptId);
+      activeAttempt.questionSetKey = questionSetKey;
+      saveToStorage("currentAttempt", activeAttempt);
+    }
+
+    const persistedQuestions = getFromStorage(questionSetKey, null);
+    if (Array.isArray(persistedQuestions) && persistedQuestions.length > 0) {
+      activeQuestions = persistedQuestions.filter(isValidQuestion);
+    } else {
+      // For non-custom tests, shuffle once per attempt and persist to keep order stable on refresh.
+      const loaded = (await loadQuestionSet(activeAttempt.filePath)).filter(isValidQuestion);
+      activeQuestions = shuffleArray(loaded);
+      saveToStorage(questionSetKey, activeQuestions);
+    }
   }
 
   if (!activeQuestions.length) {
