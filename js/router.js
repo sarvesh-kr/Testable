@@ -27,6 +27,140 @@ let activeQuestions = [];
 let activeState = null;
 let isSubmitting = false;
 
+function shuffleArray(items) {
+  const arr = [...items];
+  for (let i = arr.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    const tmp = arr[i];
+    arr[i] = arr[j];
+    arr[j] = tmp;
+  }
+  return arr;
+}
+
+function setMockConfigStatus(message, tone = "") {
+  const status = document.getElementById("mock-config-status");
+  if (!status) {
+    return;
+  }
+
+  status.className = tone ? tone : "muted";
+  status.textContent = message;
+}
+
+function buildAllocationPlan(topicConfigs, targetCount) {
+  const selected = topicConfigs.filter((cfg) => cfg.selected);
+  if (!selected.length) {
+    throw new Error("Select at least one topic.");
+  }
+
+  if (!Number.isInteger(targetCount) || targetCount <= 0) {
+    throw new Error("Total questions must be greater than 0.");
+  }
+
+  const exact = [];
+  const upto = [];
+  selected.forEach((cfg) => {
+    const available = cfg.topic.questionCount;
+    const cap = Math.min(Math.max(0, cfg.limit), available);
+    const normalized = {
+      topic: cfg.topic,
+      exact: cfg.exact,
+      cap,
+      available
+    };
+
+    if (cfg.exact) {
+      if (cap <= 0) {
+        throw new Error(`Exact count must be at least 1 for ${cfg.topic.name}.`);
+      }
+      exact.push(normalized);
+    } else {
+      upto.push(normalized);
+    }
+  });
+
+  const allocation = {};
+  let fixedCount = 0;
+
+  exact.forEach((cfg) => {
+    allocation[cfg.topic.id] = cfg.cap;
+    fixedCount += cfg.cap;
+  });
+
+  if (fixedCount > targetCount) {
+    throw new Error(`Exact allocations exceed target (${fixedCount}/${targetCount}).`);
+  }
+
+  let remaining = targetCount - fixedCount;
+  const flexibleCapacity = upto.reduce((sum, cfg) => sum + cfg.cap, 0);
+  if (remaining > flexibleCapacity) {
+    throw new Error("Not enough capacity in flexible topics to reach target count.");
+  }
+
+  upto.forEach((cfg) => {
+    allocation[cfg.topic.id] = 0;
+  });
+
+  const poolsByLeft = upto.map((cfg) => ({
+    id: cfg.topic.id,
+    left: cfg.cap
+  }));
+
+  // Deterministic round-robin distribution keeps preview and final build aligned.
+  while (remaining > 0) {
+    let progressed = false;
+    poolsByLeft.sort((a, b) => b.left - a.left);
+
+    for (const candidate of poolsByLeft) {
+      if (candidate.left <= 0 || remaining <= 0) {
+        continue;
+      }
+
+      allocation[candidate.id] += 1;
+      candidate.left -= 1;
+      remaining -= 1;
+      progressed = true;
+    }
+
+    if (!progressed) {
+      break;
+    }
+  }
+
+  return {
+    selected,
+    allocation,
+    targetCount
+  };
+}
+
+async function buildPersonalizedMockQuestions(plan) {
+  const pools = {};
+  for (const cfg of plan.selected) {
+    const filePath = `./data/topics/${cfg.topic.file}`;
+    const questions = (await loadQuestionSet(filePath)).filter(isValidQuestion);
+    if (!questions.length) {
+      throw new Error(`No valid questions found in ${cfg.topic.name}.`);
+    }
+    pools[cfg.topic.id] = shuffleArray(questions);
+  }
+
+  const finalQuestions = [];
+  plan.selected.forEach((cfg) => {
+    const take = plan.allocation[cfg.topic.id] || 0;
+    if (take > 0) {
+      finalQuestions.push(...pools[cfg.topic.id].slice(0, take));
+    }
+  });
+
+  if (finalQuestions.length !== plan.targetCount) {
+    throw new Error(`Unable to construct target size mock (${finalQuestions.length}/${plan.targetCount}).`);
+  }
+
+  return shuffleArray(finalQuestions);
+}
+
 function showError(message) {
   const panel = document.querySelector(".panel");
   if (!panel) {
@@ -156,30 +290,316 @@ async function initMockList() {
     return;
   }
 
+  const topics = await loadTopics(examId);
+
   const listWrap = document.getElementById("mock-list");
+  const configPanel = document.getElementById("mock-config-panel");
+  const configTitle = document.getElementById("mock-config-title");
+  const configTarget = document.getElementById("mock-config-target");
+  const configSummary = document.getElementById("mock-config-summary");
+  const totalQuestionsInput = document.getElementById("mock-total-questions");
+  const totalQuestionsValue = document.getElementById("mock-total-questions-value");
+  const durationInput = document.getElementById("mock-duration-minutes");
+  const durationValue = document.getElementById("mock-duration-minutes-value");
+  const topicList = document.getElementById("topic-config-list");
+  const allocationPreview = document.getElementById("topic-allocation-preview");
+  const generateBtn = document.getElementById("mock-config-generate");
+  const cancelBtn = document.getElementById("mock-config-cancel");
+
+  let activeMock = null;
+  let topicConfigs = [];
+  let latestPlan = null;
+
+  function hideConfigurator() {
+    activeMock = null;
+    topicConfigs = [];
+    latestPlan = null;
+    topicList.innerHTML = "";
+    allocationPreview.innerHTML = "";
+    configPanel.classList.add("hidden");
+    setMockConfigStatus("", "");
+  }
+
+  function getConfiguredTotalQuestions() {
+    return Number(totalQuestionsInput.value);
+  }
+
+  function getConfiguredDurationMinutes() {
+    return Number(durationInput.value);
+  }
+
+  function renderAllocationPreview(plan) {
+    const rows = plan.selected
+      .map((cfg) => ({
+        name: cfg.topic.name,
+        mode: cfg.exact ? "Exact" : "Up to",
+        cap: cfg.cap,
+        allocated: plan.allocation[cfg.topic.id] || 0
+      }))
+      .sort((a, b) => b.allocated - a.allocated);
+
+    if (!rows.length) {
+      allocationPreview.innerHTML = "<p class=\"muted\">No topic selected.</p>";
+      return;
+    }
+
+    const table = createEl("table");
+    const thead = createEl("thead");
+    const hrow = createEl("tr");
+    ["Topic", "Mode", "Cap", "Final Allocation"].forEach((label) => {
+      hrow.append(createEl("th", "", label));
+    });
+    thead.append(hrow);
+
+    const tbody = createEl("tbody");
+    rows.forEach((row) => {
+      const tr = createEl("tr");
+      tr.append(
+        createEl("td", "", row.name),
+        createEl("td", "", row.mode),
+        createEl("td", "", String(row.cap)),
+        createEl("td", "", String(row.allocated))
+      );
+      tbody.append(tr);
+    });
+
+    const total = rows.reduce((sum, row) => sum + row.allocated, 0);
+    const totalRow = createEl("tr");
+    totalRow.append(
+      createEl("td", "", "Total"),
+      createEl("td", "", "-"),
+      createEl("td", "", "-"),
+      createEl("td", "", String(total))
+    );
+    tbody.append(totalRow);
+
+    table.append(thead, tbody);
+    allocationPreview.innerHTML = "";
+    allocationPreview.append(table);
+  }
+
+  function updateConfiguratorSummary() {
+    if (!activeMock) {
+      return;
+    }
+
+    const targetQuestions = getConfiguredTotalQuestions();
+    const targetDuration = getConfiguredDurationMinutes();
+    const selected = topicConfigs.filter((cfg) => cfg.selected);
+    const exactTotal = selected.filter((cfg) => cfg.exact).reduce((sum, cfg) => sum + cfg.limit, 0);
+    const flexibleCapacity = selected
+      .filter((cfg) => !cfg.exact)
+      .reduce((sum, cfg) => sum + cfg.limit, 0);
+    const remaining = targetQuestions - exactTotal;
+
+    configSummary.textContent = `Target: ${targetQuestions} | Duration: ${targetDuration} mins | Selected Topics: ${selected.length} | Exact: ${exactTotal} | Flexible Capacity: ${flexibleCapacity}`;
+
+    if (!selected.length) {
+      latestPlan = null;
+      allocationPreview.innerHTML = "";
+      setMockConfigStatus("Select at least one topic.", "error");
+      return;
+    }
+
+    if (exactTotal > targetQuestions) {
+      latestPlan = null;
+      allocationPreview.innerHTML = "";
+      setMockConfigStatus("Exact allocations exceed total target. Reduce one or more topic caps.", "error");
+      return;
+    }
+
+    if (remaining > flexibleCapacity) {
+      latestPlan = null;
+      allocationPreview.innerHTML = "";
+      setMockConfigStatus("Increase flexible topic caps or reduce exact allocations to reach target.", "error");
+      return;
+    }
+
+    try {
+      latestPlan = buildAllocationPlan(topicConfigs, targetQuestions);
+      renderAllocationPreview(latestPlan);
+    } catch (error) {
+      latestPlan = null;
+      allocationPreview.innerHTML = "";
+      setMockConfigStatus(error.message || "Invalid configuration.", "error");
+      return;
+    }
+
+    setMockConfigStatus("Configuration looks valid. You can generate the mock now.", "success");
+  }
+
+  function renderTopicConfigRow(cfg) {
+    const row = createEl("article", "topic-config-item");
+    const head = createEl("div", "topic-config-head");
+
+    const includeWrap = createEl("label", "row");
+    const include = createEl("input");
+    include.type = "checkbox";
+    include.checked = cfg.selected;
+    const includeTxt = createEl("span", "", cfg.topic.name);
+    includeWrap.append(include, includeTxt);
+
+    const available = createEl("span", "muted", `Pool: ${cfg.topic.questionCount}`);
+    head.append(includeWrap, available);
+
+    const controls = createEl("div", "topic-config-controls");
+    const sliderRow = createEl("div", "slider-row");
+    const range = createEl("input");
+    range.type = "range";
+    range.min = "0";
+    range.max = String(Math.min(cfg.topic.questionCount, getConfiguredTotalQuestions()));
+    range.value = String(cfg.limit);
+    range.disabled = !cfg.selected;
+
+    const valueText = createEl("span", "topic-cap-value", String(cfg.limit));
+    sliderRow.append(range, valueText);
+
+    const exactWrap = createEl("label", "row muted");
+    const exact = createEl("input");
+    exact.type = "checkbox";
+    exact.checked = cfg.exact;
+    exact.disabled = !cfg.selected;
+    const exactTxt = createEl("span", "", "Exactly this many (otherwise up to this cap)");
+    exactWrap.append(exact, exactTxt);
+
+    controls.append(sliderRow, exactWrap);
+    row.append(head, controls);
+
+    include.addEventListener("change", () => {
+      cfg.selected = include.checked;
+      range.disabled = !cfg.selected;
+      exact.disabled = !cfg.selected;
+      if (!cfg.selected) {
+        cfg.exact = false;
+        exact.checked = false;
+      }
+      updateConfiguratorSummary();
+    });
+
+    range.addEventListener("input", () => {
+      cfg.limit = Number(range.value);
+      valueText.textContent = String(cfg.limit);
+      updateConfiguratorSummary();
+    });
+
+    exact.addEventListener("change", () => {
+      cfg.exact = exact.checked;
+      updateConfiguratorSummary();
+    });
+
+    return row;
+  }
+
+  function renderTopicRows() {
+    topicList.innerHTML = "";
+    topicConfigs.forEach((cfg) => {
+      topicList.append(renderTopicConfigRow(cfg));
+    });
+  }
+
+  function openConfigurator(mock) {
+    activeMock = mock;
+    const totalPool = topics.reduce((sum, t) => sum + t.questionCount, 0);
+    const maxQuestions = Math.min(500, totalPool);
+
+    totalQuestionsInput.min = "10";
+    totalQuestionsInput.max = String(Math.max(10, maxQuestions));
+    totalQuestionsInput.value = String(Math.min(mock.questionCount, maxQuestions));
+    totalQuestionsValue.textContent = totalQuestionsInput.value;
+
+    durationInput.min = "15";
+    durationInput.max = "300";
+    durationInput.value = String(Math.min(300, Math.max(15, mock.durationMinutes)));
+    durationValue.textContent = durationInput.value;
+
+    const defaultCap = Math.max(1, Math.floor(getConfiguredTotalQuestions() / Math.max(1, topics.length)));
+    topicConfigs = topics.map((topic) => ({
+      topic,
+      selected: true,
+      exact: false,
+      limit: Math.min(defaultCap, topic.questionCount, getConfiguredTotalQuestions())
+    }));
+
+    configTitle.textContent = `${mock.title} Personalization`;
+    configTarget.textContent = "Set total questions, duration, and topic-wise allocation.";
+    renderTopicRows();
+
+    configPanel.classList.remove("hidden");
+    updateConfiguratorSummary();
+    configPanel.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  totalQuestionsInput.addEventListener("input", () => {
+    if (!activeMock) {
+      return;
+    }
+
+    totalQuestionsValue.textContent = totalQuestionsInput.value;
+    const target = getConfiguredTotalQuestions();
+    topicConfigs.forEach((cfg) => {
+      cfg.limit = Math.min(cfg.limit, cfg.topic.questionCount, target);
+    });
+    renderTopicRows();
+    updateConfiguratorSummary();
+  });
+
+  durationInput.addEventListener("input", () => {
+    durationValue.textContent = durationInput.value;
+    updateConfiguratorSummary();
+  });
+
   exam.mockTests.forEach((mock) => {
     const card = createEl("article", "card");
     card.append(
       createEl("h3", "", mock.title),
       createEl("p", "muted", `Questions: ${mock.questionCount} | Time: ${mock.durationMinutes} mins`)
     );
-    const btn = createEl("button", "btn primary", "Start Test");
+    const btn = createEl("button", "btn primary", "Personalize and Start");
     btn.type = "button";
     btn.addEventListener("click", () => {
-      startAttempt(
-        buildAttempt({
-          examId,
-          mode: "mock",
-          id: mock.id,
-          title: mock.title,
-          filePath: `./data/mocks/${mock.file}`,
-          durationMinutes: mock.durationMinutes
-        })
-      );
+      openConfigurator(mock);
     });
 
     card.append(btn);
     listWrap.append(card);
+  });
+
+  cancelBtn.addEventListener("click", () => {
+    hideConfigurator();
+  });
+
+  generateBtn.addEventListener("click", async () => {
+    if (!activeMock) {
+      return;
+    }
+
+    try {
+      generateBtn.disabled = true;
+      setMockConfigStatus("Generating personalized mock from selected topics...", "muted");
+
+      if (!latestPlan) {
+        throw new Error("Please resolve configuration errors before generating.");
+      }
+
+      const questions = await buildPersonalizedMockQuestions(latestPlan);
+      const attempt = buildAttempt({
+        examId,
+        mode: "mock",
+        id: activeMock.id,
+        title: `${activeMock.title} (Personalized, ${latestPlan.targetCount}Q)`,
+        filePath: "",
+        durationMinutes: getConfiguredDurationMinutes()
+      });
+
+      const customQuestionsKey = `otp_custom_questions_${attempt.attemptId}`;
+      saveToStorage(customQuestionsKey, questions);
+      attempt.customQuestionsKey = customQuestionsKey;
+      startAttempt(attempt);
+    } catch (error) {
+      setMockConfigStatus(error.message || "Failed to generate personalized mock.", "error");
+    } finally {
+      generateBtn.disabled = false;
+    }
   });
 }
 
@@ -300,6 +720,9 @@ function submitTest() {
 
   saveToStorage("lastResult", result);
   removeFromStorage(`otp_progress_${activeAttempt.attemptId}`);
+  if (activeAttempt.customQuestionsKey) {
+    removeFromStorage(activeAttempt.customQuestionsKey);
+  }
   removeFromStorage("currentAttempt");
   navigate("result.html");
 }
@@ -357,8 +780,13 @@ async function initTestPage() {
     return;
   }
 
-  // Question sets are selected via metadata and loaded from JSON paths.
-  activeQuestions = (await loadQuestionSet(activeAttempt.filePath)).filter(isValidQuestion);
+  if (activeAttempt.customQuestionsKey) {
+    activeQuestions = getFromStorage(activeAttempt.customQuestionsKey, []).filter(isValidQuestion);
+  } else {
+    // Question sets are selected via metadata and loaded from JSON paths.
+    activeQuestions = (await loadQuestionSet(activeAttempt.filePath)).filter(isValidQuestion);
+  }
+
   if (!activeQuestions.length) {
     showError("No questions found for this test.");
     return;

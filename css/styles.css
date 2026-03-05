@@ -333,6 +333,113 @@ h3 {
   border-left: 5px solid var(--danger);
 }
 
+.hidden {
+  display: none !important;
+}
+
+.mock-config-panel {
+  margin-top: 16px;
+  border: 1px dashed var(--border);
+  border-radius: 12px;
+  padding: 14px;
+  background: color-mix(in srgb, var(--surface-alt) 65%, var(--surface) 35%);
+}
+
+.topic-config-list {
+  display: grid;
+  gap: 10px;
+  margin: 12px 0 16px;
+}
+
+.mock-global-config {
+  margin: 10px 0 14px;
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.global-config-item {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px;
+  background: var(--surface);
+}
+
+.topic-config-item {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px;
+  background: var(--surface);
+}
+
+.topic-config-item .topic-config-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.topic-config-item .topic-config-controls {
+  margin-top: 10px;
+  display: grid;
+  gap: 10px;
+}
+
+.topic-config-item .slider-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 10px;
+  align-items: center;
+}
+
+.topic-config-item input[type="range"] {
+  width: 100%;
+}
+
+.topic-cap-value {
+  min-width: 52px;
+  text-align: right;
+  font-weight: 700;
+}
+
+#mock-config-status {
+  min-height: 1.4em;
+}
+
+#mock-config-status.error {
+  color: var(--danger);
+}
+
+#mock-config-status.success {
+  color: var(--success);
+}
+
+.allocation-preview {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 10px;
+  background: var(--surface);
+  margin: 8px 0 14px;
+}
+
+.allocation-preview table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+
+.allocation-preview th,
+.allocation-preview td {
+  border-bottom: 1px solid var(--border);
+  padding: 7px 6px;
+  text-align: left;
+}
+
+.allocation-preview tr:last-child td {
+  border-bottom: 0;
+}
+
 @keyframes rise-in {
   from {
     opacity: 0;

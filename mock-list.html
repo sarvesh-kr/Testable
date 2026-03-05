@@ -30,8 +30,40 @@
   <main id="main-content" class="page-wrap">
     <section class="panel">
       <h1>Full Mock Tests</h1>
-      <p class="muted">Choose a mock test to start immediately.</p>
+      <p class="muted">Choose a mock test, then personalize topic coverage before starting.</p>
       <div id="mock-list" class="card-grid"></div>
+
+      <section id="mock-config-panel" class="mock-config-panel hidden" aria-live="polite">
+        <h2 id="mock-config-title">Personalize Mock</h2>
+        <p id="mock-config-target" class="muted"></p>
+        <div class="mock-global-config">
+          <article class="global-config-item">
+            <label for="mock-total-questions" class="muted">Total Questions</label>
+            <div class="slider-row">
+              <input id="mock-total-questions" type="range" min="10" max="200" value="100">
+              <span id="mock-total-questions-value" class="topic-cap-value">100</span>
+            </div>
+          </article>
+          <article class="global-config-item">
+            <label for="mock-duration-minutes" class="muted">Duration (Minutes)</label>
+            <div class="slider-row">
+              <input id="mock-duration-minutes" type="range" min="15" max="240" value="90">
+              <span id="mock-duration-minutes-value" class="topic-cap-value">90</span>
+            </div>
+          </article>
+        </div>
+        <p class="muted">For each selected topic, set a maximum question cap. Enable <strong>Exactly this many</strong> to enforce a fixed count for that topic.</p>
+        <p id="mock-config-summary" class="chip"></p>
+        <div id="mock-config-status" class="muted"></div>
+        <div id="topic-config-list" class="topic-config-list"></div>
+        <h3>Final Allocation Preview</h3>
+        <div id="topic-allocation-preview" class="allocation-preview"></div>
+        <div class="row">
+          <button id="mock-config-generate" class="btn primary" type="button">Generate and Start</button>
+          <button id="mock-config-cancel" class="btn ghost" type="button">Cancel</button>
+        </div>
+      </section>
+
       <div class="row">
         <a href="test-type.html" class="btn ghost">Back</a>
       </div>
