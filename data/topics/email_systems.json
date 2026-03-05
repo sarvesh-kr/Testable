@@ -1,0 +1,3004 @@
+﻿{
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "Which email systems concept best matches: infrastructure enabling composition, transfer, and storage of email messages?",
+                          "options":  [
+                                          "Backup Mailbox Restore",
+                                          "Attachment",
+                                          "DKIM",
+                                          "Email System"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Email System is defined as: infrastructure enabling composition, transfer, and storage of email messages."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "What is the most accurate description of \u0027Email System\u0027?",
+                          "options":  [
+                                          "recovery of mailbox content from backup copy",
+                                          "security/control point filtering inbound and outbound mail",
+                                          "slow message transit due to queue/load/network factors",
+                                          "infrastructure enabling composition, transfer, and storage of email messages"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Email System refers to: infrastructure enabling composition, transfer, and storage of email messages."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "\u0027Email System\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Operations and Administration",
+                                          "Troubleshooting and Reliability",
+                                          "Email Fundamentals",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Email System is mainly part of Email Fundamentals."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Email System -\u003e infrastructure enabling composition, transfer, and storage of email messages",
+                                          "Malicious Attachment -\u003e infrastructure enabling composition, transfer, and storage of email messages",
+                                          "MIME -\u003e infrastructure enabling composition, transfer, and storage of email messages",
+                                          "TLS for SMTP -\u003e infrastructure enabling composition, transfer, and storage of email messages"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Email System -\u003e infrastructure enabling composition, transfer, and storage of email messages\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "A Bank SO IT email operations requirement states: infrastructure enabling composition, transfer, and storage of email messages. Which concept should be selected?",
+                          "options":  [
+                                          "DKIM",
+                                          "Attachment",
+                                          "Email System",
+                                          "Backup Mailbox Restore"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Email System."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "Which email systems concept best matches: protocol used to send email between clients and servers?",
+                          "options":  [
+                                          "eDiscovery",
+                                          "Message Trace",
+                                          "SMTP",
+                                          "Queue Management"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SMTP is defined as: protocol used to send email between clients and servers."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "What is the most accurate description of \u0027SMTP\u0027?",
+                          "options":  [
+                                          "DNS record specifying mail server responsible for a domain",
+                                          "forecasting resources for future email traffic/storage demand",
+                                          "protocol used to download email from server to client",
+                                          "protocol used to send email between clients and servers"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SMTP refers to: protocol used to send email between clients and servers."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "\u0027SMTP\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Fundamentals",
+                                          "Operations and Administration",
+                                          "Troubleshooting and Reliability",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "SMTP is mainly part of Email Fundamentals."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Backup Mailbox Restore -\u003e protocol used to send email between clients and servers",
+                                          "Business Email Compromise -\u003e protocol used to send email between clients and servers",
+                                          "Phishing Email -\u003e protocol used to send email between clients and servers",
+                                          "SMTP -\u003e protocol used to send email between clients and servers"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027SMTP -\u003e protocol used to send email between clients and servers\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "A Bank SO IT email operations requirement states: protocol used to send email between clients and servers. Which concept should be selected?",
+                          "options":  [
+                                          "eDiscovery",
+                                          "SMTP",
+                                          "Message Trace",
+                                          "Queue Management"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to SMTP."
+                      },
+                      {
+                          "id":  11,
+                          "question":  "Which email systems concept best matches: protocol used to download email from server to client?",
+                          "options":  [
+                                          "Phishing Email",
+                                          "Journaling",
+                                          "MIME",
+                                          "POP3"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "POP3 is defined as: protocol used to download email from server to client."
+                      },
+                      {
+                          "id":  12,
+                          "question":  "What is the most accurate description of \u0027POP3\u0027?",
+                          "options":  [
+                                          "protocol used to download email from server to client",
+                                          "unsolicited bulk email communication",
+                                          "alternate email address mapped to one mailbox",
+                                          "temporary delivery failure often retried later"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "POP3 refers to: protocol used to download email from server to client."
+                      },
+                      {
+                          "id":  13,
+                          "question":  "\u0027POP3\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Fundamentals",
+                                          "Mail Routing and Delivery",
+                                          "Email Security and Anti-Abuse",
+                                          "Troubleshooting and Reliability"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "POP3 is mainly part of Email Fundamentals."
+                      },
+                      {
+                          "id":  14,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Email System -\u003e protocol used to download email from server to client",
+                                          "Soft Bounce -\u003e protocol used to download email from server to client",
+                                          "NDR -\u003e protocol used to download email from server to client",
+                                          "POP3 -\u003e protocol used to download email from server to client"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027POP3 -\u003e protocol used to download email from server to client\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  15,
+                          "question":  "A Bank SO IT email operations requirement states: protocol used to download email from server to client. Which concept should be selected?",
+                          "options":  [
+                                          "Journaling",
+                                          "POP3",
+                                          "MIME",
+                                          "Phishing Email"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to POP3."
+                      },
+                      {
+                          "id":  16,
+                          "question":  "Which email systems concept best matches: protocol used to synchronize mailbox content across devices?",
+                          "options":  [
+                                          "Quarantine",
+                                          "IMAP",
+                                          "High Availability",
+                                          "eDiscovery"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "IMAP is defined as: protocol used to synchronize mailbox content across devices."
+                      },
+                      {
+                          "id":  17,
+                          "question":  "What is the most accurate description of \u0027IMAP\u0027?",
+                          "options":  [
+                                          "holding area for messages flagged as suspicious",
+                                          "alternate email address mapped to one mailbox",
+                                          "misconfigured relay allowing unauthenticated message forwarding",
+                                          "protocol used to synchronize mailbox content across devices"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "IMAP refers to: protocol used to synchronize mailbox content across devices."
+                      },
+                      {
+                          "id":  18,
+                          "question":  "\u0027IMAP\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Email Security and Anti-Abuse",
+                                          "Mail Routing and Delivery",
+                                          "Email Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "IMAP is mainly part of Email Fundamentals."
+                      },
+                      {
+                          "id":  19,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Whitelist -\u003e protocol used to synchronize mailbox content across devices",
+                                          "IMAP -\u003e protocol used to synchronize mailbox content across devices",
+                                          "MDA -\u003e protocol used to synchronize mailbox content across devices",
+                                          "Delivery Delay -\u003e protocol used to synchronize mailbox content across devices"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027IMAP -\u003e protocol used to synchronize mailbox content across devices\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  20,
+                          "question":  "A Bank SO IT email operations requirement states: protocol used to synchronize mailbox content across devices. Which concept should be selected?",
+                          "options":  [
+                                          "IMAP",
+                                          "High Availability",
+                                          "eDiscovery",
+                                          "Quarantine"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to IMAP."
+                      },
+                      {
+                          "id":  21,
+                          "question":  "Which email systems concept best matches: mail user agent used by end user to read and compose email?",
+                          "options":  [
+                                          "Mailbox Quota",
+                                          "MUA",
+                                          "Hard Bounce",
+                                          "Alias"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "MUA is defined as: mail user agent used by end user to read and compose email."
+                      },
+                      {
+                          "id":  22,
+                          "question":  "What is the most accurate description of \u0027MUA\u0027?",
+                          "options":  [
+                                          "holding area for messages flagged as suspicious",
+                                          "mail user agent used by end user to read and compose email",
+                                          "permanent delivery failure due to invalid recipient/domain",
+                                          "security/control point filtering inbound and outbound mail"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "MUA refers to: mail user agent used by end user to read and compose email."
+                      },
+                      {
+                          "id":  23,
+                          "question":  "\u0027MUA\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Fundamentals",
+                                          "Email Security and Anti-Abuse",
+                                          "Mail Routing and Delivery",
+                                          "Troubleshooting and Reliability"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "MUA is mainly part of Email Fundamentals."
+                      },
+                      {
+                          "id":  24,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Bounce -\u003e mail user agent used by end user to read and compose email",
+                                          "DMARC -\u003e mail user agent used by end user to read and compose email",
+                                          "MUA -\u003e mail user agent used by end user to read and compose email",
+                                          "SMTP Authentication -\u003e mail user agent used by end user to read and compose email"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027MUA -\u003e mail user agent used by end user to read and compose email\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  25,
+                          "question":  "A Bank SO IT email operations requirement states: mail user agent used by end user to read and compose email. Which concept should be selected?",
+                          "options":  [
+                                          "MUA",
+                                          "Hard Bounce",
+                                          "Alias",
+                                          "Mailbox Quota"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to MUA."
+                      },
+                      {
+                          "id":  26,
+                          "question":  "Which email systems concept best matches: mail transfer agent responsible for relaying email between servers?",
+                          "options":  [
+                                          "TLS for SMTP",
+                                          "Mail Flow Rule",
+                                          "DNS MX Record",
+                                          "MTA"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "MTA is defined as: mail transfer agent responsible for relaying email between servers."
+                      },
+                      {
+                          "id":  27,
+                          "question":  "What is the most accurate description of \u0027MTA\u0027?",
+                          "options":  [
+                                          "capture of all inbound/outbound emails for audit",
+                                          "misconfigured relay allowing unauthenticated message forwarding",
+                                          "non-delivery report generated when message fails permanently",
+                                          "mail transfer agent responsible for relaying email between servers"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "MTA refers to: mail transfer agent responsible for relaying email between servers."
+                      },
+                      {
+                          "id":  28,
+                          "question":  "\u0027MTA\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Fundamentals",
+                                          "Mail Routing and Delivery",
+                                          "Troubleshooting and Reliability",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "MTA is mainly part of Email Fundamentals."
+                      },
+                      {
+                          "id":  29,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Email Sandboxing -\u003e mail transfer agent responsible for relaying email between servers",
+                                          "MTA -\u003e mail transfer agent responsible for relaying email between servers",
+                                          "Hard Bounce -\u003e mail transfer agent responsible for relaying email between servers",
+                                          "Soft Bounce -\u003e mail transfer agent responsible for relaying email between servers"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027MTA -\u003e mail transfer agent responsible for relaying email between servers\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  30,
+                          "question":  "A Bank SO IT email operations requirement states: mail transfer agent responsible for relaying email between servers. Which concept should be selected?",
+                          "options":  [
+                                          "DNS MX Record",
+                                          "TLS for SMTP",
+                                          "Mail Flow Rule",
+                                          "MTA"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to MTA."
+                      },
+                      {
+                          "id":  31,
+                          "question":  "Which email systems concept best matches: mail delivery agent placing incoming message into mailbox?",
+                          "options":  [
+                                          "Archiving",
+                                          "Bounce",
+                                          "MDA",
+                                          "Phishing Email"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MDA is defined as: mail delivery agent placing incoming message into mailbox."
+                      },
+                      {
+                          "id":  32,
+                          "question":  "What is the most accurate description of \u0027MDA\u0027?",
+                          "options":  [
+                                          "mail transfer agent responsible for relaying email between servers",
+                                          "secondary server activated when primary server fails",
+                                          "mail delivery agent placing incoming message into mailbox",
+                                          "search and retrieval process for legal/compliance requests"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MDA refers to: mail delivery agent placing incoming message into mailbox."
+                      },
+                      {
+                          "id":  33,
+                          "question":  "\u0027MDA\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Fundamentals",
+                                          "Email Security and Anti-Abuse",
+                                          "Operations and Administration",
+                                          "Troubleshooting and Reliability"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "MDA is mainly part of Email Fundamentals."
+                      },
+                      {
+                          "id":  34,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "MDA -\u003e mail delivery agent placing incoming message into mailbox",
+                                          "Distribution List -\u003e mail delivery agent placing incoming message into mailbox",
+                                          "Email Gateway -\u003e mail delivery agent placing incoming message into mailbox",
+                                          "SMTP -\u003e mail delivery agent placing incoming message into mailbox"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027MDA -\u003e mail delivery agent placing incoming message into mailbox\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  35,
+                          "question":  "A Bank SO IT email operations requirement states: mail delivery agent placing incoming message into mailbox. Which concept should be selected?",
+                          "options":  [
+                                          "Phishing Email",
+                                          "Bounce",
+                                          "Archiving",
+                                          "MDA"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to MDA."
+                      },
+                      {
+                          "id":  36,
+                          "question":  "Which email systems concept best matches: storage location where user emails are retained?",
+                          "options":  [
+                                          "High Availability",
+                                          "Distribution List",
+                                          "DNS MX Record",
+                                          "Mailbox"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Mailbox is defined as: storage location where user emails are retained."
+                      },
+                      {
+                          "id":  37,
+                          "question":  "What is the most accurate description of \u0027Mailbox\u0027?",
+                          "options":  [
+                                          "capture of all inbound/outbound emails for audit",
+                                          "approved sender list bypassing strict filtering checks",
+                                          "non-delivery report returned for failed recipient delivery",
+                                          "storage location where user emails are retained"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Mailbox refers to: storage location where user emails are retained."
+                      },
+                      {
+                          "id":  38,
+                          "question":  "\u0027Mailbox\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Mail Routing and Delivery",
+                                          "Operations and Administration",
+                                          "Email Fundamentals",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Mailbox is mainly part of Email Fundamentals."
+                      },
+                      {
+                          "id":  39,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "DKIM -\u003e storage location where user emails are retained",
+                                          "Spam -\u003e storage location where user emails are retained",
+                                          "Phishing Email -\u003e storage location where user emails are retained",
+                                          "Mailbox -\u003e storage location where user emails are retained"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Mailbox -\u003e storage location where user emails are retained\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  40,
+                          "question":  "A Bank SO IT email operations requirement states: storage location where user emails are retained. Which concept should be selected?",
+                          "options":  [
+                                          "Mailbox",
+                                          "DNS MX Record",
+                                          "Distribution List",
+                                          "High Availability"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Mailbox."
+                      },
+                      {
+                          "id":  41,
+                          "question":  "Which email systems concept best matches: file sent along with email message body?",
+                          "options":  [
+                                          "DNS MX Record",
+                                          "Attachment",
+                                          "POP3",
+                                          "DKIM"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Attachment is defined as: file sent along with email message body."
+                      },
+                      {
+                          "id":  42,
+                          "question":  "What is the most accurate description of \u0027Attachment\u0027?",
+                          "options":  [
+                                          "misconfigured relay allowing unauthenticated message forwarding",
+                                          "capture of all inbound/outbound emails for audit",
+                                          "server forwarding email from one SMTP server to another",
+                                          "file sent along with email message body"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Attachment refers to: file sent along with email message body."
+                      },
+                      {
+                          "id":  43,
+                          "question":  "\u0027Attachment\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Security and Anti-Abuse",
+                                          "Operations and Administration",
+                                          "Troubleshooting and Reliability",
+                                          "Email Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Attachment is mainly part of Email Fundamentals."
+                      },
+                      {
+                          "id":  44,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Attachment -\u003e file sent along with email message body",
+                                          "High Availability -\u003e file sent along with email message body",
+                                          "Spam -\u003e file sent along with email message body",
+                                          "Archiving -\u003e file sent along with email message body"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Attachment -\u003e file sent along with email message body\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  45,
+                          "question":  "A Bank SO IT email operations requirement states: file sent along with email message body. Which concept should be selected?",
+                          "options":  [
+                                          "DNS MX Record",
+                                          "Attachment",
+                                          "POP3",
+                                          "DKIM"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Attachment."
+                      },
+                      {
+                          "id":  46,
+                          "question":  "Which email systems concept best matches: standard enabling non-text content and attachments in email?",
+                          "options":  [
+                                          "MIME",
+                                          "Backup Mailbox Restore",
+                                          "Retention Policy",
+                                          "IMAP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "MIME is defined as: standard enabling non-text content and attachments in email."
+                      },
+                      {
+                          "id":  47,
+                          "question":  "What is the most accurate description of \u0027MIME\u0027?",
+                          "options":  [
+                                          "email authentication method validating authorized sending hosts",
+                                          "credential verification before allowing message submission",
+                                          "standard enabling non-text content and attachments in email",
+                                          "non-delivery report generated when message fails permanently"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MIME refers to: standard enabling non-text content and attachments in email."
+                      },
+                      {
+                          "id":  48,
+                          "question":  "\u0027MIME\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Mail Routing and Delivery",
+                                          "Email Security and Anti-Abuse",
+                                          "Email Fundamentals",
+                                          "Operations and Administration"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MIME is mainly part of Email Fundamentals."
+                      },
+                      {
+                          "id":  49,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Email System -\u003e standard enabling non-text content and attachments in email",
+                                          "MIME -\u003e standard enabling non-text content and attachments in email",
+                                          "Hard Bounce -\u003e standard enabling non-text content and attachments in email",
+                                          "Mail Relay -\u003e standard enabling non-text content and attachments in email"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027MIME -\u003e standard enabling non-text content and attachments in email\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  50,
+                          "question":  "A Bank SO IT email operations requirement states: standard enabling non-text content and attachments in email. Which concept should be selected?",
+                          "options":  [
+                                          "MIME",
+                                          "Retention Policy",
+                                          "IMAP",
+                                          "Backup Mailbox Restore"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to MIME."
+                      },
+                      {
+                          "id":  51,
+                          "question":  "Which email systems concept best matches: DNS record specifying mail server responsible for a domain?",
+                          "options":  [
+                                          "Open Relay",
+                                          "Mail Flow Rule",
+                                          "DNS MX Record",
+                                          "Bounce"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "DNS MX Record is defined as: DNS record specifying mail server responsible for a domain."
+                      },
+                      {
+                          "id":  52,
+                          "question":  "What is the most accurate description of \u0027DNS MX Record\u0027?",
+                          "options":  [
+                                          "recovery of mailbox content from backup copy",
+                                          "protocol used to synchronize mailbox content across devices",
+                                          "forecasting resources for future email traffic/storage demand",
+                                          "DNS record specifying mail server responsible for a domain"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DNS MX Record refers to: DNS record specifying mail server responsible for a domain."
+                      },
+                      {
+                          "id":  53,
+                          "question":  "\u0027DNS MX Record\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Security and Anti-Abuse",
+                                          "Email Fundamentals",
+                                          "Operations and Administration",
+                                          "Mail Routing and Delivery"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DNS MX Record is mainly part of Mail Routing and Delivery."
+                      },
+                      {
+                          "id":  54,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Mail Flow Rule -\u003e DNS record specifying mail server responsible for a domain",
+                                          "DNS MX Record -\u003e DNS record specifying mail server responsible for a domain",
+                                          "DMARC -\u003e DNS record specifying mail server responsible for a domain",
+                                          "MIME -\u003e DNS record specifying mail server responsible for a domain"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027DNS MX Record -\u003e DNS record specifying mail server responsible for a domain\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  55,
+                          "question":  "A Bank SO IT email operations requirement states: DNS record specifying mail server responsible for a domain. Which concept should be selected?",
+                          "options":  [
+                                          "Bounce",
+                                          "Mail Flow Rule",
+                                          "DNS MX Record",
+                                          "Open Relay"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to DNS MX Record."
+                      },
+                      {
+                          "id":  56,
+                          "question":  "Which email systems concept best matches: server forwarding email from one SMTP server to another?",
+                          "options":  [
+                                          "Distribution List",
+                                          "Soft Bounce",
+                                          "SMTP Authentication",
+                                          "Mail Relay"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Mail Relay is defined as: server forwarding email from one SMTP server to another."
+                      },
+                      {
+                          "id":  57,
+                          "question":  "What is the most accurate description of \u0027Mail Relay\u0027?",
+                          "options":  [
+                                          "credential verification before allowing message submission",
+                                          "tracking route and status of specific email",
+                                          "DNS record specifying mail server responsible for a domain",
+                                          "server forwarding email from one SMTP server to another"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Mail Relay refers to: server forwarding email from one SMTP server to another."
+                      },
+                      {
+                          "id":  58,
+                          "question":  "\u0027Mail Relay\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Fundamentals",
+                                          "Troubleshooting and Reliability",
+                                          "Operations and Administration",
+                                          "Mail Routing and Delivery"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Mail Relay is mainly part of Mail Routing and Delivery."
+                      },
+                      {
+                          "id":  59,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Backup Mailbox Restore -\u003e server forwarding email from one SMTP server to another",
+                                          "Mail Relay -\u003e server forwarding email from one SMTP server to another",
+                                          "Alias -\u003e server forwarding email from one SMTP server to another",
+                                          "MUA -\u003e server forwarding email from one SMTP server to another"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Mail Relay -\u003e server forwarding email from one SMTP server to another\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  60,
+                          "question":  "A Bank SO IT email operations requirement states: server forwarding email from one SMTP server to another. Which concept should be selected?",
+                          "options":  [
+                                          "Distribution List",
+                                          "Soft Bounce",
+                                          "SMTP Authentication",
+                                          "Mail Relay"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Mail Relay."
+                      },
+                      {
+                          "id":  61,
+                          "question":  "Which email systems concept best matches: misconfigured relay allowing unauthenticated message forwarding?",
+                          "options":  [
+                                          "Reputation Score",
+                                          "POP3",
+                                          "Open Relay",
+                                          "Hard Bounce"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Open Relay is defined as: misconfigured relay allowing unauthenticated message forwarding."
+                      },
+                      {
+                          "id":  62,
+                          "question":  "What is the most accurate description of \u0027Open Relay\u0027?",
+                          "options":  [
+                                          "misconfigured relay allowing unauthenticated message forwarding",
+                                          "protocol used to synchronize mailbox content across devices",
+                                          "domain-level cryptographic signing for email integrity validation",
+                                          "group address delivering message to multiple recipients"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Open Relay refers to: misconfigured relay allowing unauthenticated message forwarding."
+                      },
+                      {
+                          "id":  63,
+                          "question":  "\u0027Open Relay\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Mail Routing and Delivery",
+                                          "Email Security and Anti-Abuse",
+                                          "Operations and Administration"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Open Relay is mainly part of Mail Routing and Delivery."
+                      },
+                      {
+                          "id":  64,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Mailbox Quota -\u003e misconfigured relay allowing unauthenticated message forwarding",
+                                          "Open Relay -\u003e misconfigured relay allowing unauthenticated message forwarding",
+                                          "SMTP Authentication -\u003e misconfigured relay allowing unauthenticated message forwarding",
+                                          "High Availability -\u003e misconfigured relay allowing unauthenticated message forwarding"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Open Relay -\u003e misconfigured relay allowing unauthenticated message forwarding\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  65,
+                          "question":  "A Bank SO IT email operations requirement states: misconfigured relay allowing unauthenticated message forwarding. Which concept should be selected?",
+                          "options":  [
+                                          "Reputation Score",
+                                          "Hard Bounce",
+                                          "POP3",
+                                          "Open Relay"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Open Relay."
+                      },
+                      {
+                          "id":  66,
+                          "question":  "Which email systems concept best matches: handling deferred emails awaiting delivery retry?",
+                          "options":  [
+                                          "Submission Port 587",
+                                          "DMARC",
+                                          "Message Trace",
+                                          "Queue Management"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Queue Management is defined as: handling deferred emails awaiting delivery retry."
+                      },
+                      {
+                          "id":  67,
+                          "question":  "What is the most accurate description of \u0027Queue Management\u0027?",
+                          "options":  [
+                                          "alternate email address mapped to one mailbox",
+                                          "handling deferred emails awaiting delivery retry",
+                                          "maximum allowed mailbox storage size for user",
+                                          "unsolicited bulk email communication"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Queue Management refers to: handling deferred emails awaiting delivery retry."
+                      },
+                      {
+                          "id":  68,
+                          "question":  "\u0027Queue Management\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Mail Routing and Delivery",
+                                          "Operations and Administration",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Queue Management is mainly part of Mail Routing and Delivery."
+                      },
+                      {
+                          "id":  69,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Queue Management -\u003e handling deferred emails awaiting delivery retry",
+                                          "Submission Port 587 -\u003e handling deferred emails awaiting delivery retry",
+                                          "Open Relay -\u003e handling deferred emails awaiting delivery retry",
+                                          "Phishing Email -\u003e handling deferred emails awaiting delivery retry"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Queue Management -\u003e handling deferred emails awaiting delivery retry\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  70,
+                          "question":  "A Bank SO IT email operations requirement states: handling deferred emails awaiting delivery retry. Which concept should be selected?",
+                          "options":  [
+                                          "Message Trace",
+                                          "Queue Management",
+                                          "DMARC",
+                                          "Submission Port 587"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Queue Management."
+                      },
+                      {
+                          "id":  71,
+                          "question":  "Which email systems concept best matches: non-delivery report generated when message fails permanently?",
+                          "options":  [
+                                          "MDA",
+                                          "Queue Management",
+                                          "Bounce",
+                                          "Open Relay"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Bounce is defined as: non-delivery report generated when message fails permanently."
+                      },
+                      {
+                          "id":  72,
+                          "question":  "What is the most accurate description of \u0027Bounce\u0027?",
+                          "options":  [
+                                          "holding area for messages flagged as suspicious",
+                                          "non-delivery report generated when message fails permanently",
+                                          "infected file delivered through email",
+                                          "approved sender list bypassing strict filtering checks"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Bounce refers to: non-delivery report generated when message fails permanently."
+                      },
+                      {
+                          "id":  73,
+                          "question":  "\u0027Bounce\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Mail Routing and Delivery",
+                                          "Email Security and Anti-Abuse",
+                                          "Email Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Bounce is mainly part of Mail Routing and Delivery."
+                      },
+                      {
+                          "id":  74,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Bounce -\u003e non-delivery report generated when message fails permanently",
+                                          "Message Trace -\u003e non-delivery report generated when message fails permanently",
+                                          "Mail Flow Rule -\u003e non-delivery report generated when message fails permanently",
+                                          "Soft Bounce -\u003e non-delivery report generated when message fails permanently"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Bounce -\u003e non-delivery report generated when message fails permanently\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  75,
+                          "question":  "A Bank SO IT email operations requirement states: non-delivery report generated when message fails permanently. Which concept should be selected?",
+                          "options":  [
+                                          "Bounce",
+                                          "Queue Management",
+                                          "Open Relay",
+                                          "MDA"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Bounce."
+                      },
+                      {
+                          "id":  76,
+                          "question":  "Which email systems concept best matches: temporary delivery failure often retried later?",
+                          "options":  [
+                                          "Journaling",
+                                          "MIME",
+                                          "Soft Bounce",
+                                          "Message Trace"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Soft Bounce is defined as: temporary delivery failure often retried later."
+                      },
+                      {
+                          "id":  77,
+                          "question":  "What is the most accurate description of \u0027Soft Bounce\u0027?",
+                          "options":  [
+                                          "non-delivery report generated when message fails permanently",
+                                          "rules defining how long email data is kept",
+                                          "long-term preservation of email for retention/compliance",
+                                          "temporary delivery failure often retried later"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Soft Bounce refers to: temporary delivery failure often retried later."
+                      },
+                      {
+                          "id":  78,
+                          "question":  "\u0027Soft Bounce\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Mail Routing and Delivery",
+                                          "Email Fundamentals",
+                                          "Troubleshooting and Reliability",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Soft Bounce is mainly part of Mail Routing and Delivery."
+                      },
+                      {
+                          "id":  79,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Mailbox Quota -\u003e temporary delivery failure often retried later",
+                                          "Soft Bounce -\u003e temporary delivery failure often retried later",
+                                          "Email Sandboxing -\u003e temporary delivery failure often retried later",
+                                          "Alias -\u003e temporary delivery failure often retried later"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Soft Bounce -\u003e temporary delivery failure often retried later\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  80,
+                          "question":  "A Bank SO IT email operations requirement states: temporary delivery failure often retried later. Which concept should be selected?",
+                          "options":  [
+                                          "Soft Bounce",
+                                          "Message Trace",
+                                          "MIME",
+                                          "Journaling"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Soft Bounce."
+                      },
+                      {
+                          "id":  81,
+                          "question":  "Which email systems concept best matches: permanent delivery failure due to invalid recipient/domain?",
+                          "options":  [
+                                          "Email Sandboxing",
+                                          "SMTP",
+                                          "Hard Bounce",
+                                          "Attachment"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Hard Bounce is defined as: permanent delivery failure due to invalid recipient/domain."
+                      },
+                      {
+                          "id":  82,
+                          "question":  "What is the most accurate description of \u0027Hard Bounce\u0027?",
+                          "options":  [
+                                          "policy framework using SPF and DKIM alignment results",
+                                          "permanent delivery failure due to invalid recipient/domain",
+                                          "server forwarding email from one SMTP server to another",
+                                          "holding area for messages flagged as suspicious"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Hard Bounce refers to: permanent delivery failure due to invalid recipient/domain."
+                      },
+                      {
+                          "id":  83,
+                          "question":  "\u0027Hard Bounce\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Fundamentals",
+                                          "Troubleshooting and Reliability",
+                                          "Mail Routing and Delivery",
+                                          "Operations and Administration"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Hard Bounce is mainly part of Mail Routing and Delivery."
+                      },
+                      {
+                          "id":  84,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Mailbox Quota -\u003e permanent delivery failure due to invalid recipient/domain",
+                                          "DMARC -\u003e permanent delivery failure due to invalid recipient/domain",
+                                          "Hard Bounce -\u003e permanent delivery failure due to invalid recipient/domain",
+                                          "MUA -\u003e permanent delivery failure due to invalid recipient/domain"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Hard Bounce -\u003e permanent delivery failure due to invalid recipient/domain\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  85,
+                          "question":  "A Bank SO IT email operations requirement states: permanent delivery failure due to invalid recipient/domain. Which concept should be selected?",
+                          "options":  [
+                                          "Hard Bounce",
+                                          "Email Sandboxing",
+                                          "Attachment",
+                                          "SMTP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Hard Bounce."
+                      },
+                      {
+                          "id":  86,
+                          "question":  "Which email systems concept best matches: encryption of SMTP transport channel between mail servers?",
+                          "options":  [
+                                          "MIME",
+                                          "Email Gateway",
+                                          "TLS for SMTP",
+                                          "Queue Management"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "TLS for SMTP is defined as: encryption of SMTP transport channel between mail servers."
+                      },
+                      {
+                          "id":  87,
+                          "question":  "What is the most accurate description of \u0027TLS for SMTP\u0027?",
+                          "options":  [
+                                          "tracking route and status of specific email",
+                                          "approved sender list bypassing strict filtering checks",
+                                          "email authentication method validating authorized sending hosts",
+                                          "encryption of SMTP transport channel between mail servers"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "TLS for SMTP refers to: encryption of SMTP transport channel between mail servers."
+                      },
+                      {
+                          "id":  88,
+                          "question":  "\u0027TLS for SMTP\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Operations and Administration",
+                                          "Email Fundamentals",
+                                          "Email Security and Anti-Abuse",
+                                          "Mail Routing and Delivery"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "TLS for SMTP is mainly part of Mail Routing and Delivery."
+                      },
+                      {
+                          "id":  89,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "SMTP Authentication -\u003e encryption of SMTP transport channel between mail servers",
+                                          "TLS for SMTP -\u003e encryption of SMTP transport channel between mail servers",
+                                          "Email Sandboxing -\u003e encryption of SMTP transport channel between mail servers",
+                                          "MDA -\u003e encryption of SMTP transport channel between mail servers"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027TLS for SMTP -\u003e encryption of SMTP transport channel between mail servers\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  90,
+                          "question":  "A Bank SO IT email operations requirement states: encryption of SMTP transport channel between mail servers. Which concept should be selected?",
+                          "options":  [
+                                          "MIME",
+                                          "TLS for SMTP",
+                                          "Email Gateway",
+                                          "Queue Management"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to TLS for SMTP."
+                      },
+                      {
+                          "id":  91,
+                          "question":  "Which email systems concept best matches: credential verification before allowing message submission?",
+                          "options":  [
+                                          "Mail Relay",
+                                          "SPF",
+                                          "Email Sandboxing",
+                                          "SMTP Authentication"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SMTP Authentication is defined as: credential verification before allowing message submission."
+                      },
+                      {
+                          "id":  92,
+                          "question":  "What is the most accurate description of \u0027SMTP Authentication\u0027?",
+                          "options":  [
+                                          "protocol used to synchronize mailbox content across devices",
+                                          "temporary delivery failure often retried later",
+                                          "credential verification before allowing message submission",
+                                          "rules defining how long email data is kept"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SMTP Authentication refers to: credential verification before allowing message submission."
+                      },
+                      {
+                          "id":  93,
+                          "question":  "\u0027SMTP Authentication\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Security and Anti-Abuse",
+                                          "Troubleshooting and Reliability",
+                                          "Operations and Administration",
+                                          "Mail Routing and Delivery"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SMTP Authentication is mainly part of Mail Routing and Delivery."
+                      },
+                      {
+                          "id":  94,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "SMTP Authentication -\u003e credential verification before allowing message submission",
+                                          "Whitelist -\u003e credential verification before allowing message submission",
+                                          "Distribution List -\u003e credential verification before allowing message submission",
+                                          "Email System -\u003e credential verification before allowing message submission"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027SMTP Authentication -\u003e credential verification before allowing message submission\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  95,
+                          "question":  "A Bank SO IT email operations requirement states: credential verification before allowing message submission. Which concept should be selected?",
+                          "options":  [
+                                          "Email Sandboxing",
+                                          "SMTP Authentication",
+                                          "SPF",
+                                          "Mail Relay"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to SMTP Authentication."
+                      },
+                      {
+                          "id":  96,
+                          "question":  "Which email systems concept best matches: standard SMTP submission port for authenticated clients?",
+                          "options":  [
+                                          "DMARC",
+                                          "Bounce",
+                                          "Submission Port 587",
+                                          "Soft Bounce"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Submission Port 587 is defined as: standard SMTP submission port for authenticated clients."
+                      },
+                      {
+                          "id":  97,
+                          "question":  "What is the most accurate description of \u0027Submission Port 587\u0027?",
+                          "options":  [
+                                          "protocol used to synchronize mailbox content across devices",
+                                          "tracking route and status of specific email",
+                                          "standard SMTP submission port for authenticated clients",
+                                          "mail delivery agent placing incoming message into mailbox"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Submission Port 587 refers to: standard SMTP submission port for authenticated clients."
+                      },
+                      {
+                          "id":  98,
+                          "question":  "\u0027Submission Port 587\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Operations and Administration",
+                                          "Mail Routing and Delivery",
+                                          "Email Security and Anti-Abuse",
+                                          "Email Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Submission Port 587 is mainly part of Mail Routing and Delivery."
+                      },
+                      {
+                          "id":  99,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Retention Policy -\u003e standard SMTP submission port for authenticated clients",
+                                          "Alias -\u003e standard SMTP submission port for authenticated clients",
+                                          "Submission Port 587 -\u003e standard SMTP submission port for authenticated clients",
+                                          "Email Gateway -\u003e standard SMTP submission port for authenticated clients"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Submission Port 587 -\u003e standard SMTP submission port for authenticated clients\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  100,
+                          "question":  "A Bank SO IT email operations requirement states: standard SMTP submission port for authenticated clients. Which concept should be selected?",
+                          "options":  [
+                                          "Bounce",
+                                          "Submission Port 587",
+                                          "Soft Bounce",
+                                          "DMARC"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Submission Port 587."
+                      },
+                      {
+                          "id":  101,
+                          "question":  "Which email systems concept best matches: email authentication method validating authorized sending hosts?",
+                          "options":  [
+                                          "Journaling",
+                                          "SPF",
+                                          "Alias",
+                                          "eDiscovery"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SPF is defined as: email authentication method validating authorized sending hosts."
+                      },
+                      {
+                          "id":  102,
+                          "question":  "What is the most accurate description of \u0027SPF\u0027?",
+                          "options":  [
+                                          "server forwarding email from one SMTP server to another",
+                                          "tracking route and status of specific email",
+                                          "email authentication method validating authorized sending hosts",
+                                          "misconfigured relay allowing unauthenticated message forwarding"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SPF refers to: email authentication method validating authorized sending hosts."
+                      },
+                      {
+                          "id":  103,
+                          "question":  "\u0027SPF\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Fundamentals",
+                                          "Email Security and Anti-Abuse",
+                                          "Operations and Administration",
+                                          "Troubleshooting and Reliability"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SPF is mainly part of Email Security and Anti-Abuse."
+                      },
+                      {
+                          "id":  104,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Spam -\u003e email authentication method validating authorized sending hosts",
+                                          "SPF -\u003e email authentication method validating authorized sending hosts",
+                                          "Mail Relay -\u003e email authentication method validating authorized sending hosts",
+                                          "IMAP -\u003e email authentication method validating authorized sending hosts"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027SPF -\u003e email authentication method validating authorized sending hosts\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  105,
+                          "question":  "A Bank SO IT email operations requirement states: email authentication method validating authorized sending hosts. Which concept should be selected?",
+                          "options":  [
+                                          "Alias",
+                                          "eDiscovery",
+                                          "Journaling",
+                                          "SPF"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to SPF."
+                      },
+                      {
+                          "id":  106,
+                          "question":  "Which email systems concept best matches: domain-level cryptographic signing for email integrity validation?",
+                          "options":  [
+                                          "Backup Mailbox Restore",
+                                          "DKIM",
+                                          "Submission Port 587",
+                                          "Open Relay"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "DKIM is defined as: domain-level cryptographic signing for email integrity validation."
+                      },
+                      {
+                          "id":  107,
+                          "question":  "What is the most accurate description of \u0027DKIM\u0027?",
+                          "options":  [
+                                          "non-delivery report generated when message fails permanently",
+                                          "domain-level cryptographic signing for email integrity validation",
+                                          "group address delivering message to multiple recipients",
+                                          "slow message transit due to queue/load/network factors"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "DKIM refers to: domain-level cryptographic signing for email integrity validation."
+                      },
+                      {
+                          "id":  108,
+                          "question":  "\u0027DKIM\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Mail Routing and Delivery",
+                                          "Operations and Administration",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DKIM is mainly part of Email Security and Anti-Abuse."
+                      },
+                      {
+                          "id":  109,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "DKIM -\u003e domain-level cryptographic signing for email integrity validation",
+                                          "Spam -\u003e domain-level cryptographic signing for email integrity validation",
+                                          "Archiving -\u003e domain-level cryptographic signing for email integrity validation",
+                                          "Attachment -\u003e domain-level cryptographic signing for email integrity validation"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027DKIM -\u003e domain-level cryptographic signing for email integrity validation\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  110,
+                          "question":  "A Bank SO IT email operations requirement states: domain-level cryptographic signing for email integrity validation. Which concept should be selected?",
+                          "options":  [
+                                          "DKIM",
+                                          "Submission Port 587",
+                                          "Open Relay",
+                                          "Backup Mailbox Restore"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to DKIM."
+                      },
+                      {
+                          "id":  111,
+                          "question":  "Which email systems concept best matches: policy framework using SPF and DKIM alignment results?",
+                          "options":  [
+                                          "Message Trace",
+                                          "DMARC",
+                                          "Blacklist",
+                                          "Mailbox"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "DMARC is defined as: policy framework using SPF and DKIM alignment results."
+                      },
+                      {
+                          "id":  112,
+                          "question":  "What is the most accurate description of \u0027DMARC\u0027?",
+                          "options":  [
+                                          "holding area for messages flagged as suspicious",
+                                          "temporary delivery failure often retried later",
+                                          "security mechanism replacing links for click-time inspection",
+                                          "policy framework using SPF and DKIM alignment results"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DMARC refers to: policy framework using SPF and DKIM alignment results."
+                      },
+                      {
+                          "id":  113,
+                          "question":  "\u0027DMARC\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Fundamentals",
+                                          "Troubleshooting and Reliability",
+                                          "Operations and Administration",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DMARC is mainly part of Email Security and Anti-Abuse."
+                      },
+                      {
+                          "id":  114,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "DMARC -\u003e policy framework using SPF and DKIM alignment results",
+                                          "Submission Port 587 -\u003e policy framework using SPF and DKIM alignment results",
+                                          "Email System -\u003e policy framework using SPF and DKIM alignment results",
+                                          "MDA -\u003e policy framework using SPF and DKIM alignment results"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027DMARC -\u003e policy framework using SPF and DKIM alignment results\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  115,
+                          "question":  "A Bank SO IT email operations requirement states: policy framework using SPF and DKIM alignment results. Which concept should be selected?",
+                          "options":  [
+                                          "DMARC",
+                                          "Blacklist",
+                                          "Mailbox",
+                                          "Message Trace"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to DMARC."
+                      },
+                      {
+                          "id":  116,
+                          "question":  "Which email systems concept best matches: fraudulent email attempting to steal credentials or data?",
+                          "options":  [
+                                          "IMAP",
+                                          "Attachment",
+                                          "Mail Flow Rule",
+                                          "Phishing Email"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Phishing Email is defined as: fraudulent email attempting to steal credentials or data."
+                      },
+                      {
+                          "id":  117,
+                          "question":  "What is the most accurate description of \u0027Phishing Email\u0027?",
+                          "options":  [
+                                          "unsolicited bulk email communication",
+                                          "fraudulent email attempting to steal credentials or data",
+                                          "mail user agent used by end user to read and compose email",
+                                          "non-delivery report returned for failed recipient delivery"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Phishing Email refers to: fraudulent email attempting to steal credentials or data."
+                      },
+                      {
+                          "id":  118,
+                          "question":  "\u0027Phishing Email\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Security and Anti-Abuse",
+                                          "Troubleshooting and Reliability",
+                                          "Mail Routing and Delivery",
+                                          "Operations and Administration"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Phishing Email is mainly part of Email Security and Anti-Abuse."
+                      },
+                      {
+                          "id":  119,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "SMTP -\u003e fraudulent email attempting to steal credentials or data",
+                                          "Phishing Email -\u003e fraudulent email attempting to steal credentials or data",
+                                          "DMARC -\u003e fraudulent email attempting to steal credentials or data",
+                                          "Email System -\u003e fraudulent email attempting to steal credentials or data"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Phishing Email -\u003e fraudulent email attempting to steal credentials or data\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  120,
+                          "question":  "A Bank SO IT email operations requirement states: fraudulent email attempting to steal credentials or data. Which concept should be selected?",
+                          "options":  [
+                                          "Mail Flow Rule",
+                                          "Phishing Email",
+                                          "Attachment",
+                                          "IMAP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Phishing Email."
+                      },
+                      {
+                          "id":  121,
+                          "question":  "Which email systems concept best matches: targeted fraud impersonating trusted business identities?",
+                          "options":  [
+                                          "Mailbox",
+                                          "Business Email Compromise",
+                                          "eDiscovery",
+                                          "High Availability"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Business Email Compromise is defined as: targeted fraud impersonating trusted business identities."
+                      },
+                      {
+                          "id":  122,
+                          "question":  "What is the most accurate description of \u0027Business Email Compromise\u0027?",
+                          "options":  [
+                                          "maximum allowed mailbox storage size for user",
+                                          "targeted fraud impersonating trusted business identities",
+                                          "policy framework using SPF and DKIM alignment results",
+                                          "encryption of SMTP transport channel between mail servers"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Business Email Compromise refers to: targeted fraud impersonating trusted business identities."
+                      },
+                      {
+                          "id":  123,
+                          "question":  "\u0027Business Email Compromise\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Mail Routing and Delivery",
+                                          "Email Security and Anti-Abuse",
+                                          "Operations and Administration",
+                                          "Troubleshooting and Reliability"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Business Email Compromise is mainly part of Email Security and Anti-Abuse."
+                      },
+                      {
+                          "id":  124,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Mail Flow Rule -\u003e targeted fraud impersonating trusted business identities",
+                                          "Business Email Compromise -\u003e targeted fraud impersonating trusted business identities",
+                                          "Mail Relay -\u003e targeted fraud impersonating trusted business identities",
+                                          "Soft Bounce -\u003e targeted fraud impersonating trusted business identities"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Business Email Compromise -\u003e targeted fraud impersonating trusted business identities\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  125,
+                          "question":  "A Bank SO IT email operations requirement states: targeted fraud impersonating trusted business identities. Which concept should be selected?",
+                          "options":  [
+                                          "Business Email Compromise",
+                                          "High Availability",
+                                          "Mailbox",
+                                          "eDiscovery"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Business Email Compromise."
+                      },
+                      {
+                          "id":  126,
+                          "question":  "Which email systems concept best matches: unsolicited bulk email communication?",
+                          "options":  [
+                                          "Mailbox Quota",
+                                          "Delivery Delay",
+                                          "Spam",
+                                          "DNS MX Record"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Spam is defined as: unsolicited bulk email communication."
+                      },
+                      {
+                          "id":  127,
+                          "question":  "What is the most accurate description of \u0027Spam\u0027?",
+                          "options":  [
+                                          "protocol used to synchronize mailbox content across devices",
+                                          "unsolicited bulk email communication",
+                                          "design ensuring mail service continuity with redundancy",
+                                          "holding area for messages flagged as suspicious"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Spam refers to: unsolicited bulk email communication."
+                      },
+                      {
+                          "id":  128,
+                          "question":  "\u0027Spam\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Security and Anti-Abuse",
+                                          "Troubleshooting and Reliability",
+                                          "Operations and Administration",
+                                          "Email Fundamentals"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Spam is mainly part of Email Security and Anti-Abuse."
+                      },
+                      {
+                          "id":  129,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Distribution List -\u003e unsolicited bulk email communication",
+                                          "SMTP -\u003e unsolicited bulk email communication",
+                                          "Backup Mailbox Restore -\u003e unsolicited bulk email communication",
+                                          "Spam -\u003e unsolicited bulk email communication"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Spam -\u003e unsolicited bulk email communication\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  130,
+                          "question":  "A Bank SO IT email operations requirement states: unsolicited bulk email communication. Which concept should be selected?",
+                          "options":  [
+                                          "Spam",
+                                          "DNS MX Record",
+                                          "Mailbox Quota",
+                                          "Delivery Delay"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Spam."
+                      },
+                      {
+                          "id":  131,
+                          "question":  "Which email systems concept best matches: infected file delivered through email?",
+                          "options":  [
+                                          "Email Sandboxing",
+                                          "Mailbox",
+                                          "Malicious Attachment",
+                                          "SMTP Authentication"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Malicious Attachment is defined as: infected file delivered through email."
+                      },
+                      {
+                          "id":  132,
+                          "question":  "What is the most accurate description of \u0027Malicious Attachment\u0027?",
+                          "options":  [
+                                          "encryption of SMTP transport channel between mail servers",
+                                          "design ensuring mail service continuity with redundancy",
+                                          "handling deferred emails awaiting delivery retry",
+                                          "infected file delivered through email"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Malicious Attachment refers to: infected file delivered through email."
+                      },
+                      {
+                          "id":  133,
+                          "question":  "\u0027Malicious Attachment\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Security and Anti-Abuse",
+                                          "Email Fundamentals",
+                                          "Mail Routing and Delivery",
+                                          "Operations and Administration"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Malicious Attachment is mainly part of Email Security and Anti-Abuse."
+                      },
+                      {
+                          "id":  134,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Mailbox -\u003e infected file delivered through email",
+                                          "Queue Management -\u003e infected file delivered through email",
+                                          "Malicious Attachment -\u003e infected file delivered through email",
+                                          "Soft Bounce -\u003e infected file delivered through email"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Malicious Attachment -\u003e infected file delivered through email\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  135,
+                          "question":  "A Bank SO IT email operations requirement states: infected file delivered through email. Which concept should be selected?",
+                          "options":  [
+                                          "SMTP Authentication",
+                                          "Malicious Attachment",
+                                          "Mailbox",
+                                          "Email Sandboxing"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Malicious Attachment."
+                      },
+                      {
+                          "id":  136,
+                          "question":  "Which email systems concept best matches: security mechanism replacing links for click-time inspection?",
+                          "options":  [
+                                          "MUA",
+                                          "URL Rewriting",
+                                          "Capacity Planning",
+                                          "Whitelist"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "URL Rewriting is defined as: security mechanism replacing links for click-time inspection."
+                      },
+                      {
+                          "id":  137,
+                          "question":  "What is the most accurate description of \u0027URL Rewriting\u0027?",
+                          "options":  [
+                                          "security mechanism replacing links for click-time inspection",
+                                          "policy framework using SPF and DKIM alignment results",
+                                          "slow message transit due to queue/load/network factors",
+                                          "alternate email address mapped to one mailbox"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "URL Rewriting refers to: security mechanism replacing links for click-time inspection."
+                      },
+                      {
+                          "id":  138,
+                          "question":  "\u0027URL Rewriting\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Operations and Administration",
+                                          "Troubleshooting and Reliability",
+                                          "Email Security and Anti-Abuse",
+                                          "Email Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "URL Rewriting is mainly part of Email Security and Anti-Abuse."
+                      },
+                      {
+                          "id":  139,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "NDR -\u003e security mechanism replacing links for click-time inspection",
+                                          "Phishing Email -\u003e security mechanism replacing links for click-time inspection",
+                                          "URL Rewriting -\u003e security mechanism replacing links for click-time inspection",
+                                          "Alias -\u003e security mechanism replacing links for click-time inspection"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027URL Rewriting -\u003e security mechanism replacing links for click-time inspection\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  140,
+                          "question":  "A Bank SO IT email operations requirement states: security mechanism replacing links for click-time inspection. Which concept should be selected?",
+                          "options":  [
+                                          "URL Rewriting",
+                                          "Whitelist",
+                                          "MUA",
+                                          "Capacity Planning"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to URL Rewriting."
+                      },
+                      {
+                          "id":  141,
+                          "question":  "Which email systems concept best matches: isolated execution of suspicious attachments and links?",
+                          "options":  [
+                                          "Queue Management",
+                                          "High Availability",
+                                          "Email Sandboxing",
+                                          "Attachment"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Email Sandboxing is defined as: isolated execution of suspicious attachments and links."
+                      },
+                      {
+                          "id":  142,
+                          "question":  "What is the most accurate description of \u0027Email Sandboxing\u0027?",
+                          "options":  [
+                                          "long-term preservation of email for retention/compliance",
+                                          "misconfigured relay allowing unauthenticated message forwarding",
+                                          "standard enabling non-text content and attachments in email",
+                                          "isolated execution of suspicious attachments and links"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Email Sandboxing refers to: isolated execution of suspicious attachments and links."
+                      },
+                      {
+                          "id":  143,
+                          "question":  "\u0027Email Sandboxing\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Mail Routing and Delivery",
+                                          "Email Fundamentals",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Email Sandboxing is mainly part of Email Security and Anti-Abuse."
+                      },
+                      {
+                          "id":  144,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Auto-Responder -\u003e isolated execution of suspicious attachments and links",
+                                          "Email Sandboxing -\u003e isolated execution of suspicious attachments and links",
+                                          "Bounce -\u003e isolated execution of suspicious attachments and links",
+                                          "MDA -\u003e isolated execution of suspicious attachments and links"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Email Sandboxing -\u003e isolated execution of suspicious attachments and links\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  145,
+                          "question":  "A Bank SO IT email operations requirement states: isolated execution of suspicious attachments and links. Which concept should be selected?",
+                          "options":  [
+                                          "Email Sandboxing",
+                                          "High Availability",
+                                          "Attachment",
+                                          "Queue Management"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Email Sandboxing."
+                      },
+                      {
+                          "id":  146,
+                          "question":  "Which email systems concept best matches: holding area for messages flagged as suspicious?",
+                          "options":  [
+                                          "SMTP Authentication",
+                                          "Quarantine",
+                                          "MIME",
+                                          "Queue Management"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Quarantine is defined as: holding area for messages flagged as suspicious."
+                      },
+                      {
+                          "id":  147,
+                          "question":  "What is the most accurate description of \u0027Quarantine\u0027?",
+                          "options":  [
+                                          "storage location where user emails are retained",
+                                          "permanent delivery failure due to invalid recipient/domain",
+                                          "holding area for messages flagged as suspicious",
+                                          "design ensuring mail service continuity with redundancy"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Quarantine refers to: holding area for messages flagged as suspicious."
+                      },
+                      {
+                          "id":  148,
+                          "question":  "\u0027Quarantine\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Fundamentals",
+                                          "Troubleshooting and Reliability",
+                                          "Mail Routing and Delivery",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Quarantine is mainly part of Email Security and Anti-Abuse."
+                      },
+                      {
+                          "id":  149,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Email Gateway -\u003e holding area for messages flagged as suspicious",
+                                          "Archiving -\u003e holding area for messages flagged as suspicious",
+                                          "Quarantine -\u003e holding area for messages flagged as suspicious",
+                                          "Mailbox -\u003e holding area for messages flagged as suspicious"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Quarantine -\u003e holding area for messages flagged as suspicious\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  150,
+                          "question":  "A Bank SO IT email operations requirement states: holding area for messages flagged as suspicious. Which concept should be selected?",
+                          "options":  [
+                                          "Quarantine",
+                                          "SMTP Authentication",
+                                          "Queue Management",
+                                          "MIME"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Quarantine."
+                      },
+                      {
+                          "id":  151,
+                          "question":  "Which email systems concept best matches: security/control point filtering inbound and outbound mail?",
+                          "options":  [
+                                          "Email Gateway",
+                                          "Bounce",
+                                          "MDA",
+                                          "DNS MX Record"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Email Gateway is defined as: security/control point filtering inbound and outbound mail."
+                      },
+                      {
+                          "id":  152,
+                          "question":  "What is the most accurate description of \u0027Email Gateway\u0027?",
+                          "options":  [
+                                          "approved sender list bypassing strict filtering checks",
+                                          "trust rating influencing sender acceptance decisions",
+                                          "security/control point filtering inbound and outbound mail",
+                                          "permanent delivery failure due to invalid recipient/domain"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Email Gateway refers to: security/control point filtering inbound and outbound mail."
+                      },
+                      {
+                          "id":  153,
+                          "question":  "\u0027Email Gateway\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Operations and Administration",
+                                          "Email Fundamentals",
+                                          "Mail Routing and Delivery",
+                                          "Troubleshooting and Reliability"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Email Gateway is mainly part of Operations and Administration."
+                      },
+                      {
+                          "id":  154,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "MTA -\u003e security/control point filtering inbound and outbound mail",
+                                          "Email Gateway -\u003e security/control point filtering inbound and outbound mail",
+                                          "MIME -\u003e security/control point filtering inbound and outbound mail",
+                                          "Hard Bounce -\u003e security/control point filtering inbound and outbound mail"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Email Gateway -\u003e security/control point filtering inbound and outbound mail\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  155,
+                          "question":  "A Bank SO IT email operations requirement states: security/control point filtering inbound and outbound mail. Which concept should be selected?",
+                          "options":  [
+                                          "Email Gateway",
+                                          "MDA",
+                                          "DNS MX Record",
+                                          "Bounce"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Email Gateway."
+                      },
+                      {
+                          "id":  156,
+                          "question":  "Which email systems concept best matches: group address delivering message to multiple recipients?",
+                          "options":  [
+                                          "Open Relay",
+                                          "MDA",
+                                          "Mail Relay",
+                                          "Distribution List"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Distribution List is defined as: group address delivering message to multiple recipients."
+                      },
+                      {
+                          "id":  157,
+                          "question":  "What is the most accurate description of \u0027Distribution List\u0027?",
+                          "options":  [
+                                          "secondary server activated when primary server fails",
+                                          "DNS record specifying mail server responsible for a domain",
+                                          "group address delivering message to multiple recipients",
+                                          "mail delivery agent placing incoming message into mailbox"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Distribution List refers to: group address delivering message to multiple recipients."
+                      },
+                      {
+                          "id":  158,
+                          "question":  "\u0027Distribution List\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Operations and Administration",
+                                          "Email Fundamentals",
+                                          "Mail Routing and Delivery"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Distribution List is mainly part of Operations and Administration."
+                      },
+                      {
+                          "id":  159,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Distribution List -\u003e group address delivering message to multiple recipients",
+                                          "TLS for SMTP -\u003e group address delivering message to multiple recipients",
+                                          "Auto-Responder -\u003e group address delivering message to multiple recipients",
+                                          "Bounce -\u003e group address delivering message to multiple recipients"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Distribution List -\u003e group address delivering message to multiple recipients\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  160,
+                          "question":  "A Bank SO IT email operations requirement states: group address delivering message to multiple recipients. Which concept should be selected?",
+                          "options":  [
+                                          "Open Relay",
+                                          "Distribution List",
+                                          "Mail Relay",
+                                          "MDA"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Distribution List."
+                      },
+                      {
+                          "id":  161,
+                          "question":  "Which email systems concept best matches: alternate email address mapped to one mailbox?",
+                          "options":  [
+                                          "Alias",
+                                          "High Availability",
+                                          "Quarantine",
+                                          "Malicious Attachment"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Alias is defined as: alternate email address mapped to one mailbox."
+                      },
+                      {
+                          "id":  162,
+                          "question":  "What is the most accurate description of \u0027Alias\u0027?",
+                          "options":  [
+                                          "unsolicited bulk email communication",
+                                          "alternate email address mapped to one mailbox",
+                                          "misconfigured relay allowing unauthenticated message forwarding",
+                                          "infrastructure enabling composition, transfer, and storage of email messages"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Alias refers to: alternate email address mapped to one mailbox."
+                      },
+                      {
+                          "id":  163,
+                          "question":  "\u0027Alias\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Operations and Administration",
+                                          "Mail Routing and Delivery",
+                                          "Troubleshooting and Reliability",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Alias is mainly part of Operations and Administration."
+                      },
+                      {
+                          "id":  164,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Email System -\u003e alternate email address mapped to one mailbox",
+                                          "Alias -\u003e alternate email address mapped to one mailbox",
+                                          "Attachment -\u003e alternate email address mapped to one mailbox",
+                                          "Queue Management -\u003e alternate email address mapped to one mailbox"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Alias -\u003e alternate email address mapped to one mailbox\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  165,
+                          "question":  "A Bank SO IT email operations requirement states: alternate email address mapped to one mailbox. Which concept should be selected?",
+                          "options":  [
+                                          "High Availability",
+                                          "Malicious Attachment",
+                                          "Quarantine",
+                                          "Alias"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Alias."
+                      },
+                      {
+                          "id":  166,
+                          "question":  "Which email systems concept best matches: automatic reply triggered by predefined conditions?",
+                          "options":  [
+                                          "Backup Mailbox Restore",
+                                          "SMTP Authentication",
+                                          "Auto-Responder",
+                                          "Mailbox Quota"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Auto-Responder is defined as: automatic reply triggered by predefined conditions."
+                      },
+                      {
+                          "id":  167,
+                          "question":  "What is the most accurate description of \u0027Auto-Responder\u0027?",
+                          "options":  [
+                                          "slow message transit due to queue/load/network factors",
+                                          "maximum allowed mailbox storage size for user",
+                                          "automatic reply triggered by predefined conditions",
+                                          "infected file delivered through email"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Auto-Responder refers to: automatic reply triggered by predefined conditions."
+                      },
+                      {
+                          "id":  168,
+                          "question":  "\u0027Auto-Responder\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Mail Routing and Delivery",
+                                          "Email Fundamentals",
+                                          "Troubleshooting and Reliability",
+                                          "Operations and Administration"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Auto-Responder is mainly part of Operations and Administration."
+                      },
+                      {
+                          "id":  169,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "SMTP -\u003e automatic reply triggered by predefined conditions",
+                                          "Submission Port 587 -\u003e automatic reply triggered by predefined conditions",
+                                          "Auto-Responder -\u003e automatic reply triggered by predefined conditions",
+                                          "Journaling -\u003e automatic reply triggered by predefined conditions"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Auto-Responder -\u003e automatic reply triggered by predefined conditions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  170,
+                          "question":  "A Bank SO IT email operations requirement states: automatic reply triggered by predefined conditions. Which concept should be selected?",
+                          "options":  [
+                                          "Backup Mailbox Restore",
+                                          "Auto-Responder",
+                                          "Mailbox Quota",
+                                          "SMTP Authentication"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Auto-Responder."
+                      },
+                      {
+                          "id":  171,
+                          "question":  "Which email systems concept best matches: maximum allowed mailbox storage size for user?",
+                          "options":  [
+                                          "Message Trace",
+                                          "Mailbox Quota",
+                                          "MIME",
+                                          "Auto-Responder"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Mailbox Quota is defined as: maximum allowed mailbox storage size for user."
+                      },
+                      {
+                          "id":  172,
+                          "question":  "What is the most accurate description of \u0027Mailbox Quota\u0027?",
+                          "options":  [
+                                          "search and retrieval process for legal/compliance requests",
+                                          "unsolicited bulk email communication",
+                                          "design ensuring mail service continuity with redundancy",
+                                          "maximum allowed mailbox storage size for user"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Mailbox Quota refers to: maximum allowed mailbox storage size for user."
+                      },
+                      {
+                          "id":  173,
+                          "question":  "\u0027Mailbox Quota\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Mail Routing and Delivery",
+                                          "Email Fundamentals",
+                                          "Email Security and Anti-Abuse",
+                                          "Operations and Administration"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Mailbox Quota is mainly part of Operations and Administration."
+                      },
+                      {
+                          "id":  174,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Business Email Compromise -\u003e maximum allowed mailbox storage size for user",
+                                          "Mailbox Quota -\u003e maximum allowed mailbox storage size for user",
+                                          "Phishing Email -\u003e maximum allowed mailbox storage size for user",
+                                          "Distribution List -\u003e maximum allowed mailbox storage size for user"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Mailbox Quota -\u003e maximum allowed mailbox storage size for user\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  175,
+                          "question":  "A Bank SO IT email operations requirement states: maximum allowed mailbox storage size for user. Which concept should be selected?",
+                          "options":  [
+                                          "Mailbox Quota",
+                                          "MIME",
+                                          "Message Trace",
+                                          "Auto-Responder"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Mailbox Quota."
+                      },
+                      {
+                          "id":  176,
+                          "question":  "Which email systems concept best matches: long-term preservation of email for retention/compliance?",
+                          "options":  [
+                                          "Archiving",
+                                          "Journaling",
+                                          "TLS for SMTP",
+                                          "Malicious Attachment"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Archiving is defined as: long-term preservation of email for retention/compliance."
+                      },
+                      {
+                          "id":  177,
+                          "question":  "What is the most accurate description of \u0027Archiving\u0027?",
+                          "options":  [
+                                          "long-term preservation of email for retention/compliance",
+                                          "protocol used to synchronize mailbox content across devices",
+                                          "storage location where user emails are retained",
+                                          "non-delivery report returned for failed recipient delivery"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Archiving refers to: long-term preservation of email for retention/compliance."
+                      },
+                      {
+                          "id":  178,
+                          "question":  "\u0027Archiving\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Email Security and Anti-Abuse",
+                                          "Operations and Administration",
+                                          "Email Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Archiving is mainly part of Operations and Administration."
+                      },
+                      {
+                          "id":  179,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Mail Flow Rule -\u003e long-term preservation of email for retention/compliance",
+                                          "Archiving -\u003e long-term preservation of email for retention/compliance",
+                                          "Mailbox Quota -\u003e long-term preservation of email for retention/compliance",
+                                          "NDR -\u003e long-term preservation of email for retention/compliance"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Archiving -\u003e long-term preservation of email for retention/compliance\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  180,
+                          "question":  "A Bank SO IT email operations requirement states: long-term preservation of email for retention/compliance. Which concept should be selected?",
+                          "options":  [
+                                          "Malicious Attachment",
+                                          "Archiving",
+                                          "Journaling",
+                                          "TLS for SMTP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Archiving."
+                      },
+                      {
+                          "id":  181,
+                          "question":  "Which email systems concept best matches: rules defining how long email data is kept?",
+                          "options":  [
+                                          "Retention Policy",
+                                          "Phishing Email",
+                                          "IMAP",
+                                          "Email System"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Retention Policy is defined as: rules defining how long email data is kept."
+                      },
+                      {
+                          "id":  182,
+                          "question":  "What is the most accurate description of \u0027Retention Policy\u0027?",
+                          "options":  [
+                                          "unsolicited bulk email communication",
+                                          "rules defining how long email data is kept",
+                                          "mail transfer agent responsible for relaying email between servers",
+                                          "DNS record specifying mail server responsible for a domain"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Retention Policy refers to: rules defining how long email data is kept."
+                      },
+                      {
+                          "id":  183,
+                          "question":  "\u0027Retention Policy\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Operations and Administration",
+                                          "Email Security and Anti-Abuse",
+                                          "Email Fundamentals",
+                                          "Troubleshooting and Reliability"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Retention Policy is mainly part of Operations and Administration."
+                      },
+                      {
+                          "id":  184,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "NDR -\u003e rules defining how long email data is kept",
+                                          "Whitelist -\u003e rules defining how long email data is kept",
+                                          "Bounce -\u003e rules defining how long email data is kept",
+                                          "Retention Policy -\u003e rules defining how long email data is kept"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Retention Policy -\u003e rules defining how long email data is kept\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  185,
+                          "question":  "A Bank SO IT email operations requirement states: rules defining how long email data is kept. Which concept should be selected?",
+                          "options":  [
+                                          "Retention Policy",
+                                          "IMAP",
+                                          "Email System",
+                                          "Phishing Email"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Retention Policy."
+                      },
+                      {
+                          "id":  186,
+                          "question":  "Which email systems concept best matches: search and retrieval process for legal/compliance requests?",
+                          "options":  [
+                                          "eDiscovery",
+                                          "Bounce",
+                                          "Attachment",
+                                          "Queue Management"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "eDiscovery is defined as: search and retrieval process for legal/compliance requests."
+                      },
+                      {
+                          "id":  187,
+                          "question":  "What is the most accurate description of \u0027eDiscovery\u0027?",
+                          "options":  [
+                                          "search and retrieval process for legal/compliance requests",
+                                          "policy-based condition-action logic for message handling",
+                                          "mail transfer agent responsible for relaying email between servers",
+                                          "alternate email address mapped to one mailbox"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "eDiscovery refers to: search and retrieval process for legal/compliance requests."
+                      },
+                      {
+                          "id":  188,
+                          "question":  "\u0027eDiscovery\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Email Fundamentals",
+                                          "Operations and Administration",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "eDiscovery is mainly part of Operations and Administration."
+                      },
+                      {
+                          "id":  189,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "High Availability -\u003e search and retrieval process for legal/compliance requests",
+                                          "eDiscovery -\u003e search and retrieval process for legal/compliance requests",
+                                          "Email System -\u003e search and retrieval process for legal/compliance requests",
+                                          "MUA -\u003e search and retrieval process for legal/compliance requests"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027eDiscovery -\u003e search and retrieval process for legal/compliance requests\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  190,
+                          "question":  "A Bank SO IT email operations requirement states: search and retrieval process for legal/compliance requests. Which concept should be selected?",
+                          "options":  [
+                                          "Attachment",
+                                          "eDiscovery",
+                                          "Queue Management",
+                                          "Bounce"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to eDiscovery."
+                      },
+                      {
+                          "id":  191,
+                          "question":  "Which email systems concept best matches: capture of all inbound/outbound emails for audit?",
+                          "options":  [
+                                          "Journaling",
+                                          "DKIM",
+                                          "DMARC",
+                                          "Business Email Compromise"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Journaling is defined as: capture of all inbound/outbound emails for audit."
+                      },
+                      {
+                          "id":  192,
+                          "question":  "What is the most accurate description of \u0027Journaling\u0027?",
+                          "options":  [
+                                          "approved sender list bypassing strict filtering checks",
+                                          "policy framework using SPF and DKIM alignment results",
+                                          "non-delivery report generated when message fails permanently",
+                                          "capture of all inbound/outbound emails for audit"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Journaling refers to: capture of all inbound/outbound emails for audit."
+                      },
+                      {
+                          "id":  193,
+                          "question":  "\u0027Journaling\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Mail Routing and Delivery",
+                                          "Email Security and Anti-Abuse",
+                                          "Operations and Administration",
+                                          "Troubleshooting and Reliability"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Journaling is mainly part of Operations and Administration."
+                      },
+                      {
+                          "id":  194,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "TLS for SMTP -\u003e capture of all inbound/outbound emails for audit",
+                                          "Auto-Responder -\u003e capture of all inbound/outbound emails for audit",
+                                          "Journaling -\u003e capture of all inbound/outbound emails for audit",
+                                          "Queue Management -\u003e capture of all inbound/outbound emails for audit"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Journaling -\u003e capture of all inbound/outbound emails for audit\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  195,
+                          "question":  "A Bank SO IT email operations requirement states: capture of all inbound/outbound emails for audit. Which concept should be selected?",
+                          "options":  [
+                                          "DKIM",
+                                          "DMARC",
+                                          "Journaling",
+                                          "Business Email Compromise"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Journaling."
+                      },
+                      {
+                          "id":  196,
+                          "question":  "Which email systems concept best matches: recovery of mailbox content from backup copy?",
+                          "options":  [
+                                          "Retention Policy",
+                                          "POP3",
+                                          "Alias",
+                                          "Backup Mailbox Restore"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Backup Mailbox Restore is defined as: recovery of mailbox content from backup copy."
+                      },
+                      {
+                          "id":  197,
+                          "question":  "What is the most accurate description of \u0027Backup Mailbox Restore\u0027?",
+                          "options":  [
+                                          "recovery of mailbox content from backup copy",
+                                          "standard enabling non-text content and attachments in email",
+                                          "credential verification before allowing message submission",
+                                          "misconfigured relay allowing unauthenticated message forwarding"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Backup Mailbox Restore refers to: recovery of mailbox content from backup copy."
+                      },
+                      {
+                          "id":  198,
+                          "question":  "\u0027Backup Mailbox Restore\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Operations and Administration",
+                                          "Mail Routing and Delivery",
+                                          "Troubleshooting and Reliability",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Backup Mailbox Restore is mainly part of Operations and Administration."
+                      },
+                      {
+                          "id":  199,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "MTA -\u003e recovery of mailbox content from backup copy",
+                                          "Capacity Planning -\u003e recovery of mailbox content from backup copy",
+                                          "Whitelist -\u003e recovery of mailbox content from backup copy",
+                                          "Backup Mailbox Restore -\u003e recovery of mailbox content from backup copy"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Backup Mailbox Restore -\u003e recovery of mailbox content from backup copy\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  200,
+                          "question":  "A Bank SO IT email operations requirement states: recovery of mailbox content from backup copy. Which concept should be selected?",
+                          "options":  [
+                                          "Alias",
+                                          "POP3",
+                                          "Backup Mailbox Restore",
+                                          "Retention Policy"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Backup Mailbox Restore."
+                      },
+                      {
+                          "id":  201,
+                          "question":  "Which email systems concept best matches: tracking route and status of specific email?",
+                          "options":  [
+                                          "Queue Management",
+                                          "Message Trace",
+                                          "Distribution List",
+                                          "Delivery Delay"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Message Trace is defined as: tracking route and status of specific email."
+                      },
+                      {
+                          "id":  202,
+                          "question":  "What is the most accurate description of \u0027Message Trace\u0027?",
+                          "options":  [
+                                          "tracking route and status of specific email",
+                                          "security/control point filtering inbound and outbound mail",
+                                          "maximum allowed mailbox storage size for user",
+                                          "policy framework using SPF and DKIM alignment results"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Message Trace refers to: tracking route and status of specific email."
+                      },
+                      {
+                          "id":  203,
+                          "question":  "\u0027Message Trace\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Security and Anti-Abuse",
+                                          "Troubleshooting and Reliability",
+                                          "Operations and Administration",
+                                          "Mail Routing and Delivery"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Message Trace is mainly part of Troubleshooting and Reliability."
+                      },
+                      {
+                          "id":  204,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Distribution List -\u003e tracking route and status of specific email",
+                                          "Mail Flow Rule -\u003e tracking route and status of specific email",
+                                          "Message Trace -\u003e tracking route and status of specific email",
+                                          "Phishing Email -\u003e tracking route and status of specific email"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Message Trace -\u003e tracking route and status of specific email\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  205,
+                          "question":  "A Bank SO IT email operations requirement states: tracking route and status of specific email. Which concept should be selected?",
+                          "options":  [
+                                          "Queue Management",
+                                          "Distribution List",
+                                          "Message Trace",
+                                          "Delivery Delay"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Message Trace."
+                      },
+                      {
+                          "id":  206,
+                          "question":  "Which email systems concept best matches: slow message transit due to queue/load/network factors?",
+                          "options":  [
+                                          "Delivery Delay",
+                                          "High Availability",
+                                          "SMTP Authentication",
+                                          "URL Rewriting"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Delivery Delay is defined as: slow message transit due to queue/load/network factors."
+                      },
+                      {
+                          "id":  207,
+                          "question":  "What is the most accurate description of \u0027Delivery Delay\u0027?",
+                          "options":  [
+                                          "infrastructure enabling composition, transfer, and storage of email messages",
+                                          "slow message transit due to queue/load/network factors",
+                                          "forecasting resources for future email traffic/storage demand",
+                                          "mail delivery agent placing incoming message into mailbox"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Delivery Delay refers to: slow message transit due to queue/load/network factors."
+                      },
+                      {
+                          "id":  208,
+                          "question":  "\u0027Delivery Delay\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Email Security and Anti-Abuse",
+                                          "Email Fundamentals",
+                                          "Mail Routing and Delivery"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Delivery Delay is mainly part of Troubleshooting and Reliability."
+                      },
+                      {
+                          "id":  209,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "DKIM -\u003e slow message transit due to queue/load/network factors",
+                                          "Hard Bounce -\u003e slow message transit due to queue/load/network factors",
+                                          "Delivery Delay -\u003e slow message transit due to queue/load/network factors",
+                                          "NDR -\u003e slow message transit due to queue/load/network factors"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Delivery Delay -\u003e slow message transit due to queue/load/network factors\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  210,
+                          "question":  "A Bank SO IT email operations requirement states: slow message transit due to queue/load/network factors. Which concept should be selected?",
+                          "options":  [
+                                          "URL Rewriting",
+                                          "SMTP Authentication",
+                                          "High Availability",
+                                          "Delivery Delay"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Delivery Delay."
+                      },
+                      {
+                          "id":  211,
+                          "question":  "Which email systems concept best matches: non-delivery report returned for failed recipient delivery?",
+                          "options":  [
+                                          "SMTP Authentication",
+                                          "NDR",
+                                          "URL Rewriting",
+                                          "Email Sandboxing"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "NDR is defined as: non-delivery report returned for failed recipient delivery."
+                      },
+                      {
+                          "id":  212,
+                          "question":  "What is the most accurate description of \u0027NDR\u0027?",
+                          "options":  [
+                                          "search and retrieval process for legal/compliance requests",
+                                          "non-delivery report returned for failed recipient delivery",
+                                          "infrastructure enabling composition, transfer, and storage of email messages",
+                                          "rules defining how long email data is kept"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "NDR refers to: non-delivery report returned for failed recipient delivery."
+                      },
+                      {
+                          "id":  213,
+                          "question":  "\u0027NDR\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Operations and Administration",
+                                          "Email Fundamentals",
+                                          "Troubleshooting and Reliability",
+                                          "Mail Routing and Delivery"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "NDR is mainly part of Troubleshooting and Reliability."
+                      },
+                      {
+                          "id":  214,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "NDR -\u003e non-delivery report returned for failed recipient delivery",
+                                          "IMAP -\u003e non-delivery report returned for failed recipient delivery",
+                                          "Hard Bounce -\u003e non-delivery report returned for failed recipient delivery",
+                                          "Journaling -\u003e non-delivery report returned for failed recipient delivery"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027NDR -\u003e non-delivery report returned for failed recipient delivery\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  215,
+                          "question":  "A Bank SO IT email operations requirement states: non-delivery report returned for failed recipient delivery. Which concept should be selected?",
+                          "options":  [
+                                          "NDR",
+                                          "Email Sandboxing",
+                                          "URL Rewriting",
+                                          "SMTP Authentication"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to NDR."
+                      },
+                      {
+                          "id":  216,
+                          "question":  "Which email systems concept best matches: list of blocked senders/IPs due to abuse indicators?",
+                          "options":  [
+                                          "Blacklist",
+                                          "MIME",
+                                          "Malicious Attachment",
+                                          "MTA"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Blacklist is defined as: list of blocked senders/IPs due to abuse indicators."
+                      },
+                      {
+                          "id":  217,
+                          "question":  "What is the most accurate description of \u0027Blacklist\u0027?",
+                          "options":  [
+                                          "protocol used to send email between clients and servers",
+                                          "mail user agent used by end user to read and compose email",
+                                          "list of blocked senders/IPs due to abuse indicators",
+                                          "approved sender list bypassing strict filtering checks"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Blacklist refers to: list of blocked senders/IPs due to abuse indicators."
+                      },
+                      {
+                          "id":  218,
+                          "question":  "\u0027Blacklist\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Fundamentals",
+                                          "Email Security and Anti-Abuse",
+                                          "Mail Routing and Delivery",
+                                          "Troubleshooting and Reliability"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Blacklist is mainly part of Troubleshooting and Reliability."
+                      },
+                      {
+                          "id":  219,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Spam -\u003e list of blocked senders/IPs due to abuse indicators",
+                                          "Blacklist -\u003e list of blocked senders/IPs due to abuse indicators",
+                                          "POP3 -\u003e list of blocked senders/IPs due to abuse indicators",
+                                          "DKIM -\u003e list of blocked senders/IPs due to abuse indicators"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Blacklist -\u003e list of blocked senders/IPs due to abuse indicators\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  220,
+                          "question":  "A Bank SO IT email operations requirement states: list of blocked senders/IPs due to abuse indicators. Which concept should be selected?",
+                          "options":  [
+                                          "Malicious Attachment",
+                                          "MIME",
+                                          "Blacklist",
+                                          "MTA"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Blacklist."
+                      },
+                      {
+                          "id":  221,
+                          "question":  "Which email systems concept best matches: approved sender list bypassing strict filtering checks?",
+                          "options":  [
+                                          "Soft Bounce",
+                                          "Failover Mail Server",
+                                          "Blacklist",
+                                          "Whitelist"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Whitelist is defined as: approved sender list bypassing strict filtering checks."
+                      },
+                      {
+                          "id":  222,
+                          "question":  "What is the most accurate description of \u0027Whitelist\u0027?",
+                          "options":  [
+                                          "credential verification before allowing message submission",
+                                          "security mechanism replacing links for click-time inspection",
+                                          "encryption of SMTP transport channel between mail servers",
+                                          "approved sender list bypassing strict filtering checks"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Whitelist refers to: approved sender list bypassing strict filtering checks."
+                      },
+                      {
+                          "id":  223,
+                          "question":  "\u0027Whitelist\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Email Security and Anti-Abuse",
+                                          "Email Fundamentals",
+                                          "Operations and Administration"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Whitelist is mainly part of Troubleshooting and Reliability."
+                      },
+                      {
+                          "id":  224,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Submission Port 587 -\u003e approved sender list bypassing strict filtering checks",
+                                          "Backup Mailbox Restore -\u003e approved sender list bypassing strict filtering checks",
+                                          "Soft Bounce -\u003e approved sender list bypassing strict filtering checks",
+                                          "Whitelist -\u003e approved sender list bypassing strict filtering checks"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Whitelist -\u003e approved sender list bypassing strict filtering checks\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  225,
+                          "question":  "A Bank SO IT email operations requirement states: approved sender list bypassing strict filtering checks. Which concept should be selected?",
+                          "options":  [
+                                          "Blacklist",
+                                          "Soft Bounce",
+                                          "Whitelist",
+                                          "Failover Mail Server"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Whitelist."
+                      },
+                      {
+                          "id":  226,
+                          "question":  "Which email systems concept best matches: trust rating influencing sender acceptance decisions?",
+                          "options":  [
+                                          "Reputation Score",
+                                          "Backup Mailbox Restore",
+                                          "DMARC",
+                                          "Open Relay"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Reputation Score is defined as: trust rating influencing sender acceptance decisions."
+                      },
+                      {
+                          "id":  227,
+                          "question":  "What is the most accurate description of \u0027Reputation Score\u0027?",
+                          "options":  [
+                                          "storage location where user emails are retained",
+                                          "trust rating influencing sender acceptance decisions",
+                                          "temporary delivery failure often retried later",
+                                          "approved sender list bypassing strict filtering checks"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Reputation Score refers to: trust rating influencing sender acceptance decisions."
+                      },
+                      {
+                          "id":  228,
+                          "question":  "\u0027Reputation Score\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Email Fundamentals",
+                                          "Operations and Administration",
+                                          "Email Security and Anti-Abuse"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Reputation Score is mainly part of Troubleshooting and Reliability."
+                      },
+                      {
+                          "id":  229,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Mail Relay -\u003e trust rating influencing sender acceptance decisions",
+                                          "Email Sandboxing -\u003e trust rating influencing sender acceptance decisions",
+                                          "Distribution List -\u003e trust rating influencing sender acceptance decisions",
+                                          "Reputation Score -\u003e trust rating influencing sender acceptance decisions"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Reputation Score -\u003e trust rating influencing sender acceptance decisions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  230,
+                          "question":  "A Bank SO IT email operations requirement states: trust rating influencing sender acceptance decisions. Which concept should be selected?",
+                          "options":  [
+                                          "DMARC",
+                                          "Backup Mailbox Restore",
+                                          "Reputation Score",
+                                          "Open Relay"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Reputation Score."
+                      },
+                      {
+                          "id":  231,
+                          "question":  "Which email systems concept best matches: policy-based condition-action logic for message handling?",
+                          "options":  [
+                                          "Mail Flow Rule",
+                                          "Auto-Responder",
+                                          "Hard Bounce",
+                                          "High Availability"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Mail Flow Rule is defined as: policy-based condition-action logic for message handling."
+                      },
+                      {
+                          "id":  232,
+                          "question":  "What is the most accurate description of \u0027Mail Flow Rule\u0027?",
+                          "options":  [
+                                          "policy-based condition-action logic for message handling",
+                                          "recovery of mailbox content from backup copy",
+                                          "security/control point filtering inbound and outbound mail",
+                                          "storage location where user emails are retained"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Mail Flow Rule refers to: policy-based condition-action logic for message handling."
+                      },
+                      {
+                          "id":  233,
+                          "question":  "\u0027Mail Flow Rule\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Security and Anti-Abuse",
+                                          "Troubleshooting and Reliability",
+                                          "Operations and Administration",
+                                          "Mail Routing and Delivery"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Mail Flow Rule is mainly part of Troubleshooting and Reliability."
+                      },
+                      {
+                          "id":  234,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Soft Bounce -\u003e policy-based condition-action logic for message handling",
+                                          "SPF -\u003e policy-based condition-action logic for message handling",
+                                          "Mail Flow Rule -\u003e policy-based condition-action logic for message handling",
+                                          "Capacity Planning -\u003e policy-based condition-action logic for message handling"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Mail Flow Rule -\u003e policy-based condition-action logic for message handling\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  235,
+                          "question":  "A Bank SO IT email operations requirement states: policy-based condition-action logic for message handling. Which concept should be selected?",
+                          "options":  [
+                                          "Hard Bounce",
+                                          "High Availability",
+                                          "Auto-Responder",
+                                          "Mail Flow Rule"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Mail Flow Rule."
+                      },
+                      {
+                          "id":  236,
+                          "question":  "Which email systems concept best matches: design ensuring mail service continuity with redundancy?",
+                          "options":  [
+                                          "High Availability",
+                                          "Blacklist",
+                                          "Journaling",
+                                          "MIME"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "High Availability is defined as: design ensuring mail service continuity with redundancy."
+                      },
+                      {
+                          "id":  237,
+                          "question":  "What is the most accurate description of \u0027High Availability\u0027?",
+                          "options":  [
+                                          "automatic reply triggered by predefined conditions",
+                                          "slow message transit due to queue/load/network factors",
+                                          "credential verification before allowing message submission",
+                                          "design ensuring mail service continuity with redundancy"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "High Availability refers to: design ensuring mail service continuity with redundancy."
+                      },
+                      {
+                          "id":  238,
+                          "question":  "\u0027High Availability\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Email Security and Anti-Abuse",
+                                          "Mail Routing and Delivery",
+                                          "Troubleshooting and Reliability",
+                                          "Operations and Administration"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "High Availability is mainly part of Troubleshooting and Reliability."
+                      },
+                      {
+                          "id":  239,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Delivery Delay -\u003e design ensuring mail service continuity with redundancy",
+                                          "Archiving -\u003e design ensuring mail service continuity with redundancy",
+                                          "High Availability -\u003e design ensuring mail service continuity with redundancy",
+                                          "URL Rewriting -\u003e design ensuring mail service continuity with redundancy"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027High Availability -\u003e design ensuring mail service continuity with redundancy\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  240,
+                          "question":  "A Bank SO IT email operations requirement states: design ensuring mail service continuity with redundancy. Which concept should be selected?",
+                          "options":  [
+                                          "Blacklist",
+                                          "MIME",
+                                          "Journaling",
+                                          "High Availability"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to High Availability."
+                      },
+                      {
+                          "id":  241,
+                          "question":  "Which email systems concept best matches: secondary server activated when primary server fails?",
+                          "options":  [
+                                          "Archiving",
+                                          "URL Rewriting",
+                                          "Failover Mail Server",
+                                          "Business Email Compromise"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Failover Mail Server is defined as: secondary server activated when primary server fails."
+                      },
+                      {
+                          "id":  242,
+                          "question":  "What is the most accurate description of \u0027Failover Mail Server\u0027?",
+                          "options":  [
+                                          "standard enabling non-text content and attachments in email",
+                                          "capture of all inbound/outbound emails for audit",
+                                          "email authentication method validating authorized sending hosts",
+                                          "secondary server activated when primary server fails"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Failover Mail Server refers to: secondary server activated when primary server fails."
+                      },
+                      {
+                          "id":  243,
+                          "question":  "\u0027Failover Mail Server\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Email Fundamentals",
+                                          "Operations and Administration",
+                                          "Mail Routing and Delivery"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Failover Mail Server is mainly part of Troubleshooting and Reliability."
+                      },
+                      {
+                          "id":  244,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Email Gateway -\u003e secondary server activated when primary server fails",
+                                          "TLS for SMTP -\u003e secondary server activated when primary server fails",
+                                          "eDiscovery -\u003e secondary server activated when primary server fails",
+                                          "Failover Mail Server -\u003e secondary server activated when primary server fails"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Failover Mail Server -\u003e secondary server activated when primary server fails\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  245,
+                          "question":  "A Bank SO IT email operations requirement states: secondary server activated when primary server fails. Which concept should be selected?",
+                          "options":  [
+                                          "Business Email Compromise",
+                                          "Archiving",
+                                          "URL Rewriting",
+                                          "Failover Mail Server"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Failover Mail Server."
+                      },
+                      {
+                          "id":  246,
+                          "question":  "Which email systems concept best matches: forecasting resources for future email traffic/storage demand?",
+                          "options":  [
+                                          "Mail Flow Rule",
+                                          "Capacity Planning",
+                                          "Retention Policy",
+                                          "URL Rewriting"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Capacity Planning is defined as: forecasting resources for future email traffic/storage demand."
+                      },
+                      {
+                          "id":  247,
+                          "question":  "What is the most accurate description of \u0027Capacity Planning\u0027?",
+                          "options":  [
+                                          "capture of all inbound/outbound emails for audit",
+                                          "rules defining how long email data is kept",
+                                          "mail delivery agent placing incoming message into mailbox",
+                                          "forecasting resources for future email traffic/storage demand"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Capacity Planning refers to: forecasting resources for future email traffic/storage demand."
+                      },
+                      {
+                          "id":  248,
+                          "question":  "\u0027Capacity Planning\u0027 belongs mainly to which email systems area?",
+                          "options":  [
+                                          "Troubleshooting and Reliability",
+                                          "Email Security and Anti-Abuse",
+                                          "Operations and Administration",
+                                          "Email Fundamentals"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Capacity Planning is mainly part of Troubleshooting and Reliability."
+                      },
+                      {
+                          "id":  249,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "URL Rewriting -\u003e forecasting resources for future email traffic/storage demand",
+                                          "Business Email Compromise -\u003e forecasting resources for future email traffic/storage demand",
+                                          "Capacity Planning -\u003e forecasting resources for future email traffic/storage demand",
+                                          "Mail Flow Rule -\u003e forecasting resources for future email traffic/storage demand"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Capacity Planning -\u003e forecasting resources for future email traffic/storage demand\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  250,
+                          "question":  "A Bank SO IT email operations requirement states: forecasting resources for future email traffic/storage demand. Which concept should be selected?",
+                          "options":  [
+                                          "Capacity Planning",
+                                          "URL Rewriting",
+                                          "Mail Flow Rule",
+                                          "Retention Policy"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Capacity Planning."
+                      }
+                  ]
+}

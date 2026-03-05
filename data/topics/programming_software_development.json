@@ -1,0 +1,3004 @@
+﻿{
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "Which Programming concept best matches: named storage location for data value?",
+                          "options":  [
+                                          "Space Complexity",
+                                          "Variable",
+                                          "Interpreter",
+                                          "Code Review"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Variable is defined as: named storage location for data value."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "What is the most accurate description of \u0027Variable\u0027?",
+                          "options":  [
+                                          "growth rate of algorithm runtime with input size",
+                                          "named storage location for data value",
+                                          "metric showing percentage of code tested",
+                                          "hiding implementation details while exposing essentials"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Variable refers to: named storage location for data value."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "\u0027Variable\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Error Handling",
+                                          "Programming Basics",
+                                          "Development Workflow",
+                                          "Algorithmic Thinking"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Variable is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Variable -\u003e named storage location for data value",
+                                          "Compilation -\u003e named storage location for data value",
+                                          "Pull Request -\u003e named storage location for data value",
+                                          "Branch -\u003e named storage location for data value"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Variable -\u003e named storage location for data value\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "A Bank SO IT coding requirement states: named storage location for data value. Which concept should be selected?",
+                          "options":  [
+                                          "Variable",
+                                          "Code Review",
+                                          "Interpreter",
+                                          "Space Complexity"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Variable."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "Which Programming concept best matches: classification defining kind of value and operations?",
+                          "options":  [
+                                          "Data Type",
+                                          "Branch",
+                                          "Code Review",
+                                          "Variable"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Data Type is defined as: classification defining kind of value and operations."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "What is the most accurate description of \u0027Data Type\u0027?",
+                          "options":  [
+                                          "system for tracking changes in source code",
+                                          "classification defining kind of value and operations",
+                                          "reference accessing object when reference is null",
+                                          "algorithm finding element in sorted array by halving range"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Data Type refers to: classification defining kind of value and operations."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "\u0027Data Type\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Testing and Quality",
+                                          "Development Workflow",
+                                          "Programming Basics",
+                                          "Error Handling"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Data Type is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Data Type -\u003e classification defining kind of value and operations",
+                                          "Interpreter -\u003e classification defining kind of value and operations",
+                                          "Big O Notation -\u003e classification defining kind of value and operations",
+                                          "Loop -\u003e classification defining kind of value and operations"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Data Type -\u003e classification defining kind of value and operations\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "A Bank SO IT coding requirement states: classification defining kind of value and operations. Which concept should be selected?",
+                          "options":  [
+                                          "Data Type",
+                                          "Code Review",
+                                          "Variable",
+                                          "Branch"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Data Type."
+                      },
+                      {
+                          "id":  11,
+                          "question":  "Which Programming concept best matches: whole number data type without fractional part?",
+                          "options":  [
+                                          "Data Type",
+                                          "Time Complexity",
+                                          "Function",
+                                          "Integer"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Integer is defined as: whole number data type without fractional part."
+                      },
+                      {
+                          "id":  12,
+                          "question":  "What is the most accurate description of \u0027Integer\u0027?",
+                          "options":  [
+                                          "instance of a class with state and behavior",
+                                          "sequence of characters representing text",
+                                          "reference accessing object when reference is null",
+                                          "whole number data type without fractional part"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Integer refers to: whole number data type without fractional part."
+                      },
+                      {
+                          "id":  13,
+                          "question":  "\u0027Integer\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Development Workflow",
+                                          "Programming Basics",
+                                          "Object-Oriented Programming",
+                                          "Algorithmic Thinking"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Integer is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  14,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Refactoring -\u003e whole number data type without fractional part",
+                                          "Boolean -\u003e whole number data type without fractional part",
+                                          "Integer -\u003e whole number data type without fractional part",
+                                          "Interface -\u003e whole number data type without fractional part"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Integer -\u003e whole number data type without fractional part\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  15,
+                          "question":  "A Bank SO IT coding requirement states: whole number data type without fractional part. Which concept should be selected?",
+                          "options":  [
+                                          "Data Type",
+                                          "Time Complexity",
+                                          "Integer",
+                                          "Function"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Integer."
+                      },
+                      {
+                          "id":  16,
+                          "question":  "Which Programming concept best matches: data type representing true or false?",
+                          "options":  [
+                                          "Boolean",
+                                          "Git Commit",
+                                          "Linear Search",
+                                          "Integration Test"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Boolean is defined as: data type representing true or false."
+                      },
+                      {
+                          "id":  17,
+                          "question":  "What is the most accurate description of \u0027Boolean\u0027?",
+                          "options":  [
+                                          "sequence of characters representing text",
+                                          "algorithm finding element in sorted array by halving range",
+                                          "data type representing true or false",
+                                          "input variable accepted by function definition"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Boolean refers to: data type representing true or false."
+                      },
+                      {
+                          "id":  18,
+                          "question":  "\u0027Boolean\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Programming Basics",
+                                          "Development Workflow",
+                                          "Error Handling",
+                                          "Object-Oriented Programming"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Boolean is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  19,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Space Complexity -\u003e data type representing true or false",
+                                          "Conditional Statement -\u003e data type representing true or false",
+                                          "Constructor -\u003e data type representing true or false",
+                                          "Boolean -\u003e data type representing true or false"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Boolean -\u003e data type representing true or false\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  20,
+                          "question":  "A Bank SO IT coding requirement states: data type representing true or false. Which concept should be selected?",
+                          "options":  [
+                                          "Linear Search",
+                                          "Boolean",
+                                          "Integration Test",
+                                          "Git Commit"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Boolean."
+                      },
+                      {
+                          "id":  21,
+                          "question":  "Which Programming concept best matches: sequence of characters representing text?",
+                          "options":  [
+                                          "Code Coverage",
+                                          "Version Control",
+                                          "String",
+                                          "Loop"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "String is defined as: sequence of characters representing text."
+                      },
+                      {
+                          "id":  22,
+                          "question":  "What is the most accurate description of \u0027String\u0027?",
+                          "options":  [
+                                          "branching construct selecting path based on condition",
+                                          "data type representing true or false",
+                                          "blueprint defining attributes and methods of objects",
+                                          "sequence of characters representing text"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "String refers to: sequence of characters representing text."
+                      },
+                      {
+                          "id":  23,
+                          "question":  "\u0027String\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Testing and Quality",
+                                          "Error Handling",
+                                          "Programming Basics",
+                                          "Object-Oriented Programming"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "String is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  24,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Object -\u003e sequence of characters representing text",
+                                          "Data Type -\u003e sequence of characters representing text",
+                                          "Integration Test -\u003e sequence of characters representing text",
+                                          "String -\u003e sequence of characters representing text"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027String -\u003e sequence of characters representing text\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  25,
+                          "question":  "A Bank SO IT coding requirement states: sequence of characters representing text. Which concept should be selected?",
+                          "options":  [
+                                          "Version Control",
+                                          "Code Coverage",
+                                          "Loop",
+                                          "String"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to String."
+                      },
+                      {
+                          "id":  26,
+                          "question":  "Which Programming concept best matches: indexed collection storing multiple values of same type?",
+                          "options":  [
+                                          "Abstraction",
+                                          "Method Overloading",
+                                          "Array",
+                                          "Git Commit"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Array is defined as: indexed collection storing multiple values of same type."
+                      },
+                      {
+                          "id":  27,
+                          "question":  "What is the most accurate description of \u0027Array\u0027?",
+                          "options":  [
+                                          "asymptotic upper bound representation of complexity",
+                                          "automated workflow for build and test on code changes",
+                                          "reusable block of code performing specific task",
+                                          "indexed collection storing multiple values of same type"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Array refers to: indexed collection storing multiple values of same type."
+                      },
+                      {
+                          "id":  28,
+                          "question":  "\u0027Array\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Programming Basics",
+                                          "Development Workflow",
+                                          "Algorithmic Thinking",
+                                          "Object-Oriented Programming"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Array is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  29,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Encapsulation -\u003e indexed collection storing multiple values of same type",
+                                          "Function -\u003e indexed collection storing multiple values of same type",
+                                          "Array -\u003e indexed collection storing multiple values of same type",
+                                          "Space Complexity -\u003e indexed collection storing multiple values of same type"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Array -\u003e indexed collection storing multiple values of same type\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  30,
+                          "question":  "A Bank SO IT coding requirement states: indexed collection storing multiple values of same type. Which concept should be selected?",
+                          "options":  [
+                                          "Git Commit",
+                                          "Array",
+                                          "Abstraction",
+                                          "Method Overloading"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Array."
+                      },
+                      {
+                          "id":  31,
+                          "question":  "Which Programming concept best matches: reusable block of code performing specific task?",
+                          "options":  [
+                                          "Exception",
+                                          "Inheritance",
+                                          "Interpreter",
+                                          "Function"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Function is defined as: reusable block of code performing specific task."
+                      },
+                      {
+                          "id":  32,
+                          "question":  "What is the most accurate description of \u0027Function\u0027?",
+                          "options":  [
+                                          "system for tracking changes in source code",
+                                          "reusable block of code performing specific task",
+                                          "abnormal event disrupting normal program flow",
+                                          "indexed collection storing multiple values of same type"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Function refers to: reusable block of code performing specific task."
+                      },
+                      {
+                          "id":  33,
+                          "question":  "\u0027Function\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Development Workflow",
+                                          "Programming Basics",
+                                          "Algorithmic Thinking",
+                                          "Testing and Quality"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Function is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  34,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Big O Notation -\u003e reusable block of code performing specific task",
+                                          "Object -\u003e reusable block of code performing specific task",
+                                          "Function -\u003e reusable block of code performing specific task",
+                                          "Parameter -\u003e reusable block of code performing specific task"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Function -\u003e reusable block of code performing specific task\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  35,
+                          "question":  "A Bank SO IT coding requirement states: reusable block of code performing specific task. Which concept should be selected?",
+                          "options":  [
+                                          "Inheritance",
+                                          "Function",
+                                          "Interpreter",
+                                          "Exception"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Function."
+                      },
+                      {
+                          "id":  36,
+                          "question":  "Which Programming concept best matches: input variable accepted by function definition?",
+                          "options":  [
+                                          "Parameter",
+                                          "Polymorphism",
+                                          "Method Overloading",
+                                          "Git Commit"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Parameter is defined as: input variable accepted by function definition."
+                      },
+                      {
+                          "id":  37,
+                          "question":  "What is the most accurate description of \u0027Parameter\u0027?",
+                          "options":  [
+                                          "input variable accepted by function definition",
+                                          "bundling data and methods with access control",
+                                          "branching construct selecting path based on condition",
+                                          "algorithm finding element in sorted array by halving range"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Parameter refers to: input variable accepted by function definition."
+                      },
+                      {
+                          "id":  38,
+                          "question":  "\u0027Parameter\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Testing and Quality",
+                                          "Development Workflow",
+                                          "Error Handling",
+                                          "Programming Basics"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Parameter is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  39,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Recursion -\u003e input variable accepted by function definition",
+                                          "Parameter -\u003e input variable accepted by function definition",
+                                          "Data Type -\u003e input variable accepted by function definition",
+                                          "Encapsulation -\u003e input variable accepted by function definition"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Parameter -\u003e input variable accepted by function definition\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  40,
+                          "question":  "A Bank SO IT coding requirement states: input variable accepted by function definition. Which concept should be selected?",
+                          "options":  [
+                                          "Parameter",
+                                          "Git Commit",
+                                          "Polymorphism",
+                                          "Method Overloading"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Parameter."
+                      },
+                      {
+                          "id":  41,
+                          "question":  "Which Programming concept best matches: output produced by function after execution?",
+                          "options":  [
+                                          "Version Control",
+                                          "Inheritance",
+                                          "Return Value",
+                                          "Code Coverage"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Return Value is defined as: output produced by function after execution."
+                      },
+                      {
+                          "id":  42,
+                          "question":  "What is the most accurate description of \u0027Return Value\u0027?",
+                          "options":  [
+                                          "input variable accepted by function definition",
+                                          "classification defining kind of value and operations",
+                                          "output produced by function after execution",
+                                          "data type representing true or false"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Return Value refers to: output produced by function after execution."
+                      },
+                      {
+                          "id":  43,
+                          "question":  "\u0027Return Value\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Testing and Quality",
+                                          "Object-Oriented Programming",
+                                          "Programming Basics",
+                                          "Error Handling"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Return Value is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  44,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Hash Table -\u003e output produced by function after execution",
+                                          "Conditional Statement -\u003e output produced by function after execution",
+                                          "Return Value -\u003e output produced by function after execution",
+                                          "Interpreter -\u003e output produced by function after execution"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Return Value -\u003e output produced by function after execution\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  45,
+                          "question":  "A Bank SO IT coding requirement states: output produced by function after execution. Which concept should be selected?",
+                          "options":  [
+                                          "Code Coverage",
+                                          "Version Control",
+                                          "Return Value",
+                                          "Inheritance"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Return Value."
+                      },
+                      {
+                          "id":  46,
+                          "question":  "Which Programming concept best matches: control structure that repeats a block while condition holds?",
+                          "options":  [
+                                          "Space Complexity",
+                                          "Encapsulation",
+                                          "Loop",
+                                          "Data Type"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Loop is defined as: control structure that repeats a block while condition holds."
+                      },
+                      {
+                          "id":  47,
+                          "question":  "What is the most accurate description of \u0027Loop\u0027?",
+                          "options":  [
+                                          "control structure that repeats a block while condition holds",
+                                          "branching construct selecting path based on condition",
+                                          "proposal to review and merge code changes",
+                                          "automated workflow for build and test on code changes"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Loop refers to: control structure that repeats a block while condition holds."
+                      },
+                      {
+                          "id":  48,
+                          "question":  "\u0027Loop\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Algorithmic Thinking",
+                                          "Programming Basics",
+                                          "Error Handling",
+                                          "Object-Oriented Programming"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Loop is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  49,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Space Complexity -\u003e control structure that repeats a block while condition holds",
+                                          "Code Coverage -\u003e control structure that repeats a block while condition holds",
+                                          "Integer -\u003e control structure that repeats a block while condition holds",
+                                          "Loop -\u003e control structure that repeats a block while condition holds"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Loop -\u003e control structure that repeats a block while condition holds\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  50,
+                          "question":  "A Bank SO IT coding requirement states: control structure that repeats a block while condition holds. Which concept should be selected?",
+                          "options":  [
+                                          "Data Type",
+                                          "Encapsulation",
+                                          "Space Complexity",
+                                          "Loop"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Loop."
+                      },
+                      {
+                          "id":  51,
+                          "question":  "Which Programming concept best matches: technique where function calls itself to solve problem?",
+                          "options":  [
+                                          "Array",
+                                          "Unit Test",
+                                          "Recursion",
+                                          "Data Type"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Recursion is defined as: technique where function calls itself to solve problem."
+                      },
+                      {
+                          "id":  52,
+                          "question":  "What is the most accurate description of \u0027Recursion\u0027?",
+                          "options":  [
+                                          "ability to use same interface for different underlying forms",
+                                          "algorithm finding element in sorted array by halving range",
+                                          "technique where function calls itself to solve problem",
+                                          "test ensuring changes did not break existing features"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Recursion refers to: technique where function calls itself to solve problem."
+                      },
+                      {
+                          "id":  53,
+                          "question":  "\u0027Recursion\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Programming Basics",
+                                          "Error Handling",
+                                          "Algorithmic Thinking",
+                                          "Object-Oriented Programming"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Recursion is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  54,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Input Validation -\u003e technique where function calls itself to solve problem",
+                                          "Loop -\u003e technique where function calls itself to solve problem",
+                                          "String -\u003e technique where function calls itself to solve problem",
+                                          "Recursion -\u003e technique where function calls itself to solve problem"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Recursion -\u003e technique where function calls itself to solve problem\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  55,
+                          "question":  "A Bank SO IT coding requirement states: technique where function calls itself to solve problem. Which concept should be selected?",
+                          "options":  [
+                                          "Unit Test",
+                                          "Array",
+                                          "Recursion",
+                                          "Data Type"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Recursion."
+                      },
+                      {
+                          "id":  56,
+                          "question":  "Which Programming concept best matches: branching construct selecting path based on condition?",
+                          "options":  [
+                                          "Abstraction",
+                                          "Debugging",
+                                          "Conditional Statement",
+                                          "Data Type"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Conditional Statement is defined as: branching construct selecting path based on condition."
+                      },
+                      {
+                          "id":  57,
+                          "question":  "What is the most accurate description of \u0027Conditional Statement\u0027?",
+                          "options":  [
+                                          "test ensuring changes did not break existing features",
+                                          "sequence of characters representing text",
+                                          "branching construct selecting path based on condition",
+                                          "special method initializing object state on creation"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Conditional Statement refers to: branching construct selecting path based on condition."
+                      },
+                      {
+                          "id":  58,
+                          "question":  "\u0027Conditional Statement\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Object-Oriented Programming",
+                                          "Development Workflow",
+                                          "Programming Basics",
+                                          "Algorithmic Thinking"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Conditional Statement is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  59,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Try-Catch -\u003e branching construct selecting path based on condition",
+                                          "Conditional Statement -\u003e branching construct selecting path based on condition",
+                                          "Finally Block -\u003e branching construct selecting path based on condition",
+                                          "Boolean -\u003e branching construct selecting path based on condition"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Conditional Statement -\u003e branching construct selecting path based on condition\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  60,
+                          "question":  "A Bank SO IT coding requirement states: branching construct selecting path based on condition. Which concept should be selected?",
+                          "options":  [
+                                          "Conditional Statement",
+                                          "Debugging",
+                                          "Data Type",
+                                          "Abstraction"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Conditional Statement."
+                      },
+                      {
+                          "id":  61,
+                          "question":  "Which Programming concept best matches: translation of source code to machine-readable form?",
+                          "options":  [
+                                          "Compilation",
+                                          "Version Control",
+                                          "Data Type",
+                                          "Space Complexity"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Compilation is defined as: translation of source code to machine-readable form."
+                      },
+                      {
+                          "id":  62,
+                          "question":  "What is the most accurate description of \u0027Compilation\u0027?",
+                          "options":  [
+                                          "input variable accepted by function definition",
+                                          "translation of source code to machine-readable form",
+                                          "data type representing true or false",
+                                          "whole number data type without fractional part"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Compilation refers to: translation of source code to machine-readable form."
+                      },
+                      {
+                          "id":  63,
+                          "question":  "\u0027Compilation\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Error Handling",
+                                          "Development Workflow",
+                                          "Programming Basics",
+                                          "Testing and Quality"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Compilation is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  64,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Code Coverage -\u003e translation of source code to machine-readable form",
+                                          "Encapsulation -\u003e translation of source code to machine-readable form",
+                                          "Compilation -\u003e translation of source code to machine-readable form",
+                                          "String -\u003e translation of source code to machine-readable form"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Compilation -\u003e translation of source code to machine-readable form\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  65,
+                          "question":  "A Bank SO IT coding requirement states: translation of source code to machine-readable form. Which concept should be selected?",
+                          "options":  [
+                                          "Compilation",
+                                          "Space Complexity",
+                                          "Data Type",
+                                          "Version Control"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Compilation."
+                      },
+                      {
+                          "id":  66,
+                          "question":  "Which Programming concept best matches: program executing source code line by line?",
+                          "options":  [
+                                          "Code Coverage",
+                                          "Array",
+                                          "Interpreter",
+                                          "Object"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Interpreter is defined as: program executing source code line by line."
+                      },
+                      {
+                          "id":  67,
+                          "question":  "What is the most accurate description of \u0027Interpreter\u0027?",
+                          "options":  [
+                                          "program executing source code line by line",
+                                          "blueprint defining attributes and methods of objects",
+                                          "code block executed regardless of exception outcome",
+                                          "data type representing true or false"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Interpreter refers to: program executing source code line by line."
+                      },
+                      {
+                          "id":  68,
+                          "question":  "\u0027Interpreter\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Error Handling",
+                                          "Algorithmic Thinking",
+                                          "Object-Oriented Programming",
+                                          "Programming Basics"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Interpreter is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  69,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "CI Pipeline -\u003e program executing source code line by line",
+                                          "Null Pointer -\u003e program executing source code line by line",
+                                          "Interpreter -\u003e program executing source code line by line",
+                                          "Unit Test -\u003e program executing source code line by line"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Interpreter -\u003e program executing source code line by line\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  70,
+                          "question":  "A Bank SO IT coding requirement states: program executing source code line by line. Which concept should be selected?",
+                          "options":  [
+                                          "Object",
+                                          "Code Coverage",
+                                          "Array",
+                                          "Interpreter"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Interpreter."
+                      },
+                      {
+                          "id":  71,
+                          "question":  "Which Programming concept best matches: error occurring during program execution?",
+                          "options":  [
+                                          "Interpreter",
+                                          "Runtime Error",
+                                          "Return Value",
+                                          "Constructor"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Runtime Error is defined as: error occurring during program execution."
+                      },
+                      {
+                          "id":  72,
+                          "question":  "What is the most accurate description of \u0027Runtime Error\u0027?",
+                          "options":  [
+                                          "instance of a class with state and behavior",
+                                          "recorded snapshot of staged source code changes",
+                                          "input variable accepted by function definition",
+                                          "error occurring during program execution"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Runtime Error refers to: error occurring during program execution."
+                      },
+                      {
+                          "id":  73,
+                          "question":  "\u0027Runtime Error\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Development Workflow",
+                                          "Testing and Quality",
+                                          "Programming Basics",
+                                          "Error Handling"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Runtime Error is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  74,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "String -\u003e error occurring during program execution",
+                                          "Runtime Error -\u003e error occurring during program execution",
+                                          "Version Control -\u003e error occurring during program execution",
+                                          "Big O Notation -\u003e error occurring during program execution"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Runtime Error -\u003e error occurring during program execution\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  75,
+                          "question":  "A Bank SO IT coding requirement states: error occurring during program execution. Which concept should be selected?",
+                          "options":  [
+                                          "Return Value",
+                                          "Interpreter",
+                                          "Constructor",
+                                          "Runtime Error"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Runtime Error."
+                      },
+                      {
+                          "id":  76,
+                          "question":  "Which Programming concept best matches: blueprint defining attributes and methods of objects?",
+                          "options":  [
+                                          "Pull Request",
+                                          "Interface",
+                                          "Loop",
+                                          "Class"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Class is defined as: blueprint defining attributes and methods of objects."
+                      },
+                      {
+                          "id":  77,
+                          "question":  "What is the most accurate description of \u0027Class\u0027?",
+                          "options":  [
+                                          "same method name with different parameter signatures",
+                                          "hiding implementation details while exposing essentials",
+                                          "branching construct selecting path based on condition",
+                                          "blueprint defining attributes and methods of objects"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Class refers to: blueprint defining attributes and methods of objects."
+                      },
+                      {
+                          "id":  78,
+                          "question":  "\u0027Class\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Development Workflow",
+                                          "Object-Oriented Programming",
+                                          "Algorithmic Thinking",
+                                          "Programming Basics"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Class is mainly part of Object-Oriented Programming."
+                      },
+                      {
+                          "id":  79,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Space Complexity -\u003e blueprint defining attributes and methods of objects",
+                                          "String -\u003e blueprint defining attributes and methods of objects",
+                                          "Class -\u003e blueprint defining attributes and methods of objects",
+                                          "Branch -\u003e blueprint defining attributes and methods of objects"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Class -\u003e blueprint defining attributes and methods of objects\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  80,
+                          "question":  "A Bank SO IT coding requirement states: blueprint defining attributes and methods of objects. Which concept should be selected?",
+                          "options":  [
+                                          "Pull Request",
+                                          "Loop",
+                                          "Class",
+                                          "Interface"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Class."
+                      },
+                      {
+                          "id":  81,
+                          "question":  "Which Programming concept best matches: instance of a class with state and behavior?",
+                          "options":  [
+                                          "Data Type",
+                                          "Inheritance",
+                                          "Object",
+                                          "Unit Test"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Object is defined as: instance of a class with state and behavior."
+                      },
+                      {
+                          "id":  82,
+                          "question":  "What is the most accurate description of \u0027Object\u0027?",
+                          "options":  [
+                                          "special method initializing object state on creation",
+                                          "instance of a class with state and behavior",
+                                          "abnormal event disrupting normal program flow",
+                                          "automated workflow for build and test on code changes"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Object refers to: instance of a class with state and behavior."
+                      },
+                      {
+                          "id":  83,
+                          "question":  "\u0027Object\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Programming Basics",
+                                          "Algorithmic Thinking",
+                                          "Object-Oriented Programming",
+                                          "Error Handling"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Object is mainly part of Object-Oriented Programming."
+                      },
+                      {
+                          "id":  84,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Data Type -\u003e instance of a class with state and behavior",
+                                          "Object -\u003e instance of a class with state and behavior",
+                                          "Finally Block -\u003e instance of a class with state and behavior",
+                                          "Hash Table -\u003e instance of a class with state and behavior"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Object -\u003e instance of a class with state and behavior\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  85,
+                          "question":  "A Bank SO IT coding requirement states: instance of a class with state and behavior. Which concept should be selected?",
+                          "options":  [
+                                          "Unit Test",
+                                          "Data Type",
+                                          "Inheritance",
+                                          "Object"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Object."
+                      },
+                      {
+                          "id":  86,
+                          "question":  "Which Programming concept best matches: bundling data and methods with access control?",
+                          "options":  [
+                                          "Try-Catch",
+                                          "Encapsulation",
+                                          "Input Validation",
+                                          "Method Overloading"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Encapsulation is defined as: bundling data and methods with access control."
+                      },
+                      {
+                          "id":  87,
+                          "question":  "What is the most accurate description of \u0027Encapsulation\u0027?",
+                          "options":  [
+                                          "proposal to review and merge code changes",
+                                          "algorithm scanning elements sequentially to find target",
+                                          "bundling data and methods with access control",
+                                          "instance of a class with state and behavior"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Encapsulation refers to: bundling data and methods with access control."
+                      },
+                      {
+                          "id":  88,
+                          "question":  "\u0027Encapsulation\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Object-Oriented Programming",
+                                          "Testing and Quality",
+                                          "Error Handling",
+                                          "Programming Basics"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Encapsulation is mainly part of Object-Oriented Programming."
+                      },
+                      {
+                          "id":  89,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Encapsulation -\u003e bundling data and methods with access control",
+                                          "CI Pipeline -\u003e bundling data and methods with access control",
+                                          "Constructor -\u003e bundling data and methods with access control",
+                                          "Recursion -\u003e bundling data and methods with access control"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Encapsulation -\u003e bundling data and methods with access control\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  90,
+                          "question":  "A Bank SO IT coding requirement states: bundling data and methods with access control. Which concept should be selected?",
+                          "options":  [
+                                          "Method Overloading",
+                                          "Encapsulation",
+                                          "Input Validation",
+                                          "Try-Catch"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Encapsulation."
+                      },
+                      {
+                          "id":  91,
+                          "question":  "Which Programming concept best matches: mechanism deriving new class from existing class?",
+                          "options":  [
+                                          "Parameter",
+                                          "Binary Search",
+                                          "Inheritance",
+                                          "Constructor"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Inheritance is defined as: mechanism deriving new class from existing class."
+                      },
+                      {
+                          "id":  92,
+                          "question":  "What is the most accurate description of \u0027Inheritance\u0027?",
+                          "options":  [
+                                          "mechanism deriving new class from existing class",
+                                          "translation of source code to machine-readable form",
+                                          "metric showing percentage of code tested",
+                                          "whole number data type without fractional part"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Inheritance refers to: mechanism deriving new class from existing class."
+                      },
+                      {
+                          "id":  93,
+                          "question":  "\u0027Inheritance\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Testing and Quality",
+                                          "Error Handling",
+                                          "Programming Basics",
+                                          "Object-Oriented Programming"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Inheritance is mainly part of Object-Oriented Programming."
+                      },
+                      {
+                          "id":  94,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Abstraction -\u003e mechanism deriving new class from existing class",
+                                          "Inheritance -\u003e mechanism deriving new class from existing class",
+                                          "Stack -\u003e mechanism deriving new class from existing class",
+                                          "Binary Search -\u003e mechanism deriving new class from existing class"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Inheritance -\u003e mechanism deriving new class from existing class\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  95,
+                          "question":  "A Bank SO IT coding requirement states: mechanism deriving new class from existing class. Which concept should be selected?",
+                          "options":  [
+                                          "Binary Search",
+                                          "Inheritance",
+                                          "Parameter",
+                                          "Constructor"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Inheritance."
+                      },
+                      {
+                          "id":  96,
+                          "question":  "Which Programming concept best matches: ability to use same interface for different underlying forms?",
+                          "options":  [
+                                          "String",
+                                          "Polymorphism",
+                                          "Runtime Error",
+                                          "Code Review"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Polymorphism is defined as: ability to use same interface for different underlying forms."
+                      },
+                      {
+                          "id":  97,
+                          "question":  "What is the most accurate description of \u0027Polymorphism\u0027?",
+                          "options":  [
+                                          "reference accessing object when reference is null",
+                                          "ability to use same interface for different underlying forms",
+                                          "technique where function calls itself to solve problem",
+                                          "metric showing percentage of code tested"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Polymorphism refers to: ability to use same interface for different underlying forms."
+                      },
+                      {
+                          "id":  98,
+                          "question":  "\u0027Polymorphism\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Programming Basics",
+                                          "Object-Oriented Programming",
+                                          "Algorithmic Thinking",
+                                          "Testing and Quality"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Polymorphism is mainly part of Object-Oriented Programming."
+                      },
+                      {
+                          "id":  99,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Method Overriding -\u003e ability to use same interface for different underlying forms",
+                                          "Code Coverage -\u003e ability to use same interface for different underlying forms",
+                                          "Polymorphism -\u003e ability to use same interface for different underlying forms",
+                                          "Encapsulation -\u003e ability to use same interface for different underlying forms"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Polymorphism -\u003e ability to use same interface for different underlying forms\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  100,
+                          "question":  "A Bank SO IT coding requirement states: ability to use same interface for different underlying forms. Which concept should be selected?",
+                          "options":  [
+                                          "Code Review",
+                                          "String",
+                                          "Runtime Error",
+                                          "Polymorphism"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Polymorphism."
+                      },
+                      {
+                          "id":  101,
+                          "question":  "Which Programming concept best matches: hiding implementation details while exposing essentials?",
+                          "options":  [
+                                          "Abstraction",
+                                          "Constructor",
+                                          "Stack",
+                                          "Hash Table"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Abstraction is defined as: hiding implementation details while exposing essentials."
+                      },
+                      {
+                          "id":  102,
+                          "question":  "What is the most accurate description of \u0027Abstraction\u0027?",
+                          "options":  [
+                                          "hiding implementation details while exposing essentials",
+                                          "input variable accepted by function definition",
+                                          "asymptotic upper bound representation of complexity",
+                                          "automated workflow for build and test on code changes"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Abstraction refers to: hiding implementation details while exposing essentials."
+                      },
+                      {
+                          "id":  103,
+                          "question":  "\u0027Abstraction\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Error Handling",
+                                          "Testing and Quality",
+                                          "Algorithmic Thinking",
+                                          "Object-Oriented Programming"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Abstraction is mainly part of Object-Oriented Programming."
+                      },
+                      {
+                          "id":  104,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Abstraction -\u003e hiding implementation details while exposing essentials",
+                                          "Conditional Statement -\u003e hiding implementation details while exposing essentials",
+                                          "Git Commit -\u003e hiding implementation details while exposing essentials",
+                                          "Parameter -\u003e hiding implementation details while exposing essentials"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Abstraction -\u003e hiding implementation details while exposing essentials\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  105,
+                          "question":  "A Bank SO IT coding requirement states: hiding implementation details while exposing essentials. Which concept should be selected?",
+                          "options":  [
+                                          "Constructor",
+                                          "Abstraction",
+                                          "Stack",
+                                          "Hash Table"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Abstraction."
+                      },
+                      {
+                          "id":  106,
+                          "question":  "Which Programming concept best matches: contract specifying methods without implementation details?",
+                          "options":  [
+                                          "Interface",
+                                          "Exception",
+                                          "Space Complexity",
+                                          "Integration Test"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Interface is defined as: contract specifying methods without implementation details."
+                      },
+                      {
+                          "id":  107,
+                          "question":  "What is the most accurate description of \u0027Interface\u0027?",
+                          "options":  [
+                                          "contract specifying methods without implementation details",
+                                          "technique where function calls itself to solve problem",
+                                          "blueprint defining attributes and methods of objects",
+                                          "asymptotic upper bound representation of complexity"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Interface refers to: contract specifying methods without implementation details."
+                      },
+                      {
+                          "id":  108,
+                          "question":  "\u0027Interface\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Testing and Quality",
+                                          "Object-Oriented Programming",
+                                          "Error Handling",
+                                          "Development Workflow"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Interface is mainly part of Object-Oriented Programming."
+                      },
+                      {
+                          "id":  109,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "String -\u003e contract specifying methods without implementation details",
+                                          "Method Overriding -\u003e contract specifying methods without implementation details",
+                                          "Interface -\u003e contract specifying methods without implementation details",
+                                          "Conditional Statement -\u003e contract specifying methods without implementation details"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Interface -\u003e contract specifying methods without implementation details\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  110,
+                          "question":  "A Bank SO IT coding requirement states: contract specifying methods without implementation details. Which concept should be selected?",
+                          "options":  [
+                                          "Integration Test",
+                                          "Interface",
+                                          "Exception",
+                                          "Space Complexity"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Interface."
+                      },
+                      {
+                          "id":  111,
+                          "question":  "Which Programming concept best matches: same method name with different parameter signatures?",
+                          "options":  [
+                                          "Integration Test",
+                                          "Conditional Statement",
+                                          "Method Overloading",
+                                          "Branch"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Method Overloading is defined as: same method name with different parameter signatures."
+                      },
+                      {
+                          "id":  112,
+                          "question":  "What is the most accurate description of \u0027Method Overloading\u0027?",
+                          "options":  [
+                                          "metric showing percentage of code tested",
+                                          "control structure that repeats a block while condition holds",
+                                          "automated test validating smallest code units",
+                                          "same method name with different parameter signatures"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Method Overloading refers to: same method name with different parameter signatures."
+                      },
+                      {
+                          "id":  113,
+                          "question":  "\u0027Method Overloading\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Programming Basics",
+                                          "Algorithmic Thinking",
+                                          "Object-Oriented Programming",
+                                          "Development Workflow"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Method Overloading is mainly part of Object-Oriented Programming."
+                      },
+                      {
+                          "id":  114,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Compilation -\u003e same method name with different parameter signatures",
+                                          "Code Coverage -\u003e same method name with different parameter signatures",
+                                          "Git Commit -\u003e same method name with different parameter signatures",
+                                          "Method Overloading -\u003e same method name with different parameter signatures"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Method Overloading -\u003e same method name with different parameter signatures\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  115,
+                          "question":  "A Bank SO IT coding requirement states: same method name with different parameter signatures. Which concept should be selected?",
+                          "options":  [
+                                          "Integration Test",
+                                          "Method Overloading",
+                                          "Branch",
+                                          "Conditional Statement"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Method Overloading."
+                      },
+                      {
+                          "id":  116,
+                          "question":  "Which Programming concept best matches: subclass redefining inherited method behavior?",
+                          "options":  [
+                                          "Code Coverage",
+                                          "Finally Block",
+                                          "Method Overriding",
+                                          "Regression Test"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Method Overriding is defined as: subclass redefining inherited method behavior."
+                      },
+                      {
+                          "id":  117,
+                          "question":  "What is the most accurate description of \u0027Method Overriding\u0027?",
+                          "options":  [
+                                          "classification defining kind of value and operations",
+                                          "system for tracking changes in source code",
+                                          "blueprint defining attributes and methods of objects",
+                                          "subclass redefining inherited method behavior"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Method Overriding refers to: subclass redefining inherited method behavior."
+                      },
+                      {
+                          "id":  118,
+                          "question":  "\u0027Method Overriding\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Development Workflow",
+                                          "Error Handling",
+                                          "Programming Basics",
+                                          "Object-Oriented Programming"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Method Overriding is mainly part of Object-Oriented Programming."
+                      },
+                      {
+                          "id":  119,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Method Overloading -\u003e subclass redefining inherited method behavior",
+                                          "Stack -\u003e subclass redefining inherited method behavior",
+                                          "Method Overriding -\u003e subclass redefining inherited method behavior",
+                                          "Big O Notation -\u003e subclass redefining inherited method behavior"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Method Overriding -\u003e subclass redefining inherited method behavior\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  120,
+                          "question":  "A Bank SO IT coding requirement states: subclass redefining inherited method behavior. Which concept should be selected?",
+                          "options":  [
+                                          "Code Coverage",
+                                          "Regression Test",
+                                          "Finally Block",
+                                          "Method Overriding"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Method Overriding."
+                      },
+                      {
+                          "id":  121,
+                          "question":  "Which Programming concept best matches: special method initializing object state on creation?",
+                          "options":  [
+                                          "Data Type",
+                                          "Binary Search",
+                                          "Finally Block",
+                                          "Constructor"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Constructor is defined as: special method initializing object state on creation."
+                      },
+                      {
+                          "id":  122,
+                          "question":  "What is the most accurate description of \u0027Constructor\u0027?",
+                          "options":  [
+                                          "whole number data type without fractional part",
+                                          "branching construct selecting path based on condition",
+                                          "automated test validating smallest code units",
+                                          "special method initializing object state on creation"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Constructor refers to: special method initializing object state on creation."
+                      },
+                      {
+                          "id":  123,
+                          "question":  "\u0027Constructor\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Error Handling",
+                                          "Development Workflow",
+                                          "Testing and Quality",
+                                          "Object-Oriented Programming"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Constructor is mainly part of Object-Oriented Programming."
+                      },
+                      {
+                          "id":  124,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Exception -\u003e special method initializing object state on creation",
+                                          "Constructor -\u003e special method initializing object state on creation",
+                                          "Compilation -\u003e special method initializing object state on creation",
+                                          "Version Control -\u003e special method initializing object state on creation"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Constructor -\u003e special method initializing object state on creation\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  125,
+                          "question":  "A Bank SO IT coding requirement states: special method initializing object state on creation. Which concept should be selected?",
+                          "options":  [
+                                          "Binary Search",
+                                          "Data Type",
+                                          "Finally Block",
+                                          "Constructor"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Constructor."
+                      },
+                      {
+                          "id":  126,
+                          "question":  "Which Programming concept best matches: abnormal event disrupting normal program flow?",
+                          "options":  [
+                                          "Recursion",
+                                          "Exception",
+                                          "Encapsulation",
+                                          "Variable"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Exception is defined as: abnormal event disrupting normal program flow."
+                      },
+                      {
+                          "id":  127,
+                          "question":  "What is the most accurate description of \u0027Exception\u0027?",
+                          "options":  [
+                                          "error occurring during program execution",
+                                          "structure for handling exceptions gracefully",
+                                          "abnormal event disrupting normal program flow",
+                                          "parallel line of development in version control"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Exception refers to: abnormal event disrupting normal program flow."
+                      },
+                      {
+                          "id":  128,
+                          "question":  "\u0027Exception\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Object-Oriented Programming",
+                                          "Testing and Quality",
+                                          "Algorithmic Thinking",
+                                          "Error Handling"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Exception is mainly part of Error Handling."
+                      },
+                      {
+                          "id":  129,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Exception -\u003e abnormal event disrupting normal program flow",
+                                          "Array -\u003e abnormal event disrupting normal program flow",
+                                          "Class -\u003e abnormal event disrupting normal program flow",
+                                          "Polymorphism -\u003e abnormal event disrupting normal program flow"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Exception -\u003e abnormal event disrupting normal program flow\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  130,
+                          "question":  "A Bank SO IT coding requirement states: abnormal event disrupting normal program flow. Which concept should be selected?",
+                          "options":  [
+                                          "Exception",
+                                          "Recursion",
+                                          "Encapsulation",
+                                          "Variable"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Exception."
+                      },
+                      {
+                          "id":  131,
+                          "question":  "Which Programming concept best matches: structure for handling exceptions gracefully?",
+                          "options":  [
+                                          "Method Overriding",
+                                          "Try-Catch",
+                                          "Conditional Statement",
+                                          "Big O Notation"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Try-Catch is defined as: structure for handling exceptions gracefully."
+                      },
+                      {
+                          "id":  132,
+                          "question":  "What is the most accurate description of \u0027Try-Catch\u0027?",
+                          "options":  [
+                                          "asymptotic upper bound representation of complexity",
+                                          "abnormal event disrupting normal program flow",
+                                          "structure for handling exceptions gracefully",
+                                          "reusable block of code performing specific task"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Try-Catch refers to: structure for handling exceptions gracefully."
+                      },
+                      {
+                          "id":  133,
+                          "question":  "\u0027Try-Catch\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Testing and Quality",
+                                          "Algorithmic Thinking",
+                                          "Development Workflow",
+                                          "Error Handling"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Try-Catch is mainly part of Error Handling."
+                      },
+                      {
+                          "id":  134,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Finally Block -\u003e structure for handling exceptions gracefully",
+                                          "Space Complexity -\u003e structure for handling exceptions gracefully",
+                                          "Version Control -\u003e structure for handling exceptions gracefully",
+                                          "Try-Catch -\u003e structure for handling exceptions gracefully"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Try-Catch -\u003e structure for handling exceptions gracefully\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  135,
+                          "question":  "A Bank SO IT coding requirement states: structure for handling exceptions gracefully. Which concept should be selected?",
+                          "options":  [
+                                          "Try-Catch",
+                                          "Big O Notation",
+                                          "Method Overriding",
+                                          "Conditional Statement"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Try-Catch."
+                      },
+                      {
+                          "id":  136,
+                          "question":  "Which Programming concept best matches: code block executed regardless of exception outcome?",
+                          "options":  [
+                                          "Integration Test",
+                                          "Conditional Statement",
+                                          "Finally Block",
+                                          "Code Review"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Finally Block is defined as: code block executed regardless of exception outcome."
+                      },
+                      {
+                          "id":  137,
+                          "question":  "What is the most accurate description of \u0027Finally Block\u0027?",
+                          "options":  [
+                                          "checking user input against expected format/rules",
+                                          "code block executed regardless of exception outcome",
+                                          "automated test validating smallest code units",
+                                          "system for tracking changes in source code"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Finally Block refers to: code block executed regardless of exception outcome."
+                      },
+                      {
+                          "id":  138,
+                          "question":  "\u0027Finally Block\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Programming Basics",
+                                          "Object-Oriented Programming",
+                                          "Error Handling",
+                                          "Development Workflow"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Finally Block is mainly part of Error Handling."
+                      },
+                      {
+                          "id":  139,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Refactoring -\u003e code block executed regardless of exception outcome",
+                                          "Boolean -\u003e code block executed regardless of exception outcome",
+                                          "Finally Block -\u003e code block executed regardless of exception outcome",
+                                          "Conditional Statement -\u003e code block executed regardless of exception outcome"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Finally Block -\u003e code block executed regardless of exception outcome\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  140,
+                          "question":  "A Bank SO IT coding requirement states: code block executed regardless of exception outcome. Which concept should be selected?",
+                          "options":  [
+                                          "Code Review",
+                                          "Finally Block",
+                                          "Integration Test",
+                                          "Conditional Statement"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Finally Block."
+                      },
+                      {
+                          "id":  141,
+                          "question":  "Which Programming concept best matches: reference accessing object when reference is null?",
+                          "options":  [
+                                          "Null Pointer",
+                                          "Refactoring",
+                                          "Hash Table",
+                                          "Input Validation"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Null Pointer is defined as: reference accessing object when reference is null."
+                      },
+                      {
+                          "id":  142,
+                          "question":  "What is the most accurate description of \u0027Null Pointer\u0027?",
+                          "options":  [
+                                          "sequence of characters representing text",
+                                          "growth rate of algorithm runtime with input size",
+                                          "abnormal event disrupting normal program flow",
+                                          "reference accessing object when reference is null"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Null Pointer refers to: reference accessing object when reference is null."
+                      },
+                      {
+                          "id":  143,
+                          "question":  "\u0027Null Pointer\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Testing and Quality",
+                                          "Object-Oriented Programming",
+                                          "Development Workflow",
+                                          "Error Handling"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Null Pointer is mainly part of Error Handling."
+                      },
+                      {
+                          "id":  144,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Stack -\u003e reference accessing object when reference is null",
+                                          "Null Pointer -\u003e reference accessing object when reference is null",
+                                          "Object -\u003e reference accessing object when reference is null",
+                                          "Binary Search -\u003e reference accessing object when reference is null"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Null Pointer -\u003e reference accessing object when reference is null\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  145,
+                          "question":  "A Bank SO IT coding requirement states: reference accessing object when reference is null. Which concept should be selected?",
+                          "options":  [
+                                          "Hash Table",
+                                          "Input Validation",
+                                          "Null Pointer",
+                                          "Refactoring"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Null Pointer."
+                      },
+                      {
+                          "id":  146,
+                          "question":  "Which Programming concept best matches: checking user input against expected format/rules?",
+                          "options":  [
+                                          "Constructor",
+                                          "Finally Block",
+                                          "Input Validation",
+                                          "Abstraction"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Input Validation is defined as: checking user input against expected format/rules."
+                      },
+                      {
+                          "id":  147,
+                          "question":  "What is the most accurate description of \u0027Input Validation\u0027?",
+                          "options":  [
+                                          "checking user input against expected format/rules",
+                                          "error occurring during program execution",
+                                          "automated workflow for build and test on code changes",
+                                          "automated test validating smallest code units"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Input Validation refers to: checking user input against expected format/rules."
+                      },
+                      {
+                          "id":  148,
+                          "question":  "\u0027Input Validation\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Programming Basics",
+                                          "Object-Oriented Programming",
+                                          "Development Workflow",
+                                          "Error Handling"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Input Validation is mainly part of Error Handling."
+                      },
+                      {
+                          "id":  149,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Unit Test -\u003e checking user input against expected format/rules",
+                                          "Compilation -\u003e checking user input against expected format/rules",
+                                          "Refactoring -\u003e checking user input against expected format/rules",
+                                          "Input Validation -\u003e checking user input against expected format/rules"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Input Validation -\u003e checking user input against expected format/rules\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  150,
+                          "question":  "A Bank SO IT coding requirement states: checking user input against expected format/rules. Which concept should be selected?",
+                          "options":  [
+                                          "Finally Block",
+                                          "Abstraction",
+                                          "Input Validation",
+                                          "Constructor"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Input Validation."
+                      },
+                      {
+                          "id":  151,
+                          "question":  "Which Programming concept best matches: automated test validating smallest code units?",
+                          "options":  [
+                                          "Unit Test",
+                                          "Version Control",
+                                          "Finally Block",
+                                          "Big O Notation"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Unit Test is defined as: automated test validating smallest code units."
+                      },
+                      {
+                          "id":  152,
+                          "question":  "What is the most accurate description of \u0027Unit Test\u0027?",
+                          "options":  [
+                                          "growth rate of algorithm runtime with input size",
+                                          "metric showing percentage of code tested",
+                                          "automated test validating smallest code units",
+                                          "automated workflow for build and test on code changes"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Unit Test refers to: automated test validating smallest code units."
+                      },
+                      {
+                          "id":  153,
+                          "question":  "\u0027Unit Test\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Algorithmic Thinking",
+                                          "Programming Basics",
+                                          "Testing and Quality",
+                                          "Error Handling"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Unit Test is mainly part of Testing and Quality."
+                      },
+                      {
+                          "id":  154,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Unit Test -\u003e automated test validating smallest code units",
+                                          "Constructor -\u003e automated test validating smallest code units",
+                                          "Integer -\u003e automated test validating smallest code units",
+                                          "Recursion -\u003e automated test validating smallest code units"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Unit Test -\u003e automated test validating smallest code units\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  155,
+                          "question":  "A Bank SO IT coding requirement states: automated test validating smallest code units. Which concept should be selected?",
+                          "options":  [
+                                          "Unit Test",
+                                          "Big O Notation",
+                                          "Version Control",
+                                          "Finally Block"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Unit Test."
+                      },
+                      {
+                          "id":  156,
+                          "question":  "Which Programming concept best matches: test verifying interaction between combined modules?",
+                          "options":  [
+                                          "Code Coverage",
+                                          "Integration Test",
+                                          "Unit Test",
+                                          "Encapsulation"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Integration Test is defined as: test verifying interaction between combined modules."
+                      },
+                      {
+                          "id":  157,
+                          "question":  "What is the most accurate description of \u0027Integration Test\u0027?",
+                          "options":  [
+                                          "test verifying interaction between combined modules",
+                                          "named storage location for data value",
+                                          "growth rate of memory use with input size",
+                                          "metric showing percentage of code tested"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Integration Test refers to: test verifying interaction between combined modules."
+                      },
+                      {
+                          "id":  158,
+                          "question":  "\u0027Integration Test\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Error Handling",
+                                          "Object-Oriented Programming",
+                                          "Programming Basics",
+                                          "Testing and Quality"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Integration Test is mainly part of Testing and Quality."
+                      },
+                      {
+                          "id":  159,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Encapsulation -\u003e test verifying interaction between combined modules",
+                                          "Parameter -\u003e test verifying interaction between combined modules",
+                                          "Integration Test -\u003e test verifying interaction between combined modules",
+                                          "Conditional Statement -\u003e test verifying interaction between combined modules"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Integration Test -\u003e test verifying interaction between combined modules\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  160,
+                          "question":  "A Bank SO IT coding requirement states: test verifying interaction between combined modules. Which concept should be selected?",
+                          "options":  [
+                                          "Code Coverage",
+                                          "Encapsulation",
+                                          "Unit Test",
+                                          "Integration Test"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Integration Test."
+                      },
+                      {
+                          "id":  161,
+                          "question":  "Which Programming concept best matches: test ensuring changes did not break existing features?",
+                          "options":  [
+                                          "Code Coverage",
+                                          "Conditional Statement",
+                                          "Boolean",
+                                          "Regression Test"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Regression Test is defined as: test ensuring changes did not break existing features."
+                      },
+                      {
+                          "id":  162,
+                          "question":  "What is the most accurate description of \u0027Regression Test\u0027?",
+                          "options":  [
+                                          "test ensuring changes did not break existing features",
+                                          "process of identifying and fixing defects",
+                                          "bundling data and methods with access control",
+                                          "subclass redefining inherited method behavior"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Regression Test refers to: test ensuring changes did not break existing features."
+                      },
+                      {
+                          "id":  163,
+                          "question":  "\u0027Regression Test\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Testing and Quality",
+                                          "Development Workflow",
+                                          "Error Handling",
+                                          "Object-Oriented Programming"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Regression Test is mainly part of Testing and Quality."
+                      },
+                      {
+                          "id":  164,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Binary Search -\u003e test ensuring changes did not break existing features",
+                                          "Regression Test -\u003e test ensuring changes did not break existing features",
+                                          "Polymorphism -\u003e test ensuring changes did not break existing features",
+                                          "Pull Request -\u003e test ensuring changes did not break existing features"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Regression Test -\u003e test ensuring changes did not break existing features\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  165,
+                          "question":  "A Bank SO IT coding requirement states: test ensuring changes did not break existing features. Which concept should be selected?",
+                          "options":  [
+                                          "Conditional Statement",
+                                          "Regression Test",
+                                          "Boolean",
+                                          "Code Coverage"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Regression Test."
+                      },
+                      {
+                          "id":  166,
+                          "question":  "Which Programming concept best matches: metric showing percentage of code tested?",
+                          "options":  [
+                                          "Unit Test",
+                                          "Conditional Statement",
+                                          "Code Coverage",
+                                          "Data Type"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Code Coverage is defined as: metric showing percentage of code tested."
+                      },
+                      {
+                          "id":  167,
+                          "question":  "What is the most accurate description of \u0027Code Coverage\u0027?",
+                          "options":  [
+                                          "reference accessing object when reference is null",
+                                          "metric showing percentage of code tested",
+                                          "proposal to review and merge code changes",
+                                          "abnormal event disrupting normal program flow"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Code Coverage refers to: metric showing percentage of code tested."
+                      },
+                      {
+                          "id":  168,
+                          "question":  "\u0027Code Coverage\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Algorithmic Thinking",
+                                          "Development Workflow",
+                                          "Testing and Quality",
+                                          "Programming Basics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Code Coverage is mainly part of Testing and Quality."
+                      },
+                      {
+                          "id":  169,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Data Type -\u003e metric showing percentage of code tested",
+                                          "Method Overriding -\u003e metric showing percentage of code tested",
+                                          "Code Coverage -\u003e metric showing percentage of code tested",
+                                          "Encapsulation -\u003e metric showing percentage of code tested"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Code Coverage -\u003e metric showing percentage of code tested\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  170,
+                          "question":  "A Bank SO IT coding requirement states: metric showing percentage of code tested. Which concept should be selected?",
+                          "options":  [
+                                          "Unit Test",
+                                          "Conditional Statement",
+                                          "Data Type",
+                                          "Code Coverage"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Code Coverage."
+                      },
+                      {
+                          "id":  171,
+                          "question":  "Which Programming concept best matches: process of identifying and fixing defects?",
+                          "options":  [
+                                          "Regression Test",
+                                          "Stack",
+                                          "Array",
+                                          "Debugging"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Debugging is defined as: process of identifying and fixing defects."
+                      },
+                      {
+                          "id":  172,
+                          "question":  "What is the most accurate description of \u0027Debugging\u0027?",
+                          "options":  [
+                                          "recorded snapshot of staged source code changes",
+                                          "process of identifying and fixing defects",
+                                          "bundling data and methods with access control",
+                                          "error occurring during program execution"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Debugging refers to: process of identifying and fixing defects."
+                      },
+                      {
+                          "id":  173,
+                          "question":  "\u0027Debugging\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Development Workflow",
+                                          "Algorithmic Thinking",
+                                          "Error Handling",
+                                          "Testing and Quality"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Debugging is mainly part of Testing and Quality."
+                      },
+                      {
+                          "id":  174,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Input Validation -\u003e process of identifying and fixing defects",
+                                          "Null Pointer -\u003e process of identifying and fixing defects",
+                                          "Debugging -\u003e process of identifying and fixing defects",
+                                          "Time Complexity -\u003e process of identifying and fixing defects"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Debugging -\u003e process of identifying and fixing defects\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  175,
+                          "question":  "A Bank SO IT coding requirement states: process of identifying and fixing defects. Which concept should be selected?",
+                          "options":  [
+                                          "Array",
+                                          "Debugging",
+                                          "Stack",
+                                          "Regression Test"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Debugging."
+                      },
+                      {
+                          "id":  176,
+                          "question":  "Which Programming concept best matches: system for tracking changes in source code?",
+                          "options":  [
+                                          "Version Control",
+                                          "Integer",
+                                          "Array",
+                                          "String"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Version Control is defined as: system for tracking changes in source code."
+                      },
+                      {
+                          "id":  177,
+                          "question":  "What is the most accurate description of \u0027Version Control\u0027?",
+                          "options":  [
+                                          "indexed collection storing multiple values of same type",
+                                          "subclass redefining inherited method behavior",
+                                          "classification defining kind of value and operations",
+                                          "system for tracking changes in source code"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Version Control refers to: system for tracking changes in source code."
+                      },
+                      {
+                          "id":  178,
+                          "question":  "\u0027Version Control\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Algorithmic Thinking",
+                                          "Error Handling",
+                                          "Development Workflow",
+                                          "Object-Oriented Programming"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Version Control is mainly part of Development Workflow."
+                      },
+                      {
+                          "id":  179,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Input Validation -\u003e system for tracking changes in source code",
+                                          "Version Control -\u003e system for tracking changes in source code",
+                                          "Null Pointer -\u003e system for tracking changes in source code",
+                                          "Runtime Error -\u003e system for tracking changes in source code"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Version Control -\u003e system for tracking changes in source code\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  180,
+                          "question":  "A Bank SO IT coding requirement states: system for tracking changes in source code. Which concept should be selected?",
+                          "options":  [
+                                          "Integer",
+                                          "String",
+                                          "Array",
+                                          "Version Control"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Version Control."
+                      },
+                      {
+                          "id":  181,
+                          "question":  "Which Programming concept best matches: recorded snapshot of staged source code changes?",
+                          "options":  [
+                                          "Constructor",
+                                          "Runtime Error",
+                                          "Hash Table",
+                                          "Git Commit"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Git Commit is defined as: recorded snapshot of staged source code changes."
+                      },
+                      {
+                          "id":  182,
+                          "question":  "What is the most accurate description of \u0027Git Commit\u0027?",
+                          "options":  [
+                                          "metric showing percentage of code tested",
+                                          "reusable block of code performing specific task",
+                                          "indexed collection storing multiple values of same type",
+                                          "recorded snapshot of staged source code changes"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Git Commit refers to: recorded snapshot of staged source code changes."
+                      },
+                      {
+                          "id":  183,
+                          "question":  "\u0027Git Commit\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Development Workflow",
+                                          "Testing and Quality",
+                                          "Programming Basics",
+                                          "Object-Oriented Programming"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Git Commit is mainly part of Development Workflow."
+                      },
+                      {
+                          "id":  184,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "CI Pipeline -\u003e recorded snapshot of staged source code changes",
+                                          "Data Type -\u003e recorded snapshot of staged source code changes",
+                                          "Git Commit -\u003e recorded snapshot of staged source code changes",
+                                          "Parameter -\u003e recorded snapshot of staged source code changes"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Git Commit -\u003e recorded snapshot of staged source code changes\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  185,
+                          "question":  "A Bank SO IT coding requirement states: recorded snapshot of staged source code changes. Which concept should be selected?",
+                          "options":  [
+                                          "Runtime Error",
+                                          "Hash Table",
+                                          "Constructor",
+                                          "Git Commit"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Git Commit."
+                      },
+                      {
+                          "id":  186,
+                          "question":  "Which Programming concept best matches: parallel line of development in version control?",
+                          "options":  [
+                                          "Method Overloading",
+                                          "Branch",
+                                          "Data Type",
+                                          "String"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Branch is defined as: parallel line of development in version control."
+                      },
+                      {
+                          "id":  187,
+                          "question":  "What is the most accurate description of \u0027Branch\u0027?",
+                          "options":  [
+                                          "error occurring during program execution",
+                                          "blueprint defining attributes and methods of objects",
+                                          "parallel line of development in version control",
+                                          "improving internal code structure without changing behavior"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Branch refers to: parallel line of development in version control."
+                      },
+                      {
+                          "id":  188,
+                          "question":  "\u0027Branch\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Algorithmic Thinking",
+                                          "Error Handling",
+                                          "Development Workflow",
+                                          "Programming Basics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Branch is mainly part of Development Workflow."
+                      },
+                      {
+                          "id":  189,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Compilation -\u003e parallel line of development in version control",
+                                          "Stack -\u003e parallel line of development in version control",
+                                          "Branch -\u003e parallel line of development in version control",
+                                          "CI Pipeline -\u003e parallel line of development in version control"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Branch -\u003e parallel line of development in version control\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  190,
+                          "question":  "A Bank SO IT coding requirement states: parallel line of development in version control. Which concept should be selected?",
+                          "options":  [
+                                          "Method Overloading",
+                                          "Data Type",
+                                          "Branch",
+                                          "String"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Branch."
+                      },
+                      {
+                          "id":  191,
+                          "question":  "Which Programming concept best matches: operation combining changes from different branches?",
+                          "options":  [
+                                          "Inheritance",
+                                          "Return Value",
+                                          "CI Pipeline",
+                                          "Merge"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Merge is defined as: operation combining changes from different branches."
+                      },
+                      {
+                          "id":  192,
+                          "question":  "What is the most accurate description of \u0027Merge\u0027?",
+                          "options":  [
+                                          "parallel line of development in version control",
+                                          "operation combining changes from different branches",
+                                          "bundling data and methods with access control",
+                                          "code block executed regardless of exception outcome"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Merge refers to: operation combining changes from different branches."
+                      },
+                      {
+                          "id":  193,
+                          "question":  "\u0027Merge\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Error Handling",
+                                          "Object-Oriented Programming",
+                                          "Development Workflow",
+                                          "Testing and Quality"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Merge is mainly part of Development Workflow."
+                      },
+                      {
+                          "id":  194,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Merge -\u003e operation combining changes from different branches",
+                                          "Interface -\u003e operation combining changes from different branches",
+                                          "Integration Test -\u003e operation combining changes from different branches",
+                                          "Hash Table -\u003e operation combining changes from different branches"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Merge -\u003e operation combining changes from different branches\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  195,
+                          "question":  "A Bank SO IT coding requirement states: operation combining changes from different branches. Which concept should be selected?",
+                          "options":  [
+                                          "Inheritance",
+                                          "Merge",
+                                          "CI Pipeline",
+                                          "Return Value"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Merge."
+                      },
+                      {
+                          "id":  196,
+                          "question":  "Which Programming concept best matches: proposal to review and merge code changes?",
+                          "options":  [
+                                          "Class",
+                                          "Constructor",
+                                          "Try-Catch",
+                                          "Pull Request"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Pull Request is defined as: proposal to review and merge code changes."
+                      },
+                      {
+                          "id":  197,
+                          "question":  "What is the most accurate description of \u0027Pull Request\u0027?",
+                          "options":  [
+                                          "bundling data and methods with access control",
+                                          "proposal to review and merge code changes",
+                                          "checking user input against expected format/rules",
+                                          "data type representing true or false"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Pull Request refers to: proposal to review and merge code changes."
+                      },
+                      {
+                          "id":  198,
+                          "question":  "\u0027Pull Request\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Programming Basics",
+                                          "Object-Oriented Programming",
+                                          "Error Handling",
+                                          "Development Workflow"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Pull Request is mainly part of Development Workflow."
+                      },
+                      {
+                          "id":  199,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Abstraction -\u003e proposal to review and merge code changes",
+                                          "Pull Request -\u003e proposal to review and merge code changes",
+                                          "Linear Search -\u003e proposal to review and merge code changes",
+                                          "Git Commit -\u003e proposal to review and merge code changes"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Pull Request -\u003e proposal to review and merge code changes\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  200,
+                          "question":  "A Bank SO IT coding requirement states: proposal to review and merge code changes. Which concept should be selected?",
+                          "options":  [
+                                          "Try-Catch",
+                                          "Pull Request",
+                                          "Constructor",
+                                          "Class"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Pull Request."
+                      },
+                      {
+                          "id":  201,
+                          "question":  "Which Programming concept best matches: automated workflow for build and test on code changes?",
+                          "options":  [
+                                          "Inheritance",
+                                          "CI Pipeline",
+                                          "Variable",
+                                          "Conditional Statement"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "CI Pipeline is defined as: automated workflow for build and test on code changes."
+                      },
+                      {
+                          "id":  202,
+                          "question":  "What is the most accurate description of \u0027CI Pipeline\u0027?",
+                          "options":  [
+                                          "parallel line of development in version control",
+                                          "reusable block of code performing specific task",
+                                          "automated workflow for build and test on code changes",
+                                          "algorithm finding element in sorted array by halving range"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CI Pipeline refers to: automated workflow for build and test on code changes."
+                      },
+                      {
+                          "id":  203,
+                          "question":  "\u0027CI Pipeline\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Development Workflow",
+                                          "Object-Oriented Programming",
+                                          "Programming Basics",
+                                          "Algorithmic Thinking"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "CI Pipeline is mainly part of Development Workflow."
+                      },
+                      {
+                          "id":  204,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Binary Search -\u003e automated workflow for build and test on code changes",
+                                          "CI Pipeline -\u003e automated workflow for build and test on code changes",
+                                          "Regression Test -\u003e automated workflow for build and test on code changes",
+                                          "Integration Test -\u003e automated workflow for build and test on code changes"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027CI Pipeline -\u003e automated workflow for build and test on code changes\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  205,
+                          "question":  "A Bank SO IT coding requirement states: automated workflow for build and test on code changes. Which concept should be selected?",
+                          "options":  [
+                                          "Inheritance",
+                                          "Conditional Statement",
+                                          "CI Pipeline",
+                                          "Variable"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to CI Pipeline."
+                      },
+                      {
+                          "id":  206,
+                          "question":  "Which Programming concept best matches: peer examination of code for quality and defects?",
+                          "options":  [
+                                          "Runtime Error",
+                                          "CI Pipeline",
+                                          "Null Pointer",
+                                          "Code Review"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Code Review is defined as: peer examination of code for quality and defects."
+                      },
+                      {
+                          "id":  207,
+                          "question":  "What is the most accurate description of \u0027Code Review\u0027?",
+                          "options":  [
+                                          "peer examination of code for quality and defects",
+                                          "instance of a class with state and behavior",
+                                          "proposal to review and merge code changes",
+                                          "translation of source code to machine-readable form"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Code Review refers to: peer examination of code for quality and defects."
+                      },
+                      {
+                          "id":  208,
+                          "question":  "\u0027Code Review\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Error Handling",
+                                          "Development Workflow",
+                                          "Object-Oriented Programming",
+                                          "Algorithmic Thinking"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Code Review is mainly part of Development Workflow."
+                      },
+                      {
+                          "id":  209,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Interface -\u003e peer examination of code for quality and defects",
+                                          "Code Review -\u003e peer examination of code for quality and defects",
+                                          "Inheritance -\u003e peer examination of code for quality and defects",
+                                          "Null Pointer -\u003e peer examination of code for quality and defects"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Code Review -\u003e peer examination of code for quality and defects\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  210,
+                          "question":  "A Bank SO IT coding requirement states: peer examination of code for quality and defects. Which concept should be selected?",
+                          "options":  [
+                                          "CI Pipeline",
+                                          "Code Review",
+                                          "Null Pointer",
+                                          "Runtime Error"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Code Review."
+                      },
+                      {
+                          "id":  211,
+                          "question":  "Which Programming concept best matches: improving internal code structure without changing behavior?",
+                          "options":  [
+                                          "Refactoring",
+                                          "Boolean",
+                                          "Abstraction",
+                                          "Integer"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Refactoring is defined as: improving internal code structure without changing behavior."
+                      },
+                      {
+                          "id":  212,
+                          "question":  "What is the most accurate description of \u0027Refactoring\u0027?",
+                          "options":  [
+                                          "reference accessing object when reference is null",
+                                          "improving internal code structure without changing behavior",
+                                          "algorithm finding element in sorted array by halving range",
+                                          "contract specifying methods without implementation details"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Refactoring refers to: improving internal code structure without changing behavior."
+                      },
+                      {
+                          "id":  213,
+                          "question":  "\u0027Refactoring\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Development Workflow",
+                                          "Testing and Quality",
+                                          "Algorithmic Thinking",
+                                          "Error Handling"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Refactoring is mainly part of Development Workflow."
+                      },
+                      {
+                          "id":  214,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Input Validation -\u003e improving internal code structure without changing behavior",
+                                          "Pull Request -\u003e improving internal code structure without changing behavior",
+                                          "Branch -\u003e improving internal code structure without changing behavior",
+                                          "Refactoring -\u003e improving internal code structure without changing behavior"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Refactoring -\u003e improving internal code structure without changing behavior\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  215,
+                          "question":  "A Bank SO IT coding requirement states: improving internal code structure without changing behavior. Which concept should be selected?",
+                          "options":  [
+                                          "Refactoring",
+                                          "Abstraction",
+                                          "Integer",
+                                          "Boolean"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Refactoring."
+                      },
+                      {
+                          "id":  216,
+                          "question":  "Which Programming concept best matches: growth rate of algorithm runtime with input size?",
+                          "options":  [
+                                          "Conditional Statement",
+                                          "Time Complexity",
+                                          "Linear Search",
+                                          "Return Value"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Time Complexity is defined as: growth rate of algorithm runtime with input size."
+                      },
+                      {
+                          "id":  217,
+                          "question":  "What is the most accurate description of \u0027Time Complexity\u0027?",
+                          "options":  [
+                                          "reference accessing object when reference is null",
+                                          "growth rate of algorithm runtime with input size",
+                                          "named storage location for data value",
+                                          "technique where function calls itself to solve problem"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Time Complexity refers to: growth rate of algorithm runtime with input size."
+                      },
+                      {
+                          "id":  218,
+                          "question":  "\u0027Time Complexity\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Object-Oriented Programming",
+                                          "Error Handling",
+                                          "Algorithmic Thinking",
+                                          "Testing and Quality"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Time Complexity is mainly part of Algorithmic Thinking."
+                      },
+                      {
+                          "id":  219,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Regression Test -\u003e growth rate of algorithm runtime with input size",
+                                          "Runtime Error -\u003e growth rate of algorithm runtime with input size",
+                                          "Time Complexity -\u003e growth rate of algorithm runtime with input size",
+                                          "Parameter -\u003e growth rate of algorithm runtime with input size"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Time Complexity -\u003e growth rate of algorithm runtime with input size\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  220,
+                          "question":  "A Bank SO IT coding requirement states: growth rate of algorithm runtime with input size. Which concept should be selected?",
+                          "options":  [
+                                          "Conditional Statement",
+                                          "Linear Search",
+                                          "Return Value",
+                                          "Time Complexity"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Time Complexity."
+                      },
+                      {
+                          "id":  221,
+                          "question":  "Which Programming concept best matches: growth rate of memory use with input size?",
+                          "options":  [
+                                          "Refactoring",
+                                          "Return Value",
+                                          "Space Complexity",
+                                          "Hash Table"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Space Complexity is defined as: growth rate of memory use with input size."
+                      },
+                      {
+                          "id":  222,
+                          "question":  "What is the most accurate description of \u0027Space Complexity\u0027?",
+                          "options":  [
+                                          "hiding implementation details while exposing essentials",
+                                          "output produced by function after execution",
+                                          "growth rate of memory use with input size",
+                                          "data structure mapping keys to values for fast lookup"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Space Complexity refers to: growth rate of memory use with input size."
+                      },
+                      {
+                          "id":  223,
+                          "question":  "\u0027Space Complexity\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Programming Basics",
+                                          "Testing and Quality",
+                                          "Algorithmic Thinking",
+                                          "Development Workflow"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Space Complexity is mainly part of Algorithmic Thinking."
+                      },
+                      {
+                          "id":  224,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Recursion -\u003e growth rate of memory use with input size",
+                                          "Regression Test -\u003e growth rate of memory use with input size",
+                                          "Integration Test -\u003e growth rate of memory use with input size",
+                                          "Space Complexity -\u003e growth rate of memory use with input size"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Space Complexity -\u003e growth rate of memory use with input size\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  225,
+                          "question":  "A Bank SO IT coding requirement states: growth rate of memory use with input size. Which concept should be selected?",
+                          "options":  [
+                                          "Space Complexity",
+                                          "Hash Table",
+                                          "Return Value",
+                                          "Refactoring"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Space Complexity."
+                      },
+                      {
+                          "id":  226,
+                          "question":  "Which Programming concept best matches: asymptotic upper bound representation of complexity?",
+                          "options":  [
+                                          "Data Type",
+                                          "Loop",
+                                          "Big O Notation",
+                                          "Function"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Big O Notation is defined as: asymptotic upper bound representation of complexity."
+                      },
+                      {
+                          "id":  227,
+                          "question":  "What is the most accurate description of \u0027Big O Notation\u0027?",
+                          "options":  [
+                                          "instance of a class with state and behavior",
+                                          "input variable accepted by function definition",
+                                          "asymptotic upper bound representation of complexity",
+                                          "improving internal code structure without changing behavior"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Big O Notation refers to: asymptotic upper bound representation of complexity."
+                      },
+                      {
+                          "id":  228,
+                          "question":  "\u0027Big O Notation\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Testing and Quality",
+                                          "Development Workflow",
+                                          "Algorithmic Thinking",
+                                          "Error Handling"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Big O Notation is mainly part of Algorithmic Thinking."
+                      },
+                      {
+                          "id":  229,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Array -\u003e asymptotic upper bound representation of complexity",
+                                          "Debugging -\u003e asymptotic upper bound representation of complexity",
+                                          "Big O Notation -\u003e asymptotic upper bound representation of complexity",
+                                          "Unit Test -\u003e asymptotic upper bound representation of complexity"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Big O Notation -\u003e asymptotic upper bound representation of complexity\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  230,
+                          "question":  "A Bank SO IT coding requirement states: asymptotic upper bound representation of complexity. Which concept should be selected?",
+                          "options":  [
+                                          "Loop",
+                                          "Data Type",
+                                          "Big O Notation",
+                                          "Function"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Big O Notation."
+                      },
+                      {
+                          "id":  231,
+                          "question":  "Which Programming concept best matches: algorithm scanning elements sequentially to find target?",
+                          "options":  [
+                                          "Conditional Statement",
+                                          "Time Complexity",
+                                          "Linear Search",
+                                          "Git Commit"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Linear Search is defined as: algorithm scanning elements sequentially to find target."
+                      },
+                      {
+                          "id":  232,
+                          "question":  "What is the most accurate description of \u0027Linear Search\u0027?",
+                          "options":  [
+                                          "checking user input against expected format/rules",
+                                          "program executing source code line by line",
+                                          "algorithm scanning elements sequentially to find target",
+                                          "ability to use same interface for different underlying forms"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Linear Search refers to: algorithm scanning elements sequentially to find target."
+                      },
+                      {
+                          "id":  233,
+                          "question":  "\u0027Linear Search\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Algorithmic Thinking",
+                                          "Programming Basics",
+                                          "Development Workflow",
+                                          "Error Handling"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Linear Search is mainly part of Algorithmic Thinking."
+                      },
+                      {
+                          "id":  234,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Linear Search -\u003e algorithm scanning elements sequentially to find target",
+                                          "Method Overloading -\u003e algorithm scanning elements sequentially to find target",
+                                          "Interface -\u003e algorithm scanning elements sequentially to find target",
+                                          "Regression Test -\u003e algorithm scanning elements sequentially to find target"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Linear Search -\u003e algorithm scanning elements sequentially to find target\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  235,
+                          "question":  "A Bank SO IT coding requirement states: algorithm scanning elements sequentially to find target. Which concept should be selected?",
+                          "options":  [
+                                          "Git Commit",
+                                          "Conditional Statement",
+                                          "Time Complexity",
+                                          "Linear Search"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Linear Search."
+                      },
+                      {
+                          "id":  236,
+                          "question":  "Which Programming concept best matches: algorithm finding element in sorted array by halving range?",
+                          "options":  [
+                                          "Big O Notation",
+                                          "Try-Catch",
+                                          "Binary Search",
+                                          "Integer"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Binary Search is defined as: algorithm finding element in sorted array by halving range."
+                      },
+                      {
+                          "id":  237,
+                          "question":  "What is the most accurate description of \u0027Binary Search\u0027?",
+                          "options":  [
+                                          "automated test validating smallest code units",
+                                          "subclass redefining inherited method behavior",
+                                          "algorithm finding element in sorted array by halving range",
+                                          "translation of source code to machine-readable form"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Binary Search refers to: algorithm finding element in sorted array by halving range."
+                      },
+                      {
+                          "id":  238,
+                          "question":  "\u0027Binary Search\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Testing and Quality",
+                                          "Programming Basics",
+                                          "Algorithmic Thinking",
+                                          "Development Workflow"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Binary Search is mainly part of Algorithmic Thinking."
+                      },
+                      {
+                          "id":  239,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Binary Search -\u003e algorithm finding element in sorted array by halving range",
+                                          "Method Overloading -\u003e algorithm finding element in sorted array by halving range",
+                                          "String -\u003e algorithm finding element in sorted array by halving range",
+                                          "Linear Search -\u003e algorithm finding element in sorted array by halving range"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Binary Search -\u003e algorithm finding element in sorted array by halving range\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  240,
+                          "question":  "A Bank SO IT coding requirement states: algorithm finding element in sorted array by halving range. Which concept should be selected?",
+                          "options":  [
+                                          "Try-Catch",
+                                          "Binary Search",
+                                          "Big O Notation",
+                                          "Integer"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Binary Search."
+                      },
+                      {
+                          "id":  241,
+                          "question":  "Which Programming concept best matches: data structure mapping keys to values for fast lookup?",
+                          "options":  [
+                                          "Pull Request",
+                                          "Regression Test",
+                                          "Hash Table",
+                                          "Input Validation"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Hash Table is defined as: data structure mapping keys to values for fast lookup."
+                      },
+                      {
+                          "id":  242,
+                          "question":  "What is the most accurate description of \u0027Hash Table\u0027?",
+                          "options":  [
+                                          "checking user input against expected format/rules",
+                                          "data structure mapping keys to values for fast lookup",
+                                          "blueprint defining attributes and methods of objects",
+                                          "output produced by function after execution"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Hash Table refers to: data structure mapping keys to values for fast lookup."
+                      },
+                      {
+                          "id":  243,
+                          "question":  "\u0027Hash Table\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Programming Basics",
+                                          "Testing and Quality",
+                                          "Error Handling",
+                                          "Algorithmic Thinking"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Hash Table is mainly part of Algorithmic Thinking."
+                      },
+                      {
+                          "id":  244,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Time Complexity -\u003e data structure mapping keys to values for fast lookup",
+                                          "Hash Table -\u003e data structure mapping keys to values for fast lookup",
+                                          "Try-Catch -\u003e data structure mapping keys to values for fast lookup",
+                                          "Binary Search -\u003e data structure mapping keys to values for fast lookup"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Hash Table -\u003e data structure mapping keys to values for fast lookup\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  245,
+                          "question":  "A Bank SO IT coding requirement states: data structure mapping keys to values for fast lookup. Which concept should be selected?",
+                          "options":  [
+                                          "Hash Table",
+                                          "Regression Test",
+                                          "Input Validation",
+                                          "Pull Request"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Hash Table."
+                      },
+                      {
+                          "id":  246,
+                          "question":  "Which Programming concept best matches: LIFO data structure supporting push and pop?",
+                          "options":  [
+                                          "Time Complexity",
+                                          "Stack",
+                                          "Refactoring",
+                                          "Git Commit"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Stack is defined as: LIFO data structure supporting push and pop."
+                      },
+                      {
+                          "id":  247,
+                          "question":  "What is the most accurate description of \u0027Stack\u0027?",
+                          "options":  [
+                                          "system for tracking changes in source code",
+                                          "LIFO data structure supporting push and pop",
+                                          "recorded snapshot of staged source code changes",
+                                          "abnormal event disrupting normal program flow"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Stack refers to: LIFO data structure supporting push and pop."
+                      },
+                      {
+                          "id":  248,
+                          "question":  "\u0027Stack\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Error Handling",
+                                          "Testing and Quality",
+                                          "Programming Basics",
+                                          "Algorithmic Thinking"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Stack is mainly part of Algorithmic Thinking."
+                      },
+                      {
+                          "id":  249,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Regression Test -\u003e LIFO data structure supporting push and pop",
+                                          "Pull Request -\u003e LIFO data structure supporting push and pop",
+                                          "Stack -\u003e LIFO data structure supporting push and pop",
+                                          "Integer -\u003e LIFO data structure supporting push and pop"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Stack -\u003e LIFO data structure supporting push and pop\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  250,
+                          "question":  "A Bank SO IT coding requirement states: LIFO data structure supporting push and pop. Which concept should be selected?",
+                          "options":  [
+                                          "Stack",
+                                          "Refactoring",
+                                          "Git Commit",
+                                          "Time Complexity"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Stack."
+                      }
+                  ]
+}

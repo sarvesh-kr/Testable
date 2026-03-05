@@ -1,0 +1,1204 @@
+﻿{
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "What is the most accurate description of \u0027OTP\u0027?",
+                          "options":  [
+                                          "ISO 20022 based SWIFT message format",
+                                          "electronic fund transfer processed in batches round the clock",
+                                          "operation to negate a previously processed transaction",
+                                          "one-time password used for transaction authentication"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "OTP refers to: one-time password used for transaction authentication."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "What is the most accurate description of \u0027BBPS\u0027?",
+                          "options":  [
+                                          "electronic fund transfer processed in batches round the clock",
+                                          "person or entity initiating payment transaction",
+                                          "interoperable bill payment ecosystem under NPCI",
+                                          "event callback informing transaction status updates"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "BBPS refers to: interoperable bill payment ecosystem under NPCI."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "Which Software Engineering concept best matches: set of object-oriented design principles for maintainable code?",
+                          "options":  [
+                                          "Scrum",
+                                          "Critical Path",
+                                          "SOLID",
+                                          "Non-Functional Requirement"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SOLID is defined as: set of object-oriented design principles for maintainable code."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "\u0027Control Unit\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "CPU Core",
+                                          "Architecture Design",
+                                          "Memory Hierarchy",
+                                          "Bus and I/O"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Control Unit is mainly part of CPU Core."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "Which banking cyber security concept best matches: temporary disablement after repeated failed logins?",
+                          "options":  [
+                                          "Malware",
+                                          "Account Lockout",
+                                          "Business Continuity",
+                                          "Incident Response"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Account Lockout is defined as: temporary disablement after repeated failed logins."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "A system design requirement states: technique to prevent starvation by raising priority over time. Which concept should be selected?",
+                          "options":  [
+                                          "Aging",
+                                          "Segmentation",
+                                          "Mount",
+                                          "Mutual Exclusion"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Aging."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "Identify the correct software engineering term-definition mapping.",
+                          "options":  [
+                                          "Non-Functional Requirement -\u003e model delivering software in small functional increments",
+                                          "Smoke Testing -\u003e model delivering software in small functional increments",
+                                          "Modularity -\u003e model delivering software in small functional increments",
+                                          "Incremental Model -\u003e model delivering software in small functional increments"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Incremental Model -\u003e model delivering software in small functional increments\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: restoring data after corruption or ransomware events?",
+                          "options":  [
+                                          "Backup",
+                                          "MFA",
+                                          "Network Segmentation",
+                                          "NGFW"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Backup is directly used for restoring data after corruption or ransomware events."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "Which Web/App Development concept best matches: deferring non-critical resource loading until needed?",
+                          "options":  [
+                                          "CORS",
+                                          "HSTS",
+                                          "Lazy Loading",
+                                          "Content Security Policy"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Lazy Loading is defined as: deferring non-critical resource loading until needed."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "Which Programming concept best matches: structure for handling exceptions gracefully?",
+                          "options":  [
+                                          "Method Overriding",
+                                          "Try-Catch",
+                                          "Conditional Statement",
+                                          "Big O Notation"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Try-Catch is defined as: structure for handling exceptions gracefully."
+                      },
+                      {
+                          "id":  11,
+                          "question":  "What is the most accurate description of \u0027Pipelining\u0027?",
+                          "options":  [
+                                          "technique guessing branch outcome to improve pipeline flow",
+                                          "signal requesting CPU attention for event handling",
+                                          "overlapping execution stages of multiple instructions",
+                                          "processor containing multiple independent CPU cores"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Pipelining refers to: overlapping execution stages of multiple instructions."
+                      },
+                      {
+                          "id":  12,
+                          "question":  "Which backup/DR concept best matches: basic DR location requiring major setup before use?",
+                          "options":  [
+                                          "Air-Gapped Backup",
+                                          "Recovery Plan",
+                                          "Regulatory Compliance",
+                                          "Cold Site"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Cold Site is defined as: basic DR location requiring major setup before use."
+                      },
+                      {
+                          "id":  13,
+                          "question":  "Identify the correct DSA term-definition mapping.",
+                          "options":  [
+                                          "Floyd-Warshall Algorithm -\u003e divide-and-conquer sorting algorithm around pivot partition",
+                                          "Sliding Window -\u003e divide-and-conquer sorting algorithm around pivot partition",
+                                          "Quick Sort -\u003e divide-and-conquer sorting algorithm around pivot partition",
+                                          "Depth First Search -\u003e divide-and-conquer sorting algorithm around pivot partition"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Quick Sort -\u003e divide-and-conquer sorting algorithm around pivot partition\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  14,
+                          "question":  "Which Operating System concept best matches: scheduling algorithm choosing shortest burst first?",
+                          "options":  [
+                                          "Process",
+                                          "Inode",
+                                          "Journaling",
+                                          "SJF"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SJF is defined as: scheduling algorithm choosing shortest burst first."
+                      },
+                      {
+                          "id":  15,
+                          "question":  "\u0027Runbook Automation\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Tooling",
+                                          "Monitoring Fundamentals",
+                                          "Log Management",
+                                          "Service Reliability Metrics"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Runbook Automation is mainly part of Monitoring Tooling."
+                      },
+                      {
+                          "id":  16,
+                          "question":  "Which of the following is primarily used for preventing loops in switched Ethernet topology?",
+                          "options":  [
+                                          "QUIC",
+                                          "WPA2",
+                                          "STP",
+                                          "TFTP"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "STP is primarily associated with preventing loops in switched Ethernet topology."
+                      },
+                      {
+                          "id":  17,
+                          "question":  "What is the most accurate description of \u0027Checksum Validation\u0027?",
+                          "options":  [
+                                          "duration backups are preserved before deletion",
+                                          "partially equipped DR site needing additional setup",
+                                          "process of creating copies of data for recovery needs",
+                                          "integrity check comparing hash values of data"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Checksum Validation refers to: integrity check comparing hash values of data."
+                      },
+                      {
+                          "id":  18,
+                          "question":  "What is the most accurate description of \u0027INSERT\u0027 in DBMS context?",
+                          "options":  [
+                                          "SQL command used to add new rows into a table",
+                                          "statement that undoes uncommitted transaction changes",
+                                          "lock that prevents other transactions from reading or writing data",
+                                          "command used to create database objects like table or index"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "INSERT refers to: SQL command used to add new rows into a table."
+                      },
+                      {
+                          "id":  19,
+                          "question":  "A Bank SO IT coding requirement states: code block executed regardless of exception outcome. Which concept should be selected?",
+                          "options":  [
+                                          "Code Review",
+                                          "Finally Block",
+                                          "Integration Test",
+                                          "Conditional Statement"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Finally Block."
+                      },
+                      {
+                          "id":  20,
+                          "question":  "Which Programming concept best matches: LIFO data structure supporting push and pop?",
+                          "options":  [
+                                          "Time Complexity",
+                                          "Stack",
+                                          "Refactoring",
+                                          "Git Commit"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Stack is defined as: LIFO data structure supporting push and pop."
+                      },
+                      {
+                          "id":  21,
+                          "question":  "A project requirement states: agile method visualizing work and limiting work-in-progress. Which concept should be selected?",
+                          "options":  [
+                                          "Continuous Delivery",
+                                          "Regression Testing",
+                                          "MTBF",
+                                          "Kanban"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Kanban."
+                      },
+                      {
+                          "id":  22,
+                          "question":  "What is the full form of IAM?",
+                          "options":  [
+                                          "User Datagram Protocol",
+                                          "Disaster Recovery",
+                                          "Identity and Access Management",
+                                          "National Electronic Funds Transfer"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "IAM expands to Identity and Access Management."
+                      },
+                      {
+                          "id":  23,
+                          "question":  "What is the most accurate description of \u0027Page Fault\u0027 in OS context?",
+                          "options":  [
+                                          "deadlock condition where resources cannot be forcibly taken",
+                                          "software-generated interrupt for exceptions or system calls",
+                                          "program in execution with its own context",
+                                          "trap generated when referenced page is not in RAM"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Page Fault refers to: trap generated when referenced page is not in RAM."
+                      },
+                      {
+                          "id":  24,
+                          "question":  "\u0027Priority Scheduling\u0027 is primarily associated with which OS area?",
+                          "options":  [
+                                          "I/O Management",
+                                          "Memory Management",
+                                          "CPU Scheduling",
+                                          "Process Management"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Priority Scheduling is mainly part of CPU Scheduling in Operating Systems."
+                      },
+                      {
+                          "id":  25,
+                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
+                          "options":  [
+                                          "ConfigMap -\u003e Kubernetes object storing non-sensitive configuration",
+                                          "Docker -\u003e Kubernetes object storing non-sensitive configuration",
+                                          "Blue-Green Deployment -\u003e Kubernetes object storing non-sensitive configuration",
+                                          "Fault Tolerance -\u003e Kubernetes object storing non-sensitive configuration"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027ConfigMap -\u003e Kubernetes object storing non-sensitive configuration\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  26,
+                          "question":  "A system design requirement states: locking mechanism allowing only one thread in critical section. Which concept should be selected?",
+                          "options":  [
+                                          "Kernel",
+                                          "Waiting Time",
+                                          "Mutex",
+                                          "Scheduler"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Mutex."
+                      },
+                      {
+                          "id":  27,
+                          "question":  "\u0027Cold Site\u0027 belongs mainly to which backup/disaster recovery area?",
+                          "options":  [
+                                          "Security and Compliance",
+                                          "Validation and Testing",
+                                          "Backup Types and Strategies",
+                                          "Recovery Objectives"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Cold Site is mainly part of Recovery Objectives."
+                      },
+                      {
+                          "id":  28,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Space Complexity -\u003e data type representing true or false",
+                                          "Conditional Statement -\u003e data type representing true or false",
+                                          "Constructor -\u003e data type representing true or false",
+                                          "Boolean -\u003e data type representing true or false"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Boolean -\u003e data type representing true or false\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  29,
+                          "question":  "Which Web/App Development concept best matches: digital certificate enabling encrypted HTTPS communication?",
+                          "options":  [
+                                          "DELETE",
+                                          "Responsive Design",
+                                          "Status Code 401",
+                                          "TLS Certificate"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "TLS Certificate is defined as: digital certificate enabling encrypted HTTPS communication."
+                      },
+                      {
+                          "id":  30,
+                          "question":  "A Bank SO IT security requirement states: message authentication code using hash function and secret key. Which concept should be selected?",
+                          "options":  [
+                                          "Non-Repudiation",
+                                          "X.509 Certificate",
+                                          "HMAC",
+                                          "Brute Force Attack"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to HMAC."
+                      },
+                      {
+                          "id":  31,
+                          "question":  "\u0027Post Drill Review\u0027 belongs mainly to which backup/disaster recovery area?",
+                          "options":  [
+                                          "Recovery Objectives",
+                                          "Security and Compliance",
+                                          "Validation and Testing",
+                                          "Backup Types and Strategies"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Post Drill Review is mainly part of Validation and Testing."
+                      },
+                      {
+                          "id":  32,
+                          "question":  "A Bank SO IT cyber security requirement states: timely deployment of updates reducing exploitability. Which concept should be selected?",
+                          "options":  [
+                                          "Asset Inventory",
+                                          "Patch Management",
+                                          "DDoS",
+                                          "Security Policy"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Patch Management."
+                      },
+                      {
+                          "id":  33,
+                          "question":  "Which secure coding/web security concept best matches: access model assigning permissions based on roles?",
+                          "options":  [
+                                          "Role-Based Access Control",
+                                          "TLS",
+                                          "OpenID Connect",
+                                          "Vulnerability Management"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Role-Based Access Control is defined as: access model assigning permissions based on roles."
+                      },
+                      {
+                          "id":  34,
+                          "question":  "Identify the correct cryptography term-definition mapping.",
+                          "options":  [
+                                          "Hardware Security Module -\u003e tamper-resistant device for secure cryptographic key operations",
+                                          "Rainbow Table Attack -\u003e tamper-resistant device for secure cryptographic key operations",
+                                          "Certificate Pinning -\u003e tamper-resistant device for secure cryptographic key operations",
+                                          "SSL -\u003e tamper-resistant device for secure cryptographic key operations"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Hardware Security Module -\u003e tamper-resistant device for secure cryptographic key operations\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  35,
+                          "question":  "\u0027Business Continuity\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Threats and Fraud",
+                                          "Banking Controls and Compliance",
+                                          "Security Fundamentals",
+                                          "Identity and Access Security"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Business Continuity is mainly part of Banking Controls and Compliance."
+                      },
+                      {
+                          "id":  36,
+                          "question":  "A Bank SO IT security requirement states: older predecessor protocol to TLS now deprecated. Which concept should be selected?",
+                          "options":  [
+                                          "Key Exchange",
+                                          "RSA",
+                                          "Rainbow Table Attack",
+                                          "SSL"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to SSL."
+                      },
+                      {
+                          "id":  37,
+                          "question":  "\u0027Object\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Programming Basics",
+                                          "Algorithmic Thinking",
+                                          "Object-Oriented Programming",
+                                          "Error Handling"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Object is mainly part of Object-Oriented Programming."
+                      },
+                      {
+                          "id":  38,
+                          "question":  "What is the default port used by RADIUS Authentication?",
+                          "options":  [
+                                          "1812",
+                                          "25",
+                                          "1883",
+                                          "445"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "RADIUS Authentication commonly uses port 1812 in standard network configurations."
+                      },
+                      {
+                          "id":  39,
+                          "question":  "A Bank SO IT coding requirement states: algorithm scanning elements sequentially to find target. Which concept should be selected?",
+                          "options":  [
+                                          "Git Commit",
+                                          "Conditional Statement",
+                                          "Time Complexity",
+                                          "Linear Search"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Linear Search."
+                      },
+                      {
+                          "id":  40,
+                          "question":  "Identify the correct term-definition mapping.",
+                          "options":  [
+                                          "Starvation -\u003e deadlock condition where processes form waiting cycle",
+                                          "Waiting Time -\u003e deadlock condition where processes form waiting cycle",
+                                          "Round Robin -\u003e deadlock condition where processes form waiting cycle",
+                                          "Circular Wait -\u003e deadlock condition where processes form waiting cycle"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Circular Wait -\u003e deadlock condition where processes form waiting cycle\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  41,
+                          "question":  "\u0027Observability\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Fundamentals",
+                                          "Log Management",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Tooling"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Observability is mainly part of Monitoring Fundamentals."
+                      },
+                      {
+                          "id":  42,
+                          "question":  "Which Computer Architecture concept best matches: fetch-decode-execute sequence of CPU operation?",
+                          "options":  [
+                                          "Maskable Interrupt",
+                                          "Instruction Cycle",
+                                          "Cache Memory",
+                                          "Control Hazard"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Instruction Cycle is defined as: fetch-decode-execute sequence of CPU operation."
+                      },
+                      {
+                          "id":  43,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "CI Pipeline -\u003e program executing source code line by line",
+                                          "Null Pointer -\u003e program executing source code line by line",
+                                          "Interpreter -\u003e program executing source code line by line",
+                                          "Unit Test -\u003e program executing source code line by line"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Interpreter -\u003e program executing source code line by line\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  44,
+                          "question":  "A Bank SO IT operations requirement states: percentage of requests resulting in failures. Which concept should be selected?",
+                          "options":  [
+                                          "Prometheus",
+                                          "Error Rate",
+                                          "War Room",
+                                          "Monitoring"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Error Rate."
+                      },
+                      {
+                          "id":  45,
+                          "question":  "A Bank SO IT operations requirement states: number of transactions processed per unit time. Which concept should be selected?",
+                          "options":  [
+                                          "Structured Logging",
+                                          "ELK Stack",
+                                          "Throughput",
+                                          "Alert"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Throughput."
+                      },
+                      {
+                          "id":  46,
+                          "question":  "What is the most accurate description of \u0027ReplicaSet\u0027?",
+                          "options":  [
+                                          "release strategy using two environments for switching traffic",
+                                          "design for minimal downtime and continuous service",
+                                          "orchestration platform for managing containerized workloads",
+                                          "controller ensuring desired number of pod replicas"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "ReplicaSet refers to: controller ensuring desired number of pod replicas."
+                      },
+                      {
+                          "id":  47,
+                          "question":  "A Bank SO IT technical requirement states: linear ordering of DAG vertices by dependency. Which concept should be selected?",
+                          "options":  [
+                                          "Topological Sort",
+                                          "Divide and Conquer",
+                                          "Bellman-Ford Algorithm",
+                                          "Theta Notation"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Topological Sort."
+                      },
+                      {
+                          "id":  48,
+                          "question":  "\u0027Partial Dispense\u0027 belongs mainly to which ATM/Card technology area?",
+                          "options":  [
+                                          "Operations and Compliance",
+                                          "ATM Fundamentals",
+                                          "ATM Transactions",
+                                          "Card Technologies"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Partial Dispense is mainly part of ATM Transactions."
+                      },
+                      {
+                          "id":  49,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Third Normal Form -\u003e situation where transactions wait indefinitely for each other resources",
+                                          "Deadlock -\u003e situation where transactions wait indefinitely for each other resources",
+                                          "Subquery -\u003e situation where transactions wait indefinitely for each other resources",
+                                          "Non-Clustered Index -\u003e situation where transactions wait indefinitely for each other resources"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Deadlock -\u003e situation where transactions wait indefinitely for each other resources\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  50,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: ensuring authenticity and non-repudiation?",
+                          "options":  [
+                                          "Digital Signature",
+                                          "Tokenization",
+                                          "Threat Intelligence",
+                                          "Key Rotation"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Digital Signature is directly used for ensuring authenticity and non-repudiation."
+                      },
+                      {
+                          "id":  51,
+                          "question":  "A system design requirement states: interrupt that can be disabled by CPU. Which concept should be selected?",
+                          "options":  [
+                                          "Data Hazard",
+                                          "Cache Memory",
+                                          "Control Unit",
+                                          "Maskable Interrupt"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Maskable Interrupt."
+                      },
+                      {
+                          "id":  52,
+                          "question":  "\u0027Cross-Site Scripting\u0027 belongs mainly to which secure coding/web security area?",
+                          "options":  [
+                                          "Common Web Vulnerabilities",
+                                          "Secure Development Fundamentals",
+                                          "Mitigation Techniques",
+                                          "Transport and API Security"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Cross-Site Scripting is mainly part of Common Web Vulnerabilities."
+                      },
+                      {
+                          "id":  53,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: executing suspicious files in isolated environment?",
+                          "options":  [
+                                          "IDS",
+                                          "NGFW",
+                                          "Immutable Backup",
+                                          "Sandboxing"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Sandboxing is directly used for executing suspicious files in isolated environment."
+                      },
+                      {
+                          "id":  54,
+                          "question":  "Identify the correct core banking term-definition mapping.",
+                          "options":  [
+                                          "Transaction Monitoring -\u003e maximum acceptable time to restore service after failure",
+                                          "PEP Screening -\u003e maximum acceptable time to restore service after failure",
+                                          "General Ledger -\u003e maximum acceptable time to restore service after failure",
+                                          "RTO -\u003e maximum acceptable time to restore service after failure"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027RTO -\u003e maximum acceptable time to restore service after failure\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  55,
+                          "question":  "\u0027Encapsulation\u0027 belongs mainly to which software engineering area?",
+                          "options":  [
+                                          "Requirements",
+                                          "Design Principles",
+                                          "Testing",
+                                          "DevOps and Process"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Encapsulation is mainly part of Design Principles."
+                      },
+                      {
+                          "id":  56,
+                          "question":  "What is the most accurate description of \u0027UML\u0027?",
+                          "options":  [
+                                          "statement describing quality attributes and constraints",
+                                          "focused test to verify specific change works",
+                                          "test design technique using boundary input values",
+                                          "standard notation for visualizing software design artifacts"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "UML refers to: standard notation for visualizing software design artifacts."
+                      },
+                      {
+                          "id":  57,
+                          "question":  "A Bank SO IT operations requirement states: application performance monitoring for latency and error visibility. Which concept should be selected?",
+                          "options":  [
+                                          "Impact",
+                                          "RTO",
+                                          "Log Aggregation",
+                                          "APM"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to APM."
+                      },
+                      {
+                          "id":  58,
+                          "question":  "\u0027GitLab CI\u0027 belongs mainly to which Cloud/DevOps area?",
+                          "options":  [
+                                          "Cloud Operations",
+                                          "Containerization",
+                                          "Cloud Service Models",
+                                          "DevOps Tooling"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "GitLab CI is mainly part of DevOps Tooling."
+                      },
+                      {
+                          "id":  59,
+                          "question":  "What is the default port used by SIPS?",
+                          "options":  [
+                                          "22",
+                                          "5061",
+                                          "1701",
+                                          "1883"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SIPS commonly uses port 5061 in standard network configurations."
+                      },
+                      {
+                          "id":  60,
+                          "question":  "Identify the correct software engineering term-definition mapping.",
+                          "options":  [
+                                          "Risk Management -\u003e interaction scenario between actor and system",
+                                          "Code Coverage -\u003e interaction scenario between actor and system",
+                                          "UML -\u003e interaction scenario between actor and system",
+                                          "Use Case -\u003e interaction scenario between actor and system"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Use Case -\u003e interaction scenario between actor and system\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  61,
+                          "question":  "What is the full form of MAC?",
+                          "options":  [
+                                          "Virtual Local Area Network",
+                                          "Terminal Access Controller Access-Control System",
+                                          "Immediate Payment Service",
+                                          "Media Access Control"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "MAC expands to Media Access Control."
+                      },
+                      {
+                          "id":  62,
+                          "question":  "Which DSA concept best matches: precomputed cumulative sums enabling range query optimization?",
+                          "options":  [
+                                          "Prefix Sum",
+                                          "Sliding Window",
+                                          "Greedy Algorithm",
+                                          "Dynamic Programming"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Prefix Sum is defined as: precomputed cumulative sums enabling range query optimization."
+                      },
+                      {
+                          "id":  63,
+                          "question":  "What is the most accurate description of \u0027APM\u0027?",
+                          "options":  [
+                                          "application performance monitoring for latency and error visibility",
+                                          "ability to maintain critical operations during disruptions",
+                                          "security operations center monitoring cyber threats and incidents",
+                                          "activities that ensure stable and efficient IT service delivery"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "APM refers to: application performance monitoring for latency and error visibility."
+                      },
+                      {
+                          "id":  64,
+                          "question":  "Identify the correct backup/DR term-definition mapping.",
+                          "options":  [
+                                          "Incident Escalation -\u003e backup containing complete copy of selected data",
+                                          "Recovery Plan -\u003e backup containing complete copy of selected data",
+                                          "Hot Backup -\u003e backup containing complete copy of selected data",
+                                          "Full Backup -\u003e backup containing complete copy of selected data"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Full Backup -\u003e backup containing complete copy of selected data\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  65,
+                          "question":  "What is the most accurate description of \u0027Event\u0027?",
+                          "options":  [
+                                          "detectable occurrence with significance for service management",
+                                          "mean time to detect incident occurrence",
+                                          "documented problem with identified root cause and workaround",
+                                          "record used to track issue lifecycle and actions"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Event refers to: detectable occurrence with significance for service management."
+                      },
+                      {
+                          "id":  66,
+                          "question":  "Which backup/DR concept best matches: step-by-step operational guide for recovery execution?",
+                          "options":  [
+                                          "Recovery Runbook",
+                                          "Data Sovereignty",
+                                          "Differential Backup",
+                                          "Synthetic Full Backup"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Recovery Runbook is defined as: step-by-step operational guide for recovery execution."
+                      },
+                      {
+                          "id":  67,
+                          "question":  "A Bank SO IT email operations requirement states: non-delivery report generated when message fails permanently. Which concept should be selected?",
+                          "options":  [
+                                          "Bounce",
+                                          "Queue Management",
+                                          "Open Relay",
+                                          "MDA"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Bounce."
+                      },
+                      {
+                          "id":  68,
+                          "question":  "What is the most accurate description of \u0027Audit Trail\u0027?",
+                          "options":  [
+                                          "adherence to laws, circulars, and supervisory requirements",
+                                          "process to detect, contain, eradicate, and recover",
+                                          "formal document defining organizational security expectations",
+                                          "immutable record of user and system actions"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Audit Trail refers to: immutable record of user and system actions."
+                      },
+                      {
+                          "id":  69,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "DOM -\u003e CSS layout model for one-dimensional alignment",
+                                          "Flexbox -\u003e CSS layout model for one-dimensional alignment",
+                                          "Authentication -\u003e CSS layout model for one-dimensional alignment",
+                                          "Progressive Enhancement -\u003e CSS layout model for one-dimensional alignment"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Flexbox -\u003e CSS layout model for one-dimensional alignment\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  70,
+                          "question":  "Identify the correct DSA term-definition mapping.",
+                          "options":  [
+                                          "Sliding Window -\u003e technique splitting problem into smaller independent subproblems",
+                                          "Dijkstra Algorithm -\u003e technique splitting problem into smaller independent subproblems",
+                                          "Prefix Sum -\u003e technique splitting problem into smaller independent subproblems",
+                                          "Divide and Conquer -\u003e technique splitting problem into smaller independent subproblems"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Divide and Conquer -\u003e technique splitting problem into smaller independent subproblems\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  71,
+                          "question":  "What is the most accurate description of \u0027RCA\u0027?",
+                          "options":  [
+                                          "activities that ensure stable and efficient IT service delivery",
+                                          "security operations center monitoring cyber threats and incidents",
+                                          "root cause analysis method to identify underlying issue reason",
+                                          "maximum acceptable data loss interval"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "RCA refers to: root cause analysis method to identify underlying issue reason."
+                      },
+                      {
+                          "id":  72,
+                          "question":  "\u0027Service Request\u0027 belongs mainly to which IT operations area?",
+                          "options":  [
+                                          "Incident Analysis and Resolution",
+                                          "Operations Fundamentals",
+                                          "ITIL Processes",
+                                          "Monitoring and Response"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Service Request is mainly part of Operations Fundamentals."
+                      },
+                      {
+                          "id":  73,
+                          "question":  "A Bank SO IT email operations requirement states: protocol used to send email between clients and servers. Which concept should be selected?",
+                          "options":  [
+                                          "eDiscovery",
+                                          "SMTP",
+                                          "Message Trace",
+                                          "Queue Management"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to SMTP."
+                      },
+                      {
+                          "id":  74,
+                          "question":  "Which cryptography concept best matches: attack trying many key/password combinations exhaustively?",
+                          "options":  [
+                                          "Brute Force Attack",
+                                          "Non-Repudiation",
+                                          "SSH",
+                                          "Salt"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Brute Force Attack is defined as: attack trying many key/password combinations exhaustively."
+                      },
+                      {
+                          "id":  75,
+                          "question":  "What is the most accurate description of \u0027Trojan\u0027?",
+                          "options":  [
+                                          "malware disguised as legitimate software",
+                                          "voice call based social engineering fraud",
+                                          "team responsible for continuous security monitoring and response",
+                                          "ability to continue critical banking operations during disruption"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Trojan refers to: malware disguised as legitimate software."
+                      },
+                      {
+                          "id":  76,
+                          "question":  "Identify the correct term-definition mapping.",
+                          "options":  [
+                                          "Semaphore -\u003e integer-based synchronization primitive for shared resources",
+                                          "Device Driver -\u003e integer-based synchronization primitive for shared resources",
+                                          "No Preemption -\u003e integer-based synchronization primitive for shared resources",
+                                          "External Fragmentation -\u003e integer-based synchronization primitive for shared resources"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Semaphore -\u003e integer-based synchronization primitive for shared resources\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  77,
+                          "question":  "Which cryptography concept best matches: initial negotiation phase establishing secure session parameters?",
+                          "options":  [
+                                          "SHA-256",
+                                          "Diffie-Hellman",
+                                          "TLS",
+                                          "Handshake"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Handshake is defined as: initial negotiation phase establishing secure session parameters."
+                      },
+                      {
+                          "id":  78,
+                          "question":  "Identify the correct payment term-definition mapping.",
+                          "options":  [
+                                          "NPCI -\u003e XML-based universal messaging standard for payments",
+                                          "ISO 20022 -\u003e XML-based universal messaging standard for payments",
+                                          "Tokenization -\u003e XML-based universal messaging standard for payments",
+                                          "Payment Processor -\u003e XML-based universal messaging standard for payments"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027ISO 20022 -\u003e XML-based universal messaging standard for payments\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  79,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: limiting lateral movement across internal networks?",
+                          "options":  [
+                                          "UEBA",
+                                          "Disaster Recovery Plan",
+                                          "Network Segmentation",
+                                          "IDS"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Network Segmentation is directly used for limiting lateral movement across internal networks."
+                      },
+                      {
+                          "id":  80,
+                          "question":  "Which monitoring/logging concept best matches: standard framework for metrics, traces, and logs instrumentation?",
+                          "options":  [
+                                          "Log Aggregation",
+                                          "MTTD",
+                                          "Runbook Automation",
+                                          "OpenTelemetry"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "OpenTelemetry is defined as: standard framework for metrics, traces, and logs instrumentation."
+                      },
+                      {
+                          "id":  81,
+                          "question":  "What is the most accurate description of \u0027V-Model\u0027?",
+                          "options":  [
+                                          "testing-focused model mapping development phases to test levels",
+                                          "UML diagram showing classes, attributes, and relationships",
+                                          "practice ensuring software is releasable at any time",
+                                          "validation by user/business to confirm readiness"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "V-Model refers to: testing-focused model mapping development phases to test levels."
+                      },
+                      {
+                          "id":  82,
+                          "question":  "A Bank SO IT cyber security requirement states: contextual information about adversaries and indicators. Which concept should be selected?",
+                          "options":  [
+                                          "Threat Intelligence",
+                                          "EDR",
+                                          "Device Fingerprinting",
+                                          "SOC"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Threat Intelligence."
+                      },
+                      {
+                          "id":  83,
+                          "question":  "What is the most accurate description of \u0027Least Privilege\u0027?",
+                          "options":  [
+                                          "cookie attribute reducing cross-site request risk",
+                                          "protocol providing encryption and integrity for data in transit",
+                                          "vulnerability allowing execution of unintended system commands",
+                                          "granting minimum permissions required for a task"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Least Privilege refers to: granting minimum permissions required for a task."
+                      },
+                      {
+                          "id":  84,
+                          "question":  "\u0027Reconciliation\u0027 belongs mainly to which core banking area?",
+                          "options":  [
+                                          "Core Banking Fundamentals",
+                                          "Digital Banking Channels",
+                                          "Payments Integration",
+                                          "Security and Operations"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Reconciliation is mainly part of Core Banking Fundamentals."
+                      },
+                      {
+                          "id":  85,
+                          "question":  "A Bank SO IT resilience requirement states: discussion-based scenario walkthrough for preparedness. Which concept should be selected?",
+                          "options":  [
+                                          "Hot Site",
+                                          "Regulatory Compliance",
+                                          "Tabletop Exercise",
+                                          "Backup Verification"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Tabletop Exercise."
+                      },
+                      {
+                          "id":  86,
+                          "question":  "A system design requirement states: larger but slower cache than L1. Which concept should be selected?",
+                          "options":  [
+                                          "L2 Cache",
+                                          "Accumulator",
+                                          "Little Endian",
+                                          "Data Hazard"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to L2 Cache."
+                      },
+                      {
+                          "id":  87,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Real User Monitoring -\u003e component routing and deduplicating monitoring alerts",
+                                          "Logging -\u003e component routing and deduplicating monitoring alerts",
+                                          "Prometheus -\u003e component routing and deduplicating monitoring alerts",
+                                          "Alertmanager -\u003e component routing and deduplicating monitoring alerts"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Alertmanager -\u003e component routing and deduplicating monitoring alerts\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  88,
+                          "question":  "What is the full form of DES?",
+                          "options":  [
+                                          "Internet Protocol",
+                                          "Network Access Control",
+                                          "Quality of Service",
+                                          "Data Encryption Standard"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DES expands to Data Encryption Standard."
+                      },
+                      {
+                          "id":  89,
+                          "question":  "\u0027Card BIN\u0027 belongs mainly to which ATM/Card technology area?",
+                          "options":  [
+                                          "Card Technologies",
+                                          "ATM Fundamentals",
+                                          "Security and Fraud",
+                                          "ATM Transactions"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Card BIN is mainly part of ATM Fundamentals."
+                      },
+                      {
+                          "id":  90,
+                          "question":  "Which core/digital banking concept best matches: dual-control workflow where one user creates and another authorizes?",
+                          "options":  [
+                                          "Maker Checker",
+                                          "Start of Day Processing",
+                                          "Internet Banking",
+                                          "CFT"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Maker Checker is defined as: dual-control workflow where one user creates and another authorizes."
+                      },
+                      {
+                          "id":  91,
+                          "question":  "Which email systems concept best matches: design ensuring mail service continuity with redundancy?",
+                          "options":  [
+                                          "High Availability",
+                                          "Blacklist",
+                                          "Journaling",
+                                          "MIME"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "High Availability is defined as: design ensuring mail service continuity with redundancy."
+                      },
+                      {
+                          "id":  92,
+                          "question":  "A Bank SO IT application requirement states: tree representation of HTML document for script interaction. Which concept should be selected?",
+                          "options":  [
+                                          "POST",
+                                          "DOM",
+                                          "Minification",
+                                          "Endpoint"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to DOM."
+                      },
+                      {
+                          "id":  93,
+                          "question":  "A Bank SO IT ATM operations requirement states: ATM cash payout issue where full amount not dispensed. Which concept should be selected?",
+                          "options":  [
+                                          "ATM Jackpotting",
+                                          "Partial Dispense",
+                                          "Online PIN",
+                                          "Second Line Maintenance"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Partial Dispense."
+                      },
+                      {
+                          "id":  94,
+                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
+                          "options":  [
+                                          "StatefulSet -\u003e Kubernetes workload object for stateful apps",
+                                          "Rolling Deployment -\u003e Kubernetes workload object for stateful apps",
+                                          "CloudFormation -\u003e Kubernetes workload object for stateful apps",
+                                          "Docker -\u003e Kubernetes workload object for stateful apps"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027StatefulSet -\u003e Kubernetes workload object for stateful apps\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  95,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: replacing sensitive values with non-sensitive tokens?",
+                          "options":  [
+                                          "Phishing Simulation",
+                                          "NDR",
+                                          "Tokenization",
+                                          "Email DKIM"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Tokenization is directly used for replacing sensitive values with non-sensitive tokens."
+                      },
+                      {
+                          "id":  96,
+                          "question":  "What is the most accurate description of \u0027Cash Withdrawal\u0027?",
+                          "options":  [
+                                          "magnetic stripe data used for card transaction processing",
+                                          "date after which card is no longer valid",
+                                          "transaction response indicating authorization failure",
+                                          "ATM transaction where customer receives cash amount"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Cash Withdrawal refers to: ATM transaction where customer receives cash amount."
+                      },
+                      {
+                          "id":  97,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "REST API -\u003e CSS layout model for two-dimensional page structure",
+                                          "CSS Grid -\u003e CSS layout model for two-dimensional page structure",
+                                          "Cookie -\u003e CSS layout model for two-dimensional page structure",
+                                          "URL -\u003e CSS layout model for two-dimensional page structure"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027CSS Grid -\u003e CSS layout model for two-dimensional page structure\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  98,
+                          "question":  "Which Computer Architecture concept best matches: single memory path shared by instructions and data?",
+                          "options":  [
+                                          "Big Endian",
+                                          "Bus",
+                                          "Instruction Cycle",
+                                          "Von Neumann Architecture"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Von Neumann Architecture is defined as: single memory path shared by instructions and data."
+                      },
+                      {
+                          "id":  99,
+                          "question":  "\u0027Binary Search Tree\u0027 belongs mainly to which DSA area?",
+                          "options":  [
+                                          "Core Data Structures",
+                                          "Graph Concepts",
+                                          "Sorting and Searching",
+                                          "Algorithmic Techniques"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Binary Search Tree is mainly part of Core Data Structures."
+                      },
+                      {
+                          "id":  100,
+                          "question":  "\u0027Audit Log\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Service Reliability Metrics",
+                                          "Incident Detection and Response",
+                                          "Monitoring Fundamentals"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Audit Log is mainly part of Log Management."
+                      }
+                  ]
+}

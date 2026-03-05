@@ -1,0 +1,3004 @@
+﻿{
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "Which banking cyber security concept best matches: protection of systems, networks, and data from digital attacks?",
+                          "options":  [
+                                          "Defense in Depth",
+                                          "PCI DSS",
+                                          "Cyber Security",
+                                          "Spear Phishing"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Cyber Security is defined as: protection of systems, networks, and data from digital attacks."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "What is the most accurate description of \u0027Cyber Security\u0027?",
+                          "options":  [
+                                          "ensuring data is accessible only to authorized entities",
+                                          "protection of systems, networks, and data from digital attacks",
+                                          "process to detect, contain, eradicate, and recover",
+                                          "adaptive authentication based on contextual risk signals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Cyber Security refers to: protection of systems, networks, and data from digital attacks."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "\u0027Cyber Security\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Threats and Fraud",
+                                          "Security Fundamentals",
+                                          "Detection and Response",
+                                          "Identity and Access Security"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Cyber Security is mainly part of Security Fundamentals."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Segregation of Duties -\u003e protection of systems, networks, and data from digital attacks",
+                                          "Cyber Security -\u003e protection of systems, networks, and data from digital attacks",
+                                          "Tokenization -\u003e protection of systems, networks, and data from digital attacks",
+                                          "Password Policy -\u003e protection of systems, networks, and data from digital attacks"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Cyber Security -\u003e protection of systems, networks, and data from digital attacks\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "A Bank SO IT cyber security requirement states: protection of systems, networks, and data from digital attacks. Which concept should be selected?",
+                          "options":  [
+                                          "Defense in Depth",
+                                          "Spear Phishing",
+                                          "Cyber Security",
+                                          "PCI DSS"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Cyber Security."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "Which banking cyber security concept best matches: ensuring data is accessible only to authorized entities?",
+                          "options":  [
+                                          "Confidentiality",
+                                          "Vishing",
+                                          "SIEM",
+                                          "Credential Stuffing"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Confidentiality is defined as: ensuring data is accessible only to authorized entities."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "What is the most accurate description of \u0027Confidentiality\u0027?",
+                          "options":  [
+                                          "ensuring systems and data are accessible when needed",
+                                          "replacing sensitive data with non-sensitive substitute tokens",
+                                          "collection and analysis of digital evidence",
+                                          "ensuring data is accessible only to authorized entities"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Confidentiality refers to: ensuring data is accessible only to authorized entities."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "\u0027Confidentiality\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Identity and Access Security",
+                                          "Threats and Fraud",
+                                          "Security Fundamentals",
+                                          "Detection and Response"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Confidentiality is mainly part of Security Fundamentals."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Session Management -\u003e ensuring data is accessible only to authorized entities",
+                                          "Confidentiality -\u003e ensuring data is accessible only to authorized entities",
+                                          "Forensics -\u003e ensuring data is accessible only to authorized entities",
+                                          "Password Policy -\u003e ensuring data is accessible only to authorized entities"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Confidentiality -\u003e ensuring data is accessible only to authorized entities\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "A Bank SO IT cyber security requirement states: ensuring data is accessible only to authorized entities. Which concept should be selected?",
+                          "options":  [
+                                          "Confidentiality",
+                                          "Credential Stuffing",
+                                          "SIEM",
+                                          "Vishing"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Confidentiality."
+                      },
+                      {
+                          "id":  11,
+                          "question":  "Which banking cyber security concept best matches: ensuring data remains accurate and unaltered?",
+                          "options":  [
+                                          "EDR",
+                                          "Regulatory Compliance",
+                                          "Integrity",
+                                          "Audit Trail"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Integrity is defined as: ensuring data remains accurate and unaltered."
+                      },
+                      {
+                          "id":  12,
+                          "question":  "What is the most accurate description of \u0027Integrity\u0027?",
+                          "options":  [
+                                          "malicious software designed to disrupt or steal",
+                                          "identity verification using biological characteristics",
+                                          "automated login attempts using leaked credentials",
+                                          "ensuring data remains accurate and unaltered"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Integrity refers to: ensuring data remains accurate and unaltered."
+                      },
+                      {
+                          "id":  13,
+                          "question":  "\u0027Integrity\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Identity and Access Security",
+                                          "Security Fundamentals",
+                                          "Threats and Fraud",
+                                          "Detection and Response"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Integrity is mainly part of Security Fundamentals."
+                      },
+                      {
+                          "id":  14,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "EDR -\u003e ensuring data remains accurate and unaltered",
+                                          "Asset Inventory -\u003e ensuring data remains accurate and unaltered",
+                                          "Integrity -\u003e ensuring data remains accurate and unaltered",
+                                          "Credential Stuffing -\u003e ensuring data remains accurate and unaltered"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Integrity -\u003e ensuring data remains accurate and unaltered\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  15,
+                          "question":  "A Bank SO IT cyber security requirement states: ensuring data remains accurate and unaltered. Which concept should be selected?",
+                          "options":  [
+                                          "Regulatory Compliance",
+                                          "Audit Trail",
+                                          "Integrity",
+                                          "EDR"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Integrity."
+                      },
+                      {
+                          "id":  16,
+                          "question":  "Which banking cyber security concept best matches: ensuring systems and data are accessible when needed?",
+                          "options":  [
+                                          "Risk-Based Authentication",
+                                          "Availability",
+                                          "Incident Response",
+                                          "Phishing"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Availability is defined as: ensuring systems and data are accessible when needed."
+                      },
+                      {
+                          "id":  17,
+                          "question":  "What is the most accurate description of \u0027Availability\u0027?",
+                          "options":  [
+                                          "secure handling of user session lifecycle",
+                                          "ensuring systems and data are accessible when needed",
+                                          "voice call based social engineering fraud",
+                                          "endpoint detection and response for suspicious host behavior"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Availability refers to: ensuring systems and data are accessible when needed."
+                      },
+                      {
+                          "id":  18,
+                          "question":  "\u0027Availability\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Detection and Response",
+                                          "Security Fundamentals",
+                                          "Banking Controls and Compliance",
+                                          "Threats and Fraud"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Availability is mainly part of Security Fundamentals."
+                      },
+                      {
+                          "id":  19,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Availability -\u003e ensuring systems and data are accessible when needed",
+                                          "Defense in Depth -\u003e ensuring systems and data are accessible when needed",
+                                          "Risk-Based Authentication -\u003e ensuring systems and data are accessible when needed",
+                                          "Malware -\u003e ensuring systems and data are accessible when needed"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Availability -\u003e ensuring systems and data are accessible when needed\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  20,
+                          "question":  "A Bank SO IT cyber security requirement states: ensuring systems and data are accessible when needed. Which concept should be selected?",
+                          "options":  [
+                                          "Availability",
+                                          "Incident Response",
+                                          "Risk-Based Authentication",
+                                          "Phishing"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Availability."
+                      },
+                      {
+                          "id":  21,
+                          "question":  "Which banking cyber security concept best matches: multiple layered controls to reduce attack success?",
+                          "options":  [
+                                          "Data Encryption",
+                                          "Forensics",
+                                          "Spear Phishing",
+                                          "Defense in Depth"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Defense in Depth is defined as: multiple layered controls to reduce attack success."
+                      },
+                      {
+                          "id":  22,
+                          "question":  "What is the most accurate description of \u0027Defense in Depth\u0027?",
+                          "options":  [
+                                          "identifying device characteristics for risk assessment",
+                                          "multiple layered controls to reduce attack success",
+                                          "ensuring systems and data are accessible when needed",
+                                          "protecting data confidentiality using cryptographic methods"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Defense in Depth refers to: multiple layered controls to reduce attack success."
+                      },
+                      {
+                          "id":  23,
+                          "question":  "\u0027Defense in Depth\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Detection and Response",
+                                          "Banking Controls and Compliance",
+                                          "Security Fundamentals",
+                                          "Identity and Access Security"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Defense in Depth is mainly part of Security Fundamentals."
+                      },
+                      {
+                          "id":  24,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Account Lockout -\u003e multiple layered controls to reduce attack success",
+                                          "Containment -\u003e multiple layered controls to reduce attack success",
+                                          "Incident Response -\u003e multiple layered controls to reduce attack success",
+                                          "Defense in Depth -\u003e multiple layered controls to reduce attack success"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Defense in Depth -\u003e multiple layered controls to reduce attack success\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  25,
+                          "question":  "A Bank SO IT cyber security requirement states: multiple layered controls to reduce attack success. Which concept should be selected?",
+                          "options":  [
+                                          "Forensics",
+                                          "Data Encryption",
+                                          "Spear Phishing",
+                                          "Defense in Depth"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Defense in Depth."
+                      },
+                      {
+                          "id":  26,
+                          "question":  "Which banking cyber security concept best matches: security model requiring continuous verification for every access?",
+                          "options":  [
+                                          "Zero Trust",
+                                          "DDoS",
+                                          "Vishing",
+                                          "Availability"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Zero Trust is defined as: security model requiring continuous verification for every access."
+                      },
+                      {
+                          "id":  27,
+                          "question":  "What is the most accurate description of \u0027Zero Trust\u0027?",
+                          "options":  [
+                                          "contextual information about adversaries and indicators",
+                                          "ensuring data remains accurate and unaltered",
+                                          "periodic review and validation of user entitlements",
+                                          "security model requiring continuous verification for every access"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Zero Trust refers to: security model requiring continuous verification for every access."
+                      },
+                      {
+                          "id":  28,
+                          "question":  "\u0027Zero Trust\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Detection and Response",
+                                          "Security Fundamentals",
+                                          "Identity and Access Security",
+                                          "Banking Controls and Compliance"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Zero Trust is mainly part of Security Fundamentals."
+                      },
+                      {
+                          "id":  29,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "RCA -\u003e security model requiring continuous verification for every access",
+                                          "Integrity -\u003e security model requiring continuous verification for every access",
+                                          "Session Management -\u003e security model requiring continuous verification for every access",
+                                          "Zero Trust -\u003e security model requiring continuous verification for every access"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Zero Trust -\u003e security model requiring continuous verification for every access\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  30,
+                          "question":  "A Bank SO IT cyber security requirement states: security model requiring continuous verification for every access. Which concept should be selected?",
+                          "options":  [
+                                          "Zero Trust",
+                                          "DDoS",
+                                          "Vishing",
+                                          "Availability"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Zero Trust."
+                      },
+                      {
+                          "id":  31,
+                          "question":  "Which banking cyber security concept best matches: granting only minimum required access permissions?",
+                          "options":  [
+                                          "Tokenization",
+                                          "Least Privilege",
+                                          "Account Lockout",
+                                          "SIEM"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Least Privilege is defined as: granting only minimum required access permissions."
+                      },
+                      {
+                          "id":  32,
+                          "question":  "What is the most accurate description of \u0027Least Privilege\u0027?",
+                          "options":  [
+                                          "review documenting lessons and corrective actions",
+                                          "voice call based social engineering fraud",
+                                          "granting only minimum required access permissions",
+                                          "systematic identification of security weaknesses"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Least Privilege refers to: granting only minimum required access permissions."
+                      },
+                      {
+                          "id":  33,
+                          "question":  "\u0027Least Privilege\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Security Fundamentals",
+                                          "Detection and Response",
+                                          "Identity and Access Security",
+                                          "Threats and Fraud"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Least Privilege is mainly part of Security Fundamentals."
+                      },
+                      {
+                          "id":  34,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Patch Management -\u003e granting only minimum required access permissions",
+                                          "Availability -\u003e granting only minimum required access permissions",
+                                          "Privileged Access Management -\u003e granting only minimum required access permissions",
+                                          "Least Privilege -\u003e granting only minimum required access permissions"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Least Privilege -\u003e granting only minimum required access permissions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  35,
+                          "question":  "A Bank SO IT cyber security requirement states: granting only minimum required access permissions. Which concept should be selected?",
+                          "options":  [
+                                          "Least Privilege",
+                                          "Account Lockout",
+                                          "Tokenization",
+                                          "SIEM"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Least Privilege."
+                      },
+                      {
+                          "id":  36,
+                          "question":  "Which banking cyber security concept best matches: splitting critical tasks among different individuals?",
+                          "options":  [
+                                          "Vishing",
+                                          "Account Lockout",
+                                          "Segregation of Duties",
+                                          "Business Continuity"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Segregation of Duties is defined as: splitting critical tasks among different individuals."
+                      },
+                      {
+                          "id":  37,
+                          "question":  "What is the most accurate description of \u0027Segregation of Duties\u0027?",
+                          "options":  [
+                                          "security standard for handling payment card data",
+                                          "control and monitoring of elevated access accounts",
+                                          "permission model based on user roles",
+                                          "splitting critical tasks among different individuals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Segregation of Duties refers to: splitting critical tasks among different individuals."
+                      },
+                      {
+                          "id":  38,
+                          "question":  "\u0027Segregation of Duties\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Threats and Fraud",
+                                          "Banking Controls and Compliance",
+                                          "Identity and Access Security",
+                                          "Security Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Segregation of Duties is mainly part of Security Fundamentals."
+                      },
+                      {
+                          "id":  39,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Trojan -\u003e splitting critical tasks among different individuals",
+                                          "Asset Inventory -\u003e splitting critical tasks among different individuals",
+                                          "Segregation of Duties -\u003e splitting critical tasks among different individuals",
+                                          "SIEM -\u003e splitting critical tasks among different individuals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Segregation of Duties -\u003e splitting critical tasks among different individuals\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  40,
+                          "question":  "A Bank SO IT cyber security requirement states: splitting critical tasks among different individuals. Which concept should be selected?",
+                          "options":  [
+                                          "Segregation of Duties",
+                                          "Vishing",
+                                          "Business Continuity",
+                                          "Account Lockout"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Segregation of Duties."
+                      },
+                      {
+                          "id":  41,
+                          "question":  "Which banking cyber security concept best matches: catalog of systems, applications, and data requiring protection?",
+                          "options":  [
+                                          "Password Policy",
+                                          "Asset Inventory",
+                                          "Device Fingerprinting",
+                                          "Defense in Depth"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Asset Inventory is defined as: catalog of systems, applications, and data requiring protection."
+                      },
+                      {
+                          "id":  42,
+                          "question":  "What is the most accurate description of \u0027Asset Inventory\u0027?",
+                          "options":  [
+                                          "permission model based on user roles",
+                                          "platform correlating logs and events for threat detection",
+                                          "catalog of systems, applications, and data requiring protection",
+                                          "identity verification using biological characteristics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Asset Inventory refers to: catalog of systems, applications, and data requiring protection."
+                      },
+                      {
+                          "id":  43,
+                          "question":  "\u0027Asset Inventory\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Detection and Response",
+                                          "Threats and Fraud",
+                                          "Identity and Access Security",
+                                          "Security Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Asset Inventory is mainly part of Security Fundamentals."
+                      },
+                      {
+                          "id":  44,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Incident Response -\u003e catalog of systems, applications, and data requiring protection",
+                                          "SIEM -\u003e catalog of systems, applications, and data requiring protection",
+                                          "Post Incident Review -\u003e catalog of systems, applications, and data requiring protection",
+                                          "Asset Inventory -\u003e catalog of systems, applications, and data requiring protection"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Asset Inventory -\u003e catalog of systems, applications, and data requiring protection\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  45,
+                          "question":  "A Bank SO IT cyber security requirement states: catalog of systems, applications, and data requiring protection. Which concept should be selected?",
+                          "options":  [
+                                          "Defense in Depth",
+                                          "Asset Inventory",
+                                          "Device Fingerprinting",
+                                          "Password Policy"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Asset Inventory."
+                      },
+                      {
+                          "id":  46,
+                          "question":  "Which banking cyber security concept best matches: formal document defining organizational security expectations?",
+                          "options":  [
+                                          "Privileged Access Management",
+                                          "Integrity",
+                                          "Session Management",
+                                          "Security Policy"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Security Policy is defined as: formal document defining organizational security expectations."
+                      },
+                      {
+                          "id":  47,
+                          "question":  "What is the most accurate description of \u0027Security Policy\u0027?",
+                          "options":  [
+                                          "permission model based on user roles",
+                                          "contextual information about adversaries and indicators",
+                                          "multiple layered controls to reduce attack success",
+                                          "formal document defining organizational security expectations"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Security Policy refers to: formal document defining organizational security expectations."
+                      },
+                      {
+                          "id":  48,
+                          "question":  "\u0027Security Policy\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Threats and Fraud",
+                                          "Identity and Access Security",
+                                          "Security Fundamentals",
+                                          "Banking Controls and Compliance"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Security Policy is mainly part of Security Fundamentals."
+                      },
+                      {
+                          "id":  49,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Account Lockout -\u003e formal document defining organizational security expectations",
+                                          "Security Policy -\u003e formal document defining organizational security expectations",
+                                          "SIEM -\u003e formal document defining organizational security expectations",
+                                          "Availability -\u003e formal document defining organizational security expectations"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Security Policy -\u003e formal document defining organizational security expectations\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  50,
+                          "question":  "A Bank SO IT cyber security requirement states: formal document defining organizational security expectations. Which concept should be selected?",
+                          "options":  [
+                                          "Integrity",
+                                          "Session Management",
+                                          "Security Policy",
+                                          "Privileged Access Management"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Security Policy."
+                      },
+                      {
+                          "id":  51,
+                          "question":  "Which banking cyber security concept best matches: social engineering attack using deceptive communication?",
+                          "options":  [
+                                          "Phishing",
+                                          "Account Takeover",
+                                          "Access Recertification",
+                                          "RCA"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Phishing is defined as: social engineering attack using deceptive communication."
+                      },
+                      {
+                          "id":  52,
+                          "question":  "What is the most accurate description of \u0027Phishing\u0027?",
+                          "options":  [
+                                          "root cause analysis to identify underlying failure source",
+                                          "social engineering attack using deceptive communication",
+                                          "temporary disablement after repeated failed logins",
+                                          "automated login attempts using leaked credentials"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Phishing refers to: social engineering attack using deceptive communication."
+                      },
+                      {
+                          "id":  53,
+                          "question":  "\u0027Phishing\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Identity and Access Security",
+                                          "Detection and Response",
+                                          "Threats and Fraud",
+                                          "Security Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Phishing is mainly part of Threats and Fraud."
+                      },
+                      {
+                          "id":  54,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Data Loss Prevention -\u003e social engineering attack using deceptive communication",
+                                          "Security Policy -\u003e social engineering attack using deceptive communication",
+                                          "Vishing -\u003e social engineering attack using deceptive communication",
+                                          "Phishing -\u003e social engineering attack using deceptive communication"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Phishing -\u003e social engineering attack using deceptive communication\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  55,
+                          "question":  "A Bank SO IT cyber security requirement states: social engineering attack using deceptive communication. Which concept should be selected?",
+                          "options":  [
+                                          "Access Recertification",
+                                          "Account Takeover",
+                                          "RCA",
+                                          "Phishing"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Phishing."
+                      },
+                      {
+                          "id":  56,
+                          "question":  "Which banking cyber security concept best matches: targeted phishing tailored to specific individual or role?",
+                          "options":  [
+                                          "Spear Phishing",
+                                          "Ransomware",
+                                          "IOC",
+                                          "Password Policy"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Spear Phishing is defined as: targeted phishing tailored to specific individual or role."
+                      },
+                      {
+                          "id":  57,
+                          "question":  "What is the most accurate description of \u0027Spear Phishing\u0027?",
+                          "options":  [
+                                          "targeted phishing tailored to specific individual or role",
+                                          "catalog of systems, applications, and data requiring protection",
+                                          "secure handling of user session lifecycle",
+                                          "process to detect, contain, eradicate, and recover"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Spear Phishing refers to: targeted phishing tailored to specific individual or role."
+                      },
+                      {
+                          "id":  58,
+                          "question":  "\u0027Spear Phishing\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Banking Controls and Compliance",
+                                          "Threats and Fraud",
+                                          "Security Fundamentals",
+                                          "Identity and Access Security"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Spear Phishing is mainly part of Threats and Fraud."
+                      },
+                      {
+                          "id":  59,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Asset Inventory -\u003e targeted phishing tailored to specific individual or role",
+                                          "Data Loss Prevention -\u003e targeted phishing tailored to specific individual or role",
+                                          "Spear Phishing -\u003e targeted phishing tailored to specific individual or role",
+                                          "Device Fingerprinting -\u003e targeted phishing tailored to specific individual or role"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Spear Phishing -\u003e targeted phishing tailored to specific individual or role\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  60,
+                          "question":  "A Bank SO IT cyber security requirement states: targeted phishing tailored to specific individual or role. Which concept should be selected?",
+                          "options":  [
+                                          "Ransomware",
+                                          "IOC",
+                                          "Spear Phishing",
+                                          "Password Policy"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Spear Phishing."
+                      },
+                      {
+                          "id":  61,
+                          "question":  "Which banking cyber security concept best matches: voice call based social engineering fraud?",
+                          "options":  [
+                                          "Security Policy",
+                                          "Vishing",
+                                          "Forensics",
+                                          "Threat Intelligence"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Vishing is defined as: voice call based social engineering fraud."
+                      },
+                      {
+                          "id":  62,
+                          "question":  "What is the most accurate description of \u0027Vishing\u0027?",
+                          "options":  [
+                                          "secure handling of user session lifecycle",
+                                          "malware disguised as legitimate software",
+                                          "control and monitoring of elevated access accounts",
+                                          "voice call based social engineering fraud"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Vishing refers to: voice call based social engineering fraud."
+                      },
+                      {
+                          "id":  63,
+                          "question":  "\u0027Vishing\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Security Fundamentals",
+                                          "Threats and Fraud",
+                                          "Identity and Access Security",
+                                          "Banking Controls and Compliance"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Vishing is mainly part of Threats and Fraud."
+                      },
+                      {
+                          "id":  64,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Vishing -\u003e voice call based social engineering fraud",
+                                          "Integrity -\u003e voice call based social engineering fraud",
+                                          "Asset Inventory -\u003e voice call based social engineering fraud",
+                                          "Tokenization -\u003e voice call based social engineering fraud"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Vishing -\u003e voice call based social engineering fraud\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  65,
+                          "question":  "A Bank SO IT cyber security requirement states: voice call based social engineering fraud. Which concept should be selected?",
+                          "options":  [
+                                          "Security Policy",
+                                          "Vishing",
+                                          "Threat Intelligence",
+                                          "Forensics"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Vishing."
+                      },
+                      {
+                          "id":  66,
+                          "question":  "Which banking cyber security concept best matches: SMS based social engineering attack?",
+                          "options":  [
+                                          "Cyber Security",
+                                          "EDR",
+                                          "Smishing",
+                                          "Credential Stuffing"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Smishing is defined as: SMS based social engineering attack."
+                      },
+                      {
+                          "id":  67,
+                          "question":  "What is the most accurate description of \u0027Smishing\u0027?",
+                          "options":  [
+                                          "control and monitoring of elevated access accounts",
+                                          "malware encrypting data and demanding ransom payment",
+                                          "SMS based social engineering attack",
+                                          "identity verification using biological characteristics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Smishing refers to: SMS based social engineering attack."
+                      },
+                      {
+                          "id":  68,
+                          "question":  "\u0027Smishing\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Security Fundamentals",
+                                          "Threats and Fraud",
+                                          "Detection and Response",
+                                          "Identity and Access Security"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Smishing is mainly part of Threats and Fraud."
+                      },
+                      {
+                          "id":  69,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Least Privilege -\u003e SMS based social engineering attack",
+                                          "Smishing -\u003e SMS based social engineering attack",
+                                          "Account Takeover -\u003e SMS based social engineering attack",
+                                          "Zero Trust -\u003e SMS based social engineering attack"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Smishing -\u003e SMS based social engineering attack\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  70,
+                          "question":  "A Bank SO IT cyber security requirement states: SMS based social engineering attack. Which concept should be selected?",
+                          "options":  [
+                                          "Cyber Security",
+                                          "EDR",
+                                          "Credential Stuffing",
+                                          "Smishing"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Smishing."
+                      },
+                      {
+                          "id":  71,
+                          "question":  "Which banking cyber security concept best matches: malicious software designed to disrupt or steal?",
+                          "options":  [
+                                          "Account Takeover",
+                                          "MFA",
+                                          "Availability",
+                                          "Malware"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Malware is defined as: malicious software designed to disrupt or steal."
+                      },
+                      {
+                          "id":  72,
+                          "question":  "What is the most accurate description of \u0027Malware\u0027?",
+                          "options":  [
+                                          "catalog of systems, applications, and data requiring protection",
+                                          "ability to continue critical banking operations during disruption",
+                                          "capability to restore services and data after major outage",
+                                          "malicious software designed to disrupt or steal"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Malware refers to: malicious software designed to disrupt or steal."
+                      },
+                      {
+                          "id":  73,
+                          "question":  "\u0027Malware\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Security Fundamentals",
+                                          "Detection and Response",
+                                          "Banking Controls and Compliance",
+                                          "Threats and Fraud"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Malware is mainly part of Threats and Fraud."
+                      },
+                      {
+                          "id":  74,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Regulatory Compliance -\u003e malicious software designed to disrupt or steal",
+                                          "Segregation of Duties -\u003e malicious software designed to disrupt or steal",
+                                          "Malware -\u003e malicious software designed to disrupt or steal",
+                                          "RCA -\u003e malicious software designed to disrupt or steal"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Malware -\u003e malicious software designed to disrupt or steal\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  75,
+                          "question":  "A Bank SO IT cyber security requirement states: malicious software designed to disrupt or steal. Which concept should be selected?",
+                          "options":  [
+                                          "Malware",
+                                          "Account Takeover",
+                                          "Availability",
+                                          "MFA"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Malware."
+                      },
+                      {
+                          "id":  76,
+                          "question":  "Which banking cyber security concept best matches: malware encrypting data and demanding ransom payment?",
+                          "options":  [
+                                          "Ransomware",
+                                          "DDoS",
+                                          "Malware",
+                                          "Disaster Recovery"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Ransomware is defined as: malware encrypting data and demanding ransom payment."
+                      },
+                      {
+                          "id":  77,
+                          "question":  "What is the most accurate description of \u0027Ransomware\u0027?",
+                          "options":  [
+                                          "contextual information about adversaries and indicators",
+                                          "identity verification using biological characteristics",
+                                          "malware encrypting data and demanding ransom payment",
+                                          "temporary disablement after repeated failed logins"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Ransomware refers to: malware encrypting data and demanding ransom payment."
+                      },
+                      {
+                          "id":  78,
+                          "question":  "\u0027Ransomware\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Threats and Fraud",
+                                          "Banking Controls and Compliance",
+                                          "Detection and Response",
+                                          "Identity and Access Security"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Ransomware is mainly part of Threats and Fraud."
+                      },
+                      {
+                          "id":  79,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Privileged Access Management -\u003e malware encrypting data and demanding ransom payment",
+                                          "Ransomware -\u003e malware encrypting data and demanding ransom payment",
+                                          "DDoS -\u003e malware encrypting data and demanding ransom payment",
+                                          "Audit Trail -\u003e malware encrypting data and demanding ransom payment"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Ransomware -\u003e malware encrypting data and demanding ransom payment\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  80,
+                          "question":  "A Bank SO IT cyber security requirement states: malware encrypting data and demanding ransom payment. Which concept should be selected?",
+                          "options":  [
+                                          "DDoS",
+                                          "Disaster Recovery",
+                                          "Malware",
+                                          "Ransomware"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Ransomware."
+                      },
+                      {
+                          "id":  81,
+                          "question":  "Which banking cyber security concept best matches: malware disguised as legitimate software?",
+                          "options":  [
+                                          "Trojan",
+                                          "MFA",
+                                          "Session Management",
+                                          "Containment"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Trojan is defined as: malware disguised as legitimate software."
+                      },
+                      {
+                          "id":  82,
+                          "question":  "What is the most accurate description of \u0027Trojan\u0027?",
+                          "options":  [
+                                          "malware disguised as legitimate software",
+                                          "voice call based social engineering fraud",
+                                          "team responsible for continuous security monitoring and response",
+                                          "ability to continue critical banking operations during disruption"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Trojan refers to: malware disguised as legitimate software."
+                      },
+                      {
+                          "id":  83,
+                          "question":  "\u0027Trojan\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Security Fundamentals",
+                                          "Identity and Access Security",
+                                          "Threats and Fraud",
+                                          "Banking Controls and Compliance"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Trojan is mainly part of Threats and Fraud."
+                      },
+                      {
+                          "id":  84,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Vulnerability Assessment -\u003e malware disguised as legitimate software",
+                                          "Malware -\u003e malware disguised as legitimate software",
+                                          "PCI DSS -\u003e malware disguised as legitimate software",
+                                          "Trojan -\u003e malware disguised as legitimate software"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Trojan -\u003e malware disguised as legitimate software\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  85,
+                          "question":  "A Bank SO IT cyber security requirement states: malware disguised as legitimate software. Which concept should be selected?",
+                          "options":  [
+                                          "Session Management",
+                                          "MFA",
+                                          "Containment",
+                                          "Trojan"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Trojan."
+                      },
+                      {
+                          "id":  86,
+                          "question":  "Which banking cyber security concept best matches: distributed attack overwhelming service resources?",
+                          "options":  [
+                                          "Post Incident Review",
+                                          "DDoS",
+                                          "Vishing",
+                                          "Password Policy"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "DDoS is defined as: distributed attack overwhelming service resources."
+                      },
+                      {
+                          "id":  87,
+                          "question":  "What is the most accurate description of \u0027DDoS\u0027?",
+                          "options":  [
+                                          "distributed attack overwhelming service resources",
+                                          "malware encrypting data and demanding ransom payment",
+                                          "adaptive authentication based on contextual risk signals",
+                                          "catalog of systems, applications, and data requiring protection"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "DDoS refers to: distributed attack overwhelming service resources."
+                      },
+                      {
+                          "id":  88,
+                          "question":  "\u0027DDoS\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Security Fundamentals",
+                                          "Threats and Fraud",
+                                          "Identity and Access Security",
+                                          "Banking Controls and Compliance"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "DDoS is mainly part of Threats and Fraud."
+                      },
+                      {
+                          "id":  89,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "DDoS -\u003e distributed attack overwhelming service resources",
+                                          "Data Loss Prevention -\u003e distributed attack overwhelming service resources",
+                                          "Smishing -\u003e distributed attack overwhelming service resources",
+                                          "PCI DSS -\u003e distributed attack overwhelming service resources"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027DDoS -\u003e distributed attack overwhelming service resources\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  90,
+                          "question":  "A Bank SO IT cyber security requirement states: distributed attack overwhelming service resources. Which concept should be selected?",
+                          "options":  [
+                                          "Post Incident Review",
+                                          "Password Policy",
+                                          "Vishing",
+                                          "DDoS"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to DDoS."
+                      },
+                      {
+                          "id":  91,
+                          "question":  "Which banking cyber security concept best matches: automated login attempts using leaked credentials?",
+                          "options":  [
+                                          "RCA",
+                                          "Credential Stuffing",
+                                          "Security Policy",
+                                          "Trojan"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Credential Stuffing is defined as: automated login attempts using leaked credentials."
+                      },
+                      {
+                          "id":  92,
+                          "question":  "What is the most accurate description of \u0027Credential Stuffing\u0027?",
+                          "options":  [
+                                          "automated login attempts using leaked credentials",
+                                          "protecting data confidentiality using cryptographic methods",
+                                          "granting only minimum required access permissions",
+                                          "identifying device characteristics for risk assessment"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Credential Stuffing refers to: automated login attempts using leaked credentials."
+                      },
+                      {
+                          "id":  93,
+                          "question":  "\u0027Credential Stuffing\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Identity and Access Security",
+                                          "Detection and Response",
+                                          "Threats and Fraud",
+                                          "Security Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Credential Stuffing is mainly part of Threats and Fraud."
+                      },
+                      {
+                          "id":  94,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Audit Trail -\u003e automated login attempts using leaked credentials",
+                                          "Account Lockout -\u003e automated login attempts using leaked credentials",
+                                          "Credential Stuffing -\u003e automated login attempts using leaked credentials",
+                                          "Disaster Recovery -\u003e automated login attempts using leaked credentials"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Credential Stuffing -\u003e automated login attempts using leaked credentials\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  95,
+                          "question":  "A Bank SO IT cyber security requirement states: automated login attempts using leaked credentials. Which concept should be selected?",
+                          "options":  [
+                                          "Security Policy",
+                                          "Credential Stuffing",
+                                          "Trojan",
+                                          "RCA"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Credential Stuffing."
+                      },
+                      {
+                          "id":  96,
+                          "question":  "Which banking cyber security concept best matches: unauthorized control of legitimate customer account?",
+                          "options":  [
+                                          "Least Privilege",
+                                          "Account Takeover",
+                                          "Data Encryption",
+                                          "Vishing"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Account Takeover is defined as: unauthorized control of legitimate customer account."
+                      },
+                      {
+                          "id":  97,
+                          "question":  "What is the most accurate description of \u0027Account Takeover\u0027?",
+                          "options":  [
+                                          "capability to restore services and data after major outage",
+                                          "secure handling of user session lifecycle",
+                                          "unauthorized control of legitimate customer account",
+                                          "timely deployment of updates reducing exploitability"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Account Takeover refers to: unauthorized control of legitimate customer account."
+                      },
+                      {
+                          "id":  98,
+                          "question":  "\u0027Account Takeover\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Identity and Access Security",
+                                          "Detection and Response",
+                                          "Security Fundamentals",
+                                          "Threats and Fraud"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Account Takeover is mainly part of Threats and Fraud."
+                      },
+                      {
+                          "id":  99,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Zero Trust -\u003e unauthorized control of legitimate customer account",
+                                          "Account Takeover -\u003e unauthorized control of legitimate customer account",
+                                          "Business Continuity -\u003e unauthorized control of legitimate customer account",
+                                          "Data Loss Prevention -\u003e unauthorized control of legitimate customer account"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Account Takeover -\u003e unauthorized control of legitimate customer account\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  100,
+                          "question":  "A Bank SO IT cyber security requirement states: unauthorized control of legitimate customer account. Which concept should be selected?",
+                          "options":  [
+                                          "Vishing",
+                                          "Data Encryption",
+                                          "Least Privilege",
+                                          "Account Takeover"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Account Takeover."
+                      },
+                      {
+                          "id":  101,
+                          "question":  "Which banking cyber security concept best matches: authentication requiring two or more independent factors?",
+                          "options":  [
+                                          "MFA",
+                                          "Smishing",
+                                          "Cyber Security",
+                                          "Confidentiality"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "MFA is defined as: authentication requiring two or more independent factors."
+                      },
+                      {
+                          "id":  102,
+                          "question":  "What is the most accurate description of \u0027MFA\u0027?",
+                          "options":  [
+                                          "identity verification using biological characteristics",
+                                          "control and monitoring of elevated access accounts",
+                                          "voice call based social engineering fraud",
+                                          "authentication requiring two or more independent factors"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "MFA refers to: authentication requiring two or more independent factors."
+                      },
+                      {
+                          "id":  103,
+                          "question":  "\u0027MFA\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Identity and Access Security",
+                                          "Detection and Response",
+                                          "Security Fundamentals",
+                                          "Threats and Fraud"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "MFA is mainly part of Identity and Access Security."
+                      },
+                      {
+                          "id":  104,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Privileged Access Management -\u003e authentication requiring two or more independent factors",
+                                          "Account Takeover -\u003e authentication requiring two or more independent factors",
+                                          "Biometric Authentication -\u003e authentication requiring two or more independent factors",
+                                          "MFA -\u003e authentication requiring two or more independent factors"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027MFA -\u003e authentication requiring two or more independent factors\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  105,
+                          "question":  "A Bank SO IT cyber security requirement states: authentication requiring two or more independent factors. Which concept should be selected?",
+                          "options":  [
+                                          "Confidentiality",
+                                          "Smishing",
+                                          "Cyber Security",
+                                          "MFA"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to MFA."
+                      },
+                      {
+                          "id":  106,
+                          "question":  "Which banking cyber security concept best matches: rules for complexity, rotation, and reuse prevention?",
+                          "options":  [
+                                          "Disaster Recovery",
+                                          "Account Lockout",
+                                          "Data Encryption",
+                                          "Password Policy"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Password Policy is defined as: rules for complexity, rotation, and reuse prevention."
+                      },
+                      {
+                          "id":  107,
+                          "question":  "What is the most accurate description of \u0027Password Policy\u0027?",
+                          "options":  [
+                                          "rules for complexity, rotation, and reuse prevention",
+                                          "timely deployment of updates reducing exploitability",
+                                          "SMS based social engineering attack",
+                                          "granting only minimum required access permissions"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Password Policy refers to: rules for complexity, rotation, and reuse prevention."
+                      },
+                      {
+                          "id":  108,
+                          "question":  "\u0027Password Policy\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Identity and Access Security",
+                                          "Threats and Fraud",
+                                          "Banking Controls and Compliance",
+                                          "Security Fundamentals"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Password Policy is mainly part of Identity and Access Security."
+                      },
+                      {
+                          "id":  109,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Password Policy -\u003e rules for complexity, rotation, and reuse prevention",
+                                          "Disaster Recovery -\u003e rules for complexity, rotation, and reuse prevention",
+                                          "Business Continuity -\u003e rules for complexity, rotation, and reuse prevention",
+                                          "Audit Trail -\u003e rules for complexity, rotation, and reuse prevention"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Password Policy -\u003e rules for complexity, rotation, and reuse prevention\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  110,
+                          "question":  "A Bank SO IT cyber security requirement states: rules for complexity, rotation, and reuse prevention. Which concept should be selected?",
+                          "options":  [
+                                          "Password Policy",
+                                          "Account Lockout",
+                                          "Disaster Recovery",
+                                          "Data Encryption"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Password Policy."
+                      },
+                      {
+                          "id":  111,
+                          "question":  "Which banking cyber security concept best matches: identity verification using biological characteristics?",
+                          "options":  [
+                                          "Segregation of Duties",
+                                          "Least Privilege",
+                                          "Biometric Authentication",
+                                          "Threat Intelligence"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Biometric Authentication is defined as: identity verification using biological characteristics."
+                      },
+                      {
+                          "id":  112,
+                          "question":  "What is the most accurate description of \u0027Biometric Authentication\u0027?",
+                          "options":  [
+                                          "unauthorized control of legitimate customer account",
+                                          "control and monitoring of elevated access accounts",
+                                          "identity verification using biological characteristics",
+                                          "social engineering attack using deceptive communication"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Biometric Authentication refers to: identity verification using biological characteristics."
+                      },
+                      {
+                          "id":  113,
+                          "question":  "\u0027Biometric Authentication\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Threats and Fraud",
+                                          "Detection and Response",
+                                          "Identity and Access Security",
+                                          "Banking Controls and Compliance"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Biometric Authentication is mainly part of Identity and Access Security."
+                      },
+                      {
+                          "id":  114,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Audit Trail -\u003e identity verification using biological characteristics",
+                                          "Security Policy -\u003e identity verification using biological characteristics",
+                                          "Phishing -\u003e identity verification using biological characteristics",
+                                          "Biometric Authentication -\u003e identity verification using biological characteristics"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Biometric Authentication -\u003e identity verification using biological characteristics\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  115,
+                          "question":  "A Bank SO IT cyber security requirement states: identity verification using biological characteristics. Which concept should be selected?",
+                          "options":  [
+                                          "Segregation of Duties",
+                                          "Threat Intelligence",
+                                          "Biometric Authentication",
+                                          "Least Privilege"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Biometric Authentication."
+                      },
+                      {
+                          "id":  116,
+                          "question":  "Which banking cyber security concept best matches: identifying device characteristics for risk assessment?",
+                          "options":  [
+                                          "Integrity",
+                                          "Malware",
+                                          "Access Recertification",
+                                          "Device Fingerprinting"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Device Fingerprinting is defined as: identifying device characteristics for risk assessment."
+                      },
+                      {
+                          "id":  117,
+                          "question":  "What is the most accurate description of \u0027Device Fingerprinting\u0027?",
+                          "options":  [
+                                          "indicator suggesting potential compromise activity",
+                                          "identity verification using biological characteristics",
+                                          "malware disguised as legitimate software",
+                                          "identifying device characteristics for risk assessment"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Device Fingerprinting refers to: identifying device characteristics for risk assessment."
+                      },
+                      {
+                          "id":  118,
+                          "question":  "\u0027Device Fingerprinting\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Detection and Response",
+                                          "Security Fundamentals",
+                                          "Identity and Access Security",
+                                          "Threats and Fraud"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Device Fingerprinting is mainly part of Identity and Access Security."
+                      },
+                      {
+                          "id":  119,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Forensics -\u003e identifying device characteristics for risk assessment",
+                                          "Role-Based Access Control -\u003e identifying device characteristics for risk assessment",
+                                          "Device Fingerprinting -\u003e identifying device characteristics for risk assessment",
+                                          "Zero Trust -\u003e identifying device characteristics for risk assessment"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Device Fingerprinting -\u003e identifying device characteristics for risk assessment\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  120,
+                          "question":  "A Bank SO IT cyber security requirement states: identifying device characteristics for risk assessment. Which concept should be selected?",
+                          "options":  [
+                                          "Malware",
+                                          "Integrity",
+                                          "Device Fingerprinting",
+                                          "Access Recertification"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Device Fingerprinting."
+                      },
+                      {
+                          "id":  121,
+                          "question":  "Which banking cyber security concept best matches: secure handling of user session lifecycle?",
+                          "options":  [
+                                          "Zero Trust",
+                                          "Tokenization",
+                                          "Session Management",
+                                          "Risk-Based Authentication"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Session Management is defined as: secure handling of user session lifecycle."
+                      },
+                      {
+                          "id":  122,
+                          "question":  "What is the most accurate description of \u0027Session Management\u0027?",
+                          "options":  [
+                                          "platform correlating logs and events for threat detection",
+                                          "immutable record of user and system actions",
+                                          "secure handling of user session lifecycle",
+                                          "timely deployment of updates reducing exploitability"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Session Management refers to: secure handling of user session lifecycle."
+                      },
+                      {
+                          "id":  123,
+                          "question":  "\u0027Session Management\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Security Fundamentals",
+                                          "Banking Controls and Compliance",
+                                          "Identity and Access Security",
+                                          "Threats and Fraud"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Session Management is mainly part of Identity and Access Security."
+                      },
+                      {
+                          "id":  124,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Biometric Authentication -\u003e secure handling of user session lifecycle",
+                                          "Integrity -\u003e secure handling of user session lifecycle",
+                                          "Post Incident Review -\u003e secure handling of user session lifecycle",
+                                          "Session Management -\u003e secure handling of user session lifecycle"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Session Management -\u003e secure handling of user session lifecycle\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  125,
+                          "question":  "A Bank SO IT cyber security requirement states: secure handling of user session lifecycle. Which concept should be selected?",
+                          "options":  [
+                                          "Tokenization",
+                                          "Zero Trust",
+                                          "Risk-Based Authentication",
+                                          "Session Management"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Session Management."
+                      },
+                      {
+                          "id":  126,
+                          "question":  "Which banking cyber security concept best matches: control and monitoring of elevated access accounts?",
+                          "options":  [
+                                          "Asset Inventory",
+                                          "Password Policy",
+                                          "Privileged Access Management",
+                                          "PCI DSS"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Privileged Access Management is defined as: control and monitoring of elevated access accounts."
+                      },
+                      {
+                          "id":  127,
+                          "question":  "What is the most accurate description of \u0027Privileged Access Management\u0027?",
+                          "options":  [
+                                          "control and monitoring of elevated access accounts",
+                                          "adaptive authentication based on contextual risk signals",
+                                          "capability to restore services and data after major outage",
+                                          "malware disguised as legitimate software"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Privileged Access Management refers to: control and monitoring of elevated access accounts."
+                      },
+                      {
+                          "id":  128,
+                          "question":  "\u0027Privileged Access Management\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Security Fundamentals",
+                                          "Threats and Fraud",
+                                          "Banking Controls and Compliance",
+                                          "Identity and Access Security"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Privileged Access Management is mainly part of Identity and Access Security."
+                      },
+                      {
+                          "id":  129,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "EDR -\u003e control and monitoring of elevated access accounts",
+                                          "Threat Intelligence -\u003e control and monitoring of elevated access accounts",
+                                          "Privileged Access Management -\u003e control and monitoring of elevated access accounts",
+                                          "Risk-Based Authentication -\u003e control and monitoring of elevated access accounts"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Privileged Access Management -\u003e control and monitoring of elevated access accounts\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  130,
+                          "question":  "A Bank SO IT cyber security requirement states: control and monitoring of elevated access accounts. Which concept should be selected?",
+                          "options":  [
+                                          "PCI DSS",
+                                          "Privileged Access Management",
+                                          "Password Policy",
+                                          "Asset Inventory"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Privileged Access Management."
+                      },
+                      {
+                          "id":  131,
+                          "question":  "Which banking cyber security concept best matches: permission model based on user roles?",
+                          "options":  [
+                                          "Role-Based Access Control",
+                                          "Data Encryption",
+                                          "Device Fingerprinting",
+                                          "Patch Management"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Role-Based Access Control is defined as: permission model based on user roles."
+                      },
+                      {
+                          "id":  132,
+                          "question":  "What is the most accurate description of \u0027Role-Based Access Control\u0027?",
+                          "options":  [
+                                          "security standard for handling payment card data",
+                                          "replacing sensitive data with non-sensitive substitute tokens",
+                                          "permission model based on user roles",
+                                          "ensuring data is accessible only to authorized entities"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Role-Based Access Control refers to: permission model based on user roles."
+                      },
+                      {
+                          "id":  133,
+                          "question":  "\u0027Role-Based Access Control\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Detection and Response",
+                                          "Security Fundamentals",
+                                          "Identity and Access Security",
+                                          "Banking Controls and Compliance"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Role-Based Access Control is mainly part of Identity and Access Security."
+                      },
+                      {
+                          "id":  134,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Patch Management -\u003e permission model based on user roles",
+                                          "Vishing -\u003e permission model based on user roles",
+                                          "Risk-Based Authentication -\u003e permission model based on user roles",
+                                          "Role-Based Access Control -\u003e permission model based on user roles"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Role-Based Access Control -\u003e permission model based on user roles\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  135,
+                          "question":  "A Bank SO IT cyber security requirement states: permission model based on user roles. Which concept should be selected?",
+                          "options":  [
+                                          "Role-Based Access Control",
+                                          "Patch Management",
+                                          "Device Fingerprinting",
+                                          "Data Encryption"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Role-Based Access Control."
+                      },
+                      {
+                          "id":  136,
+                          "question":  "Which banking cyber security concept best matches: periodic review and validation of user entitlements?",
+                          "options":  [
+                                          "Zero Trust",
+                                          "Access Recertification",
+                                          "Least Privilege",
+                                          "Post Incident Review"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Access Recertification is defined as: periodic review and validation of user entitlements."
+                      },
+                      {
+                          "id":  137,
+                          "question":  "What is the most accurate description of \u0027Access Recertification\u0027?",
+                          "options":  [
+                                          "control and monitoring of elevated access accounts",
+                                          "capability to restore services and data after major outage",
+                                          "periodic review and validation of user entitlements",
+                                          "steps to limit spread and impact of incident"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Access Recertification refers to: periodic review and validation of user entitlements."
+                      },
+                      {
+                          "id":  138,
+                          "question":  "\u0027Access Recertification\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Threats and Fraud",
+                                          "Identity and Access Security",
+                                          "Security Fundamentals",
+                                          "Banking Controls and Compliance"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Access Recertification is mainly part of Identity and Access Security."
+                      },
+                      {
+                          "id":  139,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Access Recertification -\u003e periodic review and validation of user entitlements",
+                                          "Biometric Authentication -\u003e periodic review and validation of user entitlements",
+                                          "Data Loss Prevention -\u003e periodic review and validation of user entitlements",
+                                          "Credential Stuffing -\u003e periodic review and validation of user entitlements"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Access Recertification -\u003e periodic review and validation of user entitlements\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  140,
+                          "question":  "A Bank SO IT cyber security requirement states: periodic review and validation of user entitlements. Which concept should be selected?",
+                          "options":  [
+                                          "Zero Trust",
+                                          "Least Privilege",
+                                          "Access Recertification",
+                                          "Post Incident Review"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Access Recertification."
+                      },
+                      {
+                          "id":  141,
+                          "question":  "Which banking cyber security concept best matches: temporary disablement after repeated failed logins?",
+                          "options":  [
+                                          "Malware",
+                                          "Account Lockout",
+                                          "Business Continuity",
+                                          "Incident Response"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Account Lockout is defined as: temporary disablement after repeated failed logins."
+                      },
+                      {
+                          "id":  142,
+                          "question":  "What is the most accurate description of \u0027Account Lockout\u0027?",
+                          "options":  [
+                                          "control and monitoring of elevated access accounts",
+                                          "temporary disablement after repeated failed logins",
+                                          "malware encrypting data and demanding ransom payment",
+                                          "ability to continue critical banking operations during disruption"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Account Lockout refers to: temporary disablement after repeated failed logins."
+                      },
+                      {
+                          "id":  143,
+                          "question":  "\u0027Account Lockout\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Identity and Access Security",
+                                          "Security Fundamentals",
+                                          "Threats and Fraud",
+                                          "Detection and Response"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Account Lockout is mainly part of Identity and Access Security."
+                      },
+                      {
+                          "id":  144,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Device Fingerprinting -\u003e temporary disablement after repeated failed logins",
+                                          "Account Lockout -\u003e temporary disablement after repeated failed logins",
+                                          "Segregation of Duties -\u003e temporary disablement after repeated failed logins",
+                                          "Malware -\u003e temporary disablement after repeated failed logins"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Account Lockout -\u003e temporary disablement after repeated failed logins\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  145,
+                          "question":  "A Bank SO IT cyber security requirement states: temporary disablement after repeated failed logins. Which concept should be selected?",
+                          "options":  [
+                                          "Business Continuity",
+                                          "Malware",
+                                          "Account Lockout",
+                                          "Incident Response"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Account Lockout."
+                      },
+                      {
+                          "id":  146,
+                          "question":  "Which banking cyber security concept best matches: adaptive authentication based on contextual risk signals?",
+                          "options":  [
+                                          "Phishing",
+                                          "Risk-Based Authentication",
+                                          "Data Encryption",
+                                          "Account Takeover"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Risk-Based Authentication is defined as: adaptive authentication based on contextual risk signals."
+                      },
+                      {
+                          "id":  147,
+                          "question":  "What is the most accurate description of \u0027Risk-Based Authentication\u0027?",
+                          "options":  [
+                                          "multiple layered controls to reduce attack success",
+                                          "systematic identification of security weaknesses",
+                                          "immutable record of user and system actions",
+                                          "adaptive authentication based on contextual risk signals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Risk-Based Authentication refers to: adaptive authentication based on contextual risk signals."
+                      },
+                      {
+                          "id":  148,
+                          "question":  "\u0027Risk-Based Authentication\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Banking Controls and Compliance",
+                                          "Identity and Access Security",
+                                          "Detection and Response",
+                                          "Threats and Fraud"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Risk-Based Authentication is mainly part of Identity and Access Security."
+                      },
+                      {
+                          "id":  149,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "RCA -\u003e adaptive authentication based on contextual risk signals",
+                                          "EDR -\u003e adaptive authentication based on contextual risk signals",
+                                          "Risk-Based Authentication -\u003e adaptive authentication based on contextual risk signals",
+                                          "Confidentiality -\u003e adaptive authentication based on contextual risk signals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Risk-Based Authentication -\u003e adaptive authentication based on contextual risk signals\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  150,
+                          "question":  "A Bank SO IT cyber security requirement states: adaptive authentication based on contextual risk signals. Which concept should be selected?",
+                          "options":  [
+                                          "Data Encryption",
+                                          "Phishing",
+                                          "Risk-Based Authentication",
+                                          "Account Takeover"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Risk-Based Authentication."
+                      },
+                      {
+                          "id":  151,
+                          "question":  "Which banking cyber security concept best matches: platform correlating logs and events for threat detection?",
+                          "options":  [
+                                          "SIEM",
+                                          "Security Policy",
+                                          "Phishing",
+                                          "EDR"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "SIEM is defined as: platform correlating logs and events for threat detection."
+                      },
+                      {
+                          "id":  152,
+                          "question":  "What is the most accurate description of \u0027SIEM\u0027?",
+                          "options":  [
+                                          "systematic identification of security weaknesses",
+                                          "immutable record of user and system actions",
+                                          "SMS based social engineering attack",
+                                          "platform correlating logs and events for threat detection"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SIEM refers to: platform correlating logs and events for threat detection."
+                      },
+                      {
+                          "id":  153,
+                          "question":  "\u0027SIEM\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Detection and Response",
+                                          "Identity and Access Security",
+                                          "Threats and Fraud",
+                                          "Security Fundamentals"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "SIEM is mainly part of Detection and Response."
+                      },
+                      {
+                          "id":  154,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Session Management -\u003e platform correlating logs and events for threat detection",
+                                          "Integrity -\u003e platform correlating logs and events for threat detection",
+                                          "SIEM -\u003e platform correlating logs and events for threat detection",
+                                          "Ransomware -\u003e platform correlating logs and events for threat detection"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027SIEM -\u003e platform correlating logs and events for threat detection\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  155,
+                          "question":  "A Bank SO IT cyber security requirement states: platform correlating logs and events for threat detection. Which concept should be selected?",
+                          "options":  [
+                                          "EDR",
+                                          "Phishing",
+                                          "Security Policy",
+                                          "SIEM"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to SIEM."
+                      },
+                      {
+                          "id":  156,
+                          "question":  "Which banking cyber security concept best matches: team responsible for continuous security monitoring and response?",
+                          "options":  [
+                                          "Threat Intelligence",
+                                          "Cyber Security",
+                                          "Vulnerability Assessment",
+                                          "SOC"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SOC is defined as: team responsible for continuous security monitoring and response."
+                      },
+                      {
+                          "id":  157,
+                          "question":  "What is the most accurate description of \u0027SOC\u0027?",
+                          "options":  [
+                                          "contextual information about adversaries and indicators",
+                                          "protection of systems, networks, and data from digital attacks",
+                                          "protecting data confidentiality using cryptographic methods",
+                                          "team responsible for continuous security monitoring and response"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SOC refers to: team responsible for continuous security monitoring and response."
+                      },
+                      {
+                          "id":  158,
+                          "question":  "\u0027SOC\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Threats and Fraud",
+                                          "Identity and Access Security",
+                                          "Banking Controls and Compliance",
+                                          "Detection and Response"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SOC is mainly part of Detection and Response."
+                      },
+                      {
+                          "id":  159,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Audit Trail -\u003e team responsible for continuous security monitoring and response",
+                                          "Availability -\u003e team responsible for continuous security monitoring and response",
+                                          "Zero Trust -\u003e team responsible for continuous security monitoring and response",
+                                          "SOC -\u003e team responsible for continuous security monitoring and response"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027SOC -\u003e team responsible for continuous security monitoring and response\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  160,
+                          "question":  "A Bank SO IT cyber security requirement states: team responsible for continuous security monitoring and response. Which concept should be selected?",
+                          "options":  [
+                                          "Vulnerability Assessment",
+                                          "Cyber Security",
+                                          "SOC",
+                                          "Threat Intelligence"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to SOC."
+                      },
+                      {
+                          "id":  161,
+                          "question":  "Which banking cyber security concept best matches: endpoint detection and response for suspicious host behavior?",
+                          "options":  [
+                                          "IOC",
+                                          "Integrity",
+                                          "MFA",
+                                          "EDR"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "EDR is defined as: endpoint detection and response for suspicious host behavior."
+                      },
+                      {
+                          "id":  162,
+                          "question":  "What is the most accurate description of \u0027EDR\u0027?",
+                          "options":  [
+                                          "endpoint detection and response for suspicious host behavior",
+                                          "permission model based on user roles",
+                                          "targeted phishing tailored to specific individual or role",
+                                          "malicious software designed to disrupt or steal"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "EDR refers to: endpoint detection and response for suspicious host behavior."
+                      },
+                      {
+                          "id":  163,
+                          "question":  "\u0027EDR\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Threats and Fraud",
+                                          "Detection and Response",
+                                          "Identity and Access Security",
+                                          "Security Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "EDR is mainly part of Detection and Response."
+                      },
+                      {
+                          "id":  164,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "EDR -\u003e endpoint detection and response for suspicious host behavior",
+                                          "Asset Inventory -\u003e endpoint detection and response for suspicious host behavior",
+                                          "Regulatory Compliance -\u003e endpoint detection and response for suspicious host behavior",
+                                          "Device Fingerprinting -\u003e endpoint detection and response for suspicious host behavior"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027EDR -\u003e endpoint detection and response for suspicious host behavior\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  165,
+                          "question":  "A Bank SO IT cyber security requirement states: endpoint detection and response for suspicious host behavior. Which concept should be selected?",
+                          "options":  [
+                                          "MFA",
+                                          "IOC",
+                                          "EDR",
+                                          "Integrity"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to EDR."
+                      },
+                      {
+                          "id":  166,
+                          "question":  "Which banking cyber security concept best matches: contextual information about adversaries and indicators?",
+                          "options":  [
+                                          "EDR",
+                                          "Device Fingerprinting",
+                                          "SOC",
+                                          "Threat Intelligence"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Threat Intelligence is defined as: contextual information about adversaries and indicators."
+                      },
+                      {
+                          "id":  167,
+                          "question":  "What is the most accurate description of \u0027Threat Intelligence\u0027?",
+                          "options":  [
+                                          "temporary disablement after repeated failed logins",
+                                          "SMS based social engineering attack",
+                                          "protection of systems, networks, and data from digital attacks",
+                                          "contextual information about adversaries and indicators"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Threat Intelligence refers to: contextual information about adversaries and indicators."
+                      },
+                      {
+                          "id":  168,
+                          "question":  "\u0027Threat Intelligence\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Security Fundamentals",
+                                          "Detection and Response",
+                                          "Banking Controls and Compliance",
+                                          "Threats and Fraud"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Threat Intelligence is mainly part of Detection and Response."
+                      },
+                      {
+                          "id":  169,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Business Continuity -\u003e contextual information about adversaries and indicators",
+                                          "Integrity -\u003e contextual information about adversaries and indicators",
+                                          "Threat Intelligence -\u003e contextual information about adversaries and indicators",
+                                          "SOC -\u003e contextual information about adversaries and indicators"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Threat Intelligence -\u003e contextual information about adversaries and indicators\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  170,
+                          "question":  "A Bank SO IT cyber security requirement states: contextual information about adversaries and indicators. Which concept should be selected?",
+                          "options":  [
+                                          "Threat Intelligence",
+                                          "EDR",
+                                          "Device Fingerprinting",
+                                          "SOC"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Threat Intelligence."
+                      },
+                      {
+                          "id":  171,
+                          "question":  "Which banking cyber security concept best matches: indicator suggesting potential compromise activity?",
+                          "options":  [
+                                          "Zero Trust",
+                                          "IOC",
+                                          "Data Encryption",
+                                          "Forensics"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "IOC is defined as: indicator suggesting potential compromise activity."
+                      },
+                      {
+                          "id":  172,
+                          "question":  "What is the most accurate description of \u0027IOC\u0027?",
+                          "options":  [
+                                          "granting only minimum required access permissions",
+                                          "permission model based on user roles",
+                                          "malware disguised as legitimate software",
+                                          "indicator suggesting potential compromise activity"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "IOC refers to: indicator suggesting potential compromise activity."
+                      },
+                      {
+                          "id":  173,
+                          "question":  "\u0027IOC\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Threats and Fraud",
+                                          "Identity and Access Security",
+                                          "Detection and Response",
+                                          "Security Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "IOC is mainly part of Detection and Response."
+                      },
+                      {
+                          "id":  174,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "IOC -\u003e indicator suggesting potential compromise activity",
+                                          "Vulnerability Assessment -\u003e indicator suggesting potential compromise activity",
+                                          "Asset Inventory -\u003e indicator suggesting potential compromise activity",
+                                          "Audit Trail -\u003e indicator suggesting potential compromise activity"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027IOC -\u003e indicator suggesting potential compromise activity\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  175,
+                          "question":  "A Bank SO IT cyber security requirement states: indicator suggesting potential compromise activity. Which concept should be selected?",
+                          "options":  [
+                                          "Data Encryption",
+                                          "Zero Trust",
+                                          "Forensics",
+                                          "IOC"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to IOC."
+                      },
+                      {
+                          "id":  176,
+                          "question":  "Which banking cyber security concept best matches: process to detect, contain, eradicate, and recover?",
+                          "options":  [
+                                          "Incident Response",
+                                          "Vishing",
+                                          "Data Loss Prevention",
+                                          "Defense in Depth"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Incident Response is defined as: process to detect, contain, eradicate, and recover."
+                      },
+                      {
+                          "id":  177,
+                          "question":  "What is the most accurate description of \u0027Incident Response\u0027?",
+                          "options":  [
+                                          "temporary disablement after repeated failed logins",
+                                          "process to detect, contain, eradicate, and recover",
+                                          "indicator suggesting potential compromise activity",
+                                          "root cause analysis to identify underlying failure source"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Incident Response refers to: process to detect, contain, eradicate, and recover."
+                      },
+                      {
+                          "id":  178,
+                          "question":  "\u0027Incident Response\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Banking Controls and Compliance",
+                                          "Threats and Fraud",
+                                          "Security Fundamentals",
+                                          "Detection and Response"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Incident Response is mainly part of Detection and Response."
+                      },
+                      {
+                          "id":  179,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Phishing -\u003e process to detect, contain, eradicate, and recover",
+                                          "Incident Response -\u003e process to detect, contain, eradicate, and recover",
+                                          "Spear Phishing -\u003e process to detect, contain, eradicate, and recover",
+                                          "SIEM -\u003e process to detect, contain, eradicate, and recover"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Incident Response -\u003e process to detect, contain, eradicate, and recover\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  180,
+                          "question":  "A Bank SO IT cyber security requirement states: process to detect, contain, eradicate, and recover. Which concept should be selected?",
+                          "options":  [
+                                          "Vishing",
+                                          "Incident Response",
+                                          "Data Loss Prevention",
+                                          "Defense in Depth"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Incident Response."
+                      },
+                      {
+                          "id":  181,
+                          "question":  "Which banking cyber security concept best matches: steps to limit spread and impact of incident?",
+                          "options":  [
+                                          "Containment",
+                                          "DDoS",
+                                          "Ransomware",
+                                          "Segregation of Duties"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Containment is defined as: steps to limit spread and impact of incident."
+                      },
+                      {
+                          "id":  182,
+                          "question":  "What is the most accurate description of \u0027Containment\u0027?",
+                          "options":  [
+                                          "contextual information about adversaries and indicators",
+                                          "security model requiring continuous verification for every access",
+                                          "protecting data confidentiality using cryptographic methods",
+                                          "steps to limit spread and impact of incident"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Containment refers to: steps to limit spread and impact of incident."
+                      },
+                      {
+                          "id":  183,
+                          "question":  "\u0027Containment\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Threats and Fraud",
+                                          "Detection and Response",
+                                          "Banking Controls and Compliance",
+                                          "Identity and Access Security"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Containment is mainly part of Detection and Response."
+                      },
+                      {
+                          "id":  184,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Containment -\u003e steps to limit spread and impact of incident",
+                                          "Forensics -\u003e steps to limit spread and impact of incident",
+                                          "Data Loss Prevention -\u003e steps to limit spread and impact of incident",
+                                          "Disaster Recovery -\u003e steps to limit spread and impact of incident"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Containment -\u003e steps to limit spread and impact of incident\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  185,
+                          "question":  "A Bank SO IT cyber security requirement states: steps to limit spread and impact of incident. Which concept should be selected?",
+                          "options":  [
+                                          "Containment",
+                                          "Ransomware",
+                                          "Segregation of Duties",
+                                          "DDoS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Containment."
+                      },
+                      {
+                          "id":  186,
+                          "question":  "Which banking cyber security concept best matches: collection and analysis of digital evidence?",
+                          "options":  [
+                                          "Tokenization",
+                                          "Biometric Authentication",
+                                          "Forensics",
+                                          "Cyber Security"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Forensics is defined as: collection and analysis of digital evidence."
+                      },
+                      {
+                          "id":  187,
+                          "question":  "What is the most accurate description of \u0027Forensics\u0027?",
+                          "options":  [
+                                          "distributed attack overwhelming service resources",
+                                          "process to detect, contain, eradicate, and recover",
+                                          "endpoint detection and response for suspicious host behavior",
+                                          "collection and analysis of digital evidence"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Forensics refers to: collection and analysis of digital evidence."
+                      },
+                      {
+                          "id":  188,
+                          "question":  "\u0027Forensics\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Detection and Response",
+                                          "Threats and Fraud",
+                                          "Identity and Access Security",
+                                          "Security Fundamentals"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Forensics is mainly part of Detection and Response."
+                      },
+                      {
+                          "id":  189,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Forensics -\u003e collection and analysis of digital evidence",
+                                          "RCA -\u003e collection and analysis of digital evidence",
+                                          "Post Incident Review -\u003e collection and analysis of digital evidence",
+                                          "MFA -\u003e collection and analysis of digital evidence"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Forensics -\u003e collection and analysis of digital evidence\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  190,
+                          "question":  "A Bank SO IT cyber security requirement states: collection and analysis of digital evidence. Which concept should be selected?",
+                          "options":  [
+                                          "Biometric Authentication",
+                                          "Tokenization",
+                                          "Forensics",
+                                          "Cyber Security"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Forensics."
+                      },
+                      {
+                          "id":  191,
+                          "question":  "Which banking cyber security concept best matches: root cause analysis to identify underlying failure source?",
+                          "options":  [
+                                          "Forensics",
+                                          "RCA",
+                                          "Malware",
+                                          "Session Management"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "RCA is defined as: root cause analysis to identify underlying failure source."
+                      },
+                      {
+                          "id":  192,
+                          "question":  "What is the most accurate description of \u0027RCA\u0027?",
+                          "options":  [
+                                          "malicious software designed to disrupt or steal",
+                                          "catalog of systems, applications, and data requiring protection",
+                                          "root cause analysis to identify underlying failure source",
+                                          "ensuring systems and data are accessible when needed"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "RCA refers to: root cause analysis to identify underlying failure source."
+                      },
+                      {
+                          "id":  193,
+                          "question":  "\u0027RCA\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Detection and Response",
+                                          "Identity and Access Security",
+                                          "Security Fundamentals",
+                                          "Threats and Fraud"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "RCA is mainly part of Detection and Response."
+                      },
+                      {
+                          "id":  194,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "RCA -\u003e root cause analysis to identify underlying failure source",
+                                          "Vishing -\u003e root cause analysis to identify underlying failure source",
+                                          "Spear Phishing -\u003e root cause analysis to identify underlying failure source",
+                                          "Tokenization -\u003e root cause analysis to identify underlying failure source"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027RCA -\u003e root cause analysis to identify underlying failure source\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  195,
+                          "question":  "A Bank SO IT cyber security requirement states: root cause analysis to identify underlying failure source. Which concept should be selected?",
+                          "options":  [
+                                          "RCA",
+                                          "Session Management",
+                                          "Forensics",
+                                          "Malware"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to RCA."
+                      },
+                      {
+                          "id":  196,
+                          "question":  "Which banking cyber security concept best matches: review documenting lessons and corrective actions?",
+                          "options":  [
+                                          "Ransomware",
+                                          "Business Continuity",
+                                          "Risk-Based Authentication",
+                                          "Post Incident Review"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Post Incident Review is defined as: review documenting lessons and corrective actions."
+                      },
+                      {
+                          "id":  197,
+                          "question":  "What is the most accurate description of \u0027Post Incident Review\u0027?",
+                          "options":  [
+                                          "protection of systems, networks, and data from digital attacks",
+                                          "protecting data confidentiality using cryptographic methods",
+                                          "SMS based social engineering attack",
+                                          "review documenting lessons and corrective actions"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Post Incident Review refers to: review documenting lessons and corrective actions."
+                      },
+                      {
+                          "id":  198,
+                          "question":  "\u0027Post Incident Review\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Detection and Response",
+                                          "Threats and Fraud",
+                                          "Identity and Access Security",
+                                          "Banking Controls and Compliance"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Post Incident Review is mainly part of Detection and Response."
+                      },
+                      {
+                          "id":  199,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Patch Management -\u003e review documenting lessons and corrective actions",
+                                          "Password Policy -\u003e review documenting lessons and corrective actions",
+                                          "Post Incident Review -\u003e review documenting lessons and corrective actions",
+                                          "Data Loss Prevention -\u003e review documenting lessons and corrective actions"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Post Incident Review -\u003e review documenting lessons and corrective actions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  200,
+                          "question":  "A Bank SO IT cyber security requirement states: review documenting lessons and corrective actions. Which concept should be selected?",
+                          "options":  [
+                                          "Ransomware",
+                                          "Post Incident Review",
+                                          "Business Continuity",
+                                          "Risk-Based Authentication"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Post Incident Review."
+                      },
+                      {
+                          "id":  201,
+                          "question":  "Which banking cyber security concept best matches: protecting data confidentiality using cryptographic methods?",
+                          "options":  [
+                                          "Availability",
+                                          "Disaster Recovery",
+                                          "DDoS",
+                                          "Data Encryption"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Data Encryption is defined as: protecting data confidentiality using cryptographic methods."
+                      },
+                      {
+                          "id":  202,
+                          "question":  "What is the most accurate description of \u0027Data Encryption\u0027?",
+                          "options":  [
+                                          "multiple layered controls to reduce attack success",
+                                          "controls preventing unauthorized sensitive data exfiltration",
+                                          "protecting data confidentiality using cryptographic methods",
+                                          "temporary disablement after repeated failed logins"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Data Encryption refers to: protecting data confidentiality using cryptographic methods."
+                      },
+                      {
+                          "id":  203,
+                          "question":  "\u0027Data Encryption\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Identity and Access Security",
+                                          "Banking Controls and Compliance",
+                                          "Detection and Response",
+                                          "Security Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Data Encryption is mainly part of Banking Controls and Compliance."
+                      },
+                      {
+                          "id":  204,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Forensics -\u003e protecting data confidentiality using cryptographic methods",
+                                          "Device Fingerprinting -\u003e protecting data confidentiality using cryptographic methods",
+                                          "Account Takeover -\u003e protecting data confidentiality using cryptographic methods",
+                                          "Data Encryption -\u003e protecting data confidentiality using cryptographic methods"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Data Encryption -\u003e protecting data confidentiality using cryptographic methods\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  205,
+                          "question":  "A Bank SO IT cyber security requirement states: protecting data confidentiality using cryptographic methods. Which concept should be selected?",
+                          "options":  [
+                                          "Availability",
+                                          "Disaster Recovery",
+                                          "DDoS",
+                                          "Data Encryption"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Data Encryption."
+                      },
+                      {
+                          "id":  206,
+                          "question":  "Which banking cyber security concept best matches: replacing sensitive data with non-sensitive substitute tokens?",
+                          "options":  [
+                                          "Cyber Security",
+                                          "Post Incident Review",
+                                          "Least Privilege",
+                                          "Tokenization"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Tokenization is defined as: replacing sensitive data with non-sensitive substitute tokens."
+                      },
+                      {
+                          "id":  207,
+                          "question":  "What is the most accurate description of \u0027Tokenization\u0027?",
+                          "options":  [
+                                          "replacing sensitive data with non-sensitive substitute tokens",
+                                          "security model requiring continuous verification for every access",
+                                          "review documenting lessons and corrective actions",
+                                          "targeted phishing tailored to specific individual or role"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Tokenization refers to: replacing sensitive data with non-sensitive substitute tokens."
+                      },
+                      {
+                          "id":  208,
+                          "question":  "\u0027Tokenization\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Security Fundamentals",
+                                          "Banking Controls and Compliance",
+                                          "Detection and Response",
+                                          "Threats and Fraud"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Tokenization is mainly part of Banking Controls and Compliance."
+                      },
+                      {
+                          "id":  209,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Smishing -\u003e replacing sensitive data with non-sensitive substitute tokens",
+                                          "DDoS -\u003e replacing sensitive data with non-sensitive substitute tokens",
+                                          "Tokenization -\u003e replacing sensitive data with non-sensitive substitute tokens",
+                                          "Vulnerability Assessment -\u003e replacing sensitive data with non-sensitive substitute tokens"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Tokenization -\u003e replacing sensitive data with non-sensitive substitute tokens\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  210,
+                          "question":  "A Bank SO IT cyber security requirement states: replacing sensitive data with non-sensitive substitute tokens. Which concept should be selected?",
+                          "options":  [
+                                          "Cyber Security",
+                                          "Tokenization",
+                                          "Post Incident Review",
+                                          "Least Privilege"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Tokenization."
+                      },
+                      {
+                          "id":  211,
+                          "question":  "Which banking cyber security concept best matches: controls preventing unauthorized sensitive data exfiltration?",
+                          "options":  [
+                                          "Spear Phishing",
+                                          "Audit Trail",
+                                          "Data Loss Prevention",
+                                          "Least Privilege"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Data Loss Prevention is defined as: controls preventing unauthorized sensitive data exfiltration."
+                      },
+                      {
+                          "id":  212,
+                          "question":  "What is the most accurate description of \u0027Data Loss Prevention\u0027?",
+                          "options":  [
+                                          "multiple layered controls to reduce attack success",
+                                          "permission model based on user roles",
+                                          "controls preventing unauthorized sensitive data exfiltration",
+                                          "ensuring data remains accurate and unaltered"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Data Loss Prevention refers to: controls preventing unauthorized sensitive data exfiltration."
+                      },
+                      {
+                          "id":  213,
+                          "question":  "\u0027Data Loss Prevention\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Detection and Response",
+                                          "Threats and Fraud",
+                                          "Security Fundamentals",
+                                          "Banking Controls and Compliance"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Data Loss Prevention is mainly part of Banking Controls and Compliance."
+                      },
+                      {
+                          "id":  214,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Segregation of Duties -\u003e controls preventing unauthorized sensitive data exfiltration",
+                                          "EDR -\u003e controls preventing unauthorized sensitive data exfiltration",
+                                          "Data Loss Prevention -\u003e controls preventing unauthorized sensitive data exfiltration",
+                                          "Defense in Depth -\u003e controls preventing unauthorized sensitive data exfiltration"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Data Loss Prevention -\u003e controls preventing unauthorized sensitive data exfiltration\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  215,
+                          "question":  "A Bank SO IT cyber security requirement states: controls preventing unauthorized sensitive data exfiltration. Which concept should be selected?",
+                          "options":  [
+                                          "Spear Phishing",
+                                          "Data Loss Prevention",
+                                          "Least Privilege",
+                                          "Audit Trail"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Data Loss Prevention."
+                      },
+                      {
+                          "id":  216,
+                          "question":  "Which banking cyber security concept best matches: security standard for handling payment card data?",
+                          "options":  [
+                                          "Incident Response",
+                                          "Malware",
+                                          "PCI DSS",
+                                          "SIEM"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "PCI DSS is defined as: security standard for handling payment card data."
+                      },
+                      {
+                          "id":  217,
+                          "question":  "What is the most accurate description of \u0027PCI DSS\u0027?",
+                          "options":  [
+                                          "authentication requiring two or more independent factors",
+                                          "voice call based social engineering fraud",
+                                          "security standard for handling payment card data",
+                                          "team responsible for continuous security monitoring and response"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "PCI DSS refers to: security standard for handling payment card data."
+                      },
+                      {
+                          "id":  218,
+                          "question":  "\u0027PCI DSS\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Identity and Access Security",
+                                          "Banking Controls and Compliance",
+                                          "Security Fundamentals",
+                                          "Detection and Response"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "PCI DSS is mainly part of Banking Controls and Compliance."
+                      },
+                      {
+                          "id":  219,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "EDR -\u003e security standard for handling payment card data",
+                                          "Data Encryption -\u003e security standard for handling payment card data",
+                                          "Role-Based Access Control -\u003e security standard for handling payment card data",
+                                          "PCI DSS -\u003e security standard for handling payment card data"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027PCI DSS -\u003e security standard for handling payment card data\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  220,
+                          "question":  "A Bank SO IT cyber security requirement states: security standard for handling payment card data. Which concept should be selected?",
+                          "options":  [
+                                          "PCI DSS",
+                                          "Malware",
+                                          "SIEM",
+                                          "Incident Response"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to PCI DSS."
+                      },
+                      {
+                          "id":  221,
+                          "question":  "Which banking cyber security concept best matches: adherence to laws, circulars, and supervisory requirements?",
+                          "options":  [
+                                          "Regulatory Compliance",
+                                          "Vishing",
+                                          "Biometric Authentication",
+                                          "SIEM"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Regulatory Compliance is defined as: adherence to laws, circulars, and supervisory requirements."
+                      },
+                      {
+                          "id":  222,
+                          "question":  "What is the most accurate description of \u0027Regulatory Compliance\u0027?",
+                          "options":  [
+                                          "indicator suggesting potential compromise activity",
+                                          "automated login attempts using leaked credentials",
+                                          "adaptive authentication based on contextual risk signals",
+                                          "adherence to laws, circulars, and supervisory requirements"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Regulatory Compliance refers to: adherence to laws, circulars, and supervisory requirements."
+                      },
+                      {
+                          "id":  223,
+                          "question":  "\u0027Regulatory Compliance\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Identity and Access Security",
+                                          "Banking Controls and Compliance",
+                                          "Threats and Fraud",
+                                          "Security Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Regulatory Compliance is mainly part of Banking Controls and Compliance."
+                      },
+                      {
+                          "id":  224,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Regulatory Compliance -\u003e adherence to laws, circulars, and supervisory requirements",
+                                          "Zero Trust -\u003e adherence to laws, circulars, and supervisory requirements",
+                                          "Confidentiality -\u003e adherence to laws, circulars, and supervisory requirements",
+                                          "Least Privilege -\u003e adherence to laws, circulars, and supervisory requirements"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Regulatory Compliance -\u003e adherence to laws, circulars, and supervisory requirements\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  225,
+                          "question":  "A Bank SO IT cyber security requirement states: adherence to laws, circulars, and supervisory requirements. Which concept should be selected?",
+                          "options":  [
+                                          "Biometric Authentication",
+                                          "Vishing",
+                                          "SIEM",
+                                          "Regulatory Compliance"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Regulatory Compliance."
+                      },
+                      {
+                          "id":  226,
+                          "question":  "Which banking cyber security concept best matches: immutable record of user and system actions?",
+                          "options":  [
+                                          "RCA",
+                                          "Smishing",
+                                          "Audit Trail",
+                                          "Account Lockout"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Audit Trail is defined as: immutable record of user and system actions."
+                      },
+                      {
+                          "id":  227,
+                          "question":  "What is the most accurate description of \u0027Audit Trail\u0027?",
+                          "options":  [
+                                          "adherence to laws, circulars, and supervisory requirements",
+                                          "process to detect, contain, eradicate, and recover",
+                                          "formal document defining organizational security expectations",
+                                          "immutable record of user and system actions"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Audit Trail refers to: immutable record of user and system actions."
+                      },
+                      {
+                          "id":  228,
+                          "question":  "\u0027Audit Trail\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Detection and Response",
+                                          "Banking Controls and Compliance",
+                                          "Identity and Access Security",
+                                          "Threats and Fraud"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Audit Trail is mainly part of Banking Controls and Compliance."
+                      },
+                      {
+                          "id":  229,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Audit Trail -\u003e immutable record of user and system actions",
+                                          "SIEM -\u003e immutable record of user and system actions",
+                                          "Disaster Recovery -\u003e immutable record of user and system actions",
+                                          "Data Encryption -\u003e immutable record of user and system actions"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Audit Trail -\u003e immutable record of user and system actions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  230,
+                          "question":  "A Bank SO IT cyber security requirement states: immutable record of user and system actions. Which concept should be selected?",
+                          "options":  [
+                                          "RCA",
+                                          "Account Lockout",
+                                          "Audit Trail",
+                                          "Smishing"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Audit Trail."
+                      },
+                      {
+                          "id":  231,
+                          "question":  "Which banking cyber security concept best matches: systematic identification of security weaknesses?",
+                          "options":  [
+                                          "Regulatory Compliance",
+                                          "Malware",
+                                          "Asset Inventory",
+                                          "Vulnerability Assessment"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Vulnerability Assessment is defined as: systematic identification of security weaknesses."
+                      },
+                      {
+                          "id":  232,
+                          "question":  "What is the most accurate description of \u0027Vulnerability Assessment\u0027?",
+                          "options":  [
+                                          "systematic identification of security weaknesses",
+                                          "contextual information about adversaries and indicators",
+                                          "identifying device characteristics for risk assessment",
+                                          "identity verification using biological characteristics"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Vulnerability Assessment refers to: systematic identification of security weaknesses."
+                      },
+                      {
+                          "id":  233,
+                          "question":  "\u0027Vulnerability Assessment\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Banking Controls and Compliance",
+                                          "Identity and Access Security",
+                                          "Security Fundamentals",
+                                          "Threats and Fraud"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Vulnerability Assessment is mainly part of Banking Controls and Compliance."
+                      },
+                      {
+                          "id":  234,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Vulnerability Assessment -\u003e systematic identification of security weaknesses",
+                                          "Ransomware -\u003e systematic identification of security weaknesses",
+                                          "PCI DSS -\u003e systematic identification of security weaknesses",
+                                          "Credential Stuffing -\u003e systematic identification of security weaknesses"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Vulnerability Assessment -\u003e systematic identification of security weaknesses\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  235,
+                          "question":  "A Bank SO IT cyber security requirement states: systematic identification of security weaknesses. Which concept should be selected?",
+                          "options":  [
+                                          "Malware",
+                                          "Regulatory Compliance",
+                                          "Asset Inventory",
+                                          "Vulnerability Assessment"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Vulnerability Assessment."
+                      },
+                      {
+                          "id":  236,
+                          "question":  "Which banking cyber security concept best matches: timely deployment of updates reducing exploitability?",
+                          "options":  [
+                                          "Security Policy",
+                                          "Patch Management",
+                                          "DDoS",
+                                          "Asset Inventory"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Patch Management is defined as: timely deployment of updates reducing exploitability."
+                      },
+                      {
+                          "id":  237,
+                          "question":  "What is the most accurate description of \u0027Patch Management\u0027?",
+                          "options":  [
+                                          "timely deployment of updates reducing exploitability",
+                                          "protection of systems, networks, and data from digital attacks",
+                                          "secure handling of user session lifecycle",
+                                          "distributed attack overwhelming service resources"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Patch Management refers to: timely deployment of updates reducing exploitability."
+                      },
+                      {
+                          "id":  238,
+                          "question":  "\u0027Patch Management\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Banking Controls and Compliance",
+                                          "Threats and Fraud",
+                                          "Detection and Response",
+                                          "Security Fundamentals"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Patch Management is mainly part of Banking Controls and Compliance."
+                      },
+                      {
+                          "id":  239,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Patch Management -\u003e timely deployment of updates reducing exploitability",
+                                          "Spear Phishing -\u003e timely deployment of updates reducing exploitability",
+                                          "Vishing -\u003e timely deployment of updates reducing exploitability",
+                                          "Asset Inventory -\u003e timely deployment of updates reducing exploitability"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Patch Management -\u003e timely deployment of updates reducing exploitability\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  240,
+                          "question":  "A Bank SO IT cyber security requirement states: timely deployment of updates reducing exploitability. Which concept should be selected?",
+                          "options":  [
+                                          "Asset Inventory",
+                                          "Patch Management",
+                                          "DDoS",
+                                          "Security Policy"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Patch Management."
+                      },
+                      {
+                          "id":  241,
+                          "question":  "Which banking cyber security concept best matches: ability to continue critical banking operations during disruption?",
+                          "options":  [
+                                          "SIEM",
+                                          "Business Continuity",
+                                          "Malware",
+                                          "Trojan"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Business Continuity is defined as: ability to continue critical banking operations during disruption."
+                      },
+                      {
+                          "id":  242,
+                          "question":  "What is the most accurate description of \u0027Business Continuity\u0027?",
+                          "options":  [
+                                          "voice call based social engineering fraud",
+                                          "immutable record of user and system actions",
+                                          "ability to continue critical banking operations during disruption",
+                                          "social engineering attack using deceptive communication"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Business Continuity refers to: ability to continue critical banking operations during disruption."
+                      },
+                      {
+                          "id":  243,
+                          "question":  "\u0027Business Continuity\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Threats and Fraud",
+                                          "Banking Controls and Compliance",
+                                          "Security Fundamentals",
+                                          "Identity and Access Security"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Business Continuity is mainly part of Banking Controls and Compliance."
+                      },
+                      {
+                          "id":  244,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "SOC -\u003e ability to continue critical banking operations during disruption",
+                                          "Business Continuity -\u003e ability to continue critical banking operations during disruption",
+                                          "RCA -\u003e ability to continue critical banking operations during disruption",
+                                          "Disaster Recovery -\u003e ability to continue critical banking operations during disruption"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Business Continuity -\u003e ability to continue critical banking operations during disruption\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  245,
+                          "question":  "A Bank SO IT cyber security requirement states: ability to continue critical banking operations during disruption. Which concept should be selected?",
+                          "options":  [
+                                          "Malware",
+                                          "SIEM",
+                                          "Business Continuity",
+                                          "Trojan"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Business Continuity."
+                      },
+                      {
+                          "id":  246,
+                          "question":  "Which banking cyber security concept best matches: capability to restore services and data after major outage?",
+                          "options":  [
+                                          "Disaster Recovery",
+                                          "Spear Phishing",
+                                          "Asset Inventory",
+                                          "Privileged Access Management"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Disaster Recovery is defined as: capability to restore services and data after major outage."
+                      },
+                      {
+                          "id":  247,
+                          "question":  "What is the most accurate description of \u0027Disaster Recovery\u0027?",
+                          "options":  [
+                                          "catalog of systems, applications, and data requiring protection",
+                                          "temporary disablement after repeated failed logins",
+                                          "malicious software designed to disrupt or steal",
+                                          "capability to restore services and data after major outage"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Disaster Recovery refers to: capability to restore services and data after major outage."
+                      },
+                      {
+                          "id":  248,
+                          "question":  "\u0027Disaster Recovery\u0027 belongs mainly to which banking cyber security area?",
+                          "options":  [
+                                          "Banking Controls and Compliance",
+                                          "Detection and Response",
+                                          "Identity and Access Security",
+                                          "Security Fundamentals"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Disaster Recovery is mainly part of Banking Controls and Compliance."
+                      },
+                      {
+                          "id":  249,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Disaster Recovery -\u003e capability to restore services and data after major outage",
+                                          "Cyber Security -\u003e capability to restore services and data after major outage",
+                                          "SIEM -\u003e capability to restore services and data after major outage",
+                                          "Ransomware -\u003e capability to restore services and data after major outage"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Disaster Recovery -\u003e capability to restore services and data after major outage\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  250,
+                          "question":  "A Bank SO IT cyber security requirement states: capability to restore services and data after major outage. Which concept should be selected?",
+                          "options":  [
+                                          "Asset Inventory",
+                                          "Disaster Recovery",
+                                          "Privileged Access Management",
+                                          "Spear Phishing"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Disaster Recovery."
+                      }
+                  ]
+}

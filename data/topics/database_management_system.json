@@ -1,0 +1,3004 @@
+﻿{
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "Which DBMS concept best matches: software for creating and managing structured databases?",
+                          "options":  [
+                                          "UPDATE",
+                                          "DBMS",
+                                          "Primary Key",
+                                          "CHECK Constraint"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "DBMS is defined as: software for creating and managing structured databases."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "What is the most accurate description of \u0027DBMS\u0027 in DBMS context?",
+                          "options":  [
+                                          "attribute set that uniquely identifies each row, minimality not required",
+                                          "situation where transactions wait indefinitely for each other resources",
+                                          "software for creating and managing structured databases",
+                                          "ability to change schema at one level without affecting higher level"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "DBMS refers to: software for creating and managing structured databases."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "\u0027DBMS\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "SQL Operations",
+                                          "Transactions and Concurrency",
+                                          "Fundamentals",
+                                          "Joins and Queries"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "DBMS is mainly part of Fundamentals in DBMS preparation."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Primary Key -\u003e software for creating and managing structured databases",
+                                          "Instance -\u003e software for creating and managing structured databases",
+                                          "DBMS -\u003e software for creating and managing structured databases",
+                                          "Second Normal Form -\u003e software for creating and managing structured databases"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027DBMS -\u003e software for creating and managing structured databases\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "A bank IT database requirement states: software for creating and managing structured databases. Which concept should be selected?",
+                          "options":  [
+                                          "CHECK Constraint",
+                                          "UPDATE",
+                                          "DBMS",
+                                          "Primary Key"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to DBMS."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "Which DBMS concept best matches: database system based on relational model and tables?",
+                          "options":  [
+                                          "First Normal Form",
+                                          "RDBMS",
+                                          "Candidate Key",
+                                          "Second Normal Form"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "RDBMS is defined as: database system based on relational model and tables."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "What is the most accurate description of \u0027RDBMS\u0027 in DBMS context?",
+                          "options":  [
+                                          "clause used to aggregate rows by column values",
+                                          "minimal attribute set that can uniquely identify tuples",
+                                          "constraint preventing null values in a column",
+                                          "database system based on relational model and tables"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "RDBMS refers to: database system based on relational model and tables."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "\u0027RDBMS\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Transactions and Concurrency",
+                                          "Normalization",
+                                          "Fundamentals",
+                                          "Joins and Queries"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "RDBMS is mainly part of Fundamentals in DBMS preparation."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "SELECT -\u003e database system based on relational model and tables",
+                                          "INNER JOIN -\u003e database system based on relational model and tables",
+                                          "RDBMS -\u003e database system based on relational model and tables",
+                                          "Primary Key -\u003e database system based on relational model and tables"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027RDBMS -\u003e database system based on relational model and tables\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "A bank IT database requirement states: database system based on relational model and tables. Which concept should be selected?",
+                          "options":  [
+                                          "Second Normal Form",
+                                          "RDBMS",
+                                          "Candidate Key",
+                                          "First Normal Form"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to RDBMS."
+                      },
+                      {
+                          "id":  11,
+                          "question":  "Which DBMS concept best matches: logical design describing structure of database objects?",
+                          "options":  [
+                                          "Schema",
+                                          "Foreign Key",
+                                          "Instance",
+                                          "Atomicity"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Schema is defined as: logical design describing structure of database objects."
+                      },
+                      {
+                          "id":  12,
+                          "question":  "What is the most accurate description of \u0027Schema\u0027 in DBMS context?",
+                          "options":  [
+                                          "attribute set that uniquely identifies each row, minimality not required",
+                                          "logical design describing structure of database objects",
+                                          "command used to create database objects like table or index",
+                                          "lock that prevents other transactions from reading or writing data"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Schema refers to: logical design describing structure of database objects."
+                      },
+                      {
+                          "id":  13,
+                          "question":  "\u0027Schema\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Fundamentals",
+                                          "Transactions and Concurrency",
+                                          "Keys and Constraints",
+                                          "Normalization"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Schema is mainly part of Fundamentals in DBMS preparation."
+                      },
+                      {
+                          "id":  14,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Durability -\u003e logical design describing structure of database objects",
+                                          "Third Normal Form -\u003e logical design describing structure of database objects",
+                                          "Transaction -\u003e logical design describing structure of database objects",
+                                          "Schema -\u003e logical design describing structure of database objects"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Schema -\u003e logical design describing structure of database objects\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  15,
+                          "question":  "A bank IT database requirement states: logical design describing structure of database objects. Which concept should be selected?",
+                          "options":  [
+                                          "Atomicity",
+                                          "Foreign Key",
+                                          "Schema",
+                                          "Instance"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Schema."
+                      },
+                      {
+                          "id":  16,
+                          "question":  "Which DBMS concept best matches: actual data stored in database at a specific time?",
+                          "options":  [
+                                          "RIGHT JOIN",
+                                          "Data Independence",
+                                          "Composite Key",
+                                          "Instance"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Instance is defined as: actual data stored in database at a specific time."
+                      },
+                      {
+                          "id":  17,
+                          "question":  "What is the most accurate description of \u0027Instance\u0027 in DBMS context?",
+                          "options":  [
+                                          "command used to remove database object permanently",
+                                          "ACID property ensuring all operations in transaction succeed or rollback",
+                                          "SQL command used to retrieve data from tables",
+                                          "actual data stored in database at a specific time"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Instance refers to: actual data stored in database at a specific time."
+                      },
+                      {
+                          "id":  18,
+                          "question":  "\u0027Instance\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Fundamentals",
+                                          "Transactions and Concurrency",
+                                          "SQL Operations",
+                                          "Normalization"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Instance is mainly part of Fundamentals in DBMS preparation."
+                      },
+                      {
+                          "id":  19,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Transaction -\u003e actual data stored in database at a specific time",
+                                          "Third Normal Form -\u003e actual data stored in database at a specific time",
+                                          "NOT NULL Constraint -\u003e actual data stored in database at a specific time",
+                                          "Instance -\u003e actual data stored in database at a specific time"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Instance -\u003e actual data stored in database at a specific time\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  20,
+                          "question":  "A bank IT database requirement states: actual data stored in database at a specific time. Which concept should be selected?",
+                          "options":  [
+                                          "Composite Key",
+                                          "Instance",
+                                          "RIGHT JOIN",
+                                          "Data Independence"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Instance."
+                      },
+                      {
+                          "id":  21,
+                          "question":  "Which DBMS concept best matches: ability to change schema at one level without affecting higher level?",
+                          "options":  [
+                                          "Data Independence",
+                                          "Second Normal Form",
+                                          "Subquery",
+                                          "FULL OUTER JOIN"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Data Independence is defined as: ability to change schema at one level without affecting higher level."
+                      },
+                      {
+                          "id":  22,
+                          "question":  "What is the most accurate description of \u0027Data Independence\u0027 in DBMS context?",
+                          "options":  [
+                                          "ability to change schema at one level without affecting higher level",
+                                          "join returning rows with matching values in both tables",
+                                          "actual data stored in database at a specific time",
+                                          "ACID property preserving valid database rules before and after transaction"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Data Independence refers to: ability to change schema at one level without affecting higher level."
+                      },
+                      {
+                          "id":  23,
+                          "question":  "\u0027Data Independence\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "SQL Operations",
+                                          "Transactions and Concurrency",
+                                          "Joins and Queries",
+                                          "Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Data Independence is mainly part of Fundamentals in DBMS preparation."
+                      },
+                      {
+                          "id":  24,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Instance -\u003e ability to change schema at one level without affecting higher level",
+                                          "Deadlock -\u003e ability to change schema at one level without affecting higher level",
+                                          "Data Independence -\u003e ability to change schema at one level without affecting higher level",
+                                          "Second Normal Form -\u003e ability to change schema at one level without affecting higher level"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Data Independence -\u003e ability to change schema at one level without affecting higher level\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  25,
+                          "question":  "A bank IT database requirement states: ability to change schema at one level without affecting higher level. Which concept should be selected?",
+                          "options":  [
+                                          "Second Normal Form",
+                                          "Data Independence",
+                                          "FULL OUTER JOIN",
+                                          "Subquery"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Data Independence."
+                      },
+                      {
+                          "id":  26,
+                          "question":  "Which DBMS concept best matches: attribute that uniquely identifies each row in a table?",
+                          "options":  [
+                                          "Clustered Index",
+                                          "Primary Key",
+                                          "CREATE",
+                                          "Shared Lock"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Primary Key is defined as: attribute that uniquely identifies each row in a table."
+                      },
+                      {
+                          "id":  27,
+                          "question":  "What is the most accurate description of \u0027Primary Key\u0027 in DBMS context?",
+                          "options":  [
+                                          "command used to create database objects like table or index",
+                                          "attribute that uniquely identifies each row in a table",
+                                          "situation where transactions wait indefinitely for each other resources",
+                                          "join returning all rows when match exists in either table"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Primary Key refers to: attribute that uniquely identifies each row in a table."
+                      },
+                      {
+                          "id":  28,
+                          "question":  "\u0027Primary Key\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Transactions and Concurrency",
+                                          "SQL Operations",
+                                          "Keys and Constraints",
+                                          "Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Primary Key is mainly part of Keys and Constraints in DBMS preparation."
+                      },
+                      {
+                          "id":  29,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Primary Key -\u003e attribute that uniquely identifies each row in a table",
+                                          "Instance -\u003e attribute that uniquely identifies each row in a table",
+                                          "TRUNCATE -\u003e attribute that uniquely identifies each row in a table",
+                                          "CHECK Constraint -\u003e attribute that uniquely identifies each row in a table"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Primary Key -\u003e attribute that uniquely identifies each row in a table\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  30,
+                          "question":  "A bank IT database requirement states: attribute that uniquely identifies each row in a table. Which concept should be selected?",
+                          "options":  [
+                                          "Shared Lock",
+                                          "CREATE",
+                                          "Clustered Index",
+                                          "Primary Key"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Primary Key."
+                      },
+                      {
+                          "id":  31,
+                          "question":  "Which DBMS concept best matches: minimal attribute set that can uniquely identify tuples?",
+                          "options":  [
+                                          "Index",
+                                          "Candidate Key",
+                                          "HAVING",
+                                          "NOT NULL Constraint"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Candidate Key is defined as: minimal attribute set that can uniquely identify tuples."
+                      },
+                      {
+                          "id":  32,
+                          "question":  "What is the most accurate description of \u0027Candidate Key\u0027 in DBMS context?",
+                          "options":  [
+                                          "clause used to aggregate rows by column values",
+                                          "minimal attribute set that can uniquely identify tuples",
+                                          "join returning all rows when match exists in either table",
+                                          "separate index structure containing pointers to data rows"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Candidate Key refers to: minimal attribute set that can uniquely identify tuples."
+                      },
+                      {
+                          "id":  33,
+                          "question":  "\u0027Candidate Key\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "SQL Operations",
+                                          "Normalization",
+                                          "Fundamentals",
+                                          "Keys and Constraints"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Candidate Key is mainly part of Keys and Constraints in DBMS preparation."
+                      },
+                      {
+                          "id":  34,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Candidate Key -\u003e minimal attribute set that can uniquely identify tuples",
+                                          "TRUNCATE -\u003e minimal attribute set that can uniquely identify tuples",
+                                          "SELECT -\u003e minimal attribute set that can uniquely identify tuples",
+                                          "DROP -\u003e minimal attribute set that can uniquely identify tuples"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Candidate Key -\u003e minimal attribute set that can uniquely identify tuples\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  35,
+                          "question":  "A bank IT database requirement states: minimal attribute set that can uniquely identify tuples. Which concept should be selected?",
+                          "options":  [
+                                          "Index",
+                                          "Candidate Key",
+                                          "NOT NULL Constraint",
+                                          "HAVING"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Candidate Key."
+                      },
+                      {
+                          "id":  36,
+                          "question":  "Which DBMS concept best matches: attribute set that uniquely identifies each row, minimality not required?",
+                          "options":  [
+                                          "Super Key",
+                                          "Consistency",
+                                          "CHECK Constraint",
+                                          "DBMS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Super Key is defined as: attribute set that uniquely identifies each row, minimality not required."
+                      },
+                      {
+                          "id":  37,
+                          "question":  "What is the most accurate description of \u0027Super Key\u0027 in DBMS context?",
+                          "options":  [
+                                          "normal form requiring every determinant to be a candidate key",
+                                          "attribute set that uniquely identifies each row, minimality not required",
+                                          "attribute that uniquely identifies each row in a table",
+                                          "join returning all rows from right table and matches from left"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Super Key refers to: attribute set that uniquely identifies each row, minimality not required."
+                      },
+                      {
+                          "id":  38,
+                          "question":  "\u0027Super Key\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Keys and Constraints",
+                                          "Fundamentals",
+                                          "Normalization",
+                                          "SQL Operations"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Super Key is mainly part of Keys and Constraints in DBMS preparation."
+                      },
+                      {
+                          "id":  39,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Exclusive Lock -\u003e attribute set that uniquely identifies each row, minimality not required",
+                                          "TRUNCATE -\u003e attribute set that uniquely identifies each row, minimality not required",
+                                          "CHECK Constraint -\u003e attribute set that uniquely identifies each row, minimality not required",
+                                          "Super Key -\u003e attribute set that uniquely identifies each row, minimality not required"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Super Key -\u003e attribute set that uniquely identifies each row, minimality not required\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  40,
+                          "question":  "A bank IT database requirement states: attribute set that uniquely identifies each row, minimality not required. Which concept should be selected?",
+                          "options":  [
+                                          "Consistency",
+                                          "DBMS",
+                                          "CHECK Constraint",
+                                          "Super Key"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Super Key."
+                      },
+                      {
+                          "id":  41,
+                          "question":  "Which DBMS concept best matches: attribute referencing primary key of another table?",
+                          "options":  [
+                                          "Foreign Key",
+                                          "Index",
+                                          "RIGHT JOIN",
+                                          "DROP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Foreign Key is defined as: attribute referencing primary key of another table."
+                      },
+                      {
+                          "id":  42,
+                          "question":  "What is the most accurate description of \u0027Foreign Key\u0027 in DBMS context?",
+                          "options":  [
+                                          "normal form requiring every determinant to be a candidate key",
+                                          "query nested inside another SQL query",
+                                          "attribute referencing primary key of another table",
+                                          "clause used to aggregate rows by column values"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Foreign Key refers to: attribute referencing primary key of another table."
+                      },
+                      {
+                          "id":  43,
+                          "question":  "\u0027Foreign Key\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Normalization",
+                                          "Keys and Constraints",
+                                          "Transactions and Concurrency",
+                                          "SQL Operations"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Foreign Key is mainly part of Keys and Constraints in DBMS preparation."
+                      },
+                      {
+                          "id":  44,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "ALTER -\u003e attribute referencing primary key of another table",
+                                          "Foreign Key -\u003e attribute referencing primary key of another table",
+                                          "COMMIT -\u003e attribute referencing primary key of another table",
+                                          "CHECK Constraint -\u003e attribute referencing primary key of another table"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Foreign Key -\u003e attribute referencing primary key of another table\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  45,
+                          "question":  "A bank IT database requirement states: attribute referencing primary key of another table. Which concept should be selected?",
+                          "options":  [
+                                          "DROP",
+                                          "Index",
+                                          "Foreign Key",
+                                          "RIGHT JOIN"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Foreign Key."
+                      },
+                      {
+                          "id":  46,
+                          "question":  "Which DBMS concept best matches: key formed by more than one column?",
+                          "options":  [
+                                          "INNER JOIN",
+                                          "Composite Key",
+                                          "Isolation",
+                                          "CHECK Constraint"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Composite Key is defined as: key formed by more than one column."
+                      },
+                      {
+                          "id":  47,
+                          "question":  "What is the most accurate description of \u0027Composite Key\u0027 in DBMS context?",
+                          "options":  [
+                                          "key formed by more than one column",
+                                          "index that determines physical storage order of table rows",
+                                          "separate index structure containing pointers to data rows",
+                                          "virtual table based on a stored SQL query"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Composite Key refers to: key formed by more than one column."
+                      },
+                      {
+                          "id":  48,
+                          "question":  "\u0027Composite Key\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Keys and Constraints",
+                                          "Joins and Queries",
+                                          "Normalization",
+                                          "Transactions and Concurrency"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Composite Key is mainly part of Keys and Constraints in DBMS preparation."
+                      },
+                      {
+                          "id":  49,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Isolation -\u003e key formed by more than one column",
+                                          "Composite Key -\u003e key formed by more than one column",
+                                          "HAVING -\u003e key formed by more than one column",
+                                          "Primary Key -\u003e key formed by more than one column"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Composite Key -\u003e key formed by more than one column\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  50,
+                          "question":  "A bank IT database requirement states: key formed by more than one column. Which concept should be selected?",
+                          "options":  [
+                                          "CHECK Constraint",
+                                          "Isolation",
+                                          "INNER JOIN",
+                                          "Composite Key"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Composite Key."
+                      },
+                      {
+                          "id":  51,
+                          "question":  "Which DBMS concept best matches: constraint ensuring no duplicate values in specified column set?",
+                          "options":  [
+                                          "CROSS JOIN",
+                                          "Exclusive Lock",
+                                          "BCNF",
+                                          "Unique Constraint"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Unique Constraint is defined as: constraint ensuring no duplicate values in specified column set."
+                      },
+                      {
+                          "id":  52,
+                          "question":  "What is the most accurate description of \u0027Unique Constraint\u0027 in DBMS context?",
+                          "options":  [
+                                          "SQL command used to retrieve data from tables",
+                                          "constraint ensuring no duplicate values in specified column set",
+                                          "rule requiring primary key to be unique and non-null",
+                                          "lock allowing read access by multiple transactions"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Unique Constraint refers to: constraint ensuring no duplicate values in specified column set."
+                      },
+                      {
+                          "id":  53,
+                          "question":  "\u0027Unique Constraint\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Keys and Constraints",
+                                          "Normalization",
+                                          "Transactions and Concurrency",
+                                          "Joins and Queries"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Unique Constraint is mainly part of Keys and Constraints in DBMS preparation."
+                      },
+                      {
+                          "id":  54,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "FULL OUTER JOIN -\u003e constraint ensuring no duplicate values in specified column set",
+                                          "DELETE -\u003e constraint ensuring no duplicate values in specified column set",
+                                          "Unique Constraint -\u003e constraint ensuring no duplicate values in specified column set",
+                                          "Entity Integrity -\u003e constraint ensuring no duplicate values in specified column set"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Unique Constraint -\u003e constraint ensuring no duplicate values in specified column set\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  55,
+                          "question":  "A bank IT database requirement states: constraint ensuring no duplicate values in specified column set. Which concept should be selected?",
+                          "options":  [
+                                          "Exclusive Lock",
+                                          "CROSS JOIN",
+                                          "BCNF",
+                                          "Unique Constraint"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Unique Constraint."
+                      },
+                      {
+                          "id":  56,
+                          "question":  "Which DBMS concept best matches: constraint preventing null values in a column?",
+                          "options":  [
+                                          "Denormalization",
+                                          "SELECT",
+                                          "NOT NULL Constraint",
+                                          "TRUNCATE"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "NOT NULL Constraint is defined as: constraint preventing null values in a column."
+                      },
+                      {
+                          "id":  57,
+                          "question":  "What is the most accurate description of \u0027NOT NULL Constraint\u0027 in DBMS context?",
+                          "options":  [
+                                          "join returning all rows from left table and matches from right",
+                                          "constraint preventing null values in a column",
+                                          "query nested inside another SQL query",
+                                          "logical design describing structure of database objects"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "NOT NULL Constraint refers to: constraint preventing null values in a column."
+                      },
+                      {
+                          "id":  58,
+                          "question":  "\u0027NOT NULL Constraint\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Normalization",
+                                          "Fundamentals",
+                                          "SQL Operations",
+                                          "Keys and Constraints"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "NOT NULL Constraint is mainly part of Keys and Constraints in DBMS preparation."
+                      },
+                      {
+                          "id":  59,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "UPDATE -\u003e constraint preventing null values in a column",
+                                          "FULL OUTER JOIN -\u003e constraint preventing null values in a column",
+                                          "NOT NULL Constraint -\u003e constraint preventing null values in a column",
+                                          "CHECK Constraint -\u003e constraint preventing null values in a column"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027NOT NULL Constraint -\u003e constraint preventing null values in a column\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  60,
+                          "question":  "A bank IT database requirement states: constraint preventing null values in a column. Which concept should be selected?",
+                          "options":  [
+                                          "TRUNCATE",
+                                          "NOT NULL Constraint",
+                                          "Denormalization",
+                                          "SELECT"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to NOT NULL Constraint."
+                      },
+                      {
+                          "id":  61,
+                          "question":  "Which DBMS concept best matches: constraint enforcing custom Boolean condition on data?",
+                          "options":  [
+                                          "Instance",
+                                          "CHECK Constraint",
+                                          "Non-Clustered Index",
+                                          "Clustered Index"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "CHECK Constraint is defined as: constraint enforcing custom Boolean condition on data."
+                      },
+                      {
+                          "id":  62,
+                          "question":  "What is the most accurate description of \u0027CHECK Constraint\u0027 in DBMS context?",
+                          "options":  [
+                                          "DDL-like command removing all table rows quickly",
+                                          "ACID property controlling visibility of concurrent transaction changes",
+                                          "join returning all rows from right table and matches from left",
+                                          "constraint enforcing custom Boolean condition on data"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "CHECK Constraint refers to: constraint enforcing custom Boolean condition on data."
+                      },
+                      {
+                          "id":  63,
+                          "question":  "\u0027CHECK Constraint\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Keys and Constraints",
+                                          "Transactions and Concurrency",
+                                          "Normalization",
+                                          "Fundamentals"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "CHECK Constraint is mainly part of Keys and Constraints in DBMS preparation."
+                      },
+                      {
+                          "id":  64,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Durability -\u003e constraint enforcing custom Boolean condition on data",
+                                          "CHECK Constraint -\u003e constraint enforcing custom Boolean condition on data",
+                                          "Super Key -\u003e constraint enforcing custom Boolean condition on data",
+                                          "ROLLBACK -\u003e constraint enforcing custom Boolean condition on data"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027CHECK Constraint -\u003e constraint enforcing custom Boolean condition on data\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  65,
+                          "question":  "A bank IT database requirement states: constraint enforcing custom Boolean condition on data. Which concept should be selected?",
+                          "options":  [
+                                          "Clustered Index",
+                                          "Instance",
+                                          "Non-Clustered Index",
+                                          "CHECK Constraint"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to CHECK Constraint."
+                      },
+                      {
+                          "id":  66,
+                          "question":  "Which DBMS concept best matches: consistency rule ensuring foreign keys match referenced rows?",
+                          "options":  [
+                                          "Referential Integrity",
+                                          "Super Key",
+                                          "DBMS",
+                                          "Subquery"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Referential Integrity is defined as: consistency rule ensuring foreign keys match referenced rows."
+                      },
+                      {
+                          "id":  67,
+                          "question":  "What is the most accurate description of \u0027Referential Integrity\u0027 in DBMS context?",
+                          "options":  [
+                                          "DDL-like command removing all table rows quickly",
+                                          "consistency rule ensuring foreign keys match referenced rows",
+                                          "situation where transactions wait indefinitely for each other resources",
+                                          "join producing Cartesian product of two tables"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Referential Integrity refers to: consistency rule ensuring foreign keys match referenced rows."
+                      },
+                      {
+                          "id":  68,
+                          "question":  "\u0027Referential Integrity\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "SQL Operations",
+                                          "Joins and Queries",
+                                          "Keys and Constraints",
+                                          "Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Referential Integrity is mainly part of Keys and Constraints in DBMS preparation."
+                      },
+                      {
+                          "id":  69,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "NOT NULL Constraint -\u003e consistency rule ensuring foreign keys match referenced rows",
+                                          "Foreign Key -\u003e consistency rule ensuring foreign keys match referenced rows",
+                                          "UPDATE -\u003e consistency rule ensuring foreign keys match referenced rows",
+                                          "Referential Integrity -\u003e consistency rule ensuring foreign keys match referenced rows"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Referential Integrity -\u003e consistency rule ensuring foreign keys match referenced rows\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  70,
+                          "question":  "A bank IT database requirement states: consistency rule ensuring foreign keys match referenced rows. Which concept should be selected?",
+                          "options":  [
+                                          "DBMS",
+                                          "Super Key",
+                                          "Referential Integrity",
+                                          "Subquery"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Referential Integrity."
+                      },
+                      {
+                          "id":  71,
+                          "question":  "Which DBMS concept best matches: rule requiring primary key to be unique and non-null?",
+                          "options":  [
+                                          "Entity Integrity",
+                                          "UPDATE",
+                                          "Index",
+                                          "LEFT JOIN"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Entity Integrity is defined as: rule requiring primary key to be unique and non-null."
+                      },
+                      {
+                          "id":  72,
+                          "question":  "What is the most accurate description of \u0027Entity Integrity\u0027 in DBMS context?",
+                          "options":  [
+                                          "SQL command used to remove selected rows",
+                                          "rule requiring primary key to be unique and non-null",
+                                          "data structure improving speed of data retrieval operations",
+                                          "consistency rule ensuring foreign keys match referenced rows"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Entity Integrity refers to: rule requiring primary key to be unique and non-null."
+                      },
+                      {
+                          "id":  73,
+                          "question":  "\u0027Entity Integrity\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Normalization",
+                                          "Keys and Constraints",
+                                          "Transactions and Concurrency",
+                                          "Joins and Queries"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Entity Integrity is mainly part of Keys and Constraints in DBMS preparation."
+                      },
+                      {
+                          "id":  74,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "HAVING -\u003e rule requiring primary key to be unique and non-null",
+                                          "Non-Clustered Index -\u003e rule requiring primary key to be unique and non-null",
+                                          "Atomicity -\u003e rule requiring primary key to be unique and non-null",
+                                          "Entity Integrity -\u003e rule requiring primary key to be unique and non-null"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Entity Integrity -\u003e rule requiring primary key to be unique and non-null\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  75,
+                          "question":  "A bank IT database requirement states: rule requiring primary key to be unique and non-null. Which concept should be selected?",
+                          "options":  [
+                                          "LEFT JOIN",
+                                          "Entity Integrity",
+                                          "UPDATE",
+                                          "Index"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Entity Integrity."
+                      },
+                      {
+                          "id":  76,
+                          "question":  "Which DBMS concept best matches: normal form where attributes contain atomic values only?",
+                          "options":  [
+                                          "Third Normal Form",
+                                          "Primary Key",
+                                          "BCNF",
+                                          "First Normal Form"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "First Normal Form is defined as: normal form where attributes contain atomic values only."
+                      },
+                      {
+                          "id":  77,
+                          "question":  "What is the most accurate description of \u0027First Normal Form\u0027 in DBMS context?",
+                          "options":  [
+                                          "join returning rows with matching values in both tables",
+                                          "DDL-like command removing all table rows quickly",
+                                          "normal form where attributes contain atomic values only",
+                                          "join returning all rows when match exists in either table"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "First Normal Form refers to: normal form where attributes contain atomic values only."
+                      },
+                      {
+                          "id":  78,
+                          "question":  "\u0027First Normal Form\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Transactions and Concurrency",
+                                          "Fundamentals",
+                                          "Keys and Constraints",
+                                          "Normalization"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "First Normal Form is mainly part of Normalization in DBMS preparation."
+                      },
+                      {
+                          "id":  79,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "UPDATE -\u003e normal form where attributes contain atomic values only",
+                                          "First Normal Form -\u003e normal form where attributes contain atomic values only",
+                                          "Exclusive Lock -\u003e normal form where attributes contain atomic values only",
+                                          "Entity Integrity -\u003e normal form where attributes contain atomic values only"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027First Normal Form -\u003e normal form where attributes contain atomic values only\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  80,
+                          "question":  "A bank IT database requirement states: normal form where attributes contain atomic values only. Which concept should be selected?",
+                          "options":  [
+                                          "First Normal Form",
+                                          "Primary Key",
+                                          "BCNF",
+                                          "Third Normal Form"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to First Normal Form."
+                      },
+                      {
+                          "id":  81,
+                          "question":  "Which DBMS concept best matches: normal form removing partial dependency on composite key?",
+                          "options":  [
+                                          "Second Normal Form",
+                                          "Shared Lock",
+                                          "Consistency",
+                                          "COMMIT"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Second Normal Form is defined as: normal form removing partial dependency on composite key."
+                      },
+                      {
+                          "id":  82,
+                          "question":  "What is the most accurate description of \u0027Second Normal Form\u0027 in DBMS context?",
+                          "options":  [
+                                          "ACID property ensuring committed data survives system failures",
+                                          "normal form removing partial dependency on composite key",
+                                          "command used to modify table structure",
+                                          "database system based on relational model and tables"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Second Normal Form refers to: normal form removing partial dependency on composite key."
+                      },
+                      {
+                          "id":  83,
+                          "question":  "\u0027Second Normal Form\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Fundamentals",
+                                          "Normalization",
+                                          "SQL Operations",
+                                          "Transactions and Concurrency"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Second Normal Form is mainly part of Normalization in DBMS preparation."
+                      },
+                      {
+                          "id":  84,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Denormalization -\u003e normal form removing partial dependency on composite key",
+                                          "CHECK Constraint -\u003e normal form removing partial dependency on composite key",
+                                          "Second Normal Form -\u003e normal form removing partial dependency on composite key",
+                                          "RDBMS -\u003e normal form removing partial dependency on composite key"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Second Normal Form -\u003e normal form removing partial dependency on composite key\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  85,
+                          "question":  "A bank IT database requirement states: normal form removing partial dependency on composite key. Which concept should be selected?",
+                          "options":  [
+                                          "Shared Lock",
+                                          "Second Normal Form",
+                                          "COMMIT",
+                                          "Consistency"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Second Normal Form."
+                      },
+                      {
+                          "id":  86,
+                          "question":  "Which DBMS concept best matches: normal form removing transitive dependency on non-key attributes?",
+                          "options":  [
+                                          "Third Normal Form",
+                                          "Referential Integrity",
+                                          "Non-Clustered Index",
+                                          "INNER JOIN"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Third Normal Form is defined as: normal form removing transitive dependency on non-key attributes."
+                      },
+                      {
+                          "id":  87,
+                          "question":  "What is the most accurate description of \u0027Third Normal Form\u0027 in DBMS context?",
+                          "options":  [
+                                          "attribute referencing primary key of another table",
+                                          "normal form removing transitive dependency on non-key attributes",
+                                          "actual data stored in database at a specific time",
+                                          "ACID property preserving valid database rules before and after transaction"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Third Normal Form refers to: normal form removing transitive dependency on non-key attributes."
+                      },
+                      {
+                          "id":  88,
+                          "question":  "\u0027Third Normal Form\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Joins and Queries",
+                                          "Normalization",
+                                          "Transactions and Concurrency",
+                                          "Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Third Normal Form is mainly part of Normalization in DBMS preparation."
+                      },
+                      {
+                          "id":  89,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Third Normal Form -\u003e normal form removing transitive dependency on non-key attributes",
+                                          "HAVING -\u003e normal form removing transitive dependency on non-key attributes",
+                                          "Entity Integrity -\u003e normal form removing transitive dependency on non-key attributes",
+                                          "GROUP BY -\u003e normal form removing transitive dependency on non-key attributes"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Third Normal Form -\u003e normal form removing transitive dependency on non-key attributes\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  90,
+                          "question":  "A bank IT database requirement states: normal form removing transitive dependency on non-key attributes. Which concept should be selected?",
+                          "options":  [
+                                          "INNER JOIN",
+                                          "Referential Integrity",
+                                          "Non-Clustered Index",
+                                          "Third Normal Form"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Third Normal Form."
+                      },
+                      {
+                          "id":  91,
+                          "question":  "Which DBMS concept best matches: normal form requiring every determinant to be a candidate key?",
+                          "options":  [
+                                          "BCNF",
+                                          "UPDATE",
+                                          "Composite Key",
+                                          "Exclusive Lock"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "BCNF is defined as: normal form requiring every determinant to be a candidate key."
+                      },
+                      {
+                          "id":  92,
+                          "question":  "What is the most accurate description of \u0027BCNF\u0027 in DBMS context?",
+                          "options":  [
+                                          "normal form requiring every determinant to be a candidate key",
+                                          "normal form where attributes contain atomic values only",
+                                          "actual data stored in database at a specific time",
+                                          "lock allowing read access by multiple transactions"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "BCNF refers to: normal form requiring every determinant to be a candidate key."
+                      },
+                      {
+                          "id":  93,
+                          "question":  "\u0027BCNF\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Joins and Queries",
+                                          "Normalization",
+                                          "Fundamentals",
+                                          "SQL Operations"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "BCNF is mainly part of Normalization in DBMS preparation."
+                      },
+                      {
+                          "id":  94,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "RDBMS -\u003e normal form requiring every determinant to be a candidate key",
+                                          "Non-Clustered Index -\u003e normal form requiring every determinant to be a candidate key",
+                                          "BCNF -\u003e normal form requiring every determinant to be a candidate key",
+                                          "Shared Lock -\u003e normal form requiring every determinant to be a candidate key"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027BCNF -\u003e normal form requiring every determinant to be a candidate key\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  95,
+                          "question":  "A bank IT database requirement states: normal form requiring every determinant to be a candidate key. Which concept should be selected?",
+                          "options":  [
+                                          "BCNF",
+                                          "Composite Key",
+                                          "Exclusive Lock",
+                                          "UPDATE"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to BCNF."
+                      },
+                      {
+                          "id":  96,
+                          "question":  "Which DBMS concept best matches: intentional introduction of redundancy to improve read performance?",
+                          "options":  [
+                                          "Third Normal Form",
+                                          "Referential Integrity",
+                                          "Shared Lock",
+                                          "Denormalization"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Denormalization is defined as: intentional introduction of redundancy to improve read performance."
+                      },
+                      {
+                          "id":  97,
+                          "question":  "What is the most accurate description of \u0027Denormalization\u0027 in DBMS context?",
+                          "options":  [
+                                          "logical unit of work executed completely or not at all",
+                                          "intentional introduction of redundancy to improve read performance",
+                                          "clause used to filter grouped aggregate results",
+                                          "situation where transactions wait indefinitely for each other resources"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Denormalization refers to: intentional introduction of redundancy to improve read performance."
+                      },
+                      {
+                          "id":  98,
+                          "question":  "\u0027Denormalization\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Normalization",
+                                          "SQL Operations",
+                                          "Joins and Queries",
+                                          "Transactions and Concurrency"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Denormalization is mainly part of Normalization in DBMS preparation."
+                      },
+                      {
+                          "id":  99,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Clustered Index -\u003e intentional introduction of redundancy to improve read performance",
+                                          "SELECT -\u003e intentional introduction of redundancy to improve read performance",
+                                          "Primary Key -\u003e intentional introduction of redundancy to improve read performance",
+                                          "Denormalization -\u003e intentional introduction of redundancy to improve read performance"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Denormalization -\u003e intentional introduction of redundancy to improve read performance\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  100,
+                          "question":  "A bank IT database requirement states: intentional introduction of redundancy to improve read performance. Which concept should be selected?",
+                          "options":  [
+                                          "Third Normal Form",
+                                          "Denormalization",
+                                          "Shared Lock",
+                                          "Referential Integrity"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Denormalization."
+                      },
+                      {
+                          "id":  101,
+                          "question":  "Which DBMS concept best matches: SQL command used to retrieve data from tables?",
+                          "options":  [
+                                          "Durability",
+                                          "GROUP BY",
+                                          "Instance",
+                                          "SELECT"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SELECT is defined as: SQL command used to retrieve data from tables."
+                      },
+                      {
+                          "id":  102,
+                          "question":  "What is the most accurate description of \u0027SELECT\u0027 in DBMS context?",
+                          "options":  [
+                                          "ACID property ensuring committed data survives system failures",
+                                          "rule requiring primary key to be unique and non-null",
+                                          "SQL command used to retrieve data from tables",
+                                          "join returning all rows from right table and matches from left"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SELECT refers to: SQL command used to retrieve data from tables."
+                      },
+                      {
+                          "id":  103,
+                          "question":  "\u0027SELECT\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Normalization",
+                                          "SQL Operations",
+                                          "Keys and Constraints",
+                                          "Joins and Queries"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SELECT is mainly part of SQL Operations in DBMS preparation."
+                      },
+                      {
+                          "id":  104,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "SELECT -\u003e SQL command used to retrieve data from tables",
+                                          "Foreign Key -\u003e SQL command used to retrieve data from tables",
+                                          "RDBMS -\u003e SQL command used to retrieve data from tables",
+                                          "Shared Lock -\u003e SQL command used to retrieve data from tables"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027SELECT -\u003e SQL command used to retrieve data from tables\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  105,
+                          "question":  "A bank IT database requirement states: SQL command used to retrieve data from tables. Which concept should be selected?",
+                          "options":  [
+                                          "GROUP BY",
+                                          "Instance",
+                                          "SELECT",
+                                          "Durability"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to SELECT."
+                      },
+                      {
+                          "id":  106,
+                          "question":  "Which DBMS concept best matches: SQL command used to add new rows into a table?",
+                          "options":  [
+                                          "First Normal Form",
+                                          "INSERT",
+                                          "ROLLBACK",
+                                          "Composite Key"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "INSERT is defined as: SQL command used to add new rows into a table."
+                      },
+                      {
+                          "id":  107,
+                          "question":  "What is the most accurate description of \u0027INSERT\u0027 in DBMS context?",
+                          "options":  [
+                                          "SQL command used to add new rows into a table",
+                                          "statement that undoes uncommitted transaction changes",
+                                          "lock that prevents other transactions from reading or writing data",
+                                          "command used to create database objects like table or index"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "INSERT refers to: SQL command used to add new rows into a table."
+                      },
+                      {
+                          "id":  108,
+                          "question":  "\u0027INSERT\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Joins and Queries",
+                                          "Normalization",
+                                          "Fundamentals",
+                                          "SQL Operations"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "INSERT is mainly part of SQL Operations in DBMS preparation."
+                      },
+                      {
+                          "id":  109,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "INSERT -\u003e SQL command used to add new rows into a table",
+                                          "Transaction -\u003e SQL command used to add new rows into a table",
+                                          "Unique Constraint -\u003e SQL command used to add new rows into a table",
+                                          "INNER JOIN -\u003e SQL command used to add new rows into a table"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027INSERT -\u003e SQL command used to add new rows into a table\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  110,
+                          "question":  "A bank IT database requirement states: SQL command used to add new rows into a table. Which concept should be selected?",
+                          "options":  [
+                                          "INSERT",
+                                          "Composite Key",
+                                          "First Normal Form",
+                                          "ROLLBACK"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to INSERT."
+                      },
+                      {
+                          "id":  111,
+                          "question":  "Which DBMS concept best matches: SQL command used to modify existing rows?",
+                          "options":  [
+                                          "TRUNCATE",
+                                          "Clustered Index",
+                                          "UPDATE",
+                                          "RIGHT JOIN"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "UPDATE is defined as: SQL command used to modify existing rows."
+                      },
+                      {
+                          "id":  112,
+                          "question":  "What is the most accurate description of \u0027UPDATE\u0027 in DBMS context?",
+                          "options":  [
+                                          "attribute referencing primary key of another table",
+                                          "DDL-like command removing all table rows quickly",
+                                          "SQL command used to modify existing rows",
+                                          "command used to remove database object permanently"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "UPDATE refers to: SQL command used to modify existing rows."
+                      },
+                      {
+                          "id":  113,
+                          "question":  "\u0027UPDATE\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Joins and Queries",
+                                          "Fundamentals",
+                                          "SQL Operations",
+                                          "Transactions and Concurrency"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "UPDATE is mainly part of SQL Operations in DBMS preparation."
+                      },
+                      {
+                          "id":  114,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Instance -\u003e SQL command used to modify existing rows",
+                                          "UPDATE -\u003e SQL command used to modify existing rows",
+                                          "LEFT JOIN -\u003e SQL command used to modify existing rows",
+                                          "RDBMS -\u003e SQL command used to modify existing rows"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027UPDATE -\u003e SQL command used to modify existing rows\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  115,
+                          "question":  "A bank IT database requirement states: SQL command used to modify existing rows. Which concept should be selected?",
+                          "options":  [
+                                          "UPDATE",
+                                          "Clustered Index",
+                                          "RIGHT JOIN",
+                                          "TRUNCATE"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to UPDATE."
+                      },
+                      {
+                          "id":  116,
+                          "question":  "Which DBMS concept best matches: SQL command used to remove selected rows?",
+                          "options":  [
+                                          "Entity Integrity",
+                                          "DELETE",
+                                          "HAVING",
+                                          "Shared Lock"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "DELETE is defined as: SQL command used to remove selected rows."
+                      },
+                      {
+                          "id":  117,
+                          "question":  "What is the most accurate description of \u0027DELETE\u0027 in DBMS context?",
+                          "options":  [
+                                          "situation where transactions wait indefinitely for each other resources",
+                                          "intentional introduction of redundancy to improve read performance",
+                                          "SQL command used to remove selected rows",
+                                          "statement that permanently saves transaction changes"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "DELETE refers to: SQL command used to remove selected rows."
+                      },
+                      {
+                          "id":  118,
+                          "question":  "\u0027DELETE\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Keys and Constraints",
+                                          "SQL Operations",
+                                          "Transactions and Concurrency",
+                                          "Joins and Queries"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "DELETE is mainly part of SQL Operations in DBMS preparation."
+                      },
+                      {
+                          "id":  119,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Second Normal Form -\u003e SQL command used to remove selected rows",
+                                          "View -\u003e SQL command used to remove selected rows",
+                                          "Candidate Key -\u003e SQL command used to remove selected rows",
+                                          "DELETE -\u003e SQL command used to remove selected rows"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027DELETE -\u003e SQL command used to remove selected rows\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  120,
+                          "question":  "A bank IT database requirement states: SQL command used to remove selected rows. Which concept should be selected?",
+                          "options":  [
+                                          "HAVING",
+                                          "Entity Integrity",
+                                          "DELETE",
+                                          "Shared Lock"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to DELETE."
+                      },
+                      {
+                          "id":  121,
+                          "question":  "Which DBMS concept best matches: DDL-like command removing all table rows quickly?",
+                          "options":  [
+                                          "Shared Lock",
+                                          "Subquery",
+                                          "CHECK Constraint",
+                                          "TRUNCATE"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "TRUNCATE is defined as: DDL-like command removing all table rows quickly."
+                      },
+                      {
+                          "id":  122,
+                          "question":  "What is the most accurate description of \u0027TRUNCATE\u0027 in DBMS context?",
+                          "options":  [
+                                          "logical unit of work executed completely or not at all",
+                                          "SQL command used to add new rows into a table",
+                                          "SQL command used to remove selected rows",
+                                          "DDL-like command removing all table rows quickly"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "TRUNCATE refers to: DDL-like command removing all table rows quickly."
+                      },
+                      {
+                          "id":  123,
+                          "question":  "\u0027TRUNCATE\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Joins and Queries",
+                                          "Normalization",
+                                          "Fundamentals",
+                                          "SQL Operations"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "TRUNCATE is mainly part of SQL Operations in DBMS preparation."
+                      },
+                      {
+                          "id":  124,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "HAVING -\u003e DDL-like command removing all table rows quickly",
+                                          "TRUNCATE -\u003e DDL-like command removing all table rows quickly",
+                                          "INSERT -\u003e DDL-like command removing all table rows quickly",
+                                          "Shared Lock -\u003e DDL-like command removing all table rows quickly"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027TRUNCATE -\u003e DDL-like command removing all table rows quickly\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  125,
+                          "question":  "A bank IT database requirement states: DDL-like command removing all table rows quickly. Which concept should be selected?",
+                          "options":  [
+                                          "CHECK Constraint",
+                                          "TRUNCATE",
+                                          "Subquery",
+                                          "Shared Lock"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to TRUNCATE."
+                      },
+                      {
+                          "id":  126,
+                          "question":  "Which DBMS concept best matches: command used to modify table structure?",
+                          "options":  [
+                                          "ALTER",
+                                          "INNER JOIN",
+                                          "View",
+                                          "UPDATE"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "ALTER is defined as: command used to modify table structure."
+                      },
+                      {
+                          "id":  127,
+                          "question":  "What is the most accurate description of \u0027ALTER\u0027 in DBMS context?",
+                          "options":  [
+                                          "normal form removing transitive dependency on non-key attributes",
+                                          "command used to modify table structure",
+                                          "database system based on relational model and tables",
+                                          "command used to remove database object permanently"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "ALTER refers to: command used to modify table structure."
+                      },
+                      {
+                          "id":  128,
+                          "question":  "\u0027ALTER\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Transactions and Concurrency",
+                                          "Normalization",
+                                          "SQL Operations",
+                                          "Joins and Queries"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "ALTER is mainly part of SQL Operations in DBMS preparation."
+                      },
+                      {
+                          "id":  129,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "BCNF -\u003e command used to modify table structure",
+                                          "Durability -\u003e command used to modify table structure",
+                                          "Shared Lock -\u003e command used to modify table structure",
+                                          "ALTER -\u003e command used to modify table structure"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027ALTER -\u003e command used to modify table structure\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  130,
+                          "question":  "A bank IT database requirement states: command used to modify table structure. Which concept should be selected?",
+                          "options":  [
+                                          "ALTER",
+                                          "INNER JOIN",
+                                          "View",
+                                          "UPDATE"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to ALTER."
+                      },
+                      {
+                          "id":  131,
+                          "question":  "Which DBMS concept best matches: command used to remove database object permanently?",
+                          "options":  [
+                                          "Shared Lock",
+                                          "HAVING",
+                                          "DROP",
+                                          "Non-Clustered Index"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "DROP is defined as: command used to remove database object permanently."
+                      },
+                      {
+                          "id":  132,
+                          "question":  "What is the most accurate description of \u0027DROP\u0027 in DBMS context?",
+                          "options":  [
+                                          "attribute set that uniquely identifies each row, minimality not required",
+                                          "constraint preventing null values in a column",
+                                          "attribute that uniquely identifies each row in a table",
+                                          "command used to remove database object permanently"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DROP refers to: command used to remove database object permanently."
+                      },
+                      {
+                          "id":  133,
+                          "question":  "\u0027DROP\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Transactions and Concurrency",
+                                          "SQL Operations",
+                                          "Normalization",
+                                          "Keys and Constraints"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "DROP is mainly part of SQL Operations in DBMS preparation."
+                      },
+                      {
+                          "id":  134,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "DROP -\u003e command used to remove database object permanently",
+                                          "INNER JOIN -\u003e command used to remove database object permanently",
+                                          "Data Independence -\u003e command used to remove database object permanently",
+                                          "GROUP BY -\u003e command used to remove database object permanently"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027DROP -\u003e command used to remove database object permanently\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  135,
+                          "question":  "A bank IT database requirement states: command used to remove database object permanently. Which concept should be selected?",
+                          "options":  [
+                                          "Non-Clustered Index",
+                                          "Shared Lock",
+                                          "HAVING",
+                                          "DROP"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to DROP."
+                      },
+                      {
+                          "id":  136,
+                          "question":  "Which DBMS concept best matches: command used to create database objects like table or index?",
+                          "options":  [
+                                          "Composite Key",
+                                          "Transaction",
+                                          "UPDATE",
+                                          "CREATE"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "CREATE is defined as: command used to create database objects like table or index."
+                      },
+                      {
+                          "id":  137,
+                          "question":  "What is the most accurate description of \u0027CREATE\u0027 in DBMS context?",
+                          "options":  [
+                                          "virtual table based on a stored SQL query",
+                                          "join returning rows with matching values in both tables",
+                                          "command used to create database objects like table or index",
+                                          "ACID property ensuring committed data survives system failures"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CREATE refers to: command used to create database objects like table or index."
+                      },
+                      {
+                          "id":  138,
+                          "question":  "\u0027CREATE\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Fundamentals",
+                                          "Keys and Constraints",
+                                          "Normalization",
+                                          "SQL Operations"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "CREATE is mainly part of SQL Operations in DBMS preparation."
+                      },
+                      {
+                          "id":  139,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Instance -\u003e command used to create database objects like table or index",
+                                          "CREATE -\u003e command used to create database objects like table or index",
+                                          "Atomicity -\u003e command used to create database objects like table or index",
+                                          "INNER JOIN -\u003e command used to create database objects like table or index"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027CREATE -\u003e command used to create database objects like table or index\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  140,
+                          "question":  "A bank IT database requirement states: command used to create database objects like table or index. Which concept should be selected?",
+                          "options":  [
+                                          "Composite Key",
+                                          "CREATE",
+                                          "UPDATE",
+                                          "Transaction"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to CREATE."
+                      },
+                      {
+                          "id":  141,
+                          "question":  "Which DBMS concept best matches: clause used to aggregate rows by column values?",
+                          "options":  [
+                                          "FULL OUTER JOIN",
+                                          "Candidate Key",
+                                          "TRUNCATE",
+                                          "GROUP BY"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "GROUP BY is defined as: clause used to aggregate rows by column values."
+                      },
+                      {
+                          "id":  142,
+                          "question":  "What is the most accurate description of \u0027GROUP BY\u0027 in DBMS context?",
+                          "options":  [
+                                          "rule requiring primary key to be unique and non-null",
+                                          "attribute set that uniquely identifies each row, minimality not required",
+                                          "statement that undoes uncommitted transaction changes",
+                                          "clause used to aggregate rows by column values"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "GROUP BY refers to: clause used to aggregate rows by column values."
+                      },
+                      {
+                          "id":  143,
+                          "question":  "\u0027GROUP BY\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "SQL Operations",
+                                          "Keys and Constraints",
+                                          "Normalization",
+                                          "Fundamentals"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "GROUP BY is mainly part of SQL Operations in DBMS preparation."
+                      },
+                      {
+                          "id":  144,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "BCNF -\u003e clause used to aggregate rows by column values",
+                                          "INNER JOIN -\u003e clause used to aggregate rows by column values",
+                                          "GROUP BY -\u003e clause used to aggregate rows by column values",
+                                          "HAVING -\u003e clause used to aggregate rows by column values"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027GROUP BY -\u003e clause used to aggregate rows by column values\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  145,
+                          "question":  "A bank IT database requirement states: clause used to aggregate rows by column values. Which concept should be selected?",
+                          "options":  [
+                                          "FULL OUTER JOIN",
+                                          "TRUNCATE",
+                                          "Candidate Key",
+                                          "GROUP BY"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to GROUP BY."
+                      },
+                      {
+                          "id":  146,
+                          "question":  "Which DBMS concept best matches: clause used to filter grouped aggregate results?",
+                          "options":  [
+                                          "Referential Integrity",
+                                          "Foreign Key",
+                                          "Consistency",
+                                          "HAVING"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "HAVING is defined as: clause used to filter grouped aggregate results."
+                      },
+                      {
+                          "id":  147,
+                          "question":  "What is the most accurate description of \u0027HAVING\u0027 in DBMS context?",
+                          "options":  [
+                                          "ACID property preserving valid database rules before and after transaction",
+                                          "clause used to filter grouped aggregate results",
+                                          "join returning all rows when match exists in either table",
+                                          "normal form requiring every determinant to be a candidate key"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "HAVING refers to: clause used to filter grouped aggregate results."
+                      },
+                      {
+                          "id":  148,
+                          "question":  "\u0027HAVING\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "SQL Operations",
+                                          "Fundamentals",
+                                          "Normalization",
+                                          "Keys and Constraints"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "HAVING is mainly part of SQL Operations in DBMS preparation."
+                      },
+                      {
+                          "id":  149,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "UPDATE -\u003e clause used to filter grouped aggregate results",
+                                          "HAVING -\u003e clause used to filter grouped aggregate results",
+                                          "COMMIT -\u003e clause used to filter grouped aggregate results",
+                                          "INNER JOIN -\u003e clause used to filter grouped aggregate results"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027HAVING -\u003e clause used to filter grouped aggregate results\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  150,
+                          "question":  "A bank IT database requirement states: clause used to filter grouped aggregate results. Which concept should be selected?",
+                          "options":  [
+                                          "HAVING",
+                                          "Foreign Key",
+                                          "Consistency",
+                                          "Referential Integrity"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to HAVING."
+                      },
+                      {
+                          "id":  151,
+                          "question":  "Which DBMS concept best matches: join returning rows with matching values in both tables?",
+                          "options":  [
+                                          "HAVING",
+                                          "Isolation",
+                                          "INNER JOIN",
+                                          "CHECK Constraint"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "INNER JOIN is defined as: join returning rows with matching values in both tables."
+                      },
+                      {
+                          "id":  152,
+                          "question":  "What is the most accurate description of \u0027INNER JOIN\u0027 in DBMS context?",
+                          "options":  [
+                                          "clause used to filter grouped aggregate results",
+                                          "join returning rows with matching values in both tables",
+                                          "normal form requiring every determinant to be a candidate key",
+                                          "normal form removing partial dependency on composite key"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "INNER JOIN refers to: join returning rows with matching values in both tables."
+                      },
+                      {
+                          "id":  153,
+                          "question":  "\u0027INNER JOIN\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "SQL Operations",
+                                          "Joins and Queries",
+                                          "Keys and Constraints",
+                                          "Normalization"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "INNER JOIN is mainly part of Joins and Queries in DBMS preparation."
+                      },
+                      {
+                          "id":  154,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "INNER JOIN -\u003e join returning rows with matching values in both tables",
+                                          "BCNF -\u003e join returning rows with matching values in both tables",
+                                          "First Normal Form -\u003e join returning rows with matching values in both tables",
+                                          "Durability -\u003e join returning rows with matching values in both tables"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027INNER JOIN -\u003e join returning rows with matching values in both tables\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  155,
+                          "question":  "A bank IT database requirement states: join returning rows with matching values in both tables. Which concept should be selected?",
+                          "options":  [
+                                          "Isolation",
+                                          "HAVING",
+                                          "CHECK Constraint",
+                                          "INNER JOIN"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to INNER JOIN."
+                      },
+                      {
+                          "id":  156,
+                          "question":  "Which DBMS concept best matches: join returning all rows from left table and matches from right?",
+                          "options":  [
+                                          "UPDATE",
+                                          "LEFT JOIN",
+                                          "Referential Integrity",
+                                          "TRUNCATE"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "LEFT JOIN is defined as: join returning all rows from left table and matches from right."
+                      },
+                      {
+                          "id":  157,
+                          "question":  "What is the most accurate description of \u0027LEFT JOIN\u0027 in DBMS context?",
+                          "options":  [
+                                          "consistency rule ensuring foreign keys match referenced rows",
+                                          "constraint enforcing custom Boolean condition on data",
+                                          "join returning all rows from left table and matches from right",
+                                          "normal form where attributes contain atomic values only"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "LEFT JOIN refers to: join returning all rows from left table and matches from right."
+                      },
+                      {
+                          "id":  158,
+                          "question":  "\u0027LEFT JOIN\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Transactions and Concurrency",
+                                          "Fundamentals",
+                                          "Normalization",
+                                          "Joins and Queries"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "LEFT JOIN is mainly part of Joins and Queries in DBMS preparation."
+                      },
+                      {
+                          "id":  159,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Third Normal Form -\u003e join returning all rows from left table and matches from right",
+                                          "Data Independence -\u003e join returning all rows from left table and matches from right",
+                                          "LEFT JOIN -\u003e join returning all rows from left table and matches from right",
+                                          "Consistency -\u003e join returning all rows from left table and matches from right"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027LEFT JOIN -\u003e join returning all rows from left table and matches from right\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  160,
+                          "question":  "A bank IT database requirement states: join returning all rows from left table and matches from right. Which concept should be selected?",
+                          "options":  [
+                                          "Referential Integrity",
+                                          "TRUNCATE",
+                                          "LEFT JOIN",
+                                          "UPDATE"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to LEFT JOIN."
+                      },
+                      {
+                          "id":  161,
+                          "question":  "Which DBMS concept best matches: join returning all rows from right table and matches from left?",
+                          "options":  [
+                                          "RIGHT JOIN",
+                                          "FULL OUTER JOIN",
+                                          "DROP",
+                                          "Non-Clustered Index"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "RIGHT JOIN is defined as: join returning all rows from right table and matches from left."
+                      },
+                      {
+                          "id":  162,
+                          "question":  "What is the most accurate description of \u0027RIGHT JOIN\u0027 in DBMS context?",
+                          "options":  [
+                                          "ACID property ensuring all operations in transaction succeed or rollback",
+                                          "ACID property controlling visibility of concurrent transaction changes",
+                                          "SQL command used to modify existing rows",
+                                          "join returning all rows from right table and matches from left"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "RIGHT JOIN refers to: join returning all rows from right table and matches from left."
+                      },
+                      {
+                          "id":  163,
+                          "question":  "\u0027RIGHT JOIN\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Joins and Queries",
+                                          "SQL Operations",
+                                          "Normalization",
+                                          "Keys and Constraints"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "RIGHT JOIN is mainly part of Joins and Queries in DBMS preparation."
+                      },
+                      {
+                          "id":  164,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "RIGHT JOIN -\u003e join returning all rows from right table and matches from left",
+                                          "ROLLBACK -\u003e join returning all rows from right table and matches from left",
+                                          "COMMIT -\u003e join returning all rows from right table and matches from left",
+                                          "Index -\u003e join returning all rows from right table and matches from left"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027RIGHT JOIN -\u003e join returning all rows from right table and matches from left\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  165,
+                          "question":  "A bank IT database requirement states: join returning all rows from right table and matches from left. Which concept should be selected?",
+                          "options":  [
+                                          "DROP",
+                                          "RIGHT JOIN",
+                                          "FULL OUTER JOIN",
+                                          "Non-Clustered Index"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to RIGHT JOIN."
+                      },
+                      {
+                          "id":  166,
+                          "question":  "Which DBMS concept best matches: join returning all rows when match exists in either table?",
+                          "options":  [
+                                          "FULL OUTER JOIN",
+                                          "View",
+                                          "Clustered Index",
+                                          "DBMS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "FULL OUTER JOIN is defined as: join returning all rows when match exists in either table."
+                      },
+                      {
+                          "id":  167,
+                          "question":  "What is the most accurate description of \u0027FULL OUTER JOIN\u0027 in DBMS context?",
+                          "options":  [
+                                          "ACID property ensuring committed data survives system failures",
+                                          "SQL command used to add new rows into a table",
+                                          "normal form removing partial dependency on composite key",
+                                          "join returning all rows when match exists in either table"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "FULL OUTER JOIN refers to: join returning all rows when match exists in either table."
+                      },
+                      {
+                          "id":  168,
+                          "question":  "\u0027FULL OUTER JOIN\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "SQL Operations",
+                                          "Joins and Queries",
+                                          "Normalization",
+                                          "Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "FULL OUTER JOIN is mainly part of Joins and Queries in DBMS preparation."
+                      },
+                      {
+                          "id":  169,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "CROSS JOIN -\u003e join returning all rows when match exists in either table",
+                                          "FULL OUTER JOIN -\u003e join returning all rows when match exists in either table",
+                                          "Candidate Key -\u003e join returning all rows when match exists in either table",
+                                          "INNER JOIN -\u003e join returning all rows when match exists in either table"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027FULL OUTER JOIN -\u003e join returning all rows when match exists in either table\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  170,
+                          "question":  "A bank IT database requirement states: join returning all rows when match exists in either table. Which concept should be selected?",
+                          "options":  [
+                                          "View",
+                                          "Clustered Index",
+                                          "DBMS",
+                                          "FULL OUTER JOIN"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to FULL OUTER JOIN."
+                      },
+                      {
+                          "id":  171,
+                          "question":  "Which DBMS concept best matches: join producing Cartesian product of two tables?",
+                          "options":  [
+                                          "First Normal Form",
+                                          "Referential Integrity",
+                                          "TRUNCATE",
+                                          "CROSS JOIN"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "CROSS JOIN is defined as: join producing Cartesian product of two tables."
+                      },
+                      {
+                          "id":  172,
+                          "question":  "What is the most accurate description of \u0027CROSS JOIN\u0027 in DBMS context?",
+                          "options":  [
+                                          "virtual table based on a stored SQL query",
+                                          "ACID property ensuring all operations in transaction succeed or rollback",
+                                          "join producing Cartesian product of two tables",
+                                          "normal form where attributes contain atomic values only"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CROSS JOIN refers to: join producing Cartesian product of two tables."
+                      },
+                      {
+                          "id":  173,
+                          "question":  "\u0027CROSS JOIN\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Transactions and Concurrency",
+                                          "SQL Operations",
+                                          "Joins and Queries",
+                                          "Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CROSS JOIN is mainly part of Joins and Queries in DBMS preparation."
+                      },
+                      {
+                          "id":  174,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "DROP -\u003e join producing Cartesian product of two tables",
+                                          "Deadlock -\u003e join producing Cartesian product of two tables",
+                                          "CROSS JOIN -\u003e join producing Cartesian product of two tables",
+                                          "INNER JOIN -\u003e join producing Cartesian product of two tables"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027CROSS JOIN -\u003e join producing Cartesian product of two tables\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  175,
+                          "question":  "A bank IT database requirement states: join producing Cartesian product of two tables. Which concept should be selected?",
+                          "options":  [
+                                          "Referential Integrity",
+                                          "TRUNCATE",
+                                          "First Normal Form",
+                                          "CROSS JOIN"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to CROSS JOIN."
+                      },
+                      {
+                          "id":  176,
+                          "question":  "Which DBMS concept best matches: query nested inside another SQL query?",
+                          "options":  [
+                                          "ALTER",
+                                          "Subquery",
+                                          "Exclusive Lock",
+                                          "Super Key"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Subquery is defined as: query nested inside another SQL query."
+                      },
+                      {
+                          "id":  177,
+                          "question":  "What is the most accurate description of \u0027Subquery\u0027 in DBMS context?",
+                          "options":  [
+                                          "virtual table based on a stored SQL query",
+                                          "query nested inside another SQL query",
+                                          "join producing Cartesian product of two tables",
+                                          "lock that prevents other transactions from reading or writing data"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Subquery refers to: query nested inside another SQL query."
+                      },
+                      {
+                          "id":  178,
+                          "question":  "\u0027Subquery\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Fundamentals",
+                                          "Keys and Constraints",
+                                          "Joins and Queries",
+                                          "Transactions and Concurrency"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Subquery is mainly part of Joins and Queries in DBMS preparation."
+                      },
+                      {
+                          "id":  179,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Subquery -\u003e query nested inside another SQL query",
+                                          "DROP -\u003e query nested inside another SQL query",
+                                          "CROSS JOIN -\u003e query nested inside another SQL query",
+                                          "INSERT -\u003e query nested inside another SQL query"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Subquery -\u003e query nested inside another SQL query\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  180,
+                          "question":  "A bank IT database requirement states: query nested inside another SQL query. Which concept should be selected?",
+                          "options":  [
+                                          "ALTER",
+                                          "Subquery",
+                                          "Exclusive Lock",
+                                          "Super Key"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Subquery."
+                      },
+                      {
+                          "id":  181,
+                          "question":  "Which DBMS concept best matches: virtual table based on a stored SQL query?",
+                          "options":  [
+                                          "View",
+                                          "Schema",
+                                          "UPDATE",
+                                          "Unique Constraint"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "View is defined as: virtual table based on a stored SQL query."
+                      },
+                      {
+                          "id":  182,
+                          "question":  "What is the most accurate description of \u0027View\u0027 in DBMS context?",
+                          "options":  [
+                                          "command used to modify table structure",
+                                          "virtual table based on a stored SQL query",
+                                          "SQL command used to remove selected rows",
+                                          "join returning all rows from left table and matches from right"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "View refers to: virtual table based on a stored SQL query."
+                      },
+                      {
+                          "id":  183,
+                          "question":  "\u0027View\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Transactions and Concurrency",
+                                          "SQL Operations",
+                                          "Normalization",
+                                          "Joins and Queries"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "View is mainly part of Joins and Queries in DBMS preparation."
+                      },
+                      {
+                          "id":  184,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Exclusive Lock -\u003e virtual table based on a stored SQL query",
+                                          "View -\u003e virtual table based on a stored SQL query",
+                                          "Super Key -\u003e virtual table based on a stored SQL query",
+                                          "CHECK Constraint -\u003e virtual table based on a stored SQL query"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027View -\u003e virtual table based on a stored SQL query\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  185,
+                          "question":  "A bank IT database requirement states: virtual table based on a stored SQL query. Which concept should be selected?",
+                          "options":  [
+                                          "View",
+                                          "UPDATE",
+                                          "Unique Constraint",
+                                          "Schema"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to View."
+                      },
+                      {
+                          "id":  186,
+                          "question":  "Which DBMS concept best matches: data structure improving speed of data retrieval operations?",
+                          "options":  [
+                                          "Durability",
+                                          "Transaction",
+                                          "Non-Clustered Index",
+                                          "Index"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Index is defined as: data structure improving speed of data retrieval operations."
+                      },
+                      {
+                          "id":  187,
+                          "question":  "What is the most accurate description of \u0027Index\u0027 in DBMS context?",
+                          "options":  [
+                                          "ACID property ensuring all operations in transaction succeed or rollback",
+                                          "data structure improving speed of data retrieval operations",
+                                          "virtual table based on a stored SQL query",
+                                          "join returning rows with matching values in both tables"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Index refers to: data structure improving speed of data retrieval operations."
+                      },
+                      {
+                          "id":  188,
+                          "question":  "\u0027Index\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Keys and Constraints",
+                                          "Joins and Queries",
+                                          "Fundamentals",
+                                          "SQL Operations"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Index is mainly part of Joins and Queries in DBMS preparation."
+                      },
+                      {
+                          "id":  189,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "GROUP BY -\u003e data structure improving speed of data retrieval operations",
+                                          "First Normal Form -\u003e data structure improving speed of data retrieval operations",
+                                          "Index -\u003e data structure improving speed of data retrieval operations",
+                                          "ALTER -\u003e data structure improving speed of data retrieval operations"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Index -\u003e data structure improving speed of data retrieval operations\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  190,
+                          "question":  "A bank IT database requirement states: data structure improving speed of data retrieval operations. Which concept should be selected?",
+                          "options":  [
+                                          "Index",
+                                          "Transaction",
+                                          "Durability",
+                                          "Non-Clustered Index"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Index."
+                      },
+                      {
+                          "id":  191,
+                          "question":  "Which DBMS concept best matches: index that determines physical storage order of table rows?",
+                          "options":  [
+                                          "DROP",
+                                          "Primary Key",
+                                          "Clustered Index",
+                                          "Entity Integrity"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Clustered Index is defined as: index that determines physical storage order of table rows."
+                      },
+                      {
+                          "id":  192,
+                          "question":  "What is the most accurate description of \u0027Clustered Index\u0027 in DBMS context?",
+                          "options":  [
+                                          "ability to change schema at one level without affecting higher level",
+                                          "normal form removing transitive dependency on non-key attributes",
+                                          "actual data stored in database at a specific time",
+                                          "index that determines physical storage order of table rows"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Clustered Index refers to: index that determines physical storage order of table rows."
+                      },
+                      {
+                          "id":  193,
+                          "question":  "\u0027Clustered Index\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Keys and Constraints",
+                                          "Fundamentals",
+                                          "Joins and Queries",
+                                          "Normalization"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Clustered Index is mainly part of Joins and Queries in DBMS preparation."
+                      },
+                      {
+                          "id":  194,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "DBMS -\u003e index that determines physical storage order of table rows",
+                                          "Schema -\u003e index that determines physical storage order of table rows",
+                                          "NOT NULL Constraint -\u003e index that determines physical storage order of table rows",
+                                          "Clustered Index -\u003e index that determines physical storage order of table rows"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Clustered Index -\u003e index that determines physical storage order of table rows\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  195,
+                          "question":  "A bank IT database requirement states: index that determines physical storage order of table rows. Which concept should be selected?",
+                          "options":  [
+                                          "Primary Key",
+                                          "Clustered Index",
+                                          "Entity Integrity",
+                                          "DROP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Clustered Index."
+                      },
+                      {
+                          "id":  196,
+                          "question":  "Which DBMS concept best matches: separate index structure containing pointers to data rows?",
+                          "options":  [
+                                          "Durability",
+                                          "Primary Key",
+                                          "Unique Constraint",
+                                          "Non-Clustered Index"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Non-Clustered Index is defined as: separate index structure containing pointers to data rows."
+                      },
+                      {
+                          "id":  197,
+                          "question":  "What is the most accurate description of \u0027Non-Clustered Index\u0027 in DBMS context?",
+                          "options":  [
+                                          "separate index structure containing pointers to data rows",
+                                          "clause used to filter grouped aggregate results",
+                                          "join producing Cartesian product of two tables",
+                                          "SQL command used to retrieve data from tables"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Non-Clustered Index refers to: separate index structure containing pointers to data rows."
+                      },
+                      {
+                          "id":  198,
+                          "question":  "\u0027Non-Clustered Index\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Fundamentals",
+                                          "Transactions and Concurrency",
+                                          "Keys and Constraints",
+                                          "Joins and Queries"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Non-Clustered Index is mainly part of Joins and Queries in DBMS preparation."
+                      },
+                      {
+                          "id":  199,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "ROLLBACK -\u003e separate index structure containing pointers to data rows",
+                                          "ALTER -\u003e separate index structure containing pointers to data rows",
+                                          "INSERT -\u003e separate index structure containing pointers to data rows",
+                                          "Non-Clustered Index -\u003e separate index structure containing pointers to data rows"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Non-Clustered Index -\u003e separate index structure containing pointers to data rows\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  200,
+                          "question":  "A bank IT database requirement states: separate index structure containing pointers to data rows. Which concept should be selected?",
+                          "options":  [
+                                          "Non-Clustered Index",
+                                          "Primary Key",
+                                          "Unique Constraint",
+                                          "Durability"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Non-Clustered Index."
+                      },
+                      {
+                          "id":  201,
+                          "question":  "Which DBMS concept best matches: logical unit of work executed completely or not at all?",
+                          "options":  [
+                                          "Transaction",
+                                          "Isolation",
+                                          "CREATE",
+                                          "Candidate Key"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Transaction is defined as: logical unit of work executed completely or not at all."
+                      },
+                      {
+                          "id":  202,
+                          "question":  "What is the most accurate description of \u0027Transaction\u0027 in DBMS context?",
+                          "options":  [
+                                          "SQL command used to remove selected rows",
+                                          "logical unit of work executed completely or not at all",
+                                          "attribute referencing primary key of another table",
+                                          "command used to modify table structure"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Transaction refers to: logical unit of work executed completely or not at all."
+                      },
+                      {
+                          "id":  203,
+                          "question":  "\u0027Transaction\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Transactions and Concurrency",
+                                          "Normalization",
+                                          "Fundamentals",
+                                          "Keys and Constraints"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Transaction is mainly part of Transactions and Concurrency in DBMS preparation."
+                      },
+                      {
+                          "id":  204,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Denormalization -\u003e logical unit of work executed completely or not at all",
+                                          "Referential Integrity -\u003e logical unit of work executed completely or not at all",
+                                          "Data Independence -\u003e logical unit of work executed completely or not at all",
+                                          "Transaction -\u003e logical unit of work executed completely or not at all"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Transaction -\u003e logical unit of work executed completely or not at all\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  205,
+                          "question":  "A bank IT database requirement states: logical unit of work executed completely or not at all. Which concept should be selected?",
+                          "options":  [
+                                          "CREATE",
+                                          "Candidate Key",
+                                          "Isolation",
+                                          "Transaction"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Transaction."
+                      },
+                      {
+                          "id":  206,
+                          "question":  "Which DBMS concept best matches: ACID property ensuring all operations in transaction succeed or rollback?",
+                          "options":  [
+                                          "INNER JOIN",
+                                          "Atomicity",
+                                          "Shared Lock",
+                                          "Non-Clustered Index"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Atomicity is defined as: ACID property ensuring all operations in transaction succeed or rollback."
+                      },
+                      {
+                          "id":  207,
+                          "question":  "What is the most accurate description of \u0027Atomicity\u0027 in DBMS context?",
+                          "options":  [
+                                          "SQL command used to add new rows into a table",
+                                          "virtual table based on a stored SQL query",
+                                          "join returning all rows when match exists in either table",
+                                          "ACID property ensuring all operations in transaction succeed or rollback"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Atomicity refers to: ACID property ensuring all operations in transaction succeed or rollback."
+                      },
+                      {
+                          "id":  208,
+                          "question":  "\u0027Atomicity\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Normalization",
+                                          "Joins and Queries",
+                                          "Transactions and Concurrency",
+                                          "Keys and Constraints"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Atomicity is mainly part of Transactions and Concurrency in DBMS preparation."
+                      },
+                      {
+                          "id":  209,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "BCNF -\u003e ACID property ensuring all operations in transaction succeed or rollback",
+                                          "Instance -\u003e ACID property ensuring all operations in transaction succeed or rollback",
+                                          "Atomicity -\u003e ACID property ensuring all operations in transaction succeed or rollback",
+                                          "Exclusive Lock -\u003e ACID property ensuring all operations in transaction succeed or rollback"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Atomicity -\u003e ACID property ensuring all operations in transaction succeed or rollback\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  210,
+                          "question":  "A bank IT database requirement states: ACID property ensuring all operations in transaction succeed or rollback. Which concept should be selected?",
+                          "options":  [
+                                          "Non-Clustered Index",
+                                          "INNER JOIN",
+                                          "Shared Lock",
+                                          "Atomicity"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Atomicity."
+                      },
+                      {
+                          "id":  211,
+                          "question":  "Which DBMS concept best matches: ACID property preserving valid database rules before and after transaction?",
+                          "options":  [
+                                          "BCNF",
+                                          "Clustered Index",
+                                          "Consistency",
+                                          "NOT NULL Constraint"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Consistency is defined as: ACID property preserving valid database rules before and after transaction."
+                      },
+                      {
+                          "id":  212,
+                          "question":  "What is the most accurate description of \u0027Consistency\u0027 in DBMS context?",
+                          "options":  [
+                                          "join producing Cartesian product of two tables",
+                                          "ACID property preserving valid database rules before and after transaction",
+                                          "logical unit of work executed completely or not at all",
+                                          "minimal attribute set that can uniquely identify tuples"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Consistency refers to: ACID property preserving valid database rules before and after transaction."
+                      },
+                      {
+                          "id":  213,
+                          "question":  "\u0027Consistency\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Normalization",
+                                          "Transactions and Concurrency",
+                                          "Fundamentals",
+                                          "SQL Operations"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Consistency is mainly part of Transactions and Concurrency in DBMS preparation."
+                      },
+                      {
+                          "id":  214,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "CHECK Constraint -\u003e ACID property preserving valid database rules before and after transaction",
+                                          "First Normal Form -\u003e ACID property preserving valid database rules before and after transaction",
+                                          "Consistency -\u003e ACID property preserving valid database rules before and after transaction",
+                                          "INSERT -\u003e ACID property preserving valid database rules before and after transaction"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Consistency -\u003e ACID property preserving valid database rules before and after transaction\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  215,
+                          "question":  "A bank IT database requirement states: ACID property preserving valid database rules before and after transaction. Which concept should be selected?",
+                          "options":  [
+                                          "Consistency",
+                                          "NOT NULL Constraint",
+                                          "BCNF",
+                                          "Clustered Index"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Consistency."
+                      },
+                      {
+                          "id":  216,
+                          "question":  "Which DBMS concept best matches: ACID property controlling visibility of concurrent transaction changes?",
+                          "options":  [
+                                          "HAVING",
+                                          "ALTER",
+                                          "GROUP BY",
+                                          "Isolation"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Isolation is defined as: ACID property controlling visibility of concurrent transaction changes."
+                      },
+                      {
+                          "id":  217,
+                          "question":  "What is the most accurate description of \u0027Isolation\u0027 in DBMS context?",
+                          "options":  [
+                                          "command used to create database objects like table or index",
+                                          "SQL command used to retrieve data from tables",
+                                          "actual data stored in database at a specific time",
+                                          "ACID property controlling visibility of concurrent transaction changes"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Isolation refers to: ACID property controlling visibility of concurrent transaction changes."
+                      },
+                      {
+                          "id":  218,
+                          "question":  "\u0027Isolation\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Transactions and Concurrency",
+                                          "Joins and Queries",
+                                          "Keys and Constraints",
+                                          "Normalization"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Isolation is mainly part of Transactions and Concurrency in DBMS preparation."
+                      },
+                      {
+                          "id":  219,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "COMMIT -\u003e ACID property controlling visibility of concurrent transaction changes",
+                                          "Isolation -\u003e ACID property controlling visibility of concurrent transaction changes",
+                                          "Instance -\u003e ACID property controlling visibility of concurrent transaction changes",
+                                          "First Normal Form -\u003e ACID property controlling visibility of concurrent transaction changes"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Isolation -\u003e ACID property controlling visibility of concurrent transaction changes\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  220,
+                          "question":  "A bank IT database requirement states: ACID property controlling visibility of concurrent transaction changes. Which concept should be selected?",
+                          "options":  [
+                                          "ALTER",
+                                          "GROUP BY",
+                                          "HAVING",
+                                          "Isolation"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Isolation."
+                      },
+                      {
+                          "id":  221,
+                          "question":  "Which DBMS concept best matches: ACID property ensuring committed data survives system failures?",
+                          "options":  [
+                                          "Clustered Index",
+                                          "Durability",
+                                          "Composite Key",
+                                          "Consistency"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Durability is defined as: ACID property ensuring committed data survives system failures."
+                      },
+                      {
+                          "id":  222,
+                          "question":  "What is the most accurate description of \u0027Durability\u0027 in DBMS context?",
+                          "options":  [
+                                          "statement that undoes uncommitted transaction changes",
+                                          "logical design describing structure of database objects",
+                                          "ACID property ensuring committed data survives system failures",
+                                          "join producing Cartesian product of two tables"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Durability refers to: ACID property ensuring committed data survives system failures."
+                      },
+                      {
+                          "id":  223,
+                          "question":  "\u0027Durability\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Joins and Queries",
+                                          "Transactions and Concurrency",
+                                          "Fundamentals",
+                                          "SQL Operations"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Durability is mainly part of Transactions and Concurrency in DBMS preparation."
+                      },
+                      {
+                          "id":  224,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "TRUNCATE -\u003e ACID property ensuring committed data survives system failures",
+                                          "NOT NULL Constraint -\u003e ACID property ensuring committed data survives system failures",
+                                          "Durability -\u003e ACID property ensuring committed data survives system failures",
+                                          "ALTER -\u003e ACID property ensuring committed data survives system failures"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Durability -\u003e ACID property ensuring committed data survives system failures\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  225,
+                          "question":  "A bank IT database requirement states: ACID property ensuring committed data survives system failures. Which concept should be selected?",
+                          "options":  [
+                                          "Composite Key",
+                                          "Durability",
+                                          "Consistency",
+                                          "Clustered Index"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Durability."
+                      },
+                      {
+                          "id":  226,
+                          "question":  "Which DBMS concept best matches: statement that permanently saves transaction changes?",
+                          "options":  [
+                                          "GROUP BY",
+                                          "Denormalization",
+                                          "COMMIT",
+                                          "Second Normal Form"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "COMMIT is defined as: statement that permanently saves transaction changes."
+                      },
+                      {
+                          "id":  227,
+                          "question":  "What is the most accurate description of \u0027COMMIT\u0027 in DBMS context?",
+                          "options":  [
+                                          "ACID property ensuring committed data survives system failures",
+                                          "ACID property ensuring all operations in transaction succeed or rollback",
+                                          "statement that permanently saves transaction changes",
+                                          "SQL command used to add new rows into a table"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "COMMIT refers to: statement that permanently saves transaction changes."
+                      },
+                      {
+                          "id":  228,
+                          "question":  "\u0027COMMIT\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Normalization",
+                                          "SQL Operations",
+                                          "Transactions and Concurrency",
+                                          "Keys and Constraints"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "COMMIT is mainly part of Transactions and Concurrency in DBMS preparation."
+                      },
+                      {
+                          "id":  229,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "SELECT -\u003e statement that permanently saves transaction changes",
+                                          "COMMIT -\u003e statement that permanently saves transaction changes",
+                                          "INNER JOIN -\u003e statement that permanently saves transaction changes",
+                                          "FULL OUTER JOIN -\u003e statement that permanently saves transaction changes"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027COMMIT -\u003e statement that permanently saves transaction changes\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  230,
+                          "question":  "A bank IT database requirement states: statement that permanently saves transaction changes. Which concept should be selected?",
+                          "options":  [
+                                          "Denormalization",
+                                          "Second Normal Form",
+                                          "GROUP BY",
+                                          "COMMIT"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to COMMIT."
+                      },
+                      {
+                          "id":  231,
+                          "question":  "Which DBMS concept best matches: statement that undoes uncommitted transaction changes?",
+                          "options":  [
+                                          "RIGHT JOIN",
+                                          "Super Key",
+                                          "ROLLBACK",
+                                          "ALTER"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "ROLLBACK is defined as: statement that undoes uncommitted transaction changes."
+                      },
+                      {
+                          "id":  232,
+                          "question":  "What is the most accurate description of \u0027ROLLBACK\u0027 in DBMS context?",
+                          "options":  [
+                                          "statement that undoes uncommitted transaction changes",
+                                          "SQL command used to add new rows into a table",
+                                          "data structure improving speed of data retrieval operations",
+                                          "key formed by more than one column"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "ROLLBACK refers to: statement that undoes uncommitted transaction changes."
+                      },
+                      {
+                          "id":  233,
+                          "question":  "\u0027ROLLBACK\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Keys and Constraints",
+                                          "Joins and Queries",
+                                          "Normalization",
+                                          "Transactions and Concurrency"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "ROLLBACK is mainly part of Transactions and Concurrency in DBMS preparation."
+                      },
+                      {
+                          "id":  234,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "ROLLBACK -\u003e statement that undoes uncommitted transaction changes",
+                                          "Index -\u003e statement that undoes uncommitted transaction changes",
+                                          "Durability -\u003e statement that undoes uncommitted transaction changes",
+                                          "Isolation -\u003e statement that undoes uncommitted transaction changes"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027ROLLBACK -\u003e statement that undoes uncommitted transaction changes\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  235,
+                          "question":  "A bank IT database requirement states: statement that undoes uncommitted transaction changes. Which concept should be selected?",
+                          "options":  [
+                                          "ALTER",
+                                          "Super Key",
+                                          "RIGHT JOIN",
+                                          "ROLLBACK"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to ROLLBACK."
+                      },
+                      {
+                          "id":  236,
+                          "question":  "Which DBMS concept best matches: situation where transactions wait indefinitely for each other resources?",
+                          "options":  [
+                                          "Index",
+                                          "Deadlock",
+                                          "Durability",
+                                          "INNER JOIN"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Deadlock is defined as: situation where transactions wait indefinitely for each other resources."
+                      },
+                      {
+                          "id":  237,
+                          "question":  "What is the most accurate description of \u0027Deadlock\u0027 in DBMS context?",
+                          "options":  [
+                                          "constraint preventing null values in a column",
+                                          "ACID property preserving valid database rules before and after transaction",
+                                          "command used to modify table structure",
+                                          "situation where transactions wait indefinitely for each other resources"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Deadlock refers to: situation where transactions wait indefinitely for each other resources."
+                      },
+                      {
+                          "id":  238,
+                          "question":  "\u0027Deadlock\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Keys and Constraints",
+                                          "Joins and Queries",
+                                          "SQL Operations",
+                                          "Transactions and Concurrency"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Deadlock is mainly part of Transactions and Concurrency in DBMS preparation."
+                      },
+                      {
+                          "id":  239,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Third Normal Form -\u003e situation where transactions wait indefinitely for each other resources",
+                                          "Deadlock -\u003e situation where transactions wait indefinitely for each other resources",
+                                          "Subquery -\u003e situation where transactions wait indefinitely for each other resources",
+                                          "Non-Clustered Index -\u003e situation where transactions wait indefinitely for each other resources"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Deadlock -\u003e situation where transactions wait indefinitely for each other resources\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  240,
+                          "question":  "A bank IT database requirement states: situation where transactions wait indefinitely for each other resources. Which concept should be selected?",
+                          "options":  [
+                                          "Durability",
+                                          "Deadlock",
+                                          "Index",
+                                          "INNER JOIN"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Deadlock."
+                      },
+                      {
+                          "id":  241,
+                          "question":  "Which DBMS concept best matches: lock allowing read access by multiple transactions?",
+                          "options":  [
+                                          "Shared Lock",
+                                          "INSERT",
+                                          "Entity Integrity",
+                                          "Candidate Key"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Shared Lock is defined as: lock allowing read access by multiple transactions."
+                      },
+                      {
+                          "id":  242,
+                          "question":  "What is the most accurate description of \u0027Shared Lock\u0027 in DBMS context?",
+                          "options":  [
+                                          "DDL-like command removing all table rows quickly",
+                                          "lock allowing read access by multiple transactions",
+                                          "situation where transactions wait indefinitely for each other resources",
+                                          "constraint enforcing custom Boolean condition on data"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Shared Lock refers to: lock allowing read access by multiple transactions."
+                      },
+                      {
+                          "id":  243,
+                          "question":  "\u0027Shared Lock\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Fundamentals",
+                                          "Transactions and Concurrency",
+                                          "SQL Operations",
+                                          "Joins and Queries"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Shared Lock is mainly part of Transactions and Concurrency in DBMS preparation."
+                      },
+                      {
+                          "id":  244,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "CROSS JOIN -\u003e lock allowing read access by multiple transactions",
+                                          "RDBMS -\u003e lock allowing read access by multiple transactions",
+                                          "Clustered Index -\u003e lock allowing read access by multiple transactions",
+                                          "Shared Lock -\u003e lock allowing read access by multiple transactions"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Shared Lock -\u003e lock allowing read access by multiple transactions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  245,
+                          "question":  "A bank IT database requirement states: lock allowing read access by multiple transactions. Which concept should be selected?",
+                          "options":  [
+                                          "Candidate Key",
+                                          "Shared Lock",
+                                          "Entity Integrity",
+                                          "INSERT"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Shared Lock."
+                      },
+                      {
+                          "id":  246,
+                          "question":  "Which DBMS concept best matches: lock that prevents other transactions from reading or writing data?",
+                          "options":  [
+                                          "FULL OUTER JOIN",
+                                          "Exclusive Lock",
+                                          "RIGHT JOIN",
+                                          "Foreign Key"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Exclusive Lock is defined as: lock that prevents other transactions from reading or writing data."
+                      },
+                      {
+                          "id":  247,
+                          "question":  "What is the most accurate description of \u0027Exclusive Lock\u0027 in DBMS context?",
+                          "options":  [
+                                          "lock that prevents other transactions from reading or writing data",
+                                          "key formed by more than one column",
+                                          "data structure improving speed of data retrieval operations",
+                                          "actual data stored in database at a specific time"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Exclusive Lock refers to: lock that prevents other transactions from reading or writing data."
+                      },
+                      {
+                          "id":  248,
+                          "question":  "\u0027Exclusive Lock\u0027 is primarily associated with which DBMS area?",
+                          "options":  [
+                                          "Normalization",
+                                          "SQL Operations",
+                                          "Joins and Queries",
+                                          "Transactions and Concurrency"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Exclusive Lock is mainly part of Transactions and Concurrency in DBMS preparation."
+                      },
+                      {
+                          "id":  249,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Exclusive Lock -\u003e lock that prevents other transactions from reading or writing data",
+                                          "Primary Key -\u003e lock that prevents other transactions from reading or writing data",
+                                          "FULL OUTER JOIN -\u003e lock that prevents other transactions from reading or writing data",
+                                          "Second Normal Form -\u003e lock that prevents other transactions from reading or writing data"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Exclusive Lock -\u003e lock that prevents other transactions from reading or writing data\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  250,
+                          "question":  "A bank IT database requirement states: lock that prevents other transactions from reading or writing data. Which concept should be selected?",
+                          "options":  [
+                                          "Foreign Key",
+                                          "FULL OUTER JOIN",
+                                          "RIGHT JOIN",
+                                          "Exclusive Lock"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Exclusive Lock."
+                      }
+                  ]
+}

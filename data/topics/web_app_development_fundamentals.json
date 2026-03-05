@@ -1,0 +1,3004 @@
+﻿{
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "Which Web/App Development concept best matches: markup language used to structure web content?",
+                          "options":  [
+                                          "HTML",
+                                          "CSS",
+                                          "Authorization",
+                                          "JavaScript"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "HTML is defined as: markup language used to structure web content."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "What is the most accurate description of \u0027HTML\u0027?",
+                          "options":  [
+                                          "markup language used to structure web content",
+                                          "practice of making web usable for all users",
+                                          "process of verifying user or client identity",
+                                          "secure HTTP communication over TLS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "HTML refers to: markup language used to structure web content."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "\u0027HTML\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "Web Security Fundamentals",
+                                          "Web Basics",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "HTML is mainly part of Web Basics."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "HTML -\u003e markup language used to structure web content",
+                                          "Bearer Token -\u003e markup language used to structure web content",
+                                          "Pagination -\u003e markup language used to structure web content",
+                                          "SQL Injection -\u003e markup language used to structure web content"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027HTML -\u003e markup language used to structure web content\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "A Bank SO IT application requirement states: markup language used to structure web content. Which concept should be selected?",
+                          "options":  [
+                                          "JavaScript",
+                                          "CSS",
+                                          "Authorization",
+                                          "HTML"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to HTML."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "Which Web/App Development concept best matches: style sheet language used to design web presentation?",
+                          "options":  [
+                                          "DOM",
+                                          "Status Code 404",
+                                          "Content Security Policy",
+                                          "CSS"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "CSS is defined as: style sheet language used to design web presentation."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "What is the most accurate description of \u0027CSS\u0027?",
+                          "options":  [
+                                          "style sheet language used to design web presentation",
+                                          "tree representation of HTML document for script interaction",
+                                          "control restricting number of requests in timeframe",
+                                          "uniform resource locator specifying web resource address"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "CSS refers to: style sheet language used to design web presentation."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "\u0027CSS\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "HTTP Methods and Status",
+                                          "Frontend Engineering",
+                                          "Web Basics",
+                                          "Web Security Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CSS is mainly part of Web Basics."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Output Encoding -\u003e style sheet language used to design web presentation",
+                                          "Status Code 401 -\u003e style sheet language used to design web presentation",
+                                          "PUT -\u003e style sheet language used to design web presentation",
+                                          "CSS -\u003e style sheet language used to design web presentation"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027CSS -\u003e style sheet language used to design web presentation\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "A Bank SO IT application requirement states: style sheet language used to design web presentation. Which concept should be selected?",
+                          "options":  [
+                                          "CSS",
+                                          "DOM",
+                                          "Content Security Policy",
+                                          "Status Code 404"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to CSS."
+                      },
+                      {
+                          "id":  11,
+                          "question":  "Which Web/App Development concept best matches: programming language for dynamic web behavior?",
+                          "options":  [
+                                          "Bearer Token",
+                                          "Status Code 404",
+                                          "JavaScript",
+                                          "DELETE"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "JavaScript is defined as: programming language for dynamic web behavior."
+                      },
+                      {
+                          "id":  12,
+                          "question":  "What is the most accurate description of \u0027JavaScript\u0027?",
+                          "options":  [
+                                          "specific URL where API resource can be accessed",
+                                          "programming language for dynamic web behavior",
+                                          "markup format for structured data exchange",
+                                          "HTTP method used to remove resource"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "JavaScript refers to: programming language for dynamic web behavior."
+                      },
+                      {
+                          "id":  13,
+                          "question":  "\u0027JavaScript\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Security Fundamentals",
+                                          "Frontend Engineering",
+                                          "Web Basics",
+                                          "API Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "JavaScript is mainly part of Web Basics."
+                      },
+                      {
+                          "id":  14,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "JavaScript -\u003e programming language for dynamic web behavior",
+                                          "Status Code 400 -\u003e programming language for dynamic web behavior",
+                                          "Minification -\u003e programming language for dynamic web behavior",
+                                          "Output Encoding -\u003e programming language for dynamic web behavior"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027JavaScript -\u003e programming language for dynamic web behavior\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  15,
+                          "question":  "A Bank SO IT application requirement states: programming language for dynamic web behavior. Which concept should be selected?",
+                          "options":  [
+                                          "DELETE",
+                                          "Status Code 404",
+                                          "JavaScript",
+                                          "Bearer Token"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to JavaScript."
+                      },
+                      {
+                          "id":  16,
+                          "question":  "Which Web/App Development concept best matches: tree representation of HTML document for script interaction?",
+                          "options":  [
+                                          "Endpoint",
+                                          "POST",
+                                          "DOM",
+                                          "Minification"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "DOM is defined as: tree representation of HTML document for script interaction."
+                      },
+                      {
+                          "id":  17,
+                          "question":  "What is the most accurate description of \u0027DOM\u0027?",
+                          "options":  [
+                                          "tree representation of HTML document for script interaction",
+                                          "HTTP method used to replace resource representation",
+                                          "style sheet language used to design web presentation",
+                                          "HTTP response code indicating unauthorized access"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "DOM refers to: tree representation of HTML document for script interaction."
+                      },
+                      {
+                          "id":  18,
+                          "question":  "\u0027DOM\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Basics",
+                                          "Web Security Fundamentals",
+                                          "API Fundamentals",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "DOM is mainly part of Web Basics."
+                      },
+                      {
+                          "id":  19,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Status Code 404 -\u003e tree representation of HTML document for script interaction",
+                                          "Cookie -\u003e tree representation of HTML document for script interaction",
+                                          "HTTP -\u003e tree representation of HTML document for script interaction",
+                                          "DOM -\u003e tree representation of HTML document for script interaction"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027DOM -\u003e tree representation of HTML document for script interaction\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  20,
+                          "question":  "A Bank SO IT application requirement states: tree representation of HTML document for script interaction. Which concept should be selected?",
+                          "options":  [
+                                          "POST",
+                                          "DOM",
+                                          "Minification",
+                                          "Endpoint"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to DOM."
+                      },
+                      {
+                          "id":  21,
+                          "question":  "Which Web/App Development concept best matches: application protocol for web communication?",
+                          "options":  [
+                                          "Authentication",
+                                          "Endpoint",
+                                          "CORS",
+                                          "HTTP"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "HTTP is defined as: application protocol for web communication."
+                      },
+                      {
+                          "id":  22,
+                          "question":  "What is the most accurate description of \u0027HTTP\u0027?",
+                          "options":  [
+                                          "HTTP response code indicating resource created",
+                                          "HTTP method used to replace resource representation",
+                                          "HTTP response code indicating unauthorized access",
+                                          "application protocol for web communication"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "HTTP refers to: application protocol for web communication."
+                      },
+                      {
+                          "id":  23,
+                          "question":  "\u0027HTTP\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "HTTP Methods and Status",
+                                          "API Fundamentals",
+                                          "Web Basics",
+                                          "Frontend Engineering"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "HTTP is mainly part of Web Basics."
+                      },
+                      {
+                          "id":  24,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "URL -\u003e application protocol for web communication",
+                                          "Pagination -\u003e application protocol for web communication",
+                                          "Viewport -\u003e application protocol for web communication",
+                                          "HTTP -\u003e application protocol for web communication"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027HTTP -\u003e application protocol for web communication\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  25,
+                          "question":  "A Bank SO IT application requirement states: application protocol for web communication. Which concept should be selected?",
+                          "options":  [
+                                          "CORS",
+                                          "Authentication",
+                                          "HTTP",
+                                          "Endpoint"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to HTTP."
+                      },
+                      {
+                          "id":  26,
+                          "question":  "Which Web/App Development concept best matches: secure HTTP communication over TLS?",
+                          "options":  [
+                                          "Media Query",
+                                          "HTTPS",
+                                          "Idempotency",
+                                          "Same-Origin Policy"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "HTTPS is defined as: secure HTTP communication over TLS."
+                      },
+                      {
+                          "id":  27,
+                          "question":  "What is the most accurate description of \u0027HTTPS\u0027?",
+                          "options":  [
+                                          "secure HTTP communication over TLS",
+                                          "attack manipulating SQL queries through unsanitized input",
+                                          "process of verifying user or client identity",
+                                          "tree representation of HTML document for script interaction"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "HTTPS refers to: secure HTTP communication over TLS."
+                      },
+                      {
+                          "id":  28,
+                          "question":  "\u0027HTTPS\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "API Fundamentals",
+                                          "Web Security Fundamentals",
+                                          "Frontend Engineering",
+                                          "Web Basics"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "HTTPS is mainly part of Web Basics."
+                      },
+                      {
+                          "id":  29,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "HTTPS -\u003e secure HTTP communication over TLS",
+                                          "Idempotency -\u003e secure HTTP communication over TLS",
+                                          "Lazy Loading -\u003e secure HTTP communication over TLS",
+                                          "Media Query -\u003e secure HTTP communication over TLS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027HTTPS -\u003e secure HTTP communication over TLS\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  30,
+                          "question":  "A Bank SO IT application requirement states: secure HTTP communication over TLS. Which concept should be selected?",
+                          "options":  [
+                                          "Idempotency",
+                                          "Same-Origin Policy",
+                                          "HTTPS",
+                                          "Media Query"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to HTTPS."
+                      },
+                      {
+                          "id":  31,
+                          "question":  "Which Web/App Development concept best matches: uniform resource locator specifying web resource address?",
+                          "options":  [
+                                          "Media Query",
+                                          "URL",
+                                          "Status Code 200",
+                                          "CSRF"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "URL is defined as: uniform resource locator specifying web resource address."
+                      },
+                      {
+                          "id":  32,
+                          "question":  "What is the most accurate description of \u0027URL\u0027?",
+                          "options":  [
+                                          "HTTP method used to create or submit resource data",
+                                          "uniform resource locator specifying web resource address",
+                                          "building core functionality first then advanced features",
+                                          "small browser-stored data sent with HTTP requests"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "URL refers to: uniform resource locator specifying web resource address."
+                      },
+                      {
+                          "id":  33,
+                          "question":  "\u0027URL\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "HTTP Methods and Status",
+                                          "Frontend Engineering",
+                                          "Web Basics",
+                                          "API Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "URL is mainly part of Web Basics."
+                      },
+                      {
+                          "id":  34,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Endpoint -\u003e uniform resource locator specifying web resource address",
+                                          "CSS Grid -\u003e uniform resource locator specifying web resource address",
+                                          "URL -\u003e uniform resource locator specifying web resource address",
+                                          "Status Code 401 -\u003e uniform resource locator specifying web resource address"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027URL -\u003e uniform resource locator specifying web resource address\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  35,
+                          "question":  "A Bank SO IT application requirement states: uniform resource locator specifying web resource address. Which concept should be selected?",
+                          "options":  [
+                                          "Status Code 200",
+                                          "URL",
+                                          "CSRF",
+                                          "Media Query"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to URL."
+                      },
+                      {
+                          "id":  36,
+                          "question":  "Which Web/App Development concept best matches: system translating domain names into IP addresses?",
+                          "options":  [
+                                          "DNS",
+                                          "Bearer Token",
+                                          "Rate Limiting",
+                                          "HSTS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "DNS is defined as: system translating domain names into IP addresses."
+                      },
+                      {
+                          "id":  37,
+                          "question":  "What is the most accurate description of \u0027DNS\u0027?",
+                          "options":  [
+                                          "access token included in authorization header",
+                                          "markup language used to structure web content",
+                                          "HTTP response code indicating resource created",
+                                          "system translating domain names into IP addresses"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DNS refers to: system translating domain names into IP addresses."
+                      },
+                      {
+                          "id":  38,
+                          "question":  "\u0027DNS\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "HTTP Methods and Status",
+                                          "Web Basics",
+                                          "Web Security Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "DNS is mainly part of Web Basics."
+                      },
+                      {
+                          "id":  39,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "DNS -\u003e system translating domain names into IP addresses",
+                                          "Responsive Design -\u003e system translating domain names into IP addresses",
+                                          "Rate Limiting -\u003e system translating domain names into IP addresses",
+                                          "HSTS -\u003e system translating domain names into IP addresses"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027DNS -\u003e system translating domain names into IP addresses\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  40,
+                          "question":  "A Bank SO IT application requirement states: system translating domain names into IP addresses. Which concept should be selected?",
+                          "options":  [
+                                          "HSTS",
+                                          "Rate Limiting",
+                                          "DNS",
+                                          "Bearer Token"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to DNS."
+                      },
+                      {
+                          "id":  41,
+                          "question":  "Which Web/App Development concept best matches: small browser-stored data sent with HTTP requests?",
+                          "options":  [
+                                          "SQL Injection",
+                                          "Cookie",
+                                          "REST API",
+                                          "Responsive Design"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Cookie is defined as: small browser-stored data sent with HTTP requests."
+                      },
+                      {
+                          "id":  42,
+                          "question":  "What is the most accurate description of \u0027Cookie\u0027?",
+                          "options":  [
+                                          "process of checking permitted actions for identity",
+                                          "access token included in authorization header",
+                                          "design approach adapting UI to different screen sizes",
+                                          "small browser-stored data sent with HTTP requests"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Cookie refers to: small browser-stored data sent with HTTP requests."
+                      },
+                      {
+                          "id":  43,
+                          "question":  "\u0027Cookie\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "Web Basics",
+                                          "HTTP Methods and Status",
+                                          "Web Security Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Cookie is mainly part of Web Basics."
+                      },
+                      {
+                          "id":  44,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "URL -\u003e small browser-stored data sent with HTTP requests",
+                                          "Cookie -\u003e small browser-stored data sent with HTTP requests",
+                                          "Status Code 401 -\u003e small browser-stored data sent with HTTP requests",
+                                          "XSS -\u003e small browser-stored data sent with HTTP requests"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Cookie -\u003e small browser-stored data sent with HTTP requests\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  45,
+                          "question":  "A Bank SO IT application requirement states: small browser-stored data sent with HTTP requests. Which concept should be selected?",
+                          "options":  [
+                                          "SQL Injection",
+                                          "Cookie",
+                                          "REST API",
+                                          "Responsive Design"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Cookie."
+                      },
+                      {
+                          "id":  46,
+                          "question":  "Which Web/App Development concept best matches: server-side state maintained for user interaction?",
+                          "options":  [
+                                          "HSTS",
+                                          "Session",
+                                          "Progressive Enhancement",
+                                          "POST"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Session is defined as: server-side state maintained for user interaction."
+                      },
+                      {
+                          "id":  47,
+                          "question":  "What is the most accurate description of \u0027Session\u0027?",
+                          "options":  [
+                                          "server-side state maintained for user interaction",
+                                          "process of checking permitted actions for identity",
+                                          "HTTP response code indicating successful request",
+                                          "design approach adapting UI to different screen sizes"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Session refers to: server-side state maintained for user interaction."
+                      },
+                      {
+                          "id":  48,
+                          "question":  "\u0027Session\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Security Fundamentals",
+                                          "API Fundamentals",
+                                          "Web Basics",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Session is mainly part of Web Basics."
+                      },
+                      {
+                          "id":  49,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "REST API -\u003e server-side state maintained for user interaction",
+                                          "Session -\u003e server-side state maintained for user interaction",
+                                          "XML -\u003e server-side state maintained for user interaction",
+                                          "Authorization -\u003e server-side state maintained for user interaction"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Session -\u003e server-side state maintained for user interaction\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  50,
+                          "question":  "A Bank SO IT application requirement states: server-side state maintained for user interaction. Which concept should be selected?",
+                          "options":  [
+                                          "POST",
+                                          "Session",
+                                          "HSTS",
+                                          "Progressive Enhancement"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Session."
+                      },
+                      {
+                          "id":  51,
+                          "question":  "Which Web/App Development concept best matches: HTTP method used to retrieve resource data?",
+                          "options":  [
+                                          "HTML",
+                                          "Rate Limiting",
+                                          "DNS",
+                                          "GET"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "GET is defined as: HTTP method used to retrieve resource data."
+                      },
+                      {
+                          "id":  52,
+                          "question":  "What is the most accurate description of \u0027GET\u0027?",
+                          "options":  [
+                                          "security header restricting allowed content sources",
+                                          "HTTP response code indicating bad client request",
+                                          "HTTP method used to retrieve resource data",
+                                          "attack forcing authenticated user to perform unwanted action"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "GET refers to: HTTP method used to retrieve resource data."
+                      },
+                      {
+                          "id":  53,
+                          "question":  "\u0027GET\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Basics",
+                                          "Frontend Engineering",
+                                          "Web Security Fundamentals",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "GET is mainly part of HTTP Methods and Status."
+                      },
+                      {
+                          "id":  54,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "GET -\u003e HTTP method used to retrieve resource data",
+                                          "Minification -\u003e HTTP method used to retrieve resource data",
+                                          "DNS -\u003e HTTP method used to retrieve resource data",
+                                          "Same-Origin Policy -\u003e HTTP method used to retrieve resource data"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027GET -\u003e HTTP method used to retrieve resource data\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  55,
+                          "question":  "A Bank SO IT application requirement states: HTTP method used to retrieve resource data. Which concept should be selected?",
+                          "options":  [
+                                          "HTML",
+                                          "GET",
+                                          "Rate Limiting",
+                                          "DNS"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to GET."
+                      },
+                      {
+                          "id":  56,
+                          "question":  "Which Web/App Development concept best matches: HTTP method used to create or submit resource data?",
+                          "options":  [
+                                          "Pagination",
+                                          "ARIA",
+                                          "POST",
+                                          "Status Code 400"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "POST is defined as: HTTP method used to create or submit resource data."
+                      },
+                      {
+                          "id":  57,
+                          "question":  "What is the most accurate description of \u0027POST\u0027?",
+                          "options":  [
+                                          "HTTP method used to create or submit resource data",
+                                          "header enforcing HTTPS-only communication for domain",
+                                          "programming language for dynamic web behavior",
+                                          "markup language used to structure web content"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "POST refers to: HTTP method used to create or submit resource data."
+                      },
+                      {
+                          "id":  58,
+                          "question":  "\u0027POST\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "HTTP Methods and Status",
+                                          "Web Basics",
+                                          "API Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "POST is mainly part of HTTP Methods and Status."
+                      },
+                      {
+                          "id":  59,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "HSTS -\u003e HTTP method used to create or submit resource data",
+                                          "POST -\u003e HTTP method used to create or submit resource data",
+                                          "CORS -\u003e HTTP method used to create or submit resource data",
+                                          "JavaScript -\u003e HTTP method used to create or submit resource data"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027POST -\u003e HTTP method used to create or submit resource data\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  60,
+                          "question":  "A Bank SO IT application requirement states: HTTP method used to create or submit resource data. Which concept should be selected?",
+                          "options":  [
+                                          "Pagination",
+                                          "Status Code 400",
+                                          "POST",
+                                          "ARIA"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to POST."
+                      },
+                      {
+                          "id":  61,
+                          "question":  "Which Web/App Development concept best matches: HTTP method used to replace resource representation?",
+                          "options":  [
+                                          "JavaScript",
+                                          "REST API",
+                                          "Authentication",
+                                          "PUT"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "PUT is defined as: HTTP method used to replace resource representation."
+                      },
+                      {
+                          "id":  62,
+                          "question":  "What is the most accurate description of \u0027PUT\u0027?",
+                          "options":  [
+                                          "style sheet language used to design web presentation",
+                                          "HTTP method used to replace resource representation",
+                                          "CSS layout model for one-dimensional alignment",
+                                          "programming language for dynamic web behavior"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "PUT refers to: HTTP method used to replace resource representation."
+                      },
+                      {
+                          "id":  63,
+                          "question":  "\u0027PUT\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "API Fundamentals",
+                                          "Frontend Engineering",
+                                          "HTTP Methods and Status",
+                                          "Web Security Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "PUT is mainly part of HTTP Methods and Status."
+                      },
+                      {
+                          "id":  64,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Session -\u003e HTTP method used to replace resource representation",
+                                          "Minification -\u003e HTTP method used to replace resource representation",
+                                          "PUT -\u003e HTTP method used to replace resource representation",
+                                          "Authorization -\u003e HTTP method used to replace resource representation"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027PUT -\u003e HTTP method used to replace resource representation\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  65,
+                          "question":  "A Bank SO IT application requirement states: HTTP method used to replace resource representation. Which concept should be selected?",
+                          "options":  [
+                                          "REST API",
+                                          "JavaScript",
+                                          "PUT",
+                                          "Authentication"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to PUT."
+                      },
+                      {
+                          "id":  66,
+                          "question":  "Which Web/App Development concept best matches: HTTP method used to partially update resource?",
+                          "options":  [
+                                          "TLS Certificate",
+                                          "PATCH",
+                                          "Flexbox",
+                                          "Idempotency"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "PATCH is defined as: HTTP method used to partially update resource."
+                      },
+                      {
+                          "id":  67,
+                          "question":  "What is the most accurate description of \u0027PATCH\u0027?",
+                          "options":  [
+                                          "HTTP method used to partially update resource",
+                                          "HTTP response code indicating resource not found",
+                                          "security header restricting allowed content sources",
+                                          "small browser-stored data sent with HTTP requests"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "PATCH refers to: HTTP method used to partially update resource."
+                      },
+                      {
+                          "id":  68,
+                          "question":  "\u0027PATCH\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Security Fundamentals",
+                                          "API Fundamentals",
+                                          "Web Basics",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "PATCH is mainly part of HTTP Methods and Status."
+                      },
+                      {
+                          "id":  69,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Lazy Loading -\u003e HTTP method used to partially update resource",
+                                          "CSS -\u003e HTTP method used to partially update resource",
+                                          "PATCH -\u003e HTTP method used to partially update resource",
+                                          "Cookie -\u003e HTTP method used to partially update resource"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027PATCH -\u003e HTTP method used to partially update resource\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  70,
+                          "question":  "A Bank SO IT application requirement states: HTTP method used to partially update resource. Which concept should be selected?",
+                          "options":  [
+                                          "Flexbox",
+                                          "Idempotency",
+                                          "PATCH",
+                                          "TLS Certificate"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to PATCH."
+                      },
+                      {
+                          "id":  71,
+                          "question":  "Which Web/App Development concept best matches: HTTP method used to remove resource?",
+                          "options":  [
+                                          "XML",
+                                          "DOM",
+                                          "DELETE",
+                                          "Output Encoding"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "DELETE is defined as: HTTP method used to remove resource."
+                      },
+                      {
+                          "id":  72,
+                          "question":  "What is the most accurate description of \u0027DELETE\u0027?",
+                          "options":  [
+                                          "HTTP method used to remove resource",
+                                          "attributes improving accessibility for assistive technologies",
+                                          "style sheet language used to design web presentation",
+                                          "attack forcing authenticated user to perform unwanted action"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "DELETE refers to: HTTP method used to remove resource."
+                      },
+                      {
+                          "id":  73,
+                          "question":  "\u0027DELETE\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "API Fundamentals",
+                                          "Web Security Fundamentals",
+                                          "Web Basics",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DELETE is mainly part of HTTP Methods and Status."
+                      },
+                      {
+                          "id":  74,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Responsive Design -\u003e HTTP method used to remove resource",
+                                          "Status Code 401 -\u003e HTTP method used to remove resource",
+                                          "DELETE -\u003e HTTP method used to remove resource",
+                                          "Viewport -\u003e HTTP method used to remove resource"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027DELETE -\u003e HTTP method used to remove resource\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  75,
+                          "question":  "A Bank SO IT application requirement states: HTTP method used to remove resource. Which concept should be selected?",
+                          "options":  [
+                                          "Output Encoding",
+                                          "DELETE",
+                                          "XML",
+                                          "DOM"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to DELETE."
+                      },
+                      {
+                          "id":  76,
+                          "question":  "Which Web/App Development concept best matches: HTTP response code indicating successful request?",
+                          "options":  [
+                                          "Status Code 401",
+                                          "SQL Injection",
+                                          "Status Code 200",
+                                          "PUT"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Status Code 200 is defined as: HTTP response code indicating successful request."
+                      },
+                      {
+                          "id":  77,
+                          "question":  "What is the most accurate description of \u0027Status Code 200\u0027?",
+                          "options":  [
+                                          "security header restricting allowed content sources",
+                                          "attack forcing authenticated user to perform unwanted action",
+                                          "technique splitting large API response into pages",
+                                          "HTTP response code indicating successful request"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Status Code 200 refers to: HTTP response code indicating successful request."
+                      },
+                      {
+                          "id":  78,
+                          "question":  "\u0027Status Code 200\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Basics",
+                                          "HTTP Methods and Status",
+                                          "API Fundamentals",
+                                          "Frontend Engineering"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Status Code 200 is mainly part of HTTP Methods and Status."
+                      },
+                      {
+                          "id":  79,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "HTTPS -\u003e HTTP response code indicating successful request",
+                                          "HTTP -\u003e HTTP response code indicating successful request",
+                                          "Status Code 200 -\u003e HTTP response code indicating successful request",
+                                          "POST -\u003e HTTP response code indicating successful request"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Status Code 200 -\u003e HTTP response code indicating successful request\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  80,
+                          "question":  "A Bank SO IT application requirement states: HTTP response code indicating successful request. Which concept should be selected?",
+                          "options":  [
+                                          "Status Code 200",
+                                          "PUT",
+                                          "SQL Injection",
+                                          "Status Code 401"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Status Code 200."
+                      },
+                      {
+                          "id":  81,
+                          "question":  "Which Web/App Development concept best matches: HTTP response code indicating resource created?",
+                          "options":  [
+                                          "Status Code 201",
+                                          "Status Code 400",
+                                          "DELETE",
+                                          "GET"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Status Code 201 is defined as: HTTP response code indicating resource created."
+                      },
+                      {
+                          "id":  82,
+                          "question":  "What is the most accurate description of \u0027Status Code 201\u0027?",
+                          "options":  [
+                                          "HTTP response code indicating resource created",
+                                          "property where repeated request yields same effect",
+                                          "attack forcing authenticated user to perform unwanted action",
+                                          "security header restricting allowed content sources"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Status Code 201 refers to: HTTP response code indicating resource created."
+                      },
+                      {
+                          "id":  83,
+                          "question":  "\u0027Status Code 201\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "API Fundamentals",
+                                          "Web Basics",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Status Code 201 is mainly part of HTTP Methods and Status."
+                      },
+                      {
+                          "id":  84,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "TLS Certificate -\u003e HTTP response code indicating resource created",
+                                          "Status Code 201 -\u003e HTTP response code indicating resource created",
+                                          "Rate Limiting -\u003e HTTP response code indicating resource created",
+                                          "HTTPS -\u003e HTTP response code indicating resource created"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Status Code 201 -\u003e HTTP response code indicating resource created\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  85,
+                          "question":  "A Bank SO IT application requirement states: HTTP response code indicating resource created. Which concept should be selected?",
+                          "options":  [
+                                          "Status Code 201",
+                                          "DELETE",
+                                          "GET",
+                                          "Status Code 400"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Status Code 201."
+                      },
+                      {
+                          "id":  86,
+                          "question":  "Which Web/App Development concept best matches: HTTP response code indicating bad client request?",
+                          "options":  [
+                                          "Lazy Loading",
+                                          "Status Code 400",
+                                          "DELETE",
+                                          "CORS"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Status Code 400 is defined as: HTTP response code indicating bad client request."
+                      },
+                      {
+                          "id":  87,
+                          "question":  "What is the most accurate description of \u0027Status Code 400\u0027?",
+                          "options":  [
+                                          "attack manipulating SQL queries through unsanitized input",
+                                          "small browser-stored data sent with HTTP requests",
+                                          "process of verifying user or client identity",
+                                          "HTTP response code indicating bad client request"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Status Code 400 refers to: HTTP response code indicating bad client request."
+                      },
+                      {
+                          "id":  88,
+                          "question":  "\u0027Status Code 400\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "API Fundamentals",
+                                          "Web Security Fundamentals",
+                                          "Frontend Engineering",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Status Code 400 is mainly part of HTTP Methods and Status."
+                      },
+                      {
+                          "id":  89,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "DOM -\u003e HTTP response code indicating bad client request",
+                                          "PUT -\u003e HTTP response code indicating bad client request",
+                                          "Status Code 400 -\u003e HTTP response code indicating bad client request",
+                                          "HTML -\u003e HTTP response code indicating bad client request"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Status Code 400 -\u003e HTTP response code indicating bad client request\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  90,
+                          "question":  "A Bank SO IT application requirement states: HTTP response code indicating bad client request. Which concept should be selected?",
+                          "options":  [
+                                          "Status Code 400",
+                                          "CORS",
+                                          "Lazy Loading",
+                                          "DELETE"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Status Code 400."
+                      },
+                      {
+                          "id":  91,
+                          "question":  "Which Web/App Development concept best matches: HTTP response code indicating unauthorized access?",
+                          "options":  [
+                                          "Content Security Policy",
+                                          "Session",
+                                          "XSS",
+                                          "Status Code 401"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Status Code 401 is defined as: HTTP response code indicating unauthorized access."
+                      },
+                      {
+                          "id":  92,
+                          "question":  "What is the most accurate description of \u0027Status Code 401\u0027?",
+                          "options":  [
+                                          "HTTP method used to retrieve resource data",
+                                          "HTTP response code indicating unauthorized access",
+                                          "control restricting number of requests in timeframe",
+                                          "HTTP response code indicating successful request"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Status Code 401 refers to: HTTP response code indicating unauthorized access."
+                      },
+                      {
+                          "id":  93,
+                          "question":  "\u0027Status Code 401\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "HTTP Methods and Status",
+                                          "API Fundamentals",
+                                          "Web Security Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Status Code 401 is mainly part of HTTP Methods and Status."
+                      },
+                      {
+                          "id":  94,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "HSTS -\u003e HTTP response code indicating unauthorized access",
+                                          "Status Code 401 -\u003e HTTP response code indicating unauthorized access",
+                                          "CSS -\u003e HTTP response code indicating unauthorized access",
+                                          "URL -\u003e HTTP response code indicating unauthorized access"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Status Code 401 -\u003e HTTP response code indicating unauthorized access\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  95,
+                          "question":  "A Bank SO IT application requirement states: HTTP response code indicating unauthorized access. Which concept should be selected?",
+                          "options":  [
+                                          "Session",
+                                          "XSS",
+                                          "Content Security Policy",
+                                          "Status Code 401"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Status Code 401."
+                      },
+                      {
+                          "id":  96,
+                          "question":  "Which Web/App Development concept best matches: HTTP response code indicating resource not found?",
+                          "options":  [
+                                          "Status Code 404",
+                                          "Authorization",
+                                          "Status Code 400",
+                                          "SQL Injection"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Status Code 404 is defined as: HTTP response code indicating resource not found."
+                      },
+                      {
+                          "id":  97,
+                          "question":  "What is the most accurate description of \u0027Status Code 404\u0027?",
+                          "options":  [
+                                          "cleaning untrusted input to prevent injection",
+                                          "markup format for structured data exchange",
+                                          "architectural style using stateless resource-based endpoints",
+                                          "HTTP response code indicating resource not found"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Status Code 404 refers to: HTTP response code indicating resource not found."
+                      },
+                      {
+                          "id":  98,
+                          "question":  "\u0027Status Code 404\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "Web Basics",
+                                          "API Fundamentals",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Status Code 404 is mainly part of HTTP Methods and Status."
+                      },
+                      {
+                          "id":  99,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Status Code 404 -\u003e HTTP response code indicating resource not found",
+                                          "Flexbox -\u003e HTTP response code indicating resource not found",
+                                          "Minification -\u003e HTTP response code indicating resource not found",
+                                          "CSS Grid -\u003e HTTP response code indicating resource not found"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Status Code 404 -\u003e HTTP response code indicating resource not found\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  100,
+                          "question":  "A Bank SO IT application requirement states: HTTP response code indicating resource not found. Which concept should be selected?",
+                          "options":  [
+                                          "Authorization",
+                                          "Status Code 404",
+                                          "SQL Injection",
+                                          "Status Code 400"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Status Code 404."
+                      },
+                      {
+                          "id":  101,
+                          "question":  "Which Web/App Development concept best matches: architectural style using stateless resource-based endpoints?",
+                          "options":  [
+                                          "Lazy Loading",
+                                          "REST API",
+                                          "HTTP",
+                                          "Flexbox"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "REST API is defined as: architectural style using stateless resource-based endpoints."
+                      },
+                      {
+                          "id":  102,
+                          "question":  "What is the most accurate description of \u0027REST API\u0027?",
+                          "options":  [
+                                          "architectural style using stateless resource-based endpoints",
+                                          "specific URL where API resource can be accessed",
+                                          "programming language for dynamic web behavior",
+                                          "attack forcing authenticated user to perform unwanted action"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "REST API refers to: architectural style using stateless resource-based endpoints."
+                      },
+                      {
+                          "id":  103,
+                          "question":  "\u0027REST API\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Security Fundamentals",
+                                          "Frontend Engineering",
+                                          "API Fundamentals",
+                                          "Web Basics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "REST API is mainly part of API Fundamentals."
+                      },
+                      {
+                          "id":  104,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Bearer Token -\u003e architectural style using stateless resource-based endpoints",
+                                          "CSS -\u003e architectural style using stateless resource-based endpoints",
+                                          "REST API -\u003e architectural style using stateless resource-based endpoints",
+                                          "HSTS -\u003e architectural style using stateless resource-based endpoints"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027REST API -\u003e architectural style using stateless resource-based endpoints\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  105,
+                          "question":  "A Bank SO IT application requirement states: architectural style using stateless resource-based endpoints. Which concept should be selected?",
+                          "options":  [
+                                          "HTTP",
+                                          "Flexbox",
+                                          "REST API",
+                                          "Lazy Loading"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to REST API."
+                      },
+                      {
+                          "id":  106,
+                          "question":  "Which Web/App Development concept best matches: lightweight data-interchange format using key-value pairs?",
+                          "options":  [
+                                          "JSON",
+                                          "Progressive Enhancement",
+                                          "JavaScript",
+                                          "CORS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "JSON is defined as: lightweight data-interchange format using key-value pairs."
+                      },
+                      {
+                          "id":  107,
+                          "question":  "What is the most accurate description of \u0027JSON\u0027?",
+                          "options":  [
+                                          "HTTP response code indicating unauthorized access",
+                                          "digital certificate enabling encrypted HTTPS communication",
+                                          "HTTP method used to replace resource representation",
+                                          "lightweight data-interchange format using key-value pairs"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "JSON refers to: lightweight data-interchange format using key-value pairs."
+                      },
+                      {
+                          "id":  108,
+                          "question":  "\u0027JSON\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "API Fundamentals",
+                                          "Web Security Fundamentals",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "JSON is mainly part of API Fundamentals."
+                      },
+                      {
+                          "id":  109,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "JSON -\u003e lightweight data-interchange format using key-value pairs",
+                                          "HTML -\u003e lightweight data-interchange format using key-value pairs",
+                                          "Same-Origin Policy -\u003e lightweight data-interchange format using key-value pairs",
+                                          "SQL Injection -\u003e lightweight data-interchange format using key-value pairs"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027JSON -\u003e lightweight data-interchange format using key-value pairs\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  110,
+                          "question":  "A Bank SO IT application requirement states: lightweight data-interchange format using key-value pairs. Which concept should be selected?",
+                          "options":  [
+                                          "Progressive Enhancement",
+                                          "CORS",
+                                          "JavaScript",
+                                          "JSON"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to JSON."
+                      },
+                      {
+                          "id":  111,
+                          "question":  "Which Web/App Development concept best matches: markup format for structured data exchange?",
+                          "options":  [
+                                          "XML",
+                                          "Content Security Policy",
+                                          "Viewport",
+                                          "HTTPS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "XML is defined as: markup format for structured data exchange."
+                      },
+                      {
+                          "id":  112,
+                          "question":  "What is the most accurate description of \u0027XML\u0027?",
+                          "options":  [
+                                          "attack manipulating SQL queries through unsanitized input",
+                                          "control restricting number of requests in timeframe",
+                                          "markup format for structured data exchange",
+                                          "deferring non-critical resource loading until needed"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "XML refers to: markup format for structured data exchange."
+                      },
+                      {
+                          "id":  113,
+                          "question":  "\u0027XML\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Security Fundamentals",
+                                          "Web Basics",
+                                          "Frontend Engineering",
+                                          "API Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "XML is mainly part of API Fundamentals."
+                      },
+                      {
+                          "id":  114,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "URL -\u003e markup format for structured data exchange",
+                                          "Status Code 404 -\u003e markup format for structured data exchange",
+                                          "Authentication -\u003e markup format for structured data exchange",
+                                          "XML -\u003e markup format for structured data exchange"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027XML -\u003e markup format for structured data exchange\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  115,
+                          "question":  "A Bank SO IT application requirement states: markup format for structured data exchange. Which concept should be selected?",
+                          "options":  [
+                                          "HTTPS",
+                                          "Viewport",
+                                          "Content Security Policy",
+                                          "XML"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to XML."
+                      },
+                      {
+                          "id":  116,
+                          "question":  "Which Web/App Development concept best matches: specific URL where API resource can be accessed?",
+                          "options":  [
+                                          "ARIA",
+                                          "Endpoint",
+                                          "Status Code 201",
+                                          "DELETE"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Endpoint is defined as: specific URL where API resource can be accessed."
+                      },
+                      {
+                          "id":  117,
+                          "question":  "What is the most accurate description of \u0027Endpoint\u0027?",
+                          "options":  [
+                                          "HTTP method used to remove resource",
+                                          "attributes improving accessibility for assistive technologies",
+                                          "specific URL where API resource can be accessed",
+                                          "system translating domain names into IP addresses"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Endpoint refers to: specific URL where API resource can be accessed."
+                      },
+                      {
+                          "id":  118,
+                          "question":  "\u0027Endpoint\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Security Fundamentals",
+                                          "HTTP Methods and Status",
+                                          "API Fundamentals",
+                                          "Frontend Engineering"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Endpoint is mainly part of API Fundamentals."
+                      },
+                      {
+                          "id":  119,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "DNS -\u003e specific URL where API resource can be accessed",
+                                          "ARIA -\u003e specific URL where API resource can be accessed",
+                                          "HSTS -\u003e specific URL where API resource can be accessed",
+                                          "Endpoint -\u003e specific URL where API resource can be accessed"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Endpoint -\u003e specific URL where API resource can be accessed\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  120,
+                          "question":  "A Bank SO IT application requirement states: specific URL where API resource can be accessed. Which concept should be selected?",
+                          "options":  [
+                                          "Status Code 201",
+                                          "DELETE",
+                                          "ARIA",
+                                          "Endpoint"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Endpoint."
+                      },
+                      {
+                          "id":  121,
+                          "question":  "Which Web/App Development concept best matches: property where repeated request yields same effect?",
+                          "options":  [
+                                          "Cookie",
+                                          "DOM",
+                                          "Input Sanitization",
+                                          "Idempotency"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Idempotency is defined as: property where repeated request yields same effect."
+                      },
+                      {
+                          "id":  122,
+                          "question":  "What is the most accurate description of \u0027Idempotency\u0027?",
+                          "options":  [
+                                          "property where repeated request yields same effect",
+                                          "removal of unnecessary characters to reduce file size",
+                                          "visible area of web page on a device",
+                                          "style sheet language used to design web presentation"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Idempotency refers to: property where repeated request yields same effect."
+                      },
+                      {
+                          "id":  123,
+                          "question":  "\u0027Idempotency\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "API Fundamentals",
+                                          "Web Security Fundamentals",
+                                          "Frontend Engineering",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Idempotency is mainly part of API Fundamentals."
+                      },
+                      {
+                          "id":  124,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "CSS Grid -\u003e property where repeated request yields same effect",
+                                          "DELETE -\u003e property where repeated request yields same effect",
+                                          "Idempotency -\u003e property where repeated request yields same effect",
+                                          "REST API -\u003e property where repeated request yields same effect"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Idempotency -\u003e property where repeated request yields same effect\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  125,
+                          "question":  "A Bank SO IT application requirement states: property where repeated request yields same effect. Which concept should be selected?",
+                          "options":  [
+                                          "Idempotency",
+                                          "Input Sanitization",
+                                          "DOM",
+                                          "Cookie"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Idempotency."
+                      },
+                      {
+                          "id":  126,
+                          "question":  "Which Web/App Development concept best matches: process of verifying user or client identity?",
+                          "options":  [
+                                          "DELETE",
+                                          "CSS Grid",
+                                          "TLS Certificate",
+                                          "Authentication"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Authentication is defined as: process of verifying user or client identity."
+                      },
+                      {
+                          "id":  127,
+                          "question":  "What is the most accurate description of \u0027Authentication\u0027?",
+                          "options":  [
+                                          "HTTP response code indicating bad client request",
+                                          "attack injecting malicious scripts into trusted pages",
+                                          "process of verifying user or client identity",
+                                          "HTTP response code indicating resource not found"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Authentication refers to: process of verifying user or client identity."
+                      },
+                      {
+                          "id":  128,
+                          "question":  "\u0027Authentication\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "API Fundamentals",
+                                          "Web Basics",
+                                          "Web Security Fundamentals",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Authentication is mainly part of API Fundamentals."
+                      },
+                      {
+                          "id":  129,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Authentication -\u003e process of verifying user or client identity",
+                                          "Progressive Enhancement -\u003e process of verifying user or client identity",
+                                          "CORS -\u003e process of verifying user or client identity",
+                                          "XML -\u003e process of verifying user or client identity"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Authentication -\u003e process of verifying user or client identity\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  130,
+                          "question":  "A Bank SO IT application requirement states: process of verifying user or client identity. Which concept should be selected?",
+                          "options":  [
+                                          "DELETE",
+                                          "CSS Grid",
+                                          "Authentication",
+                                          "TLS Certificate"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Authentication."
+                      },
+                      {
+                          "id":  131,
+                          "question":  "Which Web/App Development concept best matches: process of checking permitted actions for identity?",
+                          "options":  [
+                                          "Session",
+                                          "SQL Injection",
+                                          "Authorization",
+                                          "REST API"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Authorization is defined as: process of checking permitted actions for identity."
+                      },
+                      {
+                          "id":  132,
+                          "question":  "What is the most accurate description of \u0027Authorization\u0027?",
+                          "options":  [
+                                          "small browser-stored data sent with HTTP requests",
+                                          "building core functionality first then advanced features",
+                                          "process of checking permitted actions for identity",
+                                          "tree representation of HTML document for script interaction"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Authorization refers to: process of checking permitted actions for identity."
+                      },
+                      {
+                          "id":  133,
+                          "question":  "\u0027Authorization\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "API Fundamentals",
+                                          "Web Basics",
+                                          "HTTP Methods and Status",
+                                          "Frontend Engineering"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Authorization is mainly part of API Fundamentals."
+                      },
+                      {
+                          "id":  134,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "DOM -\u003e process of checking permitted actions for identity",
+                                          "Endpoint -\u003e process of checking permitted actions for identity",
+                                          "Bearer Token -\u003e process of checking permitted actions for identity",
+                                          "Authorization -\u003e process of checking permitted actions for identity"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Authorization -\u003e process of checking permitted actions for identity\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  135,
+                          "question":  "A Bank SO IT application requirement states: process of checking permitted actions for identity. Which concept should be selected?",
+                          "options":  [
+                                          "Authorization",
+                                          "REST API",
+                                          "Session",
+                                          "SQL Injection"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Authorization."
+                      },
+                      {
+                          "id":  136,
+                          "question":  "Which Web/App Development concept best matches: access token included in authorization header?",
+                          "options":  [
+                                          "Bearer Token",
+                                          "Viewport",
+                                          "GET",
+                                          "Idempotency"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Bearer Token is defined as: access token included in authorization header."
+                      },
+                      {
+                          "id":  137,
+                          "question":  "What is the most accurate description of \u0027Bearer Token\u0027?",
+                          "options":  [
+                                          "HTTP response code indicating resource not found",
+                                          "removal of unnecessary characters to reduce file size",
+                                          "server-side state maintained for user interaction",
+                                          "access token included in authorization header"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Bearer Token refers to: access token included in authorization header."
+                      },
+                      {
+                          "id":  138,
+                          "question":  "\u0027Bearer Token\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "HTTP Methods and Status",
+                                          "API Fundamentals",
+                                          "Web Basics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Bearer Token is mainly part of API Fundamentals."
+                      },
+                      {
+                          "id":  139,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "HSTS -\u003e access token included in authorization header",
+                                          "ARIA -\u003e access token included in authorization header",
+                                          "JSON -\u003e access token included in authorization header",
+                                          "Bearer Token -\u003e access token included in authorization header"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Bearer Token -\u003e access token included in authorization header\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  140,
+                          "question":  "A Bank SO IT application requirement states: access token included in authorization header. Which concept should be selected?",
+                          "options":  [
+                                          "Bearer Token",
+                                          "Idempotency",
+                                          "Viewport",
+                                          "GET"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Bearer Token."
+                      },
+                      {
+                          "id":  141,
+                          "question":  "Which Web/App Development concept best matches: control restricting number of requests in timeframe?",
+                          "options":  [
+                                          "PUT",
+                                          "Rate Limiting",
+                                          "CSRF",
+                                          "POST"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Rate Limiting is defined as: control restricting number of requests in timeframe."
+                      },
+                      {
+                          "id":  142,
+                          "question":  "What is the most accurate description of \u0027Rate Limiting\u0027?",
+                          "options":  [
+                                          "header enforcing HTTPS-only communication for domain",
+                                          "specific URL where API resource can be accessed",
+                                          "markup language used to structure web content",
+                                          "control restricting number of requests in timeframe"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Rate Limiting refers to: control restricting number of requests in timeframe."
+                      },
+                      {
+                          "id":  143,
+                          "question":  "\u0027Rate Limiting\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "HTTP Methods and Status",
+                                          "Frontend Engineering",
+                                          "Web Security Fundamentals",
+                                          "API Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Rate Limiting is mainly part of API Fundamentals."
+                      },
+                      {
+                          "id":  144,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Accessibility -\u003e control restricting number of requests in timeframe",
+                                          "Input Sanitization -\u003e control restricting number of requests in timeframe",
+                                          "Rate Limiting -\u003e control restricting number of requests in timeframe",
+                                          "CSS -\u003e control restricting number of requests in timeframe"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Rate Limiting -\u003e control restricting number of requests in timeframe\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  145,
+                          "question":  "A Bank SO IT application requirement states: control restricting number of requests in timeframe. Which concept should be selected?",
+                          "options":  [
+                                          "PUT",
+                                          "POST",
+                                          "CSRF",
+                                          "Rate Limiting"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Rate Limiting."
+                      },
+                      {
+                          "id":  146,
+                          "question":  "Which Web/App Development concept best matches: technique splitting large API response into pages?",
+                          "options":  [
+                                          "Pagination",
+                                          "Status Code 401",
+                                          "PATCH",
+                                          "CSRF"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Pagination is defined as: technique splitting large API response into pages."
+                      },
+                      {
+                          "id":  147,
+                          "question":  "What is the most accurate description of \u0027Pagination\u0027?",
+                          "options":  [
+                                          "application protocol for web communication",
+                                          "HTTP response code indicating resource created",
+                                          "attack forcing authenticated user to perform unwanted action",
+                                          "technique splitting large API response into pages"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Pagination refers to: technique splitting large API response into pages."
+                      },
+                      {
+                          "id":  148,
+                          "question":  "\u0027Pagination\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Security Fundamentals",
+                                          "HTTP Methods and Status",
+                                          "API Fundamentals",
+                                          "Frontend Engineering"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Pagination is mainly part of API Fundamentals."
+                      },
+                      {
+                          "id":  149,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "SQL Injection -\u003e technique splitting large API response into pages",
+                                          "Pagination -\u003e technique splitting large API response into pages",
+                                          "POST -\u003e technique splitting large API response into pages",
+                                          "XSS -\u003e technique splitting large API response into pages"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Pagination -\u003e technique splitting large API response into pages\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  150,
+                          "question":  "A Bank SO IT application requirement states: technique splitting large API response into pages. Which concept should be selected?",
+                          "options":  [
+                                          "Status Code 401",
+                                          "PATCH",
+                                          "CSRF",
+                                          "Pagination"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Pagination."
+                      },
+                      {
+                          "id":  151,
+                          "question":  "Which Web/App Development concept best matches: design approach adapting UI to different screen sizes?",
+                          "options":  [
+                                          "Authentication",
+                                          "URL",
+                                          "POST",
+                                          "Responsive Design"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Responsive Design is defined as: design approach adapting UI to different screen sizes."
+                      },
+                      {
+                          "id":  152,
+                          "question":  "What is the most accurate description of \u0027Responsive Design\u0027?",
+                          "options":  [
+                                          "attack forcing authenticated user to perform unwanted action",
+                                          "control restricting number of requests in timeframe",
+                                          "design approach adapting UI to different screen sizes",
+                                          "tree representation of HTML document for script interaction"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Responsive Design refers to: design approach adapting UI to different screen sizes."
+                      },
+                      {
+                          "id":  153,
+                          "question":  "\u0027Responsive Design\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "HTTP Methods and Status",
+                                          "API Fundamentals",
+                                          "Frontend Engineering",
+                                          "Web Basics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Responsive Design is mainly part of Frontend Engineering."
+                      },
+                      {
+                          "id":  154,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Responsive Design -\u003e design approach adapting UI to different screen sizes",
+                                          "Same-Origin Policy -\u003e design approach adapting UI to different screen sizes",
+                                          "REST API -\u003e design approach adapting UI to different screen sizes",
+                                          "URL -\u003e design approach adapting UI to different screen sizes"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Responsive Design -\u003e design approach adapting UI to different screen sizes\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  155,
+                          "question":  "A Bank SO IT application requirement states: design approach adapting UI to different screen sizes. Which concept should be selected?",
+                          "options":  [
+                                          "URL",
+                                          "POST",
+                                          "Responsive Design",
+                                          "Authentication"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Responsive Design."
+                      },
+                      {
+                          "id":  156,
+                          "question":  "Which Web/App Development concept best matches: visible area of web page on a device?",
+                          "options":  [
+                                          "Viewport",
+                                          "PUT",
+                                          "Flexbox",
+                                          "Bearer Token"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Viewport is defined as: visible area of web page on a device."
+                      },
+                      {
+                          "id":  157,
+                          "question":  "What is the most accurate description of \u0027Viewport\u0027?",
+                          "options":  [
+                                          "property where repeated request yields same effect",
+                                          "attack forcing authenticated user to perform unwanted action",
+                                          "visible area of web page on a device",
+                                          "CSS layout model for one-dimensional alignment"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Viewport refers to: visible area of web page on a device."
+                      },
+                      {
+                          "id":  158,
+                          "question":  "\u0027Viewport\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Basics",
+                                          "Frontend Engineering",
+                                          "Web Security Fundamentals",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Viewport is mainly part of Frontend Engineering."
+                      },
+                      {
+                          "id":  159,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Idempotency -\u003e visible area of web page on a device",
+                                          "Viewport -\u003e visible area of web page on a device",
+                                          "XML -\u003e visible area of web page on a device",
+                                          "Responsive Design -\u003e visible area of web page on a device"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Viewport -\u003e visible area of web page on a device\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  160,
+                          "question":  "A Bank SO IT application requirement states: visible area of web page on a device. Which concept should be selected?",
+                          "options":  [
+                                          "Flexbox",
+                                          "Viewport",
+                                          "PUT",
+                                          "Bearer Token"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Viewport."
+                      },
+                      {
+                          "id":  161,
+                          "question":  "Which Web/App Development concept best matches: CSS layout model for one-dimensional alignment?",
+                          "options":  [
+                                          "GET",
+                                          "Flexbox",
+                                          "Status Code 404",
+                                          "TLS Certificate"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Flexbox is defined as: CSS layout model for one-dimensional alignment."
+                      },
+                      {
+                          "id":  162,
+                          "question":  "What is the most accurate description of \u0027Flexbox\u0027?",
+                          "options":  [
+                                          "CSS layout model for one-dimensional alignment",
+                                          "lightweight data-interchange format using key-value pairs",
+                                          "CSS layout model for two-dimensional page structure",
+                                          "CSS rule applying styles based on device conditions"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Flexbox refers to: CSS layout model for one-dimensional alignment."
+                      },
+                      {
+                          "id":  163,
+                          "question":  "\u0027Flexbox\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "API Fundamentals",
+                                          "Web Basics",
+                                          "HTTP Methods and Status",
+                                          "Frontend Engineering"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Flexbox is mainly part of Frontend Engineering."
+                      },
+                      {
+                          "id":  164,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "DOM -\u003e CSS layout model for one-dimensional alignment",
+                                          "Flexbox -\u003e CSS layout model for one-dimensional alignment",
+                                          "Authentication -\u003e CSS layout model for one-dimensional alignment",
+                                          "Progressive Enhancement -\u003e CSS layout model for one-dimensional alignment"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Flexbox -\u003e CSS layout model for one-dimensional alignment\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  165,
+                          "question":  "A Bank SO IT application requirement states: CSS layout model for one-dimensional alignment. Which concept should be selected?",
+                          "options":  [
+                                          "Status Code 404",
+                                          "TLS Certificate",
+                                          "Flexbox",
+                                          "GET"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Flexbox."
+                      },
+                      {
+                          "id":  166,
+                          "question":  "Which Web/App Development concept best matches: CSS layout model for two-dimensional page structure?",
+                          "options":  [
+                                          "CSS Grid",
+                                          "XML",
+                                          "DELETE",
+                                          "JSON"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "CSS Grid is defined as: CSS layout model for two-dimensional page structure."
+                      },
+                      {
+                          "id":  167,
+                          "question":  "What is the most accurate description of \u0027CSS Grid\u0027?",
+                          "options":  [
+                                          "cleaning untrusted input to prevent injection",
+                                          "style sheet language used to design web presentation",
+                                          "architectural style using stateless resource-based endpoints",
+                                          "CSS layout model for two-dimensional page structure"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "CSS Grid refers to: CSS layout model for two-dimensional page structure."
+                      },
+                      {
+                          "id":  168,
+                          "question":  "\u0027CSS Grid\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "HTTP Methods and Status",
+                                          "Web Basics",
+                                          "Frontend Engineering",
+                                          "Web Security Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CSS Grid is mainly part of Frontend Engineering."
+                      },
+                      {
+                          "id":  169,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "REST API -\u003e CSS layout model for two-dimensional page structure",
+                                          "CSS Grid -\u003e CSS layout model for two-dimensional page structure",
+                                          "Cookie -\u003e CSS layout model for two-dimensional page structure",
+                                          "URL -\u003e CSS layout model for two-dimensional page structure"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027CSS Grid -\u003e CSS layout model for two-dimensional page structure\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  170,
+                          "question":  "A Bank SO IT application requirement states: CSS layout model for two-dimensional page structure. Which concept should be selected?",
+                          "options":  [
+                                          "DELETE",
+                                          "CSS Grid",
+                                          "XML",
+                                          "JSON"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to CSS Grid."
+                      },
+                      {
+                          "id":  171,
+                          "question":  "Which Web/App Development concept best matches: CSS rule applying styles based on device conditions?",
+                          "options":  [
+                                          "REST API",
+                                          "GET",
+                                          "Media Query",
+                                          "HTTPS"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Media Query is defined as: CSS rule applying styles based on device conditions."
+                      },
+                      {
+                          "id":  172,
+                          "question":  "What is the most accurate description of \u0027Media Query\u0027?",
+                          "options":  [
+                                          "building core functionality first then advanced features",
+                                          "CSS rule applying styles based on device conditions",
+                                          "CSS layout model for one-dimensional alignment",
+                                          "process of verifying user or client identity"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Media Query refers to: CSS rule applying styles based on device conditions."
+                      },
+                      {
+                          "id":  173,
+                          "question":  "\u0027Media Query\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "API Fundamentals",
+                                          "HTTP Methods and Status",
+                                          "Frontend Engineering",
+                                          "Web Security Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Media Query is mainly part of Frontend Engineering."
+                      },
+                      {
+                          "id":  174,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "DELETE -\u003e CSS rule applying styles based on device conditions",
+                                          "Media Query -\u003e CSS rule applying styles based on device conditions",
+                                          "Pagination -\u003e CSS rule applying styles based on device conditions",
+                                          "Idempotency -\u003e CSS rule applying styles based on device conditions"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Media Query -\u003e CSS rule applying styles based on device conditions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  175,
+                          "question":  "A Bank SO IT application requirement states: CSS rule applying styles based on device conditions. Which concept should be selected?",
+                          "options":  [
+                                          "GET",
+                                          "HTTPS",
+                                          "REST API",
+                                          "Media Query"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Media Query."
+                      },
+                      {
+                          "id":  176,
+                          "question":  "Which Web/App Development concept best matches: practice of making web usable for all users?",
+                          "options":  [
+                                          "Session",
+                                          "CSRF",
+                                          "Lazy Loading",
+                                          "Accessibility"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Accessibility is defined as: practice of making web usable for all users."
+                      },
+                      {
+                          "id":  177,
+                          "question":  "What is the most accurate description of \u0027Accessibility\u0027?",
+                          "options":  [
+                                          "practice of making web usable for all users",
+                                          "browser security rule restricting cross-origin interactions",
+                                          "process of checking permitted actions for identity",
+                                          "application protocol for web communication"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Accessibility refers to: practice of making web usable for all users."
+                      },
+                      {
+                          "id":  178,
+                          "question":  "\u0027Accessibility\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Security Fundamentals",
+                                          "HTTP Methods and Status",
+                                          "Frontend Engineering",
+                                          "Web Basics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Accessibility is mainly part of Frontend Engineering."
+                      },
+                      {
+                          "id":  179,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "DNS -\u003e practice of making web usable for all users",
+                                          "Status Code 400 -\u003e practice of making web usable for all users",
+                                          "Accessibility -\u003e practice of making web usable for all users",
+                                          "PATCH -\u003e practice of making web usable for all users"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Accessibility -\u003e practice of making web usable for all users\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  180,
+                          "question":  "A Bank SO IT application requirement states: practice of making web usable for all users. Which concept should be selected?",
+                          "options":  [
+                                          "Session",
+                                          "Accessibility",
+                                          "CSRF",
+                                          "Lazy Loading"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Accessibility."
+                      },
+                      {
+                          "id":  181,
+                          "question":  "Which Web/App Development concept best matches: attributes improving accessibility for assistive technologies?",
+                          "options":  [
+                                          "HTTP",
+                                          "ARIA",
+                                          "REST API",
+                                          "PUT"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "ARIA is defined as: attributes improving accessibility for assistive technologies."
+                      },
+                      {
+                          "id":  182,
+                          "question":  "What is the most accurate description of \u0027ARIA\u0027?",
+                          "options":  [
+                                          "escaping output context to prevent script execution",
+                                          "attributes improving accessibility for assistive technologies",
+                                          "architectural style using stateless resource-based endpoints",
+                                          "style sheet language used to design web presentation"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "ARIA refers to: attributes improving accessibility for assistive technologies."
+                      },
+                      {
+                          "id":  183,
+                          "question":  "\u0027ARIA\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Basics",
+                                          "HTTP Methods and Status",
+                                          "Frontend Engineering",
+                                          "API Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "ARIA is mainly part of Frontend Engineering."
+                      },
+                      {
+                          "id":  184,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Status Code 400 -\u003e attributes improving accessibility for assistive technologies",
+                                          "ARIA -\u003e attributes improving accessibility for assistive technologies",
+                                          "Authorization -\u003e attributes improving accessibility for assistive technologies",
+                                          "TLS Certificate -\u003e attributes improving accessibility for assistive technologies"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027ARIA -\u003e attributes improving accessibility for assistive technologies\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  185,
+                          "question":  "A Bank SO IT application requirement states: attributes improving accessibility for assistive technologies. Which concept should be selected?",
+                          "options":  [
+                                          "REST API",
+                                          "ARIA",
+                                          "PUT",
+                                          "HTTP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to ARIA."
+                      },
+                      {
+                          "id":  186,
+                          "question":  "Which Web/App Development concept best matches: building core functionality first then advanced features?",
+                          "options":  [
+                                          "Progressive Enhancement",
+                                          "Output Encoding",
+                                          "Idempotency",
+                                          "HTTP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Progressive Enhancement is defined as: building core functionality first then advanced features."
+                      },
+                      {
+                          "id":  187,
+                          "question":  "What is the most accurate description of \u0027Progressive Enhancement\u0027?",
+                          "options":  [
+                                          "building core functionality first then advanced features",
+                                          "attributes improving accessibility for assistive technologies",
+                                          "markup language used to structure web content",
+                                          "visible area of web page on a device"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Progressive Enhancement refers to: building core functionality first then advanced features."
+                      },
+                      {
+                          "id":  188,
+                          "question":  "\u0027Progressive Enhancement\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Basics",
+                                          "Web Security Fundamentals",
+                                          "API Fundamentals",
+                                          "Frontend Engineering"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Progressive Enhancement is mainly part of Frontend Engineering."
+                      },
+                      {
+                          "id":  189,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Progressive Enhancement -\u003e building core functionality first then advanced features",
+                                          "Status Code 401 -\u003e building core functionality first then advanced features",
+                                          "Accessibility -\u003e building core functionality first then advanced features",
+                                          "Viewport -\u003e building core functionality first then advanced features"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Progressive Enhancement -\u003e building core functionality first then advanced features\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  190,
+                          "question":  "A Bank SO IT application requirement states: building core functionality first then advanced features. Which concept should be selected?",
+                          "options":  [
+                                          "Progressive Enhancement",
+                                          "Idempotency",
+                                          "HTTP",
+                                          "Output Encoding"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Progressive Enhancement."
+                      },
+                      {
+                          "id":  191,
+                          "question":  "Which Web/App Development concept best matches: deferring non-critical resource loading until needed?",
+                          "options":  [
+                                          "CORS",
+                                          "HSTS",
+                                          "Lazy Loading",
+                                          "Content Security Policy"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Lazy Loading is defined as: deferring non-critical resource loading until needed."
+                      },
+                      {
+                          "id":  192,
+                          "question":  "What is the most accurate description of \u0027Lazy Loading\u0027?",
+                          "options":  [
+                                          "lightweight data-interchange format using key-value pairs",
+                                          "deferring non-critical resource loading until needed",
+                                          "server-side state maintained for user interaction",
+                                          "small browser-stored data sent with HTTP requests"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Lazy Loading refers to: deferring non-critical resource loading until needed."
+                      },
+                      {
+                          "id":  193,
+                          "question":  "\u0027Lazy Loading\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "API Fundamentals",
+                                          "HTTP Methods and Status",
+                                          "Web Basics"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Lazy Loading is mainly part of Frontend Engineering."
+                      },
+                      {
+                          "id":  194,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Pagination -\u003e deferring non-critical resource loading until needed",
+                                          "Status Code 400 -\u003e deferring non-critical resource loading until needed",
+                                          "Progressive Enhancement -\u003e deferring non-critical resource loading until needed",
+                                          "Lazy Loading -\u003e deferring non-critical resource loading until needed"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Lazy Loading -\u003e deferring non-critical resource loading until needed\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  195,
+                          "question":  "A Bank SO IT application requirement states: deferring non-critical resource loading until needed. Which concept should be selected?",
+                          "options":  [
+                                          "Content Security Policy",
+                                          "Lazy Loading",
+                                          "CORS",
+                                          "HSTS"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Lazy Loading."
+                      },
+                      {
+                          "id":  196,
+                          "question":  "Which Web/App Development concept best matches: removal of unnecessary characters to reduce file size?",
+                          "options":  [
+                                          "REST API",
+                                          "Minification",
+                                          "XSS",
+                                          "HSTS"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Minification is defined as: removal of unnecessary characters to reduce file size."
+                      },
+                      {
+                          "id":  197,
+                          "question":  "What is the most accurate description of \u0027Minification\u0027?",
+                          "options":  [
+                                          "HTTP response code indicating resource not found",
+                                          "attack injecting malicious scripts into trusted pages",
+                                          "small browser-stored data sent with HTTP requests",
+                                          "removal of unnecessary characters to reduce file size"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Minification refers to: removal of unnecessary characters to reduce file size."
+                      },
+                      {
+                          "id":  198,
+                          "question":  "\u0027Minification\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "API Fundamentals",
+                                          "HTTP Methods and Status",
+                                          "Web Basics"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Minification is mainly part of Frontend Engineering."
+                      },
+                      {
+                          "id":  199,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "HSTS -\u003e removal of unnecessary characters to reduce file size",
+                                          "XML -\u003e removal of unnecessary characters to reduce file size",
+                                          "Minification -\u003e removal of unnecessary characters to reduce file size",
+                                          "POST -\u003e removal of unnecessary characters to reduce file size"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Minification -\u003e removal of unnecessary characters to reduce file size\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  200,
+                          "question":  "A Bank SO IT application requirement states: removal of unnecessary characters to reduce file size. Which concept should be selected?",
+                          "options":  [
+                                          "REST API",
+                                          "HSTS",
+                                          "XSS",
+                                          "Minification"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Minification."
+                      },
+                      {
+                          "id":  201,
+                          "question":  "Which Web/App Development concept best matches: browser security rule restricting cross-origin interactions?",
+                          "options":  [
+                                          "Content Security Policy",
+                                          "SQL Injection",
+                                          "Status Code 400",
+                                          "Same-Origin Policy"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Same-Origin Policy is defined as: browser security rule restricting cross-origin interactions."
+                      },
+                      {
+                          "id":  202,
+                          "question":  "What is the most accurate description of \u0027Same-Origin Policy\u0027?",
+                          "options":  [
+                                          "browser security rule restricting cross-origin interactions",
+                                          "uniform resource locator specifying web resource address",
+                                          "CSS layout model for two-dimensional page structure",
+                                          "process of checking permitted actions for identity"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Same-Origin Policy refers to: browser security rule restricting cross-origin interactions."
+                      },
+                      {
+                          "id":  203,
+                          "question":  "\u0027Same-Origin Policy\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Basics",
+                                          "HTTP Methods and Status",
+                                          "Frontend Engineering",
+                                          "Web Security Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Same-Origin Policy is mainly part of Web Security Fundamentals."
+                      },
+                      {
+                          "id":  204,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "PUT -\u003e browser security rule restricting cross-origin interactions",
+                                          "POST -\u003e browser security rule restricting cross-origin interactions",
+                                          "Status Code 400 -\u003e browser security rule restricting cross-origin interactions",
+                                          "Same-Origin Policy -\u003e browser security rule restricting cross-origin interactions"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Same-Origin Policy -\u003e browser security rule restricting cross-origin interactions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  205,
+                          "question":  "A Bank SO IT application requirement states: browser security rule restricting cross-origin interactions. Which concept should be selected?",
+                          "options":  [
+                                          "SQL Injection",
+                                          "Same-Origin Policy",
+                                          "Content Security Policy",
+                                          "Status Code 400"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Same-Origin Policy."
+                      },
+                      {
+                          "id":  206,
+                          "question":  "Which Web/App Development concept best matches: mechanism allowing controlled cross-origin HTTP requests?",
+                          "options":  [
+                                          "Authorization",
+                                          "HTTP",
+                                          "GET",
+                                          "CORS"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "CORS is defined as: mechanism allowing controlled cross-origin HTTP requests."
+                      },
+                      {
+                          "id":  207,
+                          "question":  "What is the most accurate description of \u0027CORS\u0027?",
+                          "options":  [
+                                          "mechanism allowing controlled cross-origin HTTP requests",
+                                          "programming language for dynamic web behavior",
+                                          "building core functionality first then advanced features",
+                                          "style sheet language used to design web presentation"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "CORS refers to: mechanism allowing controlled cross-origin HTTP requests."
+                      },
+                      {
+                          "id":  208,
+                          "question":  "\u0027CORS\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "API Fundamentals",
+                                          "Web Security Fundamentals",
+                                          "Web Basics",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "CORS is mainly part of Web Security Fundamentals."
+                      },
+                      {
+                          "id":  209,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Accessibility -\u003e mechanism allowing controlled cross-origin HTTP requests",
+                                          "CORS -\u003e mechanism allowing controlled cross-origin HTTP requests",
+                                          "Responsive Design -\u003e mechanism allowing controlled cross-origin HTTP requests",
+                                          "CSS Grid -\u003e mechanism allowing controlled cross-origin HTTP requests"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027CORS -\u003e mechanism allowing controlled cross-origin HTTP requests\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  210,
+                          "question":  "A Bank SO IT application requirement states: mechanism allowing controlled cross-origin HTTP requests. Which concept should be selected?",
+                          "options":  [
+                                          "Authorization",
+                                          "CORS",
+                                          "HTTP",
+                                          "GET"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to CORS."
+                      },
+                      {
+                          "id":  211,
+                          "question":  "Which Web/App Development concept best matches: attack injecting malicious scripts into trusted pages?",
+                          "options":  [
+                                          "Cookie",
+                                          "GET",
+                                          "XSS",
+                                          "HTML"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "XSS is defined as: attack injecting malicious scripts into trusted pages."
+                      },
+                      {
+                          "id":  212,
+                          "question":  "What is the most accurate description of \u0027XSS\u0027?",
+                          "options":  [
+                                          "application protocol for web communication",
+                                          "attack injecting malicious scripts into trusted pages",
+                                          "technique splitting large API response into pages",
+                                          "HTTP response code indicating unauthorized access"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "XSS refers to: attack injecting malicious scripts into trusted pages."
+                      },
+                      {
+                          "id":  213,
+                          "question":  "\u0027XSS\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "HTTP Methods and Status",
+                                          "API Fundamentals",
+                                          "Web Security Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "XSS is mainly part of Web Security Fundamentals."
+                      },
+                      {
+                          "id":  214,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "XSS -\u003e attack injecting malicious scripts into trusted pages",
+                                          "Authorization -\u003e attack injecting malicious scripts into trusted pages",
+                                          "SQL Injection -\u003e attack injecting malicious scripts into trusted pages",
+                                          "Media Query -\u003e attack injecting malicious scripts into trusted pages"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027XSS -\u003e attack injecting malicious scripts into trusted pages\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  215,
+                          "question":  "A Bank SO IT application requirement states: attack injecting malicious scripts into trusted pages. Which concept should be selected?",
+                          "options":  [
+                                          "Cookie",
+                                          "GET",
+                                          "XSS",
+                                          "HTML"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to XSS."
+                      },
+                      {
+                          "id":  216,
+                          "question":  "Which Web/App Development concept best matches: attack forcing authenticated user to perform unwanted action?",
+                          "options":  [
+                                          "Minification",
+                                          "CSRF",
+                                          "Authorization",
+                                          "Lazy Loading"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "CSRF is defined as: attack forcing authenticated user to perform unwanted action."
+                      },
+                      {
+                          "id":  217,
+                          "question":  "What is the most accurate description of \u0027CSRF\u0027?",
+                          "options":  [
+                                          "lightweight data-interchange format using key-value pairs",
+                                          "attack forcing authenticated user to perform unwanted action",
+                                          "small browser-stored data sent with HTTP requests",
+                                          "HTTP response code indicating unauthorized access"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "CSRF refers to: attack forcing authenticated user to perform unwanted action."
+                      },
+                      {
+                          "id":  218,
+                          "question":  "\u0027CSRF\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "API Fundamentals",
+                                          "HTTP Methods and Status",
+                                          "Web Security Fundamentals",
+                                          "Web Basics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CSRF is mainly part of Web Security Fundamentals."
+                      },
+                      {
+                          "id":  219,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "CSRF -\u003e attack forcing authenticated user to perform unwanted action",
+                                          "Media Query -\u003e attack forcing authenticated user to perform unwanted action",
+                                          "CORS -\u003e attack forcing authenticated user to perform unwanted action",
+                                          "HTML -\u003e attack forcing authenticated user to perform unwanted action"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027CSRF -\u003e attack forcing authenticated user to perform unwanted action\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  220,
+                          "question":  "A Bank SO IT application requirement states: attack forcing authenticated user to perform unwanted action. Which concept should be selected?",
+                          "options":  [
+                                          "CSRF",
+                                          "Lazy Loading",
+                                          "Authorization",
+                                          "Minification"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to CSRF."
+                      },
+                      {
+                          "id":  221,
+                          "question":  "Which Web/App Development concept best matches: attack manipulating SQL queries through unsanitized input?",
+                          "options":  [
+                                          "Status Code 404",
+                                          "Rate Limiting",
+                                          "SQL Injection",
+                                          "Idempotency"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SQL Injection is defined as: attack manipulating SQL queries through unsanitized input."
+                      },
+                      {
+                          "id":  222,
+                          "question":  "What is the most accurate description of \u0027SQL Injection\u0027?",
+                          "options":  [
+                                          "system translating domain names into IP addresses",
+                                          "attack manipulating SQL queries through unsanitized input",
+                                          "tree representation of HTML document for script interaction",
+                                          "markup language used to structure web content"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SQL Injection refers to: attack manipulating SQL queries through unsanitized input."
+                      },
+                      {
+                          "id":  223,
+                          "question":  "\u0027SQL Injection\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Security Fundamentals",
+                                          "Frontend Engineering",
+                                          "HTTP Methods and Status",
+                                          "Web Basics"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "SQL Injection is mainly part of Web Security Fundamentals."
+                      },
+                      {
+                          "id":  224,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "SQL Injection -\u003e attack manipulating SQL queries through unsanitized input",
+                                          "Responsive Design -\u003e attack manipulating SQL queries through unsanitized input",
+                                          "PATCH -\u003e attack manipulating SQL queries through unsanitized input",
+                                          "Pagination -\u003e attack manipulating SQL queries through unsanitized input"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027SQL Injection -\u003e attack manipulating SQL queries through unsanitized input\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  225,
+                          "question":  "A Bank SO IT application requirement states: attack manipulating SQL queries through unsanitized input. Which concept should be selected?",
+                          "options":  [
+                                          "SQL Injection",
+                                          "Status Code 404",
+                                          "Rate Limiting",
+                                          "Idempotency"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to SQL Injection."
+                      },
+                      {
+                          "id":  226,
+                          "question":  "Which Web/App Development concept best matches: security header restricting allowed content sources?",
+                          "options":  [
+                                          "Bearer Token",
+                                          "Status Code 200",
+                                          "Content Security Policy",
+                                          "Pagination"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Content Security Policy is defined as: security header restricting allowed content sources."
+                      },
+                      {
+                          "id":  227,
+                          "question":  "What is the most accurate description of \u0027Content Security Policy\u0027?",
+                          "options":  [
+                                          "HTTP method used to create or submit resource data",
+                                          "design approach adapting UI to different screen sizes",
+                                          "HTTP response code indicating bad client request",
+                                          "security header restricting allowed content sources"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Content Security Policy refers to: security header restricting allowed content sources."
+                      },
+                      {
+                          "id":  228,
+                          "question":  "\u0027Content Security Policy\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Basics",
+                                          "Web Security Fundamentals",
+                                          "HTTP Methods and Status",
+                                          "API Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Content Security Policy is mainly part of Web Security Fundamentals."
+                      },
+                      {
+                          "id":  229,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "HTTP -\u003e security header restricting allowed content sources",
+                                          "Content Security Policy -\u003e security header restricting allowed content sources",
+                                          "Endpoint -\u003e security header restricting allowed content sources",
+                                          "Viewport -\u003e security header restricting allowed content sources"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Content Security Policy -\u003e security header restricting allowed content sources\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  230,
+                          "question":  "A Bank SO IT application requirement states: security header restricting allowed content sources. Which concept should be selected?",
+                          "options":  [
+                                          "Status Code 200",
+                                          "Content Security Policy",
+                                          "Bearer Token",
+                                          "Pagination"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Content Security Policy."
+                      },
+                      {
+                          "id":  231,
+                          "question":  "Which Web/App Development concept best matches: cleaning untrusted input to prevent injection?",
+                          "options":  [
+                                          "Endpoint",
+                                          "Status Code 200",
+                                          "Input Sanitization",
+                                          "Session"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Input Sanitization is defined as: cleaning untrusted input to prevent injection."
+                      },
+                      {
+                          "id":  232,
+                          "question":  "What is the most accurate description of \u0027Input Sanitization\u0027?",
+                          "options":  [
+                                          "architectural style using stateless resource-based endpoints",
+                                          "browser security rule restricting cross-origin interactions",
+                                          "cleaning untrusted input to prevent injection",
+                                          "attack manipulating SQL queries through unsanitized input"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Input Sanitization refers to: cleaning untrusted input to prevent injection."
+                      },
+                      {
+                          "id":  233,
+                          "question":  "\u0027Input Sanitization\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Basics",
+                                          "API Fundamentals",
+                                          "HTTP Methods and Status",
+                                          "Web Security Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Input Sanitization is mainly part of Web Security Fundamentals."
+                      },
+                      {
+                          "id":  234,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Responsive Design -\u003e cleaning untrusted input to prevent injection",
+                                          "Input Sanitization -\u003e cleaning untrusted input to prevent injection",
+                                          "DOM -\u003e cleaning untrusted input to prevent injection",
+                                          "Authorization -\u003e cleaning untrusted input to prevent injection"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Input Sanitization -\u003e cleaning untrusted input to prevent injection\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  235,
+                          "question":  "A Bank SO IT application requirement states: cleaning untrusted input to prevent injection. Which concept should be selected?",
+                          "options":  [
+                                          "Input Sanitization",
+                                          "Status Code 200",
+                                          "Session",
+                                          "Endpoint"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Input Sanitization."
+                      },
+                      {
+                          "id":  236,
+                          "question":  "Which Web/App Development concept best matches: escaping output context to prevent script execution?",
+                          "options":  [
+                                          "Output Encoding",
+                                          "Status Code 404",
+                                          "Responsive Design",
+                                          "CSRF"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Output Encoding is defined as: escaping output context to prevent script execution."
+                      },
+                      {
+                          "id":  237,
+                          "question":  "What is the most accurate description of \u0027Output Encoding\u0027?",
+                          "options":  [
+                                          "mechanism allowing controlled cross-origin HTTP requests",
+                                          "attack injecting malicious scripts into trusted pages",
+                                          "escaping output context to prevent script execution",
+                                          "HTTP method used to create or submit resource data"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Output Encoding refers to: escaping output context to prevent script execution."
+                      },
+                      {
+                          "id":  238,
+                          "question":  "\u0027Output Encoding\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "HTTP Methods and Status",
+                                          "Web Security Fundamentals",
+                                          "Web Basics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Output Encoding is mainly part of Web Security Fundamentals."
+                      },
+                      {
+                          "id":  239,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Lazy Loading -\u003e escaping output context to prevent script execution",
+                                          "Content Security Policy -\u003e escaping output context to prevent script execution",
+                                          "Output Encoding -\u003e escaping output context to prevent script execution",
+                                          "CSS -\u003e escaping output context to prevent script execution"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Output Encoding -\u003e escaping output context to prevent script execution\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  240,
+                          "question":  "A Bank SO IT application requirement states: escaping output context to prevent script execution. Which concept should be selected?",
+                          "options":  [
+                                          "Output Encoding",
+                                          "Responsive Design",
+                                          "Status Code 404",
+                                          "CSRF"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Output Encoding."
+                      },
+                      {
+                          "id":  241,
+                          "question":  "Which Web/App Development concept best matches: digital certificate enabling encrypted HTTPS communication?",
+                          "options":  [
+                                          "DELETE",
+                                          "Responsive Design",
+                                          "Status Code 401",
+                                          "TLS Certificate"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "TLS Certificate is defined as: digital certificate enabling encrypted HTTPS communication."
+                      },
+                      {
+                          "id":  242,
+                          "question":  "What is the most accurate description of \u0027TLS Certificate\u0027?",
+                          "options":  [
+                                          "digital certificate enabling encrypted HTTPS communication",
+                                          "HTTP response code indicating successful request",
+                                          "system translating domain names into IP addresses",
+                                          "process of verifying user or client identity"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "TLS Certificate refers to: digital certificate enabling encrypted HTTPS communication."
+                      },
+                      {
+                          "id":  243,
+                          "question":  "\u0027TLS Certificate\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Basics",
+                                          "API Fundamentals",
+                                          "Web Security Fundamentals",
+                                          "HTTP Methods and Status"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "TLS Certificate is mainly part of Web Security Fundamentals."
+                      },
+                      {
+                          "id":  244,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "DELETE -\u003e digital certificate enabling encrypted HTTPS communication",
+                                          "TLS Certificate -\u003e digital certificate enabling encrypted HTTPS communication",
+                                          "URL -\u003e digital certificate enabling encrypted HTTPS communication",
+                                          "DOM -\u003e digital certificate enabling encrypted HTTPS communication"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027TLS Certificate -\u003e digital certificate enabling encrypted HTTPS communication\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  245,
+                          "question":  "A Bank SO IT application requirement states: digital certificate enabling encrypted HTTPS communication. Which concept should be selected?",
+                          "options":  [
+                                          "Status Code 401",
+                                          "DELETE",
+                                          "Responsive Design",
+                                          "TLS Certificate"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to TLS Certificate."
+                      },
+                      {
+                          "id":  246,
+                          "question":  "Which Web/App Development concept best matches: header enforcing HTTPS-only communication for domain?",
+                          "options":  [
+                                          "HTTPS",
+                                          "Status Code 401",
+                                          "JavaScript",
+                                          "HSTS"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "HSTS is defined as: header enforcing HTTPS-only communication for domain."
+                      },
+                      {
+                          "id":  247,
+                          "question":  "What is the most accurate description of \u0027HSTS\u0027?",
+                          "options":  [
+                                          "header enforcing HTTPS-only communication for domain",
+                                          "style sheet language used to design web presentation",
+                                          "HTTP method used to create or submit resource data",
+                                          "lightweight data-interchange format using key-value pairs"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "HSTS refers to: header enforcing HTTPS-only communication for domain."
+                      },
+                      {
+                          "id":  248,
+                          "question":  "\u0027HSTS\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Web Basics",
+                                          "Web Security Fundamentals",
+                                          "Frontend Engineering",
+                                          "API Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "HSTS is mainly part of Web Security Fundamentals."
+                      },
+                      {
+                          "id":  249,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "POST -\u003e header enforcing HTTPS-only communication for domain",
+                                          "HSTS -\u003e header enforcing HTTPS-only communication for domain",
+                                          "Status Code 401 -\u003e header enforcing HTTPS-only communication for domain",
+                                          "Session -\u003e header enforcing HTTPS-only communication for domain"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027HSTS -\u003e header enforcing HTTPS-only communication for domain\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  250,
+                          "question":  "A Bank SO IT application requirement states: header enforcing HTTPS-only communication for domain. Which concept should be selected?",
+                          "options":  [
+                                          "JavaScript",
+                                          "Status Code 401",
+                                          "HSTS",
+                                          "HTTPS"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to HSTS."
+                      }
+                  ]
+}

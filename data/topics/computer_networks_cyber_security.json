@@ -1,0 +1,3004 @@
+﻿{
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "What is the default port used by FTP (Data)?",
+                          "options":  [
+                                          "20",
+                                          "53",
+                                          "8883",
+                                          "548"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "FTP (Data) commonly uses port 20 in standard network configurations."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "What is the default port used by FTP (Control)?",
+                          "options":  [
+                                          "25",
+                                          "67",
+                                          "21",
+                                          "5900"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "FTP (Control) commonly uses port 21 in standard network configurations."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "What is the default port used by SSH?",
+                          "options":  [
+                                          "179",
+                                          "161",
+                                          "69",
+                                          "22"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SSH commonly uses port 22 in standard network configurations."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "What is the default port used by Telnet?",
+                          "options":  [
+                                          "548",
+                                          "3268",
+                                          "465",
+                                          "23"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Telnet commonly uses port 23 in standard network configurations."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "What is the default port used by SMTP?",
+                          "options":  [
+                                          "636",
+                                          "25",
+                                          "6443",
+                                          "21"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SMTP commonly uses port 25 in standard network configurations."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "What is the default port used by DNS?",
+                          "options":  [
+                                          "995",
+                                          "3268",
+                                          "53",
+                                          "5432"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "DNS commonly uses port 53 in standard network configurations."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "What is the default port used by DHCP Server?",
+                          "options":  [
+                                          "514",
+                                          "636",
+                                          "67",
+                                          "143"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "DHCP Server commonly uses port 67 in standard network configurations."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "What is the default port used by DHCP Client?",
+                          "options":  [
+                                          "995",
+                                          "853",
+                                          "68",
+                                          "67"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "DHCP Client commonly uses port 68 in standard network configurations."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "What is the default port used by TFTP?",
+                          "options":  [
+                                          "162",
+                                          "69",
+                                          "636",
+                                          "53"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "TFTP commonly uses port 69 in standard network configurations."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "What is the default port used by HTTP?",
+                          "options":  [
+                                          "20",
+                                          "80",
+                                          "5900",
+                                          "389"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "HTTP commonly uses port 80 in standard network configurations."
+                      },
+                      {
+                          "id":  11,
+                          "question":  "What is the default port used by POP3?",
+                          "options":  [
+                                          "68",
+                                          "110",
+                                          "162",
+                                          "6379"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "POP3 commonly uses port 110 in standard network configurations."
+                      },
+                      {
+                          "id":  12,
+                          "question":  "What is the default port used by NTP?",
+                          "options":  [
+                                          "1433",
+                                          "3306",
+                                          "123",
+                                          "2049"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "NTP commonly uses port 123 in standard network configurations."
+                      },
+                      {
+                          "id":  13,
+                          "question":  "What is the default port used by IMAP?",
+                          "options":  [
+                                          "873",
+                                          "23",
+                                          "143",
+                                          "1433"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "IMAP commonly uses port 143 in standard network configurations."
+                      },
+                      {
+                          "id":  14,
+                          "question":  "What is the default port used by SNMP?",
+                          "options":  [
+                                          "636",
+                                          "3269",
+                                          "161",
+                                          "2376"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SNMP commonly uses port 161 in standard network configurations."
+                      },
+                      {
+                          "id":  15,
+                          "question":  "What is the default port used by SNMP Trap?",
+                          "options":  [
+                                          "5432",
+                                          "162",
+                                          "445",
+                                          "5986"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SNMP Trap commonly uses port 162 in standard network configurations."
+                      },
+                      {
+                          "id":  16,
+                          "question":  "What is the default port used by BGP?",
+                          "options":  [
+                                          "445",
+                                          "179",
+                                          "548",
+                                          "110"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "BGP commonly uses port 179 in standard network configurations."
+                      },
+                      {
+                          "id":  17,
+                          "question":  "What is the default port used by LDAP?",
+                          "options":  [
+                                          "443",
+                                          "5061",
+                                          "389",
+                                          "67"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "LDAP commonly uses port 389 in standard network configurations."
+                      },
+                      {
+                          "id":  18,
+                          "question":  "What is the default port used by HTTPS?",
+                          "options":  [
+                                          "1883",
+                                          "443",
+                                          "53",
+                                          "5986"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "HTTPS commonly uses port 443 in standard network configurations."
+                      },
+                      {
+                          "id":  19,
+                          "question":  "What is the default port used by SMB?",
+                          "options":  [
+                                          "445",
+                                          "3306",
+                                          "123",
+                                          "3269"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "SMB commonly uses port 445 in standard network configurations."
+                      },
+                      {
+                          "id":  20,
+                          "question":  "What is the default port used by SMTPS?",
+                          "options":  [
+                                          "161",
+                                          "465",
+                                          "548",
+                                          "3268"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SMTPS commonly uses port 465 in standard network configurations."
+                      },
+                      {
+                          "id":  21,
+                          "question":  "What is the default port used by Syslog?",
+                          "options":  [
+                                          "514",
+                                          "25",
+                                          "143",
+                                          "179"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Syslog commonly uses port 514 in standard network configurations."
+                      },
+                      {
+                          "id":  22,
+                          "question":  "What is the default port used by LDAPS?",
+                          "options":  [
+                                          "162",
+                                          "2049",
+                                          "80",
+                                          "636"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "LDAPS commonly uses port 636 in standard network configurations."
+                      },
+                      {
+                          "id":  23,
+                          "question":  "What is the default port used by IMAPS?",
+                          "options":  [
+                                          "445",
+                                          "110",
+                                          "993",
+                                          "5060"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "IMAPS commonly uses port 993 in standard network configurations."
+                      },
+                      {
+                          "id":  24,
+                          "question":  "What is the default port used by POP3S?",
+                          "options":  [
+                                          "68",
+                                          "1812",
+                                          "995",
+                                          "1521"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "POP3S commonly uses port 995 in standard network configurations."
+                      },
+                      {
+                          "id":  25,
+                          "question":  "What is the default port used by Microsoft SQL Server?",
+                          "options":  [
+                                          "5061",
+                                          "25",
+                                          "23",
+                                          "1433"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Microsoft SQL Server commonly uses port 1433 in standard network configurations."
+                      },
+                      {
+                          "id":  26,
+                          "question":  "What is the default port used by Oracle Listener?",
+                          "options":  [
+                                          "1521",
+                                          "68",
+                                          "67",
+                                          "3306"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Oracle Listener commonly uses port 1521 in standard network configurations."
+                      },
+                      {
+                          "id":  27,
+                          "question":  "What is the default port used by NFS?",
+                          "options":  [
+                                          "2049",
+                                          "465",
+                                          "21",
+                                          "5432"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "NFS commonly uses port 2049 in standard network configurations."
+                      },
+                      {
+                          "id":  28,
+                          "question":  "What is the default port used by SIP?",
+                          "options":  [
+                                          "1813",
+                                          "1701",
+                                          "110",
+                                          "5060"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SIP commonly uses port 5060 in standard network configurations."
+                      },
+                      {
+                          "id":  29,
+                          "question":  "What is the default port used by SIPS?",
+                          "options":  [
+                                          "22",
+                                          "5061",
+                                          "1701",
+                                          "1883"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SIPS commonly uses port 5061 in standard network configurations."
+                      },
+                      {
+                          "id":  30,
+                          "question":  "What is the default port used by MySQL?",
+                          "options":  [
+                                          "5060",
+                                          "53",
+                                          "3306",
+                                          "2379"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MySQL commonly uses port 3306 in standard network configurations."
+                      },
+                      {
+                          "id":  31,
+                          "question":  "What is the default port used by RDP?",
+                          "options":  [
+                                          "161",
+                                          "389",
+                                          "548",
+                                          "3389"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "RDP commonly uses port 3389 in standard network configurations."
+                      },
+                      {
+                          "id":  32,
+                          "question":  "What is the default port used by PostgreSQL?",
+                          "options":  [
+                                          "5432",
+                                          "143",
+                                          "3389",
+                                          "25"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "PostgreSQL commonly uses port 5432 in standard network configurations."
+                      },
+                      {
+                          "id":  33,
+                          "question":  "What is the default port used by VNC?",
+                          "options":  [
+                                          "2379",
+                                          "5900",
+                                          "110",
+                                          "5432"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "VNC commonly uses port 5900 in standard network configurations."
+                      },
+                      {
+                          "id":  34,
+                          "question":  "What is the default port used by WinRM (HTTP)?",
+                          "options":  [
+                                          "5985",
+                                          "53",
+                                          "1883",
+                                          "20"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "WinRM (HTTP) commonly uses port 5985 in standard network configurations."
+                      },
+                      {
+                          "id":  35,
+                          "question":  "What is the default port used by WinRM (HTTPS)?",
+                          "options":  [
+                                          "5985",
+                                          "8883",
+                                          "23",
+                                          "5986"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "WinRM (HTTPS) commonly uses port 5986 in standard network configurations."
+                      },
+                      {
+                          "id":  36,
+                          "question":  "What is the default port used by Kerberos?",
+                          "options":  [
+                                          "1701",
+                                          "88",
+                                          "3268",
+                                          "1883"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Kerberos commonly uses port 88 in standard network configurations."
+                      },
+                      {
+                          "id":  37,
+                          "question":  "What is the default port used by L2TP?",
+                          "options":  [
+                                          "4500",
+                                          "500",
+                                          "88",
+                                          "1701"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "L2TP commonly uses port 1701 in standard network configurations."
+                      },
+                      {
+                          "id":  38,
+                          "question":  "What is the default port used by PPTP?",
+                          "options":  [
+                                          "22",
+                                          "1723",
+                                          "162",
+                                          "873"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "PPTP commonly uses port 1723 in standard network configurations."
+                      },
+                      {
+                          "id":  39,
+                          "question":  "What is the default port used by RADIUS Authentication?",
+                          "options":  [
+                                          "1812",
+                                          "25",
+                                          "1883",
+                                          "445"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "RADIUS Authentication commonly uses port 1812 in standard network configurations."
+                      },
+                      {
+                          "id":  40,
+                          "question":  "What is the default port used by RADIUS Accounting?",
+                          "options":  [
+                                          "5900",
+                                          "1813",
+                                          "5985",
+                                          "69"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "RADIUS Accounting commonly uses port 1813 in standard network configurations."
+                      },
+                      {
+                          "id":  41,
+                          "question":  "What is the default port used by ISAKMP/IKE?",
+                          "options":  [
+                                          "500",
+                                          "443",
+                                          "465",
+                                          "995"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "ISAKMP/IKE commonly uses port 500 in standard network configurations."
+                      },
+                      {
+                          "id":  42,
+                          "question":  "What is the default port used by IPsec NAT-T?",
+                          "options":  [
+                                          "4500",
+                                          "1521",
+                                          "500",
+                                          "853"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "IPsec NAT-T commonly uses port 4500 in standard network configurations."
+                      },
+                      {
+                          "id":  43,
+                          "question":  "What is the default port used by MQTT?",
+                          "options":  [
+                                          "1883",
+                                          "80",
+                                          "53",
+                                          "20"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "MQTT commonly uses port 1883 in standard network configurations."
+                      },
+                      {
+                          "id":  44,
+                          "question":  "What is the default port used by MQTTS?",
+                          "options":  [
+                                          "2379",
+                                          "5985",
+                                          "8883",
+                                          "873"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MQTTS commonly uses port 8883 in standard network configurations."
+                      },
+                      {
+                          "id":  45,
+                          "question":  "What is the default port used by DNS over TLS?",
+                          "options":  [
+                                          "514",
+                                          "1812",
+                                          "88",
+                                          "853"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DNS over TLS commonly uses port 853 in standard network configurations."
+                      },
+                      {
+                          "id":  46,
+                          "question":  "What is the default port used by Redis?",
+                          "options":  [
+                                          "67",
+                                          "1812",
+                                          "22",
+                                          "6379"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Redis commonly uses port 6379 in standard network configurations."
+                      },
+                      {
+                          "id":  47,
+                          "question":  "What is the default port used by Kubernetes API Server?",
+                          "options":  [
+                                          "123",
+                                          "5986",
+                                          "1813",
+                                          "6443"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Kubernetes API Server commonly uses port 6443 in standard network configurations."
+                      },
+                      {
+                          "id":  48,
+                          "question":  "What is the default port used by Docker (TLS)?",
+                          "options":  [
+                                          "88",
+                                          "1883",
+                                          "2376",
+                                          "5900"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Docker (TLS) commonly uses port 2376 in standard network configurations."
+                      },
+                      {
+                          "id":  49,
+                          "question":  "What is the default port used by etcd Client?",
+                          "options":  [
+                                          "20",
+                                          "2379",
+                                          "5060",
+                                          "4500"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "etcd Client commonly uses port 2379 in standard network configurations."
+                      },
+                      {
+                          "id":  50,
+                          "question":  "What is the default port used by Rsync?",
+                          "options":  [
+                                          "873",
+                                          "20",
+                                          "445",
+                                          "1521"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Rsync commonly uses port 873 in standard network configurations."
+                      },
+                      {
+                          "id":  51,
+                          "question":  "What is the default port used by AFP?",
+                          "options":  [
+                                          "5985",
+                                          "20",
+                                          "548",
+                                          "5061"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "AFP commonly uses port 548 in standard network configurations."
+                      },
+                      {
+                          "id":  52,
+                          "question":  "What is the default port used by LDAP Global Catalog?",
+                          "options":  [
+                                          "5060",
+                                          "1812",
+                                          "25",
+                                          "3268"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "LDAP Global Catalog commonly uses port 3268 in standard network configurations."
+                      },
+                      {
+                          "id":  53,
+                          "question":  "What is the default port used by LDAP Global Catalog SSL?",
+                          "options":  [
+                                          "3269",
+                                          "53",
+                                          "514",
+                                          "23"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "LDAP Global Catalog SSL commonly uses port 3269 in standard network configurations."
+                      },
+                      {
+                          "id":  54,
+                          "question":  "What is the full form of OSI?",
+                          "options":  [
+                                          "Quality of Service",
+                                          "Open Systems Interconnection",
+                                          "Internet Protocol",
+                                          "User and Entity Behavior Analytics"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "OSI expands to Open Systems Interconnection."
+                      },
+                      {
+                          "id":  55,
+                          "question":  "What is the full form of TCP?",
+                          "options":  [
+                                          "Open Shortest Path First",
+                                          "Data Encryption Standard",
+                                          "Secure Hash Algorithm",
+                                          "Transmission Control Protocol"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "TCP expands to Transmission Control Protocol."
+                      },
+                      {
+                          "id":  56,
+                          "question":  "What is the full form of UDP?",
+                          "options":  [
+                                          "Intrusion Prevention System",
+                                          "Border Gateway Protocol",
+                                          "User Datagram Protocol",
+                                          "Identity and Access Management"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "UDP expands to User Datagram Protocol."
+                      },
+                      {
+                          "id":  57,
+                          "question":  "What is the full form of IP?",
+                          "options":  [
+                                          "Web Application Firewall",
+                                          "Secure Access Service Edge",
+                                          "Internet Protocol",
+                                          "Information Security Management System"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "IP expands to Internet Protocol."
+                      },
+                      {
+                          "id":  58,
+                          "question":  "What is the full form of ICMP?",
+                          "options":  [
+                                          "Internet Control Message Protocol",
+                                          "Society for Worldwide Interbank Financial Telecommunication",
+                                          "Open Shortest Path First",
+                                          "Endpoint Detection and Response"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "ICMP expands to Internet Control Message Protocol."
+                      },
+                      {
+                          "id":  59,
+                          "question":  "What is the full form of ARP?",
+                          "options":  [
+                                          "Security Information and Event Management",
+                                          "Recovery Point Objective",
+                                          "Endpoint Detection and Response",
+                                          "Address Resolution Protocol"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "ARP expands to Address Resolution Protocol."
+                      },
+                      {
+                          "id":  60,
+                          "question":  "What is the full form of NAT?",
+                          "options":  [
+                                          "Immediate Payment Service",
+                                          "Real Time Gross Settlement",
+                                          "Network Address Translation",
+                                          "Port Address Translation"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "NAT expands to Network Address Translation."
+                      },
+                      {
+                          "id":  61,
+                          "question":  "What is the full form of PAT?",
+                          "options":  [
+                                          "Common Weakness Enumeration",
+                                          "Secure Access Service Edge",
+                                          "Port Address Translation",
+                                          "Multiple Spanning Tree Protocol"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "PAT expands to Port Address Translation."
+                      },
+                      {
+                          "id":  62,
+                          "question":  "What is the full form of VLAN?",
+                          "options":  [
+                                          "Rapid Spanning Tree Protocol",
+                                          "Society for Worldwide Interbank Financial Telecommunication",
+                                          "Virtual Local Area Network",
+                                          "Online Certificate Status Protocol"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "VLAN expands to Virtual Local Area Network."
+                      },
+                      {
+                          "id":  63,
+                          "question":  "What is the full form of VPN?",
+                          "options":  [
+                                          "Virtual Private Network",
+                                          "Border Gateway Protocol",
+                                          "Spanning Tree Protocol",
+                                          "Internet Control Message Protocol"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "VPN expands to Virtual Private Network."
+                      },
+                      {
+                          "id":  64,
+                          "question":  "What is the full form of IDS?",
+                          "options":  [
+                                          "One-Time Password",
+                                          "Computer Security Incident Response Team",
+                                          "Intrusion Detection System",
+                                          "Cross-Site Request Forgery"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "IDS expands to Intrusion Detection System."
+                      },
+                      {
+                          "id":  65,
+                          "question":  "What is the full form of IPS?",
+                          "options":  [
+                                          "Virtual Private Network",
+                                          "Intrusion Prevention System",
+                                          "Endpoint Detection and Response",
+                                          "Recovery Point Objective"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "IPS expands to Intrusion Prevention System."
+                      },
+                      {
+                          "id":  66,
+                          "question":  "What is the full form of DLP?",
+                          "options":  [
+                                          "Network Detection and Response",
+                                          "Payment Card Industry Data Security Standard",
+                                          "One-Time Password",
+                                          "Data Loss Prevention"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DLP expands to Data Loss Prevention."
+                      },
+                      {
+                          "id":  67,
+                          "question":  "What is the full form of SIEM?",
+                          "options":  [
+                                          "Internet Control Message Protocol",
+                                          "Information Security Management System",
+                                          "Security Information and Event Management",
+                                          "Virtual Private Network"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SIEM expands to Security Information and Event Management."
+                      },
+                      {
+                          "id":  68,
+                          "question":  "What is the full form of SOC?",
+                          "options":  [
+                                          "Security Operations Center",
+                                          "Disaster Recovery",
+                                          "Structured Query Language",
+                                          "Rivest-Shamir-Adleman"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "SOC expands to Security Operations Center."
+                      },
+                      {
+                          "id":  69,
+                          "question":  "What is the full form of CSIRT?",
+                          "options":  [
+                                          "Virtual Private Network",
+                                          "One-Time Password",
+                                          "Computer Security Incident Response Team",
+                                          "Virtual Local Area Network"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CSIRT expands to Computer Security Incident Response Team."
+                      },
+                      {
+                          "id":  70,
+                          "question":  "What is the full form of MFA?",
+                          "options":  [
+                                          "Multi-Factor Authentication",
+                                          "Data Encryption Standard",
+                                          "Multiple Spanning Tree Protocol",
+                                          "Identity and Access Management"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "MFA expands to Multi-Factor Authentication."
+                      },
+                      {
+                          "id":  71,
+                          "question":  "What is the full form of OTP?",
+                          "options":  [
+                                          "Cross-Site Scripting",
+                                          "Certificate Revocation List",
+                                          "Security Information and Event Management",
+                                          "One-Time Password"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "OTP expands to One-Time Password."
+                      },
+                      {
+                          "id":  72,
+                          "question":  "What is the full form of PKI?",
+                          "options":  [
+                                          "Cross-Site Request Forgery",
+                                          "Rivest-Shamir-Adleman",
+                                          "Public Key Infrastructure",
+                                          "Cross-Site Scripting"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "PKI expands to Public Key Infrastructure."
+                      },
+                      {
+                          "id":  73,
+                          "question":  "What is the full form of CA?",
+                          "options":  [
+                                          "Virtual Private Network",
+                                          "Routing Information Protocol",
+                                          "Data Encryption Standard",
+                                          "Certificate Authority"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "CA expands to Certificate Authority."
+                      },
+                      {
+                          "id":  74,
+                          "question":  "What is the full form of CRL?",
+                          "options":  [
+                                          "Real Time Gross Settlement",
+                                          "Information Security Management System",
+                                          "Virtual Private Network",
+                                          "Certificate Revocation List"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "CRL expands to Certificate Revocation List."
+                      },
+                      {
+                          "id":  75,
+                          "question":  "What is the full form of OCSP?",
+                          "options":  [
+                                          "Disaster Recovery",
+                                          "Terminal Access Controller Access-Control System",
+                                          "Real Time Gross Settlement",
+                                          "Online Certificate Status Protocol"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "OCSP expands to Online Certificate Status Protocol."
+                      },
+                      {
+                          "id":  76,
+                          "question":  "What is the full form of AES?",
+                          "options":  [
+                                          "Advanced Encryption Standard",
+                                          "User Datagram Protocol",
+                                          "Public Key Infrastructure",
+                                          "Information Security Management System"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "AES expands to Advanced Encryption Standard."
+                      },
+                      {
+                          "id":  77,
+                          "question":  "What is the full form of RSA?",
+                          "options":  [
+                                          "Cross-Site Scripting",
+                                          "Internet Protocol",
+                                          "Rivest-Shamir-Adleman",
+                                          "Hash-based Message Authentication Code"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "RSA expands to Rivest-Shamir-Adleman."
+                      },
+                      {
+                          "id":  78,
+                          "question":  "What is the full form of DES?",
+                          "options":  [
+                                          "Internet Protocol",
+                                          "Network Access Control",
+                                          "Quality of Service",
+                                          "Data Encryption Standard"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DES expands to Data Encryption Standard."
+                      },
+                      {
+                          "id":  79,
+                          "question":  "What is the full form of HMAC?",
+                          "options":  [
+                                          "Software-Defined Networking",
+                                          "Unified Threat Management",
+                                          "Intrusion Detection System",
+                                          "Hash-based Message Authentication Code"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "HMAC expands to Hash-based Message Authentication Code."
+                      },
+                      {
+                          "id":  80,
+                          "question":  "What is the full form of SHA?",
+                          "options":  [
+                                          "Privileged Access Management",
+                                          "Transmission Control Protocol",
+                                          "Computer Security Incident Response Team",
+                                          "Secure Hash Algorithm"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SHA expands to Secure Hash Algorithm."
+                      },
+                      {
+                          "id":  81,
+                          "question":  "What is the full form of DDoS?",
+                          "options":  [
+                                          "Distributed Denial of Service",
+                                          "Structured Query Language",
+                                          "Virtual Private Network",
+                                          "Network Functions Virtualization"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "DDoS expands to Distributed Denial of Service."
+                      },
+                      {
+                          "id":  82,
+                          "question":  "What is the full form of XSS?",
+                          "options":  [
+                                          "Cross-Site Scripting",
+                                          "Payment Card Industry Data Security Standard",
+                                          "Routing Information Protocol",
+                                          "National Electronic Funds Transfer"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "XSS expands to Cross-Site Scripting."
+                      },
+                      {
+                          "id":  83,
+                          "question":  "What is the full form of CSRF?",
+                          "options":  [
+                                          "Intrusion Detection System",
+                                          "Hash-based Message Authentication Code",
+                                          "Cross-Site Request Forgery",
+                                          "Certificate Revocation List"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CSRF expands to Cross-Site Request Forgery."
+                      },
+                      {
+                          "id":  84,
+                          "question":  "What is the full form of SQL?",
+                          "options":  [
+                                          "National Electronic Funds Transfer",
+                                          "Address Resolution Protocol",
+                                          "Web Application Firewall",
+                                          "Structured Query Language"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SQL expands to Structured Query Language."
+                      },
+                      {
+                          "id":  85,
+                          "question":  "What is the full form of WAF?",
+                          "options":  [
+                                          "User and Entity Behavior Analytics",
+                                          "Online Certificate Status Protocol",
+                                          "Recovery Point Objective",
+                                          "Web Application Firewall"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "WAF expands to Web Application Firewall."
+                      },
+                      {
+                          "id":  86,
+                          "question":  "What is the full form of UTM?",
+                          "options":  [
+                                          "Unified Threat Management",
+                                          "Border Gateway Protocol",
+                                          "Advanced Encryption Standard",
+                                          "Network Access Control"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "UTM expands to Unified Threat Management."
+                      },
+                      {
+                          "id":  87,
+                          "question":  "What is the full form of BGP?",
+                          "options":  [
+                                          "Border Gateway Protocol",
+                                          "Address Resolution Protocol",
+                                          "Cross-Site Scripting",
+                                          "Intrusion Prevention System"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "BGP expands to Border Gateway Protocol."
+                      },
+                      {
+                          "id":  88,
+                          "question":  "What is the full form of OSPF?",
+                          "options":  [
+                                          "Man-in-the-Middle",
+                                          "Secure Access Service Edge",
+                                          "Multi-Factor Authentication",
+                                          "Open Shortest Path First"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "OSPF expands to Open Shortest Path First."
+                      },
+                      {
+                          "id":  89,
+                          "question":  "What is the full form of RIP?",
+                          "options":  [
+                                          "Network Address Translation",
+                                          "Public Key Infrastructure",
+                                          "Routing Information Protocol",
+                                          "Internet Control Message Protocol"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "RIP expands to Routing Information Protocol."
+                      },
+                      {
+                          "id":  90,
+                          "question":  "What is the full form of STP?",
+                          "options":  [
+                                          "Immediate Payment Service",
+                                          "Advanced Encryption Standard",
+                                          "Open Shortest Path First",
+                                          "Spanning Tree Protocol"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "STP expands to Spanning Tree Protocol."
+                      },
+                      {
+                          "id":  91,
+                          "question":  "What is the full form of RSTP?",
+                          "options":  [
+                                          "Society for Worldwide Interbank Financial Telecommunication",
+                                          "Rapid Spanning Tree Protocol",
+                                          "Authentication Authorization and Accounting",
+                                          "Quality of Service"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "RSTP expands to Rapid Spanning Tree Protocol."
+                      },
+                      {
+                          "id":  92,
+                          "question":  "What is the full form of MSTP?",
+                          "options":  [
+                                          "Structured Query Language",
+                                          "Multiple Spanning Tree Protocol",
+                                          "Society for Worldwide Interbank Financial Telecommunication",
+                                          "Port Address Translation"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "MSTP expands to Multiple Spanning Tree Protocol."
+                      },
+                      {
+                          "id":  93,
+                          "question":  "What is the full form of QoS?",
+                          "options":  [
+                                          "Disaster Recovery",
+                                          "Quality of Service",
+                                          "Spanning Tree Protocol",
+                                          "Intrusion Detection System"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "QoS expands to Quality of Service."
+                      },
+                      {
+                          "id":  94,
+                          "question":  "What is the full form of SLA?",
+                          "options":  [
+                                          "Unified Payments Interface",
+                                          "Service Level Agreement",
+                                          "Real Time Gross Settlement",
+                                          "Internet Control Message Protocol"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SLA expands to Service Level Agreement."
+                      },
+                      {
+                          "id":  95,
+                          "question":  "What is the full form of RTO?",
+                          "options":  [
+                                          "Internet Protocol",
+                                          "Computer Security Incident Response Team",
+                                          "Intrusion Detection System",
+                                          "Recovery Time Objective"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "RTO expands to Recovery Time Objective."
+                      },
+                      {
+                          "id":  96,
+                          "question":  "What is the full form of RPO?",
+                          "options":  [
+                                          "Cross-Site Request Forgery",
+                                          "Common Vulnerabilities and Exposures",
+                                          "Terminal Access Controller Access-Control System",
+                                          "Recovery Point Objective"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "RPO expands to Recovery Point Objective."
+                      },
+                      {
+                          "id":  97,
+                          "question":  "What is the full form of DR?",
+                          "options":  [
+                                          "Terminal Access Controller Access-Control System",
+                                          "Recovery Point Objective",
+                                          "Border Gateway Protocol",
+                                          "Disaster Recovery"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DR expands to Disaster Recovery."
+                      },
+                      {
+                          "id":  98,
+                          "question":  "What is the full form of BCP?",
+                          "options":  [
+                                          "Distributed Denial of Service",
+                                          "Quality of Service",
+                                          "Business Continuity Plan",
+                                          "Recovery Point Objective"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "BCP expands to Business Continuity Plan."
+                      },
+                      {
+                          "id":  99,
+                          "question":  "What is the full form of KYC?",
+                          "options":  [
+                                          "Know Your Customer",
+                                          "Open Systems Interconnection",
+                                          "Open Shortest Path First",
+                                          "Zero Trust Network Access"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "KYC expands to Know Your Customer."
+                      },
+                      {
+                          "id":  100,
+                          "question":  "What is the full form of SWIFT?",
+                          "options":  [
+                                          "Rapid Spanning Tree Protocol",
+                                          "Security Operations Center",
+                                          "Society for Worldwide Interbank Financial Telecommunication",
+                                          "One-Time Password"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SWIFT expands to Society for Worldwide Interbank Financial Telecommunication."
+                      },
+                      {
+                          "id":  101,
+                          "question":  "What is the full form of NEFT?",
+                          "options":  [
+                                          "Business Continuity Plan",
+                                          "Structured Query Language",
+                                          "National Electronic Funds Transfer",
+                                          "Network Address Translation"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "NEFT expands to National Electronic Funds Transfer."
+                      },
+                      {
+                          "id":  102,
+                          "question":  "What is the full form of RTGS?",
+                          "options":  [
+                                          "Cross-Site Scripting",
+                                          "Network Functions Virtualization",
+                                          "Real Time Gross Settlement",
+                                          "Terminal Access Controller Access-Control System"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "RTGS expands to Real Time Gross Settlement."
+                      },
+                      {
+                          "id":  103,
+                          "question":  "What is the full form of IMPS?",
+                          "options":  [
+                                          "Unified Threat Management",
+                                          "Immediate Payment Service",
+                                          "Cross-Site Scripting",
+                                          "Computer Security Incident Response Team"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "IMPS expands to Immediate Payment Service."
+                      },
+                      {
+                          "id":  104,
+                          "question":  "What is the full form of UPI?",
+                          "options":  [
+                                          "Internet Control Message Protocol",
+                                          "Unified Payments Interface",
+                                          "Network Detection and Response",
+                                          "Multiple Spanning Tree Protocol"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "UPI expands to Unified Payments Interface."
+                      },
+                      {
+                          "id":  105,
+                          "question":  "What is the full form of PCI DSS?",
+                          "options":  [
+                                          "Payment Card Industry Data Security Standard",
+                                          "Multiple Spanning Tree Protocol",
+                                          "Terminal Access Controller Access-Control System",
+                                          "Business Continuity Plan"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "PCI DSS expands to Payment Card Industry Data Security Standard."
+                      },
+                      {
+                          "id":  106,
+                          "question":  "What is the full form of ISMS?",
+                          "options":  [
+                                          "Information Security Management System",
+                                          "Security Information and Event Management",
+                                          "Address Resolution Protocol",
+                                          "Society for Worldwide Interbank Financial Telecommunication"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "ISMS expands to Information Security Management System."
+                      },
+                      {
+                          "id":  107,
+                          "question":  "What is the full form of EDR?",
+                          "options":  [
+                                          "Man-in-the-Middle",
+                                          "Endpoint Detection and Response",
+                                          "User Datagram Protocol",
+                                          "National Electronic Funds Transfer"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "EDR expands to Endpoint Detection and Response."
+                      },
+                      {
+                          "id":  108,
+                          "question":  "What is the full form of NDR?",
+                          "options":  [
+                                          "Network Detection and Response",
+                                          "Certificate Revocation List",
+                                          "Public Key Infrastructure",
+                                          "Online Certificate Status Protocol"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "NDR expands to Network Detection and Response."
+                      },
+                      {
+                          "id":  109,
+                          "question":  "What is the full form of UEBA?",
+                          "options":  [
+                                          "Zero Trust Network Access",
+                                          "Intrusion Prevention System",
+                                          "User and Entity Behavior Analytics",
+                                          "Multiple Spanning Tree Protocol"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "UEBA expands to User and Entity Behavior Analytics."
+                      },
+                      {
+                          "id":  110,
+                          "question":  "What is the full form of IAM?",
+                          "options":  [
+                                          "User Datagram Protocol",
+                                          "Disaster Recovery",
+                                          "Identity and Access Management",
+                                          "National Electronic Funds Transfer"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "IAM expands to Identity and Access Management."
+                      },
+                      {
+                          "id":  111,
+                          "question":  "What is the full form of PAM?",
+                          "options":  [
+                                          "Unified Payments Interface",
+                                          "Virtual Local Area Network",
+                                          "Privileged Access Management",
+                                          "Network Address Translation"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "PAM expands to Privileged Access Management."
+                      },
+                      {
+                          "id":  112,
+                          "question":  "What is the full form of SASE?",
+                          "options":  [
+                                          "Network Address Translation",
+                                          "Certificate Revocation List",
+                                          "Intrusion Prevention System",
+                                          "Secure Access Service Edge"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SASE expands to Secure Access Service Edge."
+                      },
+                      {
+                          "id":  113,
+                          "question":  "What is the full form of ZTNA?",
+                          "options":  [
+                                          "Know Your Customer",
+                                          "Unified Payments Interface",
+                                          "Zero Trust Network Access",
+                                          "Cross-Site Request Forgery"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "ZTNA expands to Zero Trust Network Access."
+                      },
+                      {
+                          "id":  114,
+                          "question":  "What is the full form of SDN?",
+                          "options":  [
+                                          "Zero Trust Network Access",
+                                          "Port Address Translation",
+                                          "Software-Defined Networking",
+                                          "Unified Payments Interface"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SDN expands to Software-Defined Networking."
+                      },
+                      {
+                          "id":  115,
+                          "question":  "What is the full form of NFV?",
+                          "options":  [
+                                          "Transmission Control Protocol",
+                                          "Network Functions Virtualization",
+                                          "Multi-Factor Authentication",
+                                          "Quality of Service"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "NFV expands to Network Functions Virtualization."
+                      },
+                      {
+                          "id":  116,
+                          "question":  "What is the full form of AAA?",
+                          "options":  [
+                                          "Internet Control Message Protocol",
+                                          "Authentication Authorization and Accounting",
+                                          "Transmission Control Protocol",
+                                          "Network Functions Virtualization"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "AAA expands to Authentication Authorization and Accounting."
+                      },
+                      {
+                          "id":  117,
+                          "question":  "What is the full form of TACACS?",
+                          "options":  [
+                                          "Business Continuity Plan",
+                                          "Internet Protocol",
+                                          "Disaster Recovery",
+                                          "Terminal Access Controller Access-Control System"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "TACACS expands to Terminal Access Controller Access-Control System."
+                      },
+                      {
+                          "id":  118,
+                          "question":  "What is the full form of NAC?",
+                          "options":  [
+                                          "Address Resolution Protocol",
+                                          "One-Time Password",
+                                          "Network Access Control",
+                                          "Online Certificate Status Protocol"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "NAC expands to Network Access Control."
+                      },
+                      {
+                          "id":  119,
+                          "question":  "What is the full form of MPLS?",
+                          "options":  [
+                                          "Hash-based Message Authentication Code",
+                                          "Multiprotocol Label Switching",
+                                          "Terminal Access Controller Access-Control System",
+                                          "Spanning Tree Protocol"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "MPLS expands to Multiprotocol Label Switching."
+                      },
+                      {
+                          "id":  120,
+                          "question":  "What is the full form of CVE?",
+                          "options":  [
+                                          "Media Access Control",
+                                          "Man-in-the-Middle",
+                                          "Online Certificate Status Protocol",
+                                          "Common Vulnerabilities and Exposures"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "CVE expands to Common Vulnerabilities and Exposures."
+                      },
+                      {
+                          "id":  121,
+                          "question":  "What is the full form of CWE?",
+                          "options":  [
+                                          "One-Time Password",
+                                          "Man-in-the-Middle",
+                                          "Common Weakness Enumeration",
+                                          "Internet Protocol"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CWE expands to Common Weakness Enumeration."
+                      },
+                      {
+                          "id":  122,
+                          "question":  "What is the full form of MITM?",
+                          "options":  [
+                                          "Internet Protocol",
+                                          "Intrusion Prevention System",
+                                          "Man-in-the-Middle",
+                                          "User Datagram Protocol"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MITM expands to Man-in-the-Middle."
+                      },
+                      {
+                          "id":  123,
+                          "question":  "What is the full form of MAC?",
+                          "options":  [
+                                          "Virtual Local Area Network",
+                                          "Terminal Access Controller Access-Control System",
+                                          "Immediate Payment Service",
+                                          "Media Access Control"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "MAC expands to Media Access Control."
+                      },
+                      {
+                          "id":  124,
+                          "question":  "Which of the following is primarily used for resolving IPv4 address to MAC address in a LAN?",
+                          "options":  [
+                                          "GRE",
+                                          "SOAR",
+                                          "PKI",
+                                          "ARP"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "ARP is primarily associated with resolving IPv4 address to MAC address in a LAN."
+                      },
+                      {
+                          "id":  125,
+                          "question":  "Which of the following is primarily used for obtaining IP address from MAC address (legacy)?",
+                          "options":  [
+                                          "SMB/CIFS",
+                                          "RARP",
+                                          "FTPS",
+                                          "QUIC"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "RARP is primarily associated with obtaining IP address from MAC address (legacy)."
+                      },
+                      {
+                          "id":  126,
+                          "question":  "Which of the following is primarily used for sending error reports and diagnostics like ping?",
+                          "options":  [
+                                          "ICMP",
+                                          "STP",
+                                          "SSH",
+                                          "iSCSI"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "ICMP is primarily associated with sending error reports and diagnostics like ping."
+                      },
+                      {
+                          "id":  127,
+                          "question":  "Which of the following is primarily used for automatic assignment of IP configuration parameters?",
+                          "options":  [
+                                          "SOAR",
+                                          "GRE",
+                                          "IPsec",
+                                          "DHCP"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DHCP is primarily associated with automatic assignment of IP configuration parameters."
+                      },
+                      {
+                          "id":  128,
+                          "question":  "Which of the following is primarily used for resolving domain names to IP addresses?",
+                          "options":  [
+                                          "SMTP",
+                                          "DNS",
+                                          "Fibre Channel",
+                                          "OSPF"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "DNS is primarily associated with resolving domain names to IP addresses."
+                      },
+                      {
+                          "id":  129,
+                          "question":  "Which of the following is primarily used for time synchronization across network devices?",
+                          "options":  [
+                                          "NFS",
+                                          "PKI",
+                                          "NTP",
+                                          "SIEM"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "NTP is primarily associated with time synchronization across network devices."
+                      },
+                      {
+                          "id":  130,
+                          "question":  "Which of the following is primarily used for monitoring and managing network devices?",
+                          "options":  [
+                                          "IPsec",
+                                          "SNMP",
+                                          "RTCP",
+                                          "sFlow"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SNMP is primarily associated with monitoring and managing network devices."
+                      },
+                      {
+                          "id":  131,
+                          "question":  "Which of the following is primarily used for centralized transmission of log messages?",
+                          "options":  [
+                                          "NetFlow",
+                                          "DHCP",
+                                          "sFlow",
+                                          "Syslog"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Syslog is primarily associated with centralized transmission of log messages."
+                      },
+                      {
+                          "id":  132,
+                          "question":  "Which of the following is primarily used for routing between autonomous systems on the Internet?",
+                          "options":  [
+                                          "NDR",
+                                          "VXLAN",
+                                          "BGP",
+                                          "IMAP"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "BGP is primarily associated with routing between autonomous systems on the Internet."
+                      },
+                      {
+                          "id":  133,
+                          "question":  "Which of the following is primarily used for link-state interior routing within an enterprise?",
+                          "options":  [
+                                          "OSPF",
+                                          "Modbus TCP",
+                                          "PoE",
+                                          "Syslog"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "OSPF is primarily associated with link-state interior routing within an enterprise."
+                      },
+                      {
+                          "id":  134,
+                          "question":  "Which of the following is primarily used for distance-vector interior routing using hop count?",
+                          "options":  [
+                                          "RIP",
+                                          "VRRP",
+                                          "HSRP",
+                                          "SNMP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "RIP is primarily associated with distance-vector interior routing using hop count."
+                      },
+                      {
+                          "id":  135,
+                          "question":  "Which of the following is primarily used for advanced distance-vector routing in Cisco environments?",
+                          "options":  [
+                                          "NetFlow",
+                                          "TFTP",
+                                          "VXLAN",
+                                          "EIGRP"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "EIGRP is primarily associated with advanced distance-vector routing in Cisco environments."
+                      },
+                      {
+                          "id":  136,
+                          "question":  "Which of the following is primarily used for label-based forwarding across provider networks?",
+                          "options":  [
+                                          "MPLS",
+                                          "Fibre Channel",
+                                          "iSCSI",
+                                          "CAPWAP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "MPLS is primarily associated with label-based forwarding across provider networks."
+                      },
+                      {
+                          "id":  137,
+                          "question":  "Which of the following is primarily used for tunneling protocols over IP networks?",
+                          "options":  [
+                                          "GRE",
+                                          "WPA2",
+                                          "SNMP",
+                                          "sFlow"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "GRE is primarily associated with tunneling protocols over IP networks."
+                      },
+                      {
+                          "id":  138,
+                          "question":  "Which of the following is primarily used for providing confidentiality and integrity at network layer?",
+                          "options":  [
+                                          "IPsec",
+                                          "HTTPS",
+                                          "NTP",
+                                          "LLDP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "IPsec is primarily associated with providing confidentiality and integrity at network layer."
+                      },
+                      {
+                          "id":  139,
+                          "question":  "Which of the following is primarily used for encrypting communication channels over TCP?",
+                          "options":  [
+                                          "SSL/TLS",
+                                          "WebSocket",
+                                          "MQTT",
+                                          "IMAP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "SSL/TLS is primarily associated with encrypting communication channels over TCP."
+                      },
+                      {
+                          "id":  140,
+                          "question":  "Which of the following is primarily used for secure command-line remote administration?",
+                          "options":  [
+                                          "SSH",
+                                          "RTP",
+                                          "LDAP",
+                                          "HSRP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "SSH is primarily associated with secure command-line remote administration."
+                      },
+                      {
+                          "id":  141,
+                          "question":  "Which of the following is primarily used for secure file transfer over SSH channel?",
+                          "options":  [
+                                          "SFTP",
+                                          "LACP",
+                                          "QUIC",
+                                          "RTCP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "SFTP is primarily associated with secure file transfer over SSH channel."
+                      },
+                      {
+                          "id":  142,
+                          "question":  "Which of the following is primarily used for FTP communication secured using TLS?",
+                          "options":  [
+                                          "SPAN",
+                                          "FTPS",
+                                          "MQTT",
+                                          "POP3"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "FTPS is primarily associated with FTP communication secured using TLS."
+                      },
+                      {
+                          "id":  143,
+                          "question":  "Which of the following is primarily used for simple file transfer without authentication?",
+                          "options":  [
+                                          "GRE",
+                                          "RIP",
+                                          "CRL",
+                                          "TFTP"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "TFTP is primarily associated with simple file transfer without authentication."
+                      },
+                      {
+                          "id":  144,
+                          "question":  "Which of the following is primarily used for transferring hypertext between client and web server?",
+                          "options":  [
+                                          "PoE",
+                                          "EDR",
+                                          "HTTP",
+                                          "Fibre Channel"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "HTTP is primarily associated with transferring hypertext between client and web server."
+                      },
+                      {
+                          "id":  145,
+                          "question":  "Which of the following is primarily used for secure web communication using TLS?",
+                          "options":  [
+                                          "SIEM",
+                                          "HTTPS",
+                                          "DNSSEC",
+                                          "L2TP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "HTTPS is primarily associated with secure web communication using TLS."
+                      },
+                      {
+                          "id":  146,
+                          "question":  "Which of the following is primarily used for downloading emails from server to client?",
+                          "options":  [
+                                          "EDR",
+                                          "PKI",
+                                          "NetFlow",
+                                          "POP3"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "POP3 is primarily associated with downloading emails from server to client."
+                      },
+                      {
+                          "id":  147,
+                          "question":  "Which of the following is primarily used for synchronizing email while retaining server-side copies?",
+                          "options":  [
+                                          "FTPS",
+                                          "EDR",
+                                          "IMAP",
+                                          "VXLAN"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "IMAP is primarily associated with synchronizing email while retaining server-side copies."
+                      },
+                      {
+                          "id":  148,
+                          "question":  "Which of the following is primarily used for sending email between clients and mail servers?",
+                          "options":  [
+                                          "SMTP",
+                                          "802.1X",
+                                          "IMAP",
+                                          "DHCP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "SMTP is primarily associated with sending email between clients and mail servers."
+                      },
+                      {
+                          "id":  149,
+                          "question":  "Which of the following is primarily used for directory lookup and authentication queries?",
+                          "options":  [
+                                          "RTCP",
+                                          "SFTP",
+                                          "MSTP",
+                                          "LDAP"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "LDAP is primarily associated with directory lookup and authentication queries."
+                      },
+                      {
+                          "id":  150,
+                          "question":  "Which of the following is primarily used for AAA services for remote network access?",
+                          "options":  [
+                                          "RADIUS",
+                                          "sFlow",
+                                          "Kerberos",
+                                          "PKI"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "RADIUS is primarily associated with AAA services for remote network access."
+                      },
+                      {
+                          "id":  151,
+                          "question":  "Which of the following is primarily used for centralized AAA with command authorization?",
+                          "options":  [
+                                          "QUIC",
+                                          "TACACS+",
+                                          "CDP",
+                                          "PKI"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "TACACS+ is primarily associated with centralized AAA with command authorization."
+                      },
+                      {
+                          "id":  152,
+                          "question":  "Which of the following is primarily used for ticket-based network authentication?",
+                          "options":  [
+                                          "QUIC",
+                                          "Kerberos",
+                                          "HTTP",
+                                          "RADIUS"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Kerberos is primarily associated with ticket-based network authentication."
+                      },
+                      {
+                          "id":  153,
+                          "question":  "Which of the following is primarily used for port-based network access control for endpoints?",
+                          "options":  [
+                                          "802.1X",
+                                          "PoE",
+                                          "IPsec",
+                                          "LLDP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "802.1X is primarily associated with port-based network access control for endpoints."
+                      },
+                      {
+                          "id":  154,
+                          "question":  "Which of the following is primarily used for preventing loops in switched Ethernet topology?",
+                          "options":  [
+                                          "QUIC",
+                                          "WPA2",
+                                          "STP",
+                                          "TFTP"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "STP is primarily associated with preventing loops in switched Ethernet topology."
+                      },
+                      {
+                          "id":  155,
+                          "question":  "Which of the following is primarily used for faster convergence loop prevention in switched networks?",
+                          "options":  [
+                                          "RSTP",
+                                          "NetFlow",
+                                          "PPTP",
+                                          "L2TP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "RSTP is primarily associated with faster convergence loop prevention in switched networks."
+                      },
+                      {
+                          "id":  156,
+                          "question":  "Which of the following is primarily used for running multiple spanning tree instances on VLAN groups?",
+                          "options":  [
+                                          "MSTP",
+                                          "POP3",
+                                          "NTP",
+                                          "TFTP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "MSTP is primarily associated with running multiple spanning tree instances on VLAN groups."
+                      },
+                      {
+                          "id":  157,
+                          "question":  "Which of the following is primarily used for propagating VLAN configuration across switches?",
+                          "options":  [
+                                          "LDAP",
+                                          "POP3",
+                                          "VTP",
+                                          "SIP"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "VTP is primarily associated with propagating VLAN configuration across switches."
+                      },
+                      {
+                          "id":  158,
+                          "question":  "Which of the following is primarily used for providing first-hop redundancy for gateway routers?",
+                          "options":  [
+                                          "SNMP",
+                                          "VRRP",
+                                          "Kerberos",
+                                          "NTP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "VRRP is primarily associated with providing first-hop redundancy for gateway routers."
+                      },
+                      {
+                          "id":  159,
+                          "question":  "Which of the following is primarily used for Cisco-based first-hop gateway redundancy?",
+                          "options":  [
+                                          "DHCP",
+                                          "HSRP",
+                                          "RARP",
+                                          "LDAP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "HSRP is primarily associated with Cisco-based first-hop gateway redundancy."
+                      },
+                      {
+                          "id":  160,
+                          "question":  "Which of the following is primarily used for aggregating multiple physical links into one logical link?",
+                          "options":  [
+                                          "CRL",
+                                          "MQTT",
+                                          "PPTP",
+                                          "LACP"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "LACP is primarily associated with aggregating multiple physical links into one logical link."
+                      },
+                      {
+                          "id":  161,
+                          "question":  "Which of the following is primarily used for legacy VPN tunneling over PPP?",
+                          "options":  [
+                                          "EIGRP",
+                                          "SNMP",
+                                          "PPTP",
+                                          "NDR"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "PPTP is primarily associated with legacy VPN tunneling over PPP."
+                      },
+                      {
+                          "id":  162,
+                          "question":  "Which of the following is primarily used for layer 2 tunneling often combined with IPsec?",
+                          "options":  [
+                                          "HSRP",
+                                          "L2TP",
+                                          "DNS",
+                                          "SMB/CIFS"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "L2TP is primarily associated with layer 2 tunneling often combined with IPsec."
+                      },
+                      {
+                          "id":  163,
+                          "question":  "Which of the following is primarily used for establishing and managing VoIP sessions?",
+                          "options":  [
+                                          "SIP",
+                                          "HTTPS",
+                                          "RIP",
+                                          "WPA3"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "SIP is primarily associated with establishing and managing VoIP sessions."
+                      },
+                      {
+                          "id":  164,
+                          "question":  "Which of the following is primarily used for delivering real-time audio or video streams?",
+                          "options":  [
+                                          "RTP",
+                                          "HTTP",
+                                          "WPA3",
+                                          "FTPS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "RTP is primarily associated with delivering real-time audio or video streams."
+                      },
+                      {
+                          "id":  165,
+                          "question":  "Which of the following is primarily used for monitoring quality statistics of RTP streams?",
+                          "options":  [
+                                          "RTCP",
+                                          "DNSSEC",
+                                          "POP3",
+                                          "SPAN"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "RTCP is primarily associated with monitoring quality statistics of RTP streams."
+                      },
+                      {
+                          "id":  166,
+                          "question":  "Which of the following is primarily used for file sharing between Unix/Linux systems?",
+                          "options":  [
+                                          "EDR",
+                                          "NFS",
+                                          "NDR",
+                                          "ICMP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "NFS is primarily associated with file sharing between Unix/Linux systems."
+                      },
+                      {
+                          "id":  167,
+                          "question":  "Which of the following is primarily used for file and printer sharing in Windows networks?",
+                          "options":  [
+                                          "RTP",
+                                          "SMB/CIFS",
+                                          "IP SLA",
+                                          "NFS"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SMB/CIFS is primarily associated with file and printer sharing in Windows networks."
+                      },
+                      {
+                          "id":  168,
+                          "question":  "Which of the following is primarily used for transporting SCSI commands over IP storage networks?",
+                          "options":  [
+                                          "iSCSI",
+                                          "TFTP",
+                                          "802.1X",
+                                          "LDAP"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "iSCSI is primarily associated with transporting SCSI commands over IP storage networks."
+                      },
+                      {
+                          "id":  169,
+                          "question":  "Which of the following is primarily used for high-speed SAN connectivity for storage?",
+                          "options":  [
+                                          "SIP",
+                                          "Fibre Channel",
+                                          "VTP",
+                                          "TACACS+"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Fibre Channel is primarily associated with high-speed SAN connectivity for storage."
+                      },
+                      {
+                          "id":  170,
+                          "question":  "Which of the following is primarily used for extending layer 2 segments over layer 3 networks?",
+                          "options":  [
+                                          "Kerberos",
+                                          "Modbus TCP",
+                                          "SOAR",
+                                          "VXLAN"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "VXLAN is primarily associated with extending layer 2 segments over layer 3 networks."
+                      },
+                      {
+                          "id":  171,
+                          "question":  "Which of the following is primarily used for communication between wireless APs and controllers?",
+                          "options":  [
+                                          "IP SLA",
+                                          "HTTPS",
+                                          "CAPWAP",
+                                          "DNS"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CAPWAP is primarily associated with communication between wireless APs and controllers."
+                      },
+                      {
+                          "id":  172,
+                          "question":  "Which of the following is primarily used for securing wireless LAN with AES-CCMP?",
+                          "options":  [
+                                          "sFlow",
+                                          "ARP",
+                                          "WPA2",
+                                          "AMQP"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "WPA2 is primarily associated with securing wireless LAN with AES-CCMP."
+                      },
+                      {
+                          "id":  173,
+                          "question":  "Which of the following is primarily used for stronger wireless security with SAE authentication?",
+                          "options":  [
+                                          "IMAP",
+                                          "WPA3",
+                                          "IPsec",
+                                          "RSTP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "WPA3 is primarily associated with stronger wireless security with SAE authentication."
+                      },
+                      {
+                          "id":  174,
+                          "question":  "Which of the following is primarily used for proactive network performance measurement?",
+                          "options":  [
+                                          "NDR",
+                                          "POP3",
+                                          "IP SLA",
+                                          "IMAP"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "IP SLA is primarily associated with proactive network performance measurement."
+                      },
+                      {
+                          "id":  175,
+                          "question":  "Which of the following is primarily used for collecting and analyzing IP traffic flow metadata?",
+                          "options":  [
+                                          "IP SLA",
+                                          "SNMP",
+                                          "NetFlow",
+                                          "QUIC"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "NetFlow is primarily associated with collecting and analyzing IP traffic flow metadata."
+                      },
+                      {
+                          "id":  176,
+                          "question":  "Which of the following is primarily used for packet sampling for traffic visibility?",
+                          "options":  [
+                                          "OSPF",
+                                          "EDR",
+                                          "CAPWAP",
+                                          "sFlow"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "sFlow is primarily associated with packet sampling for traffic visibility."
+                      },
+                      {
+                          "id":  177,
+                          "question":  "Which of the following is primarily used for mirroring switch traffic to monitoring tools?",
+                          "options":  [
+                                          "ICMP",
+                                          "LLDP",
+                                          "Fibre Channel",
+                                          "SPAN"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SPAN is primarily associated with mirroring switch traffic to monitoring tools."
+                      },
+                      {
+                          "id":  178,
+                          "question":  "Which of the following is primarily used for vendor-neutral neighbor discovery on LAN?",
+                          "options":  [
+                                          "SMB/CIFS",
+                                          "LACP",
+                                          "WPA2",
+                                          "LLDP"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "LLDP is primarily associated with vendor-neutral neighbor discovery on LAN."
+                      },
+                      {
+                          "id":  179,
+                          "question":  "Which of the following is primarily used for Cisco neighbor discovery protocol?",
+                          "options":  [
+                                          "CDP",
+                                          "SNMP",
+                                          "Syslog",
+                                          "sFlow"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "CDP is primarily associated with Cisco neighbor discovery protocol."
+                      },
+                      {
+                          "id":  180,
+                          "question":  "Which of the following is primarily used for delivering power over Ethernet cables to devices?",
+                          "options":  [
+                                          "SFTP",
+                                          "PKI",
+                                          "PoE",
+                                          "NDR"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "PoE is primarily associated with delivering power over Ethernet cables to devices."
+                      },
+                      {
+                          "id":  181,
+                          "question":  "Which of the following is primarily used for industrial device communication over TCP/IP?",
+                          "options":  [
+                                          "VRRP",
+                                          "Modbus TCP",
+                                          "ARP",
+                                          "OSPF"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Modbus TCP is primarily associated with industrial device communication over TCP/IP."
+                      },
+                      {
+                          "id":  182,
+                          "question":  "Which of the following is primarily used for lightweight publish-subscribe messaging for IoT?",
+                          "options":  [
+                                          "SIP",
+                                          "OCSP",
+                                          "MQTT",
+                                          "RTCP"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MQTT is primarily associated with lightweight publish-subscribe messaging for IoT."
+                      },
+                      {
+                          "id":  183,
+                          "question":  "Which of the following is primarily used for reliable message-oriented middleware communication?",
+                          "options":  [
+                                          "EDR",
+                                          "AMQP",
+                                          "NFS",
+                                          "RADIUS"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "AMQP is primarily associated with reliable message-oriented middleware communication."
+                      },
+                      {
+                          "id":  184,
+                          "question":  "Which of the following is primarily used for full-duplex persistent communication over single TCP connection?",
+                          "options":  [
+                                          "BGP",
+                                          "WebSocket",
+                                          "DNS",
+                                          "EIGRP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "WebSocket is primarily associated with full-duplex persistent communication over single TCP connection."
+                      },
+                      {
+                          "id":  185,
+                          "question":  "Which of the following is primarily used for secure low-latency transport over UDP for modern web traffic?",
+                          "options":  [
+                                          "QUIC",
+                                          "CAPWAP",
+                                          "ICMP",
+                                          "DNS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "QUIC is primarily associated with secure low-latency transport over UDP for modern web traffic."
+                      },
+                      {
+                          "id":  186,
+                          "question":  "Which of the following is primarily used for authenticating DNS response integrity?",
+                          "options":  [
+                                          "SIEM",
+                                          "DNSSEC",
+                                          "RSTP",
+                                          "TFTP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "DNSSEC is primarily associated with authenticating DNS response integrity."
+                      },
+                      {
+                          "id":  187,
+                          "question":  "Which of the following is primarily used for real-time certificate revocation status checking?",
+                          "options":  [
+                                          "RIP",
+                                          "VXLAN",
+                                          "OCSP",
+                                          "NFS"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "OCSP is primarily associated with real-time certificate revocation status checking."
+                      },
+                      {
+                          "id":  188,
+                          "question":  "Which of the following is primarily used for publishing revoked certificates list?",
+                          "options":  [
+                                          "SFTP",
+                                          "CRL",
+                                          "GRE",
+                                          "CAPWAP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "CRL is primarily associated with publishing revoked certificates list."
+                      },
+                      {
+                          "id":  189,
+                          "question":  "Which of the following is primarily used for managing digital certificates and trust chains?",
+                          "options":  [
+                                          "CDP",
+                                          "NFS",
+                                          "LLDP",
+                                          "PKI"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "PKI is primarily associated with managing digital certificates and trust chains."
+                      },
+                      {
+                          "id":  190,
+                          "question":  "Which of the following is primarily used for correlating security events from multiple sources?",
+                          "options":  [
+                                          "WPA2",
+                                          "SIEM",
+                                          "CRL",
+                                          "OCSP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SIEM is primarily associated with correlating security events from multiple sources."
+                      },
+                      {
+                          "id":  191,
+                          "question":  "Which of the following is primarily used for automating security response workflows?",
+                          "options":  [
+                                          "MQTT",
+                                          "SOAR",
+                                          "802.1X",
+                                          "LDAP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SOAR is primarily associated with automating security response workflows."
+                      },
+                      {
+                          "id":  192,
+                          "question":  "Which of the following is primarily used for detecting and responding to endpoint threats?",
+                          "options":  [
+                                          "DHCP",
+                                          "RADIUS",
+                                          "L2TP",
+                                          "EDR"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "EDR is primarily associated with detecting and responding to endpoint threats."
+                      },
+                      {
+                          "id":  193,
+                          "question":  "Which of the following is primarily used for detecting suspicious behavior from network telemetry?",
+                          "options":  [
+                                          "NDR",
+                                          "CAPWAP",
+                                          "SNMP",
+                                          "SMB/CIFS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "NDR is primarily associated with detecting suspicious behavior from network telemetry."
+                      },
+                      {
+                          "id":  194,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: filtering inbound and outbound network traffic by policy?",
+                          "options":  [
+                                          "IDS",
+                                          "Phishing Simulation",
+                                          "Firewall",
+                                          "HSM"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Firewall is directly used for filtering inbound and outbound network traffic by policy."
+                      },
+                      {
+                          "id":  195,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: tracking connection state while enforcing rules?",
+                          "options":  [
+                                          "SASE",
+                                          "Tokenization",
+                                          "DLP",
+                                          "Stateful Firewall"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Stateful Firewall is directly used for tracking connection state while enforcing rules."
+                      },
+                      {
+                          "id":  196,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: application-aware filtering with threat prevention features?",
+                          "options":  [
+                                          "MFA",
+                                          "Sandboxing",
+                                          "WAF",
+                                          "NGFW"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "NGFW is directly used for application-aware filtering with threat prevention features."
+                      },
+                      {
+                          "id":  197,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: protecting web applications from attacks like SQLi and XSS?",
+                          "options":  [
+                                          "SOAR",
+                                          "Immutable Backup",
+                                          "WAF",
+                                          "SIEM"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "WAF is directly used for protecting web applications from attacks like SQLi and XSS."
+                      },
+                      {
+                          "id":  198,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: detecting suspicious activity and generating alerts?",
+                          "options":  [
+                                          "IDS",
+                                          "Hashing",
+                                          "Zero Trust",
+                                          "RPO"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "IDS is directly used for detecting suspicious activity and generating alerts."
+                      },
+                      {
+                          "id":  199,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: blocking detected malicious traffic inline?",
+                          "options":  [
+                                          "IPS",
+                                          "NDR",
+                                          "Role-Based Access Control",
+                                          "Patch Management"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "IPS is directly used for blocking detected malicious traffic inline."
+                      },
+                      {
+                          "id":  200,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: intermediating client requests for policy and caching?",
+                          "options":  [
+                                          "Data Masking",
+                                          "Anti-Malware",
+                                          "Bastion Host",
+                                          "Proxy Server"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Proxy Server is directly used for intermediating client requests for policy and caching."
+                      },
+                      {
+                          "id":  201,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: shielding backend servers and balancing inbound traffic?",
+                          "options":  [
+                                          "Network Segmentation",
+                                          "Reverse Proxy",
+                                          "ECDSA",
+                                          "ZTNA"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Reverse Proxy is directly used for shielding backend servers and balancing inbound traffic."
+                      },
+                      {
+                          "id":  202,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: providing secure remote access over untrusted networks?",
+                          "options":  [
+                                          "VPN Gateway",
+                                          "IDS",
+                                          "SOC",
+                                          "Data Masking"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "VPN Gateway is directly used for providing secure remote access over untrusted networks."
+                      },
+                      {
+                          "id":  203,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: hardened jump server for administrative access?",
+                          "options":  [
+                                          "ECDSA",
+                                          "Bastion Host",
+                                          "Vulnerability Scanning",
+                                          "Backup"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Bastion Host is directly used for hardened jump server for administrative access."
+                      },
+                      {
+                          "id":  204,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: continuous verification before granting resource access?",
+                          "options":  [
+                                          "Least Privilege",
+                                          "Zero Trust",
+                                          "IPS",
+                                          "Email DKIM"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Zero Trust is directly used for continuous verification before granting resource access."
+                      },
+                      {
+                          "id":  205,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: requiring more than one independent authentication factor?",
+                          "options":  [
+                                          "WAF",
+                                          "MFA",
+                                          "Immutable Backup",
+                                          "Reverse Proxy"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "MFA is directly used for requiring more than one independent authentication factor."
+                      },
+                      {
+                          "id":  206,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: verifying users using inherence factors?",
+                          "options":  [
+                                          "Blue Teaming",
+                                          "Least Privilege",
+                                          "Micro-Segmentation",
+                                          "Biometric Authentication"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Biometric Authentication is directly used for verifying users using inherence factors."
+                      },
+                      {
+                          "id":  207,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: managing and monitoring privileged account sessions?",
+                          "options":  [
+                                          "AES-256",
+                                          "PAM",
+                                          "SASE",
+                                          "Anti-Malware"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "PAM is directly used for managing and monitoring privileged account sessions."
+                      },
+                      {
+                          "id":  208,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: granting minimum necessary access rights?",
+                          "options":  [
+                                          "Vulnerability Scanning",
+                                          "Stateful Firewall",
+                                          "Firewall",
+                                          "Least Privilege"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Least Privilege is directly used for granting minimum necessary access rights."
+                      },
+                      {
+                          "id":  209,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: preventing single-user control over critical process steps?",
+                          "options":  [
+                                          "Segregation of Duties",
+                                          "Blue Teaming",
+                                          "Vulnerability Scanning",
+                                          "Hashing"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Segregation of Duties is directly used for preventing single-user control over critical process steps."
+                      },
+                      {
+                          "id":  210,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: assigning permissions based on job roles?",
+                          "options":  [
+                                          "Key Rotation",
+                                          "EDR",
+                                          "Salting",
+                                          "Role-Based Access Control"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Role-Based Access Control is directly used for assigning permissions based on job roles."
+                      },
+                      {
+                          "id":  211,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: limiting lateral movement across internal networks?",
+                          "options":  [
+                                          "UEBA",
+                                          "Disaster Recovery Plan",
+                                          "Network Segmentation",
+                                          "IDS"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Network Segmentation is directly used for limiting lateral movement across internal networks."
+                      },
+                      {
+                          "id":  212,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: granular east-west traffic control in data centers?",
+                          "options":  [
+                                          "SOC",
+                                          "RTO",
+                                          "Micro-Segmentation",
+                                          "Phishing Simulation"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Micro-Segmentation is directly used for granular east-west traffic control in data centers."
+                      },
+                      {
+                          "id":  213,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: preventing unauthorized sensitive data exfiltration?",
+                          "options":  [
+                                          "Business Continuity Plan",
+                                          "Penetration Testing",
+                                          "Vulnerability Scanning",
+                                          "DLP"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DLP is directly used for preventing unauthorized sensitive data exfiltration."
+                      },
+                      {
+                          "id":  214,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: replacing sensitive values with non-sensitive tokens?",
+                          "options":  [
+                                          "Phishing Simulation",
+                                          "NDR",
+                                          "Tokenization",
+                                          "Email DKIM"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Tokenization is directly used for replacing sensitive values with non-sensitive tokens."
+                      },
+                      {
+                          "id":  215,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: obscuring sensitive fields in non-production environments?",
+                          "options":  [
+                                          "Patch Management",
+                                          "VPN Gateway",
+                                          "Firewall",
+                                          "Data Masking"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Data Masking is directly used for obscuring sensitive fields in non-production environments."
+                      },
+                      {
+                          "id":  216,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: one-way integrity verification of data?",
+                          "options":  [
+                                          "Business Continuity Plan",
+                                          "Hashing",
+                                          "MFA",
+                                          "Role-Based Access Control"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Hashing is directly used for one-way integrity verification of data."
+                      },
+                      {
+                          "id":  217,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: defending password hashes against rainbow-table attacks?",
+                          "options":  [
+                                          "IPS",
+                                          "AES-256",
+                                          "Salting",
+                                          "Digital Signature"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Salting is directly used for defending password hashes against rainbow-table attacks."
+                      },
+                      {
+                          "id":  218,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: ensuring authenticity and non-repudiation?",
+                          "options":  [
+                                          "Digital Signature",
+                                          "Tokenization",
+                                          "Threat Intelligence",
+                                          "Key Rotation"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Digital Signature is directly used for ensuring authenticity and non-repudiation."
+                      },
+                      {
+                          "id":  219,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: symmetric encryption for strong data confidentiality?",
+                          "options":  [
+                                          "RTO",
+                                          "AES-256",
+                                          "Threat Intelligence",
+                                          "Stateful Firewall"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "AES-256 is directly used for symmetric encryption for strong data confidentiality."
+                      },
+                      {
+                          "id":  220,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: asymmetric key exchange and digital signature support?",
+                          "options":  [
+                                          "Email SPF",
+                                          "RSA",
+                                          "Patch Management",
+                                          "Tokenization"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "RSA is directly used for asymmetric key exchange and digital signature support."
+                      },
+                      {
+                          "id":  221,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: elliptic-curve digital signature generation and verification?",
+                          "options":  [
+                                          "Phishing Simulation",
+                                          "RTO",
+                                          "ECDSA",
+                                          "NDR"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "ECDSA is directly used for elliptic-curve digital signature generation and verification."
+                      },
+                      {
+                          "id":  222,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: securely storing and processing cryptographic keys?",
+                          "options":  [
+                                          "SIEM",
+                                          "Immutable Backup",
+                                          "HSM",
+                                          "Least Privilege"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "HSM is directly used for securely storing and processing cryptographic keys."
+                      },
+                      {
+                          "id":  223,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: reducing cryptographic risk by periodic key replacement?",
+                          "options":  [
+                                          "Key Rotation",
+                                          "Email SPF",
+                                          "HSM",
+                                          "IPS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Key Rotation is directly used for reducing cryptographic risk by periodic key replacement."
+                      },
+                      {
+                          "id":  224,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: closing known vulnerabilities by timely updates?",
+                          "options":  [
+                                          "DLP",
+                                          "Email DKIM",
+                                          "Patch Management",
+                                          "NDR"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Patch Management is directly used for closing known vulnerabilities by timely updates."
+                      },
+                      {
+                          "id":  225,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: identifying known weaknesses in systems?",
+                          "options":  [
+                                          "Biometric Authentication",
+                                          "Vulnerability Scanning",
+                                          "Firewall",
+                                          "Email DMARC"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Vulnerability Scanning is directly used for identifying known weaknesses in systems."
+                      },
+                      {
+                          "id":  226,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: simulating attacks to validate security posture?",
+                          "options":  [
+                                          "SASE",
+                                          "UEBA",
+                                          "Penetration Testing",
+                                          "Key Rotation"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Penetration Testing is directly used for simulating attacks to validate security posture."
+                      },
+                      {
+                          "id":  227,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: adversary emulation to test detection and response?",
+                          "options":  [
+                                          "Stateful Firewall",
+                                          "Micro-Segmentation",
+                                          "Red Teaming",
+                                          "ZTNA"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Red Teaming is directly used for adversary emulation to test detection and response."
+                      },
+                      {
+                          "id":  228,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: defending, monitoring, and responding to threats?",
+                          "options":  [
+                                          "Segregation of Duties",
+                                          "Blue Teaming",
+                                          "Sandboxing",
+                                          "NGFW"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Blue Teaming is directly used for defending, monitoring, and responding to threats."
+                      },
+                      {
+                          "id":  229,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: continuous monitoring and triage of security events?",
+                          "options":  [
+                                          "Immutable Backup",
+                                          "Segregation of Duties",
+                                          "Tokenization",
+                                          "SOC"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SOC is directly used for continuous monitoring and triage of security events."
+                      },
+                      {
+                          "id":  230,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: centralized log correlation and alerting?",
+                          "options":  [
+                                          "IDS",
+                                          "AES-256",
+                                          "Tokenization",
+                                          "SIEM"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SIEM is directly used for centralized log correlation and alerting."
+                      },
+                      {
+                          "id":  231,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: automating incident response playbooks?",
+                          "options":  [
+                                          "HSM",
+                                          "SIEM",
+                                          "SOAR",
+                                          "Salting"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SOAR is directly used for automating incident response playbooks."
+                      },
+                      {
+                          "id":  232,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: using IOC/TTP feeds for proactive defense?",
+                          "options":  [
+                                          "Threat Intelligence",
+                                          "Phishing Simulation",
+                                          "Bastion Host",
+                                          "NGFW"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Threat Intelligence is directly used for using IOC/TTP feeds for proactive defense."
+                      },
+                      {
+                          "id":  233,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: detecting suspicious endpoint behavior and containment?",
+                          "options":  [
+                                          "Proxy Server",
+                                          "EDR",
+                                          "Hashing",
+                                          "Threat Intelligence"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "EDR is directly used for detecting suspicious endpoint behavior and containment."
+                      },
+                      {
+                          "id":  234,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: finding anomalies in network traffic patterns?",
+                          "options":  [
+                                          "IPS",
+                                          "Reverse Proxy",
+                                          "NGFW",
+                                          "NDR"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "NDR is directly used for finding anomalies in network traffic patterns."
+                      },
+                      {
+                          "id":  235,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: baselining user/entity behavior to flag anomalies?",
+                          "options":  [
+                                          "Segregation of Duties",
+                                          "Sandboxing",
+                                          "Key Rotation",
+                                          "UEBA"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "UEBA is directly used for baselining user/entity behavior to flag anomalies."
+                      },
+                      {
+                          "id":  236,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: restoring data after corruption or ransomware events?",
+                          "options":  [
+                                          "Backup",
+                                          "MFA",
+                                          "Network Segmentation",
+                                          "NGFW"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Backup is directly used for restoring data after corruption or ransomware events."
+                      },
+                      {
+                          "id":  237,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: preventing alteration/deletion of backup copies?",
+                          "options":  [
+                                          "Immutable Backup",
+                                          "Anti-Malware",
+                                          "Data Masking",
+                                          "Hashing"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Immutable Backup is directly used for preventing alteration/deletion of backup copies."
+                      },
+                      {
+                          "id":  238,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: restoring critical services after major disruption?",
+                          "options":  [
+                                          "SIEM",
+                                          "Vulnerability Scanning",
+                                          "IDS",
+                                          "Disaster Recovery Plan"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Disaster Recovery Plan is directly used for restoring critical services after major disruption."
+                      },
+                      {
+                          "id":  239,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: maintaining operations during disruptions?",
+                          "options":  [
+                                          "Backup",
+                                          "Firewall",
+                                          "Data Masking",
+                                          "Business Continuity Plan"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Business Continuity Plan is directly used for maintaining operations during disruptions."
+                      },
+                      {
+                          "id":  240,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: defining maximum acceptable service restoration time?",
+                          "options":  [
+                                          "Email DKIM",
+                                          "Stateful Firewall",
+                                          "RTO",
+                                          "Backup"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "RTO is directly used for defining maximum acceptable service restoration time."
+                      },
+                      {
+                          "id":  241,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: defining maximum acceptable data loss window?",
+                          "options":  [
+                                          "Zero Trust",
+                                          "Email DMARC",
+                                          "RPO",
+                                          "Biometric Authentication"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "RPO is directly used for defining maximum acceptable data loss window."
+                      },
+                      {
+                          "id":  242,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: testing and improving user awareness against social engineering?",
+                          "options":  [
+                                          "VPN Gateway",
+                                          "PCI DSS Compliance",
+                                          "Phishing Simulation",
+                                          "NGFW"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Phishing Simulation is directly used for testing and improving user awareness against social engineering."
+                      },
+                      {
+                          "id":  243,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: validating authorized sending servers for a domain?",
+                          "options":  [
+                                          "Email SPF",
+                                          "Tokenization",
+                                          "ZTNA",
+                                          "Key Rotation"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Email SPF is directly used for validating authorized sending servers for a domain."
+                      },
+                      {
+                          "id":  244,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: verifying email message integrity using signatures?",
+                          "options":  [
+                                          "AES-256",
+                                          "Patch Management",
+                                          "Least Privilege",
+                                          "Email DKIM"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Email DKIM is directly used for verifying email message integrity using signatures."
+                      },
+                      {
+                          "id":  245,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: domain policy enforcement using SPF/DKIM results?",
+                          "options":  [
+                                          "HSM",
+                                          "Business Continuity Plan",
+                                          "SIEM",
+                                          "Email DMARC"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Email DMARC is directly used for domain policy enforcement using SPF/DKIM results."
+                      },
+                      {
+                          "id":  246,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: detecting and removing known malicious software?",
+                          "options":  [
+                                          "Hashing",
+                                          "NDR",
+                                          "EDR",
+                                          "Anti-Malware"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Anti-Malware is directly used for detecting and removing known malicious software."
+                      },
+                      {
+                          "id":  247,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: executing suspicious files in isolated environment?",
+                          "options":  [
+                                          "IDS",
+                                          "NGFW",
+                                          "Immutable Backup",
+                                          "Sandboxing"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Sandboxing is directly used for executing suspicious files in isolated environment."
+                      },
+                      {
+                          "id":  248,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: integrating networking and security for distributed users?",
+                          "options":  [
+                                          "Business Continuity Plan",
+                                          "Email DKIM",
+                                          "NDR",
+                                          "SASE"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SASE is directly used for integrating networking and security for distributed users."
+                      },
+                      {
+                          "id":  249,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: application-level secure remote access without broad network trust?",
+                          "options":  [
+                                          "Key Rotation",
+                                          "SASE",
+                                          "ZTNA",
+                                          "Business Continuity Plan"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "ZTNA is directly used for application-level secure remote access without broad network trust."
+                      },
+                      {
+                          "id":  250,
+                          "question":  "In Bank/Regulatory SO IT context, which control is best associated with: securing cardholder data handling environments?",
+                          "options":  [
+                                          "PCI DSS Compliance",
+                                          "Firewall",
+                                          "Digital Signature",
+                                          "RTO"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "PCI DSS Compliance is directly used for securing cardholder data handling environments."
+                      }
+                  ]
+}

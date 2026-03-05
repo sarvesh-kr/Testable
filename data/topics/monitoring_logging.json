@@ -1,0 +1,3004 @@
+﻿{
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "Which monitoring/logging concept best matches: continuous observation of system and application health metrics?",
+                          "options":  [
+                                          "Monitoring",
+                                          "Correlation ID",
+                                          "False Negative",
+                                          "False Positive"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Monitoring is defined as: continuous observation of system and application health metrics."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "What is the most accurate description of \u0027Monitoring\u0027?",
+                          "options":  [
+                                          "component routing and deduplicating monitoring alerts",
+                                          "root cause analysis identifying underlying incident reason",
+                                          "continuous observation of system and application health metrics",
+                                          "capturing timestamped records of system and application events"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Monitoring refers to: continuous observation of system and application health metrics."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "\u0027Monitoring\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Tooling",
+                                          "Monitoring Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Monitoring is mainly part of Monitoring Fundamentals."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Monitoring -\u003e continuous observation of system and application health metrics",
+                                          "Anomaly Detection -\u003e continuous observation of system and application health metrics",
+                                          "MTTR -\u003e continuous observation of system and application health metrics",
+                                          "Log Rotation -\u003e continuous observation of system and application health metrics"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Monitoring -\u003e continuous observation of system and application health metrics\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "A Bank SO IT operations requirement states: continuous observation of system and application health metrics. Which concept should be selected?",
+                          "options":  [
+                                          "Monitoring",
+                                          "False Negative",
+                                          "Correlation ID",
+                                          "False Positive"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Monitoring."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "Which monitoring/logging concept best matches: capturing timestamped records of system and application events?",
+                          "options":  [
+                                          "MTTR",
+                                          "Log Sampling",
+                                          "Sensitive Data Masking",
+                                          "Logging"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Logging is defined as: capturing timestamped records of system and application events."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "What is the most accurate description of \u0027Logging\u0027?",
+                          "options":  [
+                                          "centralized collection of logs from multiple sources",
+                                          "capturing timestamped records of system and application events",
+                                          "normal behavior reference for anomaly detection",
+                                          "target reliability objective for service performance"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Logging refers to: capturing timestamped records of system and application events."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "\u0027Logging\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Incident Detection and Response",
+                                          "Monitoring Fundamentals",
+                                          "Monitoring Tooling"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Logging is mainly part of Monitoring Fundamentals."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "RCA -\u003e capturing timestamped records of system and application events",
+                                          "Logging -\u003e capturing timestamped records of system and application events",
+                                          "Prometheus -\u003e capturing timestamped records of system and application events",
+                                          "Log Rotation -\u003e capturing timestamped records of system and application events"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Logging -\u003e capturing timestamped records of system and application events\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "A Bank SO IT operations requirement states: capturing timestamped records of system and application events. Which concept should be selected?",
+                          "options":  [
+                                          "Logging",
+                                          "Log Sampling",
+                                          "MTTR",
+                                          "Sensitive Data Masking"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Logging."
+                      },
+                      {
+                          "id":  11,
+                          "question":  "Which monitoring/logging concept best matches: numeric measurements representing system behavior over time?",
+                          "options":  [
+                                          "Metrics",
+                                          "Prometheus",
+                                          "Monitoring",
+                                          "Apdex"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Metrics is defined as: numeric measurements representing system behavior over time."
+                      },
+                      {
+                          "id":  12,
+                          "question":  "What is the most accurate description of \u0027Metrics\u0027?",
+                          "options":  [
+                                          "initial assessment to classify and prioritize alerts",
+                                          "visualization platform for metrics and logs dashboards",
+                                          "numeric measurements representing system behavior over time",
+                                          "process extracting fields from raw log messages"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Metrics refers to: numeric measurements representing system behavior over time."
+                      },
+                      {
+                          "id":  13,
+                          "question":  "\u0027Metrics\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response",
+                                          "Monitoring Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Metrics is mainly part of Monitoring Fundamentals."
+                      },
+                      {
+                          "id":  14,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "OpenTelemetry -\u003e numeric measurements representing system behavior over time",
+                                          "Metrics -\u003e numeric measurements representing system behavior over time",
+                                          "Runbook Automation -\u003e numeric measurements representing system behavior over time",
+                                          "Real User Monitoring -\u003e numeric measurements representing system behavior over time"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Metrics -\u003e numeric measurements representing system behavior over time\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  15,
+                          "question":  "A Bank SO IT operations requirement states: numeric measurements representing system behavior over time. Which concept should be selected?",
+                          "options":  [
+                                          "Prometheus",
+                                          "Monitoring",
+                                          "Metrics",
+                                          "Apdex"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Metrics."
+                      },
+                      {
+                          "id":  16,
+                          "question":  "Which monitoring/logging concept best matches: end-to-end record of request journey across services?",
+                          "options":  [
+                                          "Audit Log",
+                                          "Error Rate",
+                                          "Trace",
+                                          "Anomaly Detection"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Trace is defined as: end-to-end record of request journey across services."
+                      },
+                      {
+                          "id":  17,
+                          "question":  "What is the most accurate description of \u0027Trace\u0027?",
+                          "options":  [
+                                          "end-to-end record of request journey across services",
+                                          "time taken to complete a request or operation",
+                                          "time-series monitoring system with pull-based scraping",
+                                          "target reliability objective for service performance"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Trace refers to: end-to-end record of request journey across services."
+                      },
+                      {
+                          "id":  18,
+                          "question":  "\u0027Trace\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Log Management",
+                                          "Monitoring Fundamentals",
+                                          "Monitoring Tooling"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Trace is mainly part of Monitoring Fundamentals."
+                      },
+                      {
+                          "id":  19,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Dashboard -\u003e end-to-end record of request journey across services",
+                                          "Postmortem -\u003e end-to-end record of request journey across services",
+                                          "Metrics -\u003e end-to-end record of request journey across services",
+                                          "Trace -\u003e end-to-end record of request journey across services"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Trace -\u003e end-to-end record of request journey across services\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  20,
+                          "question":  "A Bank SO IT operations requirement states: end-to-end record of request journey across services. Which concept should be selected?",
+                          "options":  [
+                                          "Audit Log",
+                                          "Trace",
+                                          "Anomaly Detection",
+                                          "Error Rate"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Trace."
+                      },
+                      {
+                          "id":  21,
+                          "question":  "Which monitoring/logging concept best matches: ability to infer internal state from external telemetry?",
+                          "options":  [
+                                          "False Negative",
+                                          "Alert",
+                                          "Observability",
+                                          "Baseline"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Observability is defined as: ability to infer internal state from external telemetry."
+                      },
+                      {
+                          "id":  22,
+                          "question":  "What is the most accurate description of \u0027Observability\u0027?",
+                          "options":  [
+                                          "rules defining whom to notify when incidents persist",
+                                          "component routing and deduplicating monitoring alerts",
+                                          "time taken to complete a request or operation",
+                                          "ability to infer internal state from external telemetry"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Observability refers to: ability to infer internal state from external telemetry."
+                      },
+                      {
+                          "id":  23,
+                          "question":  "\u0027Observability\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Fundamentals",
+                                          "Log Management",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Tooling"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Observability is mainly part of Monitoring Fundamentals."
+                      },
+                      {
+                          "id":  24,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Throughput -\u003e ability to infer internal state from external telemetry",
+                                          "Log Rotation -\u003e ability to infer internal state from external telemetry",
+                                          "Prometheus -\u003e ability to infer internal state from external telemetry",
+                                          "Observability -\u003e ability to infer internal state from external telemetry"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Observability -\u003e ability to infer internal state from external telemetry\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  25,
+                          "question":  "A Bank SO IT operations requirement states: ability to infer internal state from external telemetry. Which concept should be selected?",
+                          "options":  [
+                                          "Observability",
+                                          "Baseline",
+                                          "Alert",
+                                          "False Negative"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Observability."
+                      },
+                      {
+                          "id":  26,
+                          "question":  "Which monitoring/logging concept best matches: visual interface summarizing key operational indicators?",
+                          "options":  [
+                                          "Sensitive Data Masking",
+                                          "Dashboard",
+                                          "Observability",
+                                          "Log Retention"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Dashboard is defined as: visual interface summarizing key operational indicators."
+                      },
+                      {
+                          "id":  27,
+                          "question":  "What is the most accurate description of \u0027Dashboard\u0027?",
+                          "options":  [
+                                          "techniques reducing redundant or low-value alerts",
+                                          "number of transactions processed per unit time",
+                                          "visual interface summarizing key operational indicators",
+                                          "initial assessment to classify and prioritize alerts"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Dashboard refers to: visual interface summarizing key operational indicators."
+                      },
+                      {
+                          "id":  28,
+                          "question":  "\u0027Dashboard\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Incident Detection and Response",
+                                          "Log Management",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Dashboard is mainly part of Monitoring Fundamentals."
+                      },
+                      {
+                          "id":  29,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Log Parsing -\u003e visual interface summarizing key operational indicators",
+                                          "False Positive -\u003e visual interface summarizing key operational indicators",
+                                          "Dashboard -\u003e visual interface summarizing key operational indicators",
+                                          "Observability -\u003e visual interface summarizing key operational indicators"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Dashboard -\u003e visual interface summarizing key operational indicators\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  30,
+                          "question":  "A Bank SO IT operations requirement states: visual interface summarizing key operational indicators. Which concept should be selected?",
+                          "options":  [
+                                          "Observability",
+                                          "Log Retention",
+                                          "Dashboard",
+                                          "Sensitive Data Masking"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Dashboard."
+                      },
+                      {
+                          "id":  31,
+                          "question":  "Which monitoring/logging concept best matches: notification triggered when metric/log rule condition is met?",
+                          "options":  [
+                                          "Alert",
+                                          "Availability",
+                                          "Throughput",
+                                          "False Negative"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Alert is defined as: notification triggered when metric/log rule condition is met."
+                      },
+                      {
+                          "id":  32,
+                          "question":  "What is the most accurate description of \u0027Alert\u0027?",
+                          "options":  [
+                                          "selective log capture to reduce volume and cost",
+                                          "identification of deviations from normal telemetry patterns",
+                                          "notification triggered when metric/log rule condition is met",
+                                          "visual interface summarizing key operational indicators"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Alert refers to: notification triggered when metric/log rule condition is met."
+                      },
+                      {
+                          "id":  33,
+                          "question":  "\u0027Alert\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response",
+                                          "Monitoring Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Alert is mainly part of Monitoring Fundamentals."
+                      },
+                      {
+                          "id":  34,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Alert -\u003e notification triggered when metric/log rule condition is met",
+                                          "Log Rotation -\u003e notification triggered when metric/log rule condition is met",
+                                          "Logging -\u003e notification triggered when metric/log rule condition is met",
+                                          "RCA -\u003e notification triggered when metric/log rule condition is met"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Alert -\u003e notification triggered when metric/log rule condition is met\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  35,
+                          "question":  "A Bank SO IT operations requirement states: notification triggered when metric/log rule condition is met. Which concept should be selected?",
+                          "options":  [
+                                          "Availability",
+                                          "False Negative",
+                                          "Throughput",
+                                          "Alert"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Alert."
+                      },
+                      {
+                          "id":  36,
+                          "question":  "Which monitoring/logging concept best matches: defined value boundary used for alert triggering?",
+                          "options":  [
+                                          "APM",
+                                          "SLO",
+                                          "Threshold",
+                                          "Apdex"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Threshold is defined as: defined value boundary used for alert triggering."
+                      },
+                      {
+                          "id":  37,
+                          "question":  "What is the most accurate description of \u0027Threshold\u0027?",
+                          "options":  [
+                                          "defined value boundary used for alert triggering",
+                                          "rules defining whom to notify when incidents persist",
+                                          "assigned engineer responsible for incident response during shift",
+                                          "number of transactions processed per unit time"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Threshold refers to: defined value boundary used for alert triggering."
+                      },
+                      {
+                          "id":  38,
+                          "question":  "\u0027Threshold\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Fundamentals",
+                                          "Service Reliability Metrics",
+                                          "Log Management",
+                                          "Monitoring Tooling"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Threshold is mainly part of Monitoring Fundamentals."
+                      },
+                      {
+                          "id":  39,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Escalation Policy -\u003e defined value boundary used for alert triggering",
+                                          "Apdex -\u003e defined value boundary used for alert triggering",
+                                          "Threshold -\u003e defined value boundary used for alert triggering",
+                                          "Alertmanager -\u003e defined value boundary used for alert triggering"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Threshold -\u003e defined value boundary used for alert triggering\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  40,
+                          "question":  "A Bank SO IT operations requirement states: defined value boundary used for alert triggering. Which concept should be selected?",
+                          "options":  [
+                                          "APM",
+                                          "SLO",
+                                          "Threshold",
+                                          "Apdex"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Threshold."
+                      },
+                      {
+                          "id":  41,
+                          "question":  "Which monitoring/logging concept best matches: normal behavior reference for anomaly detection?",
+                          "options":  [
+                                          "Escalation Policy",
+                                          "Baseline",
+                                          "War Room",
+                                          "Availability"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Baseline is defined as: normal behavior reference for anomaly detection."
+                      },
+                      {
+                          "id":  42,
+                          "question":  "What is the most accurate description of \u0027Baseline\u0027?",
+                          "options":  [
+                                          "normal behavior reference for anomaly detection",
+                                          "assigned engineer responsible for incident response during shift",
+                                          "formal agreement defining service performance commitments",
+                                          "percentage of requests resulting in failures"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Baseline refers to: normal behavior reference for anomaly detection."
+                      },
+                      {
+                          "id":  43,
+                          "question":  "\u0027Baseline\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Fundamentals",
+                                          "Service Reliability Metrics",
+                                          "Incident Detection and Response",
+                                          "Log Management"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Baseline is mainly part of Monitoring Fundamentals."
+                      },
+                      {
+                          "id":  44,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Trace -\u003e normal behavior reference for anomaly detection",
+                                          "Latency -\u003e normal behavior reference for anomaly detection",
+                                          "APM -\u003e normal behavior reference for anomaly detection",
+                                          "Baseline -\u003e normal behavior reference for anomaly detection"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Baseline -\u003e normal behavior reference for anomaly detection\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  45,
+                          "question":  "A Bank SO IT operations requirement states: normal behavior reference for anomaly detection. Which concept should be selected?",
+                          "options":  [
+                                          "War Room",
+                                          "Baseline",
+                                          "Availability",
+                                          "Escalation Policy"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Baseline."
+                      },
+                      {
+                          "id":  46,
+                          "question":  "Which monitoring/logging concept best matches: target reliability objective for service performance?",
+                          "options":  [
+                                          "Alert",
+                                          "SLO",
+                                          "RCA",
+                                          "Syslog"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SLO is defined as: target reliability objective for service performance."
+                      },
+                      {
+                          "id":  47,
+                          "question":  "What is the most accurate description of \u0027SLO\u0027?",
+                          "options":  [
+                                          "normal behavior reference for anomaly detection",
+                                          "mean time to restore service after failure",
+                                          "target reliability objective for service performance",
+                                          "selective log capture to reduce volume and cost"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SLO refers to: target reliability objective for service performance."
+                      },
+                      {
+                          "id":  48,
+                          "question":  "\u0027SLO\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Monitoring Tooling",
+                                          "Log Management",
+                                          "Monitoring Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "SLO is mainly part of Monitoring Fundamentals."
+                      },
+                      {
+                          "id":  49,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "ELK Stack -\u003e target reliability objective for service performance",
+                                          "Apdex -\u003e target reliability objective for service performance",
+                                          "OpenTelemetry -\u003e target reliability objective for service performance",
+                                          "SLO -\u003e target reliability objective for service performance"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027SLO -\u003e target reliability objective for service performance\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  50,
+                          "question":  "A Bank SO IT operations requirement states: target reliability objective for service performance. Which concept should be selected?",
+                          "options":  [
+                                          "SLO",
+                                          "RCA",
+                                          "Alert",
+                                          "Syslog"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to SLO."
+                      },
+                      {
+                          "id":  51,
+                          "question":  "Which monitoring/logging concept best matches: percentage of requests resulting in failures?",
+                          "options":  [
+                                          "Monitoring",
+                                          "Prometheus",
+                                          "War Room",
+                                          "Error Rate"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Error Rate is defined as: percentage of requests resulting in failures."
+                      },
+                      {
+                          "id":  52,
+                          "question":  "What is the most accurate description of \u0027Error Rate\u0027?",
+                          "options":  [
+                                          "index measuring user satisfaction based on response times",
+                                          "root cause analysis identifying underlying incident reason",
+                                          "missed detection where real issue was not alerted",
+                                          "percentage of requests resulting in failures"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Error Rate refers to: percentage of requests resulting in failures."
+                      },
+                      {
+                          "id":  53,
+                          "question":  "\u0027Error Rate\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Incident Detection and Response",
+                                          "Log Management",
+                                          "Monitoring Tooling",
+                                          "Service Reliability Metrics"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Error Rate is mainly part of Service Reliability Metrics."
+                      },
+                      {
+                          "id":  54,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Error Rate -\u003e percentage of requests resulting in failures",
+                                          "Observability -\u003e percentage of requests resulting in failures",
+                                          "Log Parsing -\u003e percentage of requests resulting in failures",
+                                          "Postmortem -\u003e percentage of requests resulting in failures"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Error Rate -\u003e percentage of requests resulting in failures\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  55,
+                          "question":  "A Bank SO IT operations requirement states: percentage of requests resulting in failures. Which concept should be selected?",
+                          "options":  [
+                                          "Prometheus",
+                                          "Error Rate",
+                                          "War Room",
+                                          "Monitoring"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Error Rate."
+                      },
+                      {
+                          "id":  56,
+                          "question":  "Which monitoring/logging concept best matches: time taken to complete a request or operation?",
+                          "options":  [
+                                          "Runbook Automation",
+                                          "Structured Logging",
+                                          "False Negative",
+                                          "Latency"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Latency is defined as: time taken to complete a request or operation."
+                      },
+                      {
+                          "id":  57,
+                          "question":  "What is the most accurate description of \u0027Latency\u0027?",
+                          "options":  [
+                                          "mean time to detect incident occurrence",
+                                          "visualization platform for metrics and logs dashboards",
+                                          "initial assessment to classify and prioritize alerts",
+                                          "time taken to complete a request or operation"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Latency refers to: time taken to complete a request or operation."
+                      },
+                      {
+                          "id":  58,
+                          "question":  "\u0027Latency\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Incident Detection and Response",
+                                          "Service Reliability Metrics",
+                                          "Log Management",
+                                          "Monitoring Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Latency is mainly part of Service Reliability Metrics."
+                      },
+                      {
+                          "id":  59,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "War Room -\u003e time taken to complete a request or operation",
+                                          "SLA -\u003e time taken to complete a request or operation",
+                                          "Incident Triage -\u003e time taken to complete a request or operation",
+                                          "Latency -\u003e time taken to complete a request or operation"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Latency -\u003e time taken to complete a request or operation\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  60,
+                          "question":  "A Bank SO IT operations requirement states: time taken to complete a request or operation. Which concept should be selected?",
+                          "options":  [
+                                          "Structured Logging",
+                                          "False Negative",
+                                          "Runbook Automation",
+                                          "Latency"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Latency."
+                      },
+                      {
+                          "id":  61,
+                          "question":  "Which monitoring/logging concept best matches: number of transactions processed per unit time?",
+                          "options":  [
+                                          "Structured Logging",
+                                          "ELK Stack",
+                                          "Alert",
+                                          "Throughput"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Throughput is defined as: number of transactions processed per unit time."
+                      },
+                      {
+                          "id":  62,
+                          "question":  "What is the most accurate description of \u0027Throughput\u0027?",
+                          "options":  [
+                                          "application performance monitoring for code-level diagnostics",
+                                          "identification of deviations from normal telemetry patterns",
+                                          "time-series monitoring system with pull-based scraping",
+                                          "number of transactions processed per unit time"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Throughput refers to: number of transactions processed per unit time."
+                      },
+                      {
+                          "id":  63,
+                          "question":  "\u0027Throughput\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Incident Detection and Response",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Tooling"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Throughput is mainly part of Service Reliability Metrics."
+                      },
+                      {
+                          "id":  64,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Error Rate -\u003e number of transactions processed per unit time",
+                                          "Throughput -\u003e number of transactions processed per unit time",
+                                          "Noise Reduction -\u003e number of transactions processed per unit time",
+                                          "MTTD -\u003e number of transactions processed per unit time"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Throughput -\u003e number of transactions processed per unit time\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  65,
+                          "question":  "A Bank SO IT operations requirement states: number of transactions processed per unit time. Which concept should be selected?",
+                          "options":  [
+                                          "Structured Logging",
+                                          "ELK Stack",
+                                          "Throughput",
+                                          "Alert"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Throughput."
+                      },
+                      {
+                          "id":  66,
+                          "question":  "Which monitoring/logging concept best matches: percentage of time service remains operational?",
+                          "options":  [
+                                          "Availability",
+                                          "Log Retention",
+                                          "Log Parsing",
+                                          "False Negative"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Availability is defined as: percentage of time service remains operational."
+                      },
+                      {
+                          "id":  67,
+                          "question":  "What is the most accurate description of \u0027Availability\u0027?",
+                          "options":  [
+                                          "latency value below which 99 percent requests complete",
+                                          "obscuring confidential fields in log output",
+                                          "assigned engineer responsible for incident response during shift",
+                                          "percentage of time service remains operational"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Availability refers to: percentage of time service remains operational."
+                      },
+                      {
+                          "id":  68,
+                          "question":  "\u0027Availability\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Incident Detection and Response",
+                                          "Monitoring Tooling",
+                                          "Monitoring Fundamentals"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Availability is mainly part of Service Reliability Metrics."
+                      },
+                      {
+                          "id":  69,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Runbook Automation -\u003e percentage of time service remains operational",
+                                          "Noise Reduction -\u003e percentage of time service remains operational",
+                                          "Availability -\u003e percentage of time service remains operational",
+                                          "Error Rate -\u003e percentage of time service remains operational"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Availability -\u003e percentage of time service remains operational\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  70,
+                          "question":  "A Bank SO IT operations requirement states: percentage of time service remains operational. Which concept should be selected?",
+                          "options":  [
+                                          "Log Retention",
+                                          "Availability",
+                                          "False Negative",
+                                          "Log Parsing"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Availability."
+                      },
+                      {
+                          "id":  71,
+                          "question":  "Which monitoring/logging concept best matches: mean time to detect incident occurrence?",
+                          "options":  [
+                                          "MTTD",
+                                          "Synthetic Monitoring",
+                                          "Audit Log",
+                                          "RCA"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "MTTD is defined as: mean time to detect incident occurrence."
+                      },
+                      {
+                          "id":  72,
+                          "question":  "What is the most accurate description of \u0027MTTD\u0027?",
+                          "options":  [
+                                          "logging format with parseable key-value fields",
+                                          "scheduled archival and replacement of active log files",
+                                          "mean time to detect incident occurrence",
+                                          "index measuring user satisfaction based on response times"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MTTD refers to: mean time to detect incident occurrence."
+                      },
+                      {
+                          "id":  73,
+                          "question":  "\u0027MTTD\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Fundamentals",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "MTTD is mainly part of Service Reliability Metrics."
+                      },
+                      {
+                          "id":  74,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "APM -\u003e mean time to detect incident occurrence",
+                                          "MTTD -\u003e mean time to detect incident occurrence",
+                                          "Threshold -\u003e mean time to detect incident occurrence",
+                                          "Dashboard -\u003e mean time to detect incident occurrence"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027MTTD -\u003e mean time to detect incident occurrence\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  75,
+                          "question":  "A Bank SO IT operations requirement states: mean time to detect incident occurrence. Which concept should be selected?",
+                          "options":  [
+                                          "RCA",
+                                          "MTTD",
+                                          "Synthetic Monitoring",
+                                          "Audit Log"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to MTTD."
+                      },
+                      {
+                          "id":  76,
+                          "question":  "Which monitoring/logging concept best matches: mean time to restore service after failure?",
+                          "options":  [
+                                          "Structured Logging",
+                                          "P99 Latency",
+                                          "MTTR",
+                                          "OpenTelemetry"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MTTR is defined as: mean time to restore service after failure."
+                      },
+                      {
+                          "id":  77,
+                          "question":  "What is the most accurate description of \u0027MTTR\u0027?",
+                          "options":  [
+                                          "mean time to restore service after failure",
+                                          "capturing timestamped records of system and application events",
+                                          "latency value below which 95 percent requests complete",
+                                          "alert indicating issue when none exists"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "MTTR refers to: mean time to restore service after failure."
+                      },
+                      {
+                          "id":  78,
+                          "question":  "\u0027MTTR\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Monitoring Fundamentals",
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "MTTR is mainly part of Service Reliability Metrics."
+                      },
+                      {
+                          "id":  79,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Alertmanager -\u003e mean time to restore service after failure",
+                                          "MTTR -\u003e mean time to restore service after failure",
+                                          "Dashboard -\u003e mean time to restore service after failure",
+                                          "Noise Reduction -\u003e mean time to restore service after failure"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027MTTR -\u003e mean time to restore service after failure\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  80,
+                          "question":  "A Bank SO IT operations requirement states: mean time to restore service after failure. Which concept should be selected?",
+                          "options":  [
+                                          "P99 Latency",
+                                          "Structured Logging",
+                                          "OpenTelemetry",
+                                          "MTTR"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to MTTR."
+                      },
+                      {
+                          "id":  81,
+                          "question":  "Which monitoring/logging concept best matches: latency value below which 95 percent requests complete?",
+                          "options":  [
+                                          "Threshold",
+                                          "P95 Latency",
+                                          "Prometheus",
+                                          "APM"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "P95 Latency is defined as: latency value below which 95 percent requests complete."
+                      },
+                      {
+                          "id":  82,
+                          "question":  "What is the most accurate description of \u0027P95 Latency\u0027?",
+                          "options":  [
+                                          "end-to-end record of request journey across services",
+                                          "visual interface summarizing key operational indicators",
+                                          "latency value below which 95 percent requests complete",
+                                          "scripted checks simulating user interactions periodically"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "P95 Latency refers to: latency value below which 95 percent requests complete."
+                      },
+                      {
+                          "id":  83,
+                          "question":  "\u0027P95 Latency\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Incident Detection and Response",
+                                          "Log Management",
+                                          "Monitoring Tooling"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "P95 Latency is mainly part of Service Reliability Metrics."
+                      },
+                      {
+                          "id":  84,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "P95 Latency -\u003e latency value below which 95 percent requests complete",
+                                          "Postmortem -\u003e latency value below which 95 percent requests complete",
+                                          "Latency -\u003e latency value below which 95 percent requests complete",
+                                          "MTTR -\u003e latency value below which 95 percent requests complete"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027P95 Latency -\u003e latency value below which 95 percent requests complete\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  85,
+                          "question":  "A Bank SO IT operations requirement states: latency value below which 95 percent requests complete. Which concept should be selected?",
+                          "options":  [
+                                          "Prometheus",
+                                          "P95 Latency",
+                                          "Threshold",
+                                          "APM"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to P95 Latency."
+                      },
+                      {
+                          "id":  86,
+                          "question":  "Which monitoring/logging concept best matches: latency value below which 99 percent requests complete?",
+                          "options":  [
+                                          "Metrics",
+                                          "P99 Latency",
+                                          "Grafana",
+                                          "Escalation Policy"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "P99 Latency is defined as: latency value below which 99 percent requests complete."
+                      },
+                      {
+                          "id":  87,
+                          "question":  "What is the most accurate description of \u0027P99 Latency\u0027?",
+                          "options":  [
+                                          "index measuring user satisfaction based on response times",
+                                          "target reliability objective for service performance",
+                                          "latency value below which 99 percent requests complete",
+                                          "continuous observation of system and application health metrics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "P99 Latency refers to: latency value below which 99 percent requests complete."
+                      },
+                      {
+                          "id":  88,
+                          "question":  "\u0027P99 Latency\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Monitoring Fundamentals",
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "P99 Latency is mainly part of Service Reliability Metrics."
+                      },
+                      {
+                          "id":  89,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "MTTR -\u003e latency value below which 99 percent requests complete",
+                                          "Noise Reduction -\u003e latency value below which 99 percent requests complete",
+                                          "P99 Latency -\u003e latency value below which 99 percent requests complete",
+                                          "SLA -\u003e latency value below which 99 percent requests complete"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027P99 Latency -\u003e latency value below which 99 percent requests complete\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  90,
+                          "question":  "A Bank SO IT operations requirement states: latency value below which 99 percent requests complete. Which concept should be selected?",
+                          "options":  [
+                                          "Escalation Policy",
+                                          "Grafana",
+                                          "P99 Latency",
+                                          "Metrics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to P99 Latency."
+                      },
+                      {
+                          "id":  91,
+                          "question":  "Which monitoring/logging concept best matches: index measuring user satisfaction based on response times?",
+                          "options":  [
+                                          "Anomaly Detection",
+                                          "False Positive",
+                                          "MTTR",
+                                          "Apdex"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Apdex is defined as: index measuring user satisfaction based on response times."
+                      },
+                      {
+                          "id":  92,
+                          "question":  "What is the most accurate description of \u0027Apdex\u0027?",
+                          "options":  [
+                                          "end-to-end record of request journey across services",
+                                          "percentage of time service remains operational",
+                                          "standard framework for metrics, traces, and logs instrumentation",
+                                          "index measuring user satisfaction based on response times"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Apdex refers to: index measuring user satisfaction based on response times."
+                      },
+                      {
+                          "id":  93,
+                          "question":  "\u0027Apdex\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Tooling",
+                                          "Service Reliability Metrics",
+                                          "Log Management",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Apdex is mainly part of Service Reliability Metrics."
+                      },
+                      {
+                          "id":  94,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Correlation ID -\u003e index measuring user satisfaction based on response times",
+                                          "Syslog -\u003e index measuring user satisfaction based on response times",
+                                          "Incident Triage -\u003e index measuring user satisfaction based on response times",
+                                          "Apdex -\u003e index measuring user satisfaction based on response times"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Apdex -\u003e index measuring user satisfaction based on response times\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  95,
+                          "question":  "A Bank SO IT operations requirement states: index measuring user satisfaction based on response times. Which concept should be selected?",
+                          "options":  [
+                                          "MTTR",
+                                          "False Positive",
+                                          "Anomaly Detection",
+                                          "Apdex"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Apdex."
+                      },
+                      {
+                          "id":  96,
+                          "question":  "Which monitoring/logging concept best matches: formal agreement defining service performance commitments?",
+                          "options":  [
+                                          "Availability",
+                                          "Dashboard",
+                                          "SLA",
+                                          "SLO"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SLA is defined as: formal agreement defining service performance commitments."
+                      },
+                      {
+                          "id":  97,
+                          "question":  "What is the most accurate description of \u0027SLA\u0027?",
+                          "options":  [
+                                          "index measuring user satisfaction based on response times",
+                                          "formal agreement defining service performance commitments",
+                                          "coordinated collaboration channel during major incident",
+                                          "visualization platform for metrics and logs dashboards"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "SLA refers to: formal agreement defining service performance commitments."
+                      },
+                      {
+                          "id":  98,
+                          "question":  "\u0027SLA\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Incident Detection and Response",
+                                          "Monitoring Fundamentals",
+                                          "Service Reliability Metrics",
+                                          "Log Management"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "SLA is mainly part of Service Reliability Metrics."
+                      },
+                      {
+                          "id":  99,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Prometheus -\u003e formal agreement defining service performance commitments",
+                                          "Incident Triage -\u003e formal agreement defining service performance commitments",
+                                          "Alert -\u003e formal agreement defining service performance commitments",
+                                          "SLA -\u003e formal agreement defining service performance commitments"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027SLA -\u003e formal agreement defining service performance commitments\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  100,
+                          "question":  "A Bank SO IT operations requirement states: formal agreement defining service performance commitments. Which concept should be selected?",
+                          "options":  [
+                                          "Dashboard",
+                                          "SLA",
+                                          "Availability",
+                                          "SLO"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to SLA."
+                      },
+                      {
+                          "id":  101,
+                          "question":  "Which monitoring/logging concept best matches: logging format with parseable key-value fields?",
+                          "options":  [
+                                          "APM",
+                                          "Threshold",
+                                          "Structured Logging",
+                                          "Alert Fatigue"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Structured Logging is defined as: logging format with parseable key-value fields."
+                      },
+                      {
+                          "id":  102,
+                          "question":  "What is the most accurate description of \u0027Structured Logging\u0027?",
+                          "options":  [
+                                          "logging format with parseable key-value fields",
+                                          "visualization platform for metrics and logs dashboards",
+                                          "Elasticsearch, Logstash, Kibana stack for log analytics",
+                                          "notification triggered when metric/log rule condition is met"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Structured Logging refers to: logging format with parseable key-value fields."
+                      },
+                      {
+                          "id":  103,
+                          "question":  "\u0027Structured Logging\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response",
+                                          "Log Management",
+                                          "Monitoring Fundamentals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Structured Logging is mainly part of Log Management."
+                      },
+                      {
+                          "id":  104,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Monitoring -\u003e logging format with parseable key-value fields",
+                                          "Structured Logging -\u003e logging format with parseable key-value fields",
+                                          "Apdex -\u003e logging format with parseable key-value fields",
+                                          "On-Call -\u003e logging format with parseable key-value fields"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Structured Logging -\u003e logging format with parseable key-value fields\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  105,
+                          "question":  "A Bank SO IT operations requirement states: logging format with parseable key-value fields. Which concept should be selected?",
+                          "options":  [
+                                          "Alert Fatigue",
+                                          "Structured Logging",
+                                          "APM",
+                                          "Threshold"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Structured Logging."
+                      },
+                      {
+                          "id":  106,
+                          "question":  "Which monitoring/logging concept best matches: centralized collection of logs from multiple sources?",
+                          "options":  [
+                                          "ELK Stack",
+                                          "Threshold",
+                                          "Log Aggregation",
+                                          "Real User Monitoring"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Log Aggregation is defined as: centralized collection of logs from multiple sources."
+                      },
+                      {
+                          "id":  107,
+                          "question":  "What is the most accurate description of \u0027Log Aggregation\u0027?",
+                          "options":  [
+                                          "selective log capture to reduce volume and cost",
+                                          "process extracting fields from raw log messages",
+                                          "formal agreement defining service performance commitments",
+                                          "centralized collection of logs from multiple sources"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Log Aggregation refers to: centralized collection of logs from multiple sources."
+                      },
+                      {
+                          "id":  108,
+                          "question":  "\u0027Log Aggregation\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response",
+                                          "Service Reliability Metrics",
+                                          "Log Management"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Log Aggregation is mainly part of Log Management."
+                      },
+                      {
+                          "id":  109,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "RCA -\u003e centralized collection of logs from multiple sources",
+                                          "Incident Triage -\u003e centralized collection of logs from multiple sources",
+                                          "Log Aggregation -\u003e centralized collection of logs from multiple sources",
+                                          "Observability -\u003e centralized collection of logs from multiple sources"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Log Aggregation -\u003e centralized collection of logs from multiple sources\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  110,
+                          "question":  "A Bank SO IT operations requirement states: centralized collection of logs from multiple sources. Which concept should be selected?",
+                          "options":  [
+                                          "Threshold",
+                                          "ELK Stack",
+                                          "Log Aggregation",
+                                          "Real User Monitoring"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Log Aggregation."
+                      },
+                      {
+                          "id":  111,
+                          "question":  "Which monitoring/logging concept best matches: process extracting fields from raw log messages?",
+                          "options":  [
+                                          "ELK Stack",
+                                          "Log Parsing",
+                                          "Log Sampling",
+                                          "Sensitive Data Masking"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Log Parsing is defined as: process extracting fields from raw log messages."
+                      },
+                      {
+                          "id":  112,
+                          "question":  "What is the most accurate description of \u0027Log Parsing\u0027?",
+                          "options":  [
+                                          "process extracting fields from raw log messages",
+                                          "percentage of time service remains operational",
+                                          "identification of deviations from normal telemetry patterns",
+                                          "number of transactions processed per unit time"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Log Parsing refers to: process extracting fields from raw log messages."
+                      },
+                      {
+                          "id":  113,
+                          "question":  "\u0027Log Parsing\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Tooling",
+                                          "Service Reliability Metrics",
+                                          "Log Management",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Log Parsing is mainly part of Log Management."
+                      },
+                      {
+                          "id":  114,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Alert -\u003e process extracting fields from raw log messages",
+                                          "Threshold -\u003e process extracting fields from raw log messages",
+                                          "Noise Reduction -\u003e process extracting fields from raw log messages",
+                                          "Log Parsing -\u003e process extracting fields from raw log messages"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Log Parsing -\u003e process extracting fields from raw log messages\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  115,
+                          "question":  "A Bank SO IT operations requirement states: process extracting fields from raw log messages. Which concept should be selected?",
+                          "options":  [
+                                          "Log Parsing",
+                                          "Log Sampling",
+                                          "Sensitive Data Masking",
+                                          "ELK Stack"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Log Parsing."
+                      },
+                      {
+                          "id":  116,
+                          "question":  "Which monitoring/logging concept best matches: policy governing duration of log storage?",
+                          "options":  [
+                                          "Noise Reduction",
+                                          "Correlation ID",
+                                          "Log Retention",
+                                          "Audit Log"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Log Retention is defined as: policy governing duration of log storage."
+                      },
+                      {
+                          "id":  117,
+                          "question":  "What is the most accurate description of \u0027Log Retention\u0027?",
+                          "options":  [
+                                          "policy governing duration of log storage",
+                                          "ability to infer internal state from external telemetry",
+                                          "unique identifier linking related logs across services",
+                                          "blameless analysis documenting cause, impact, and improvements"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Log Retention refers to: policy governing duration of log storage."
+                      },
+                      {
+                          "id":  118,
+                          "question":  "\u0027Log Retention\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Tooling",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Fundamentals",
+                                          "Log Management"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Log Retention is mainly part of Log Management."
+                      },
+                      {
+                          "id":  119,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Logging -\u003e policy governing duration of log storage",
+                                          "Log Retention -\u003e policy governing duration of log storage",
+                                          "Real User Monitoring -\u003e policy governing duration of log storage",
+                                          "Observability -\u003e policy governing duration of log storage"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Log Retention -\u003e policy governing duration of log storage\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  120,
+                          "question":  "A Bank SO IT operations requirement states: policy governing duration of log storage. Which concept should be selected?",
+                          "options":  [
+                                          "Correlation ID",
+                                          "Noise Reduction",
+                                          "Log Retention",
+                                          "Audit Log"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Log Retention."
+                      },
+                      {
+                          "id":  121,
+                          "question":  "Which monitoring/logging concept best matches: scheduled archival and replacement of active log files?",
+                          "options":  [
+                                          "SLO",
+                                          "Log Rotation",
+                                          "OpenTelemetry",
+                                          "Alert"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Log Rotation is defined as: scheduled archival and replacement of active log files."
+                      },
+                      {
+                          "id":  122,
+                          "question":  "What is the most accurate description of \u0027Log Rotation\u0027?",
+                          "options":  [
+                                          "logging format with parseable key-value fields",
+                                          "target reliability objective for service performance",
+                                          "scripted checks simulating user interactions periodically",
+                                          "scheduled archival and replacement of active log files"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Log Rotation refers to: scheduled archival and replacement of active log files."
+                      },
+                      {
+                          "id":  123,
+                          "question":  "\u0027Log Rotation\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Monitoring Fundamentals",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Tooling"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Log Rotation is mainly part of Log Management."
+                      },
+                      {
+                          "id":  124,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Latency -\u003e scheduled archival and replacement of active log files",
+                                          "Alertmanager -\u003e scheduled archival and replacement of active log files",
+                                          "Error Rate -\u003e scheduled archival and replacement of active log files",
+                                          "Log Rotation -\u003e scheduled archival and replacement of active log files"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Log Rotation -\u003e scheduled archival and replacement of active log files\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  125,
+                          "question":  "A Bank SO IT operations requirement states: scheduled archival and replacement of active log files. Which concept should be selected?",
+                          "options":  [
+                                          "Log Rotation",
+                                          "Alert",
+                                          "SLO",
+                                          "OpenTelemetry"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Log Rotation."
+                      },
+                      {
+                          "id":  126,
+                          "question":  "Which monitoring/logging concept best matches: unique identifier linking related logs across services?",
+                          "options":  [
+                                          "Correlation ID",
+                                          "War Room",
+                                          "MTTR",
+                                          "False Negative"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Correlation ID is defined as: unique identifier linking related logs across services."
+                      },
+                      {
+                          "id":  127,
+                          "question":  "What is the most accurate description of \u0027Correlation ID\u0027?",
+                          "options":  [
+                                          "time-series monitoring system with pull-based scraping",
+                                          "coordinated collaboration channel during major incident",
+                                          "scheduled archival and replacement of active log files",
+                                          "unique identifier linking related logs across services"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Correlation ID refers to: unique identifier linking related logs across services."
+                      },
+                      {
+                          "id":  128,
+                          "question":  "\u0027Correlation ID\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Fundamentals",
+                                          "Incident Detection and Response",
+                                          "Log Management",
+                                          "Monitoring Tooling"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Correlation ID is mainly part of Log Management."
+                      },
+                      {
+                          "id":  129,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Threshold -\u003e unique identifier linking related logs across services",
+                                          "Correlation ID -\u003e unique identifier linking related logs across services",
+                                          "Trace -\u003e unique identifier linking related logs across services",
+                                          "Postmortem -\u003e unique identifier linking related logs across services"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Correlation ID -\u003e unique identifier linking related logs across services\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  130,
+                          "question":  "A Bank SO IT operations requirement states: unique identifier linking related logs across services. Which concept should be selected?",
+                          "options":  [
+                                          "War Room",
+                                          "Correlation ID",
+                                          "False Negative",
+                                          "MTTR"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Correlation ID."
+                      },
+                      {
+                          "id":  131,
+                          "question":  "Which monitoring/logging concept best matches: immutable record of security and administrative actions?",
+                          "options":  [
+                                          "P99 Latency",
+                                          "Audit Log",
+                                          "Alertmanager",
+                                          "Log Retention"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Audit Log is defined as: immutable record of security and administrative actions."
+                      },
+                      {
+                          "id":  132,
+                          "question":  "What is the most accurate description of \u0027Audit Log\u0027?",
+                          "options":  [
+                                          "automated execution of predefined remediation procedures",
+                                          "visual interface summarizing key operational indicators",
+                                          "logging format with parseable key-value fields",
+                                          "immutable record of security and administrative actions"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Audit Log refers to: immutable record of security and administrative actions."
+                      },
+                      {
+                          "id":  133,
+                          "question":  "\u0027Audit Log\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Service Reliability Metrics",
+                                          "Incident Detection and Response",
+                                          "Monitoring Fundamentals"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Audit Log is mainly part of Log Management."
+                      },
+                      {
+                          "id":  134,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Audit Log -\u003e immutable record of security and administrative actions",
+                                          "SLA -\u003e immutable record of security and administrative actions",
+                                          "Correlation ID -\u003e immutable record of security and administrative actions",
+                                          "False Positive -\u003e immutable record of security and administrative actions"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Audit Log -\u003e immutable record of security and administrative actions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  135,
+                          "question":  "A Bank SO IT operations requirement states: immutable record of security and administrative actions. Which concept should be selected?",
+                          "options":  [
+                                          "Alertmanager",
+                                          "Log Retention",
+                                          "Audit Log",
+                                          "P99 Latency"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Audit Log."
+                      },
+                      {
+                          "id":  136,
+                          "question":  "Which monitoring/logging concept best matches: standard protocol for forwarding log messages?",
+                          "options":  [
+                                          "False Negative",
+                                          "Syslog",
+                                          "P95 Latency",
+                                          "Log Sampling"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Syslog is defined as: standard protocol for forwarding log messages."
+                      },
+                      {
+                          "id":  137,
+                          "question":  "What is the most accurate description of \u0027Syslog\u0027?",
+                          "options":  [
+                                          "alert indicating issue when none exists",
+                                          "standard protocol for forwarding log messages",
+                                          "numeric measurements representing system behavior over time",
+                                          "formal agreement defining service performance commitments"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Syslog refers to: standard protocol for forwarding log messages."
+                      },
+                      {
+                          "id":  138,
+                          "question":  "\u0027Syslog\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Monitoring Fundamentals",
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Syslog is mainly part of Log Management."
+                      },
+                      {
+                          "id":  139,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Structured Logging -\u003e standard protocol for forwarding log messages",
+                                          "Syslog -\u003e standard protocol for forwarding log messages",
+                                          "Observability -\u003e standard protocol for forwarding log messages",
+                                          "Postmortem -\u003e standard protocol for forwarding log messages"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Syslog -\u003e standard protocol for forwarding log messages\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  140,
+                          "question":  "A Bank SO IT operations requirement states: standard protocol for forwarding log messages. Which concept should be selected?",
+                          "options":  [
+                                          "Log Sampling",
+                                          "P95 Latency",
+                                          "False Negative",
+                                          "Syslog"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Syslog."
+                      },
+                      {
+                          "id":  141,
+                          "question":  "Which monitoring/logging concept best matches: selective log capture to reduce volume and cost?",
+                          "options":  [
+                                          "Log Sampling",
+                                          "Monitoring",
+                                          "Baseline",
+                                          "Log Aggregation"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Log Sampling is defined as: selective log capture to reduce volume and cost."
+                      },
+                      {
+                          "id":  142,
+                          "question":  "What is the most accurate description of \u0027Log Sampling\u0027?",
+                          "options":  [
+                                          "latency value below which 95 percent requests complete",
+                                          "end-to-end record of request journey across services",
+                                          "selective log capture to reduce volume and cost",
+                                          "coordinated collaboration channel during major incident"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Log Sampling refers to: selective log capture to reduce volume and cost."
+                      },
+                      {
+                          "id":  143,
+                          "question":  "\u0027Log Sampling\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Incident Detection and Response",
+                                          "Monitoring Tooling",
+                                          "Monitoring Fundamentals"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Log Sampling is mainly part of Log Management."
+                      },
+                      {
+                          "id":  144,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Baseline -\u003e selective log capture to reduce volume and cost",
+                                          "Throughput -\u003e selective log capture to reduce volume and cost",
+                                          "Log Sampling -\u003e selective log capture to reduce volume and cost",
+                                          "ELK Stack -\u003e selective log capture to reduce volume and cost"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Log Sampling -\u003e selective log capture to reduce volume and cost\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  145,
+                          "question":  "A Bank SO IT operations requirement states: selective log capture to reduce volume and cost. Which concept should be selected?",
+                          "options":  [
+                                          "Monitoring",
+                                          "Baseline",
+                                          "Log Aggregation",
+                                          "Log Sampling"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Log Sampling."
+                      },
+                      {
+                          "id":  146,
+                          "question":  "Which monitoring/logging concept best matches: obscuring confidential fields in log output?",
+                          "options":  [
+                                          "Sensitive Data Masking",
+                                          "False Negative",
+                                          "OpenTelemetry",
+                                          "Escalation Policy"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Sensitive Data Masking is defined as: obscuring confidential fields in log output."
+                      },
+                      {
+                          "id":  147,
+                          "question":  "What is the most accurate description of \u0027Sensitive Data Masking\u0027?",
+                          "options":  [
+                                          "time taken to complete a request or operation",
+                                          "obscuring confidential fields in log output",
+                                          "ability to infer internal state from external telemetry",
+                                          "latency value below which 99 percent requests complete"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Sensitive Data Masking refers to: obscuring confidential fields in log output."
+                      },
+                      {
+                          "id":  148,
+                          "question":  "\u0027Sensitive Data Masking\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Tooling",
+                                          "Service Reliability Metrics",
+                                          "Log Management",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Sensitive Data Masking is mainly part of Log Management."
+                      },
+                      {
+                          "id":  149,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Syslog -\u003e obscuring confidential fields in log output",
+                                          "Audit Log -\u003e obscuring confidential fields in log output",
+                                          "Baseline -\u003e obscuring confidential fields in log output",
+                                          "Sensitive Data Masking -\u003e obscuring confidential fields in log output"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Sensitive Data Masking -\u003e obscuring confidential fields in log output\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  150,
+                          "question":  "A Bank SO IT operations requirement states: obscuring confidential fields in log output. Which concept should be selected?",
+                          "options":  [
+                                          "OpenTelemetry",
+                                          "Escalation Policy",
+                                          "False Negative",
+                                          "Sensitive Data Masking"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Sensitive Data Masking."
+                      },
+                      {
+                          "id":  151,
+                          "question":  "Which monitoring/logging concept best matches: time-series monitoring system with pull-based scraping?",
+                          "options":  [
+                                          "Real User Monitoring",
+                                          "Metrics",
+                                          "Log Retention",
+                                          "Prometheus"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Prometheus is defined as: time-series monitoring system with pull-based scraping."
+                      },
+                      {
+                          "id":  152,
+                          "question":  "What is the most accurate description of \u0027Prometheus\u0027?",
+                          "options":  [
+                                          "logging format with parseable key-value fields",
+                                          "end-to-end record of request journey across services",
+                                          "time-series monitoring system with pull-based scraping",
+                                          "rules defining whom to notify when incidents persist"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Prometheus refers to: time-series monitoring system with pull-based scraping."
+                      },
+                      {
+                          "id":  153,
+                          "question":  "\u0027Prometheus\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Incident Detection and Response",
+                                          "Log Management",
+                                          "Monitoring Tooling"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Prometheus is mainly part of Monitoring Tooling."
+                      },
+                      {
+                          "id":  154,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Prometheus -\u003e time-series monitoring system with pull-based scraping",
+                                          "RCA -\u003e time-series monitoring system with pull-based scraping",
+                                          "Dashboard -\u003e time-series monitoring system with pull-based scraping",
+                                          "APM -\u003e time-series monitoring system with pull-based scraping"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Prometheus -\u003e time-series monitoring system with pull-based scraping\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  155,
+                          "question":  "A Bank SO IT operations requirement states: time-series monitoring system with pull-based scraping. Which concept should be selected?",
+                          "options":  [
+                                          "Prometheus",
+                                          "Real User Monitoring",
+                                          "Log Retention",
+                                          "Metrics"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Prometheus."
+                      },
+                      {
+                          "id":  156,
+                          "question":  "Which monitoring/logging concept best matches: visualization platform for metrics and logs dashboards?",
+                          "options":  [
+                                          "SLA",
+                                          "Alert Fatigue",
+                                          "Grafana",
+                                          "Postmortem"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Grafana is defined as: visualization platform for metrics and logs dashboards."
+                      },
+                      {
+                          "id":  157,
+                          "question":  "What is the most accurate description of \u0027Grafana\u0027?",
+                          "options":  [
+                                          "visualization platform for metrics and logs dashboards",
+                                          "latency value below which 95 percent requests complete",
+                                          "coordinated collaboration channel during major incident",
+                                          "alert indicating issue when none exists"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Grafana refers to: visualization platform for metrics and logs dashboards."
+                      },
+                      {
+                          "id":  158,
+                          "question":  "\u0027Grafana\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Monitoring Fundamentals",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Tooling"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Grafana is mainly part of Monitoring Tooling."
+                      },
+                      {
+                          "id":  159,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "MTTD -\u003e visualization platform for metrics and logs dashboards",
+                                          "Grafana -\u003e visualization platform for metrics and logs dashboards",
+                                          "Availability -\u003e visualization platform for metrics and logs dashboards",
+                                          "Alert Fatigue -\u003e visualization platform for metrics and logs dashboards"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Grafana -\u003e visualization platform for metrics and logs dashboards\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  160,
+                          "question":  "A Bank SO IT operations requirement states: visualization platform for metrics and logs dashboards. Which concept should be selected?",
+                          "options":  [
+                                          "Postmortem",
+                                          "Grafana",
+                                          "Alert Fatigue",
+                                          "SLA"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Grafana."
+                      },
+                      {
+                          "id":  161,
+                          "question":  "Which monitoring/logging concept best matches: Elasticsearch, Logstash, Kibana stack for log analytics?",
+                          "options":  [
+                                          "Log Rotation",
+                                          "Logging",
+                                          "ELK Stack",
+                                          "Dashboard"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "ELK Stack is defined as: Elasticsearch, Logstash, Kibana stack for log analytics."
+                      },
+                      {
+                          "id":  162,
+                          "question":  "What is the most accurate description of \u0027ELK Stack\u0027?",
+                          "options":  [
+                                          "techniques reducing redundant or low-value alerts",
+                                          "root cause analysis identifying underlying incident reason",
+                                          "capturing timestamped records of system and application events",
+                                          "Elasticsearch, Logstash, Kibana stack for log analytics"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "ELK Stack refers to: Elasticsearch, Logstash, Kibana stack for log analytics."
+                      },
+                      {
+                          "id":  163,
+                          "question":  "\u0027ELK Stack\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Tooling",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Fundamentals",
+                                          "Log Management"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "ELK Stack is mainly part of Monitoring Tooling."
+                      },
+                      {
+                          "id":  164,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "ELK Stack -\u003e Elasticsearch, Logstash, Kibana stack for log analytics",
+                                          "SLA -\u003e Elasticsearch, Logstash, Kibana stack for log analytics",
+                                          "Alert -\u003e Elasticsearch, Logstash, Kibana stack for log analytics",
+                                          "MTTD -\u003e Elasticsearch, Logstash, Kibana stack for log analytics"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027ELK Stack -\u003e Elasticsearch, Logstash, Kibana stack for log analytics\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  165,
+                          "question":  "A Bank SO IT operations requirement states: Elasticsearch, Logstash, Kibana stack for log analytics. Which concept should be selected?",
+                          "options":  [
+                                          "Dashboard",
+                                          "ELK Stack",
+                                          "Log Rotation",
+                                          "Logging"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to ELK Stack."
+                      },
+                      {
+                          "id":  166,
+                          "question":  "Which monitoring/logging concept best matches: standard framework for metrics, traces, and logs instrumentation?",
+                          "options":  [
+                                          "Log Aggregation",
+                                          "MTTD",
+                                          "Runbook Automation",
+                                          "OpenTelemetry"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "OpenTelemetry is defined as: standard framework for metrics, traces, and logs instrumentation."
+                      },
+                      {
+                          "id":  167,
+                          "question":  "What is the most accurate description of \u0027OpenTelemetry\u0027?",
+                          "options":  [
+                                          "obscuring confidential fields in log output",
+                                          "standard framework for metrics, traces, and logs instrumentation",
+                                          "blameless analysis documenting cause, impact, and improvements",
+                                          "Elasticsearch, Logstash, Kibana stack for log analytics"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "OpenTelemetry refers to: standard framework for metrics, traces, and logs instrumentation."
+                      },
+                      {
+                          "id":  168,
+                          "question":  "\u0027OpenTelemetry\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response",
+                                          "Log Management"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "OpenTelemetry is mainly part of Monitoring Tooling."
+                      },
+                      {
+                          "id":  169,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Log Sampling -\u003e standard framework for metrics, traces, and logs instrumentation",
+                                          "Alert Fatigue -\u003e standard framework for metrics, traces, and logs instrumentation",
+                                          "OpenTelemetry -\u003e standard framework for metrics, traces, and logs instrumentation",
+                                          "MTTR -\u003e standard framework for metrics, traces, and logs instrumentation"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027OpenTelemetry -\u003e standard framework for metrics, traces, and logs instrumentation\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  170,
+                          "question":  "A Bank SO IT operations requirement states: standard framework for metrics, traces, and logs instrumentation. Which concept should be selected?",
+                          "options":  [
+                                          "OpenTelemetry",
+                                          "MTTD",
+                                          "Runbook Automation",
+                                          "Log Aggregation"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to OpenTelemetry."
+                      },
+                      {
+                          "id":  171,
+                          "question":  "Which monitoring/logging concept best matches: application performance monitoring for code-level diagnostics?",
+                          "options":  [
+                                          "OpenTelemetry",
+                                          "MTTR",
+                                          "APM",
+                                          "Logging"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "APM is defined as: application performance monitoring for code-level diagnostics."
+                      },
+                      {
+                          "id":  172,
+                          "question":  "What is the most accurate description of \u0027APM\u0027?",
+                          "options":  [
+                                          "visual interface summarizing key operational indicators",
+                                          "application performance monitoring for code-level diagnostics",
+                                          "capturing timestamped records of system and application events",
+                                          "end-to-end record of request journey across services"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "APM refers to: application performance monitoring for code-level diagnostics."
+                      },
+                      {
+                          "id":  173,
+                          "question":  "\u0027APM\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Fundamentals",
+                                          "Log Management",
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "APM is mainly part of Monitoring Tooling."
+                      },
+                      {
+                          "id":  174,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Noise Reduction -\u003e application performance monitoring for code-level diagnostics",
+                                          "Prometheus -\u003e application performance monitoring for code-level diagnostics",
+                                          "APM -\u003e application performance monitoring for code-level diagnostics",
+                                          "Availability -\u003e application performance monitoring for code-level diagnostics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027APM -\u003e application performance monitoring for code-level diagnostics\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  175,
+                          "question":  "A Bank SO IT operations requirement states: application performance monitoring for code-level diagnostics. Which concept should be selected?",
+                          "options":  [
+                                          "APM",
+                                          "MTTR",
+                                          "OpenTelemetry",
+                                          "Logging"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to APM."
+                      },
+                      {
+                          "id":  176,
+                          "question":  "Which monitoring/logging concept best matches: scripted checks simulating user interactions periodically?",
+                          "options":  [
+                                          "Trace",
+                                          "Synthetic Monitoring",
+                                          "Log Retention",
+                                          "Incident Triage"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Synthetic Monitoring is defined as: scripted checks simulating user interactions periodically."
+                      },
+                      {
+                          "id":  177,
+                          "question":  "What is the most accurate description of \u0027Synthetic Monitoring\u0027?",
+                          "options":  [
+                                          "number of transactions processed per unit time",
+                                          "scripted checks simulating user interactions periodically",
+                                          "desensitization due to excessive non-actionable alerts",
+                                          "collection of performance data from actual user sessions"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Synthetic Monitoring refers to: scripted checks simulating user interactions periodically."
+                      },
+                      {
+                          "id":  178,
+                          "question":  "\u0027Synthetic Monitoring\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response",
+                                          "Service Reliability Metrics",
+                                          "Log Management"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Synthetic Monitoring is mainly part of Monitoring Tooling."
+                      },
+                      {
+                          "id":  179,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Synthetic Monitoring -\u003e scripted checks simulating user interactions periodically",
+                                          "Anomaly Detection -\u003e scripted checks simulating user interactions periodically",
+                                          "Throughput -\u003e scripted checks simulating user interactions periodically",
+                                          "P95 Latency -\u003e scripted checks simulating user interactions periodically"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Synthetic Monitoring -\u003e scripted checks simulating user interactions periodically\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  180,
+                          "question":  "A Bank SO IT operations requirement states: scripted checks simulating user interactions periodically. Which concept should be selected?",
+                          "options":  [
+                                          "Log Retention",
+                                          "Trace",
+                                          "Incident Triage",
+                                          "Synthetic Monitoring"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Synthetic Monitoring."
+                      },
+                      {
+                          "id":  181,
+                          "question":  "Which monitoring/logging concept best matches: collection of performance data from actual user sessions?",
+                          "options":  [
+                                          "Log Parsing",
+                                          "Logging",
+                                          "Real User Monitoring",
+                                          "Threshold"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Real User Monitoring is defined as: collection of performance data from actual user sessions."
+                      },
+                      {
+                          "id":  182,
+                          "question":  "What is the most accurate description of \u0027Real User Monitoring\u0027?",
+                          "options":  [
+                                          "capturing timestamped records of system and application events",
+                                          "collection of performance data from actual user sessions",
+                                          "obscuring confidential fields in log output",
+                                          "number of transactions processed per unit time"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Real User Monitoring refers to: collection of performance data from actual user sessions."
+                      },
+                      {
+                          "id":  183,
+                          "question":  "\u0027Real User Monitoring\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Incident Detection and Response",
+                                          "Log Management",
+                                          "Monitoring Tooling"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Real User Monitoring is mainly part of Monitoring Tooling."
+                      },
+                      {
+                          "id":  184,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Real User Monitoring -\u003e collection of performance data from actual user sessions",
+                                          "MTTR -\u003e collection of performance data from actual user sessions",
+                                          "Throughput -\u003e collection of performance data from actual user sessions",
+                                          "Apdex -\u003e collection of performance data from actual user sessions"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Real User Monitoring -\u003e collection of performance data from actual user sessions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  185,
+                          "question":  "A Bank SO IT operations requirement states: collection of performance data from actual user sessions. Which concept should be selected?",
+                          "options":  [
+                                          "Real User Monitoring",
+                                          "Log Parsing",
+                                          "Threshold",
+                                          "Logging"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Real User Monitoring."
+                      },
+                      {
+                          "id":  186,
+                          "question":  "Which monitoring/logging concept best matches: component routing and deduplicating monitoring alerts?",
+                          "options":  [
+                                          "Alert",
+                                          "Alertmanager",
+                                          "Correlation ID",
+                                          "Real User Monitoring"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Alertmanager is defined as: component routing and deduplicating monitoring alerts."
+                      },
+                      {
+                          "id":  187,
+                          "question":  "What is the most accurate description of \u0027Alertmanager\u0027?",
+                          "options":  [
+                                          "scheduled archival and replacement of active log files",
+                                          "component routing and deduplicating monitoring alerts",
+                                          "numeric measurements representing system behavior over time",
+                                          "scripted checks simulating user interactions periodically"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Alertmanager refers to: component routing and deduplicating monitoring alerts."
+                      },
+                      {
+                          "id":  188,
+                          "question":  "\u0027Alertmanager\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Incident Detection and Response",
+                                          "Log Management",
+                                          "Monitoring Tooling"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Alertmanager is mainly part of Monitoring Tooling."
+                      },
+                      {
+                          "id":  189,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Real User Monitoring -\u003e component routing and deduplicating monitoring alerts",
+                                          "Logging -\u003e component routing and deduplicating monitoring alerts",
+                                          "Prometheus -\u003e component routing and deduplicating monitoring alerts",
+                                          "Alertmanager -\u003e component routing and deduplicating monitoring alerts"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Alertmanager -\u003e component routing and deduplicating monitoring alerts\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  190,
+                          "question":  "A Bank SO IT operations requirement states: component routing and deduplicating monitoring alerts. Which concept should be selected?",
+                          "options":  [
+                                          "Real User Monitoring",
+                                          "Alertmanager",
+                                          "Alert",
+                                          "Correlation ID"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Alertmanager."
+                      },
+                      {
+                          "id":  191,
+                          "question":  "Which monitoring/logging concept best matches: assigned engineer responsible for incident response during shift?",
+                          "options":  [
+                                          "MTTD",
+                                          "Logging",
+                                          "On-Call",
+                                          "Audit Log"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "On-Call is defined as: assigned engineer responsible for incident response during shift."
+                      },
+                      {
+                          "id":  192,
+                          "question":  "What is the most accurate description of \u0027On-Call\u0027?",
+                          "options":  [
+                                          "ability to infer internal state from external telemetry",
+                                          "selective log capture to reduce volume and cost",
+                                          "percentage of time service remains operational",
+                                          "assigned engineer responsible for incident response during shift"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "On-Call refers to: assigned engineer responsible for incident response during shift."
+                      },
+                      {
+                          "id":  193,
+                          "question":  "\u0027On-Call\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Incident Detection and Response",
+                                          "Monitoring Tooling",
+                                          "Log Management"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "On-Call is mainly part of Monitoring Tooling."
+                      },
+                      {
+                          "id":  194,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Runbook Automation -\u003e assigned engineer responsible for incident response during shift",
+                                          "P95 Latency -\u003e assigned engineer responsible for incident response during shift",
+                                          "Error Rate -\u003e assigned engineer responsible for incident response during shift",
+                                          "On-Call -\u003e assigned engineer responsible for incident response during shift"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027On-Call -\u003e assigned engineer responsible for incident response during shift\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  195,
+                          "question":  "A Bank SO IT operations requirement states: assigned engineer responsible for incident response during shift. Which concept should be selected?",
+                          "options":  [
+                                          "Audit Log",
+                                          "Logging",
+                                          "MTTD",
+                                          "On-Call"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to On-Call."
+                      },
+                      {
+                          "id":  196,
+                          "question":  "Which monitoring/logging concept best matches: automated execution of predefined remediation procedures?",
+                          "options":  [
+                                          "Prometheus",
+                                          "Runbook Automation",
+                                          "Alertmanager",
+                                          "Log Rotation"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Runbook Automation is defined as: automated execution of predefined remediation procedures."
+                      },
+                      {
+                          "id":  197,
+                          "question":  "What is the most accurate description of \u0027Runbook Automation\u0027?",
+                          "options":  [
+                                          "blameless analysis documenting cause, impact, and improvements",
+                                          "automated execution of predefined remediation procedures",
+                                          "visual interface summarizing key operational indicators",
+                                          "ability to infer internal state from external telemetry"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Runbook Automation refers to: automated execution of predefined remediation procedures."
+                      },
+                      {
+                          "id":  198,
+                          "question":  "\u0027Runbook Automation\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Tooling",
+                                          "Monitoring Fundamentals",
+                                          "Log Management",
+                                          "Service Reliability Metrics"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Runbook Automation is mainly part of Monitoring Tooling."
+                      },
+                      {
+                          "id":  199,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Monitoring -\u003e automated execution of predefined remediation procedures",
+                                          "Runbook Automation -\u003e automated execution of predefined remediation procedures",
+                                          "Latency -\u003e automated execution of predefined remediation procedures",
+                                          "MTTD -\u003e automated execution of predefined remediation procedures"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Runbook Automation -\u003e automated execution of predefined remediation procedures\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  200,
+                          "question":  "A Bank SO IT operations requirement states: automated execution of predefined remediation procedures. Which concept should be selected?",
+                          "options":  [
+                                          "Prometheus",
+                                          "Log Rotation",
+                                          "Alertmanager",
+                                          "Runbook Automation"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Runbook Automation."
+                      },
+                      {
+                          "id":  201,
+                          "question":  "Which monitoring/logging concept best matches: identification of deviations from normal telemetry patterns?",
+                          "options":  [
+                                          "Anomaly Detection",
+                                          "Log Rotation",
+                                          "Real User Monitoring",
+                                          "Log Sampling"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Anomaly Detection is defined as: identification of deviations from normal telemetry patterns."
+                      },
+                      {
+                          "id":  202,
+                          "question":  "What is the most accurate description of \u0027Anomaly Detection\u0027?",
+                          "options":  [
+                                          "desensitization due to excessive non-actionable alerts",
+                                          "standard protocol for forwarding log messages",
+                                          "blameless analysis documenting cause, impact, and improvements",
+                                          "identification of deviations from normal telemetry patterns"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Anomaly Detection refers to: identification of deviations from normal telemetry patterns."
+                      },
+                      {
+                          "id":  203,
+                          "question":  "\u0027Anomaly Detection\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Tooling",
+                                          "Log Management",
+                                          "Service Reliability Metrics",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Anomaly Detection is mainly part of Incident Detection and Response."
+                      },
+                      {
+                          "id":  204,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Prometheus -\u003e identification of deviations from normal telemetry patterns",
+                                          "Anomaly Detection -\u003e identification of deviations from normal telemetry patterns",
+                                          "Throughput -\u003e identification of deviations from normal telemetry patterns",
+                                          "Alert -\u003e identification of deviations from normal telemetry patterns"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Anomaly Detection -\u003e identification of deviations from normal telemetry patterns\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  205,
+                          "question":  "A Bank SO IT operations requirement states: identification of deviations from normal telemetry patterns. Which concept should be selected?",
+                          "options":  [
+                                          "Anomaly Detection",
+                                          "Log Sampling",
+                                          "Real User Monitoring",
+                                          "Log Rotation"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Anomaly Detection."
+                      },
+                      {
+                          "id":  206,
+                          "question":  "Which monitoring/logging concept best matches: initial assessment to classify and prioritize alerts?",
+                          "options":  [
+                                          "Postmortem",
+                                          "Apdex",
+                                          "P99 Latency",
+                                          "Incident Triage"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Incident Triage is defined as: initial assessment to classify and prioritize alerts."
+                      },
+                      {
+                          "id":  207,
+                          "question":  "What is the most accurate description of \u0027Incident Triage\u0027?",
+                          "options":  [
+                                          "process extracting fields from raw log messages",
+                                          "initial assessment to classify and prioritize alerts",
+                                          "percentage of requests resulting in failures",
+                                          "target reliability objective for service performance"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Incident Triage refers to: initial assessment to classify and prioritize alerts."
+                      },
+                      {
+                          "id":  208,
+                          "question":  "\u0027Incident Triage\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Tooling",
+                                          "Service Reliability Metrics",
+                                          "Log Management",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Incident Triage is mainly part of Incident Detection and Response."
+                      },
+                      {
+                          "id":  209,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Structured Logging -\u003e initial assessment to classify and prioritize alerts",
+                                          "Availability -\u003e initial assessment to classify and prioritize alerts",
+                                          "Incident Triage -\u003e initial assessment to classify and prioritize alerts",
+                                          "Baseline -\u003e initial assessment to classify and prioritize alerts"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Incident Triage -\u003e initial assessment to classify and prioritize alerts\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  210,
+                          "question":  "A Bank SO IT operations requirement states: initial assessment to classify and prioritize alerts. Which concept should be selected?",
+                          "options":  [
+                                          "Postmortem",
+                                          "Apdex",
+                                          "P99 Latency",
+                                          "Incident Triage"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Incident Triage."
+                      },
+                      {
+                          "id":  211,
+                          "question":  "Which monitoring/logging concept best matches: alert indicating issue when none exists?",
+                          "options":  [
+                                          "False Positive",
+                                          "Anomaly Detection",
+                                          "Alertmanager",
+                                          "P95 Latency"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "False Positive is defined as: alert indicating issue when none exists."
+                      },
+                      {
+                          "id":  212,
+                          "question":  "What is the most accurate description of \u0027False Positive\u0027?",
+                          "options":  [
+                                          "alert indicating issue when none exists",
+                                          "continuous observation of system and application health metrics",
+                                          "scheduled archival and replacement of active log files",
+                                          "formal agreement defining service performance commitments"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "False Positive refers to: alert indicating issue when none exists."
+                      },
+                      {
+                          "id":  213,
+                          "question":  "\u0027False Positive\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Incident Detection and Response",
+                                          "Monitoring Fundamentals",
+                                          "Service Reliability Metrics",
+                                          "Log Management"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "False Positive is mainly part of Incident Detection and Response."
+                      },
+                      {
+                          "id":  214,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "P95 Latency -\u003e alert indicating issue when none exists",
+                                          "False Positive -\u003e alert indicating issue when none exists",
+                                          "Threshold -\u003e alert indicating issue when none exists",
+                                          "MTTD -\u003e alert indicating issue when none exists"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027False Positive -\u003e alert indicating issue when none exists\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  215,
+                          "question":  "A Bank SO IT operations requirement states: alert indicating issue when none exists. Which concept should be selected?",
+                          "options":  [
+                                          "Alertmanager",
+                                          "P95 Latency",
+                                          "Anomaly Detection",
+                                          "False Positive"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to False Positive."
+                      },
+                      {
+                          "id":  216,
+                          "question":  "Which monitoring/logging concept best matches: missed detection where real issue was not alerted?",
+                          "options":  [
+                                          "MTTD",
+                                          "Log Aggregation",
+                                          "False Negative",
+                                          "Alertmanager"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "False Negative is defined as: missed detection where real issue was not alerted."
+                      },
+                      {
+                          "id":  217,
+                          "question":  "What is the most accurate description of \u0027False Negative\u0027?",
+                          "options":  [
+                                          "missed detection where real issue was not alerted",
+                                          "blameless analysis documenting cause, impact, and improvements",
+                                          "number of transactions processed per unit time",
+                                          "formal agreement defining service performance commitments"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "False Negative refers to: missed detection where real issue was not alerted."
+                      },
+                      {
+                          "id":  218,
+                          "question":  "\u0027False Negative\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Fundamentals",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "False Negative is mainly part of Incident Detection and Response."
+                      },
+                      {
+                          "id":  219,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Escalation Policy -\u003e missed detection where real issue was not alerted",
+                                          "False Negative -\u003e missed detection where real issue was not alerted",
+                                          "Log Rotation -\u003e missed detection where real issue was not alerted",
+                                          "Noise Reduction -\u003e missed detection where real issue was not alerted"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027False Negative -\u003e missed detection where real issue was not alerted\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  220,
+                          "question":  "A Bank SO IT operations requirement states: missed detection where real issue was not alerted. Which concept should be selected?",
+                          "options":  [
+                                          "MTTD",
+                                          "Alertmanager",
+                                          "Log Aggregation",
+                                          "False Negative"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to False Negative."
+                      },
+                      {
+                          "id":  221,
+                          "question":  "Which monitoring/logging concept best matches: techniques reducing redundant or low-value alerts?",
+                          "options":  [
+                                          "Noise Reduction",
+                                          "Metrics",
+                                          "Dashboard",
+                                          "OpenTelemetry"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Noise Reduction is defined as: techniques reducing redundant or low-value alerts."
+                      },
+                      {
+                          "id":  222,
+                          "question":  "What is the most accurate description of \u0027Noise Reduction\u0027?",
+                          "options":  [
+                                          "selective log capture to reduce volume and cost",
+                                          "numeric measurements representing system behavior over time",
+                                          "techniques reducing redundant or low-value alerts",
+                                          "normal behavior reference for anomaly detection"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Noise Reduction refers to: techniques reducing redundant or low-value alerts."
+                      },
+                      {
+                          "id":  223,
+                          "question":  "\u0027Noise Reduction\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Incident Detection and Response",
+                                          "Monitoring Tooling",
+                                          "Monitoring Fundamentals",
+                                          "Service Reliability Metrics"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Noise Reduction is mainly part of Incident Detection and Response."
+                      },
+                      {
+                          "id":  224,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Noise Reduction -\u003e techniques reducing redundant or low-value alerts",
+                                          "Monitoring -\u003e techniques reducing redundant or low-value alerts",
+                                          "MTTR -\u003e techniques reducing redundant or low-value alerts",
+                                          "Syslog -\u003e techniques reducing redundant or low-value alerts"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Noise Reduction -\u003e techniques reducing redundant or low-value alerts\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  225,
+                          "question":  "A Bank SO IT operations requirement states: techniques reducing redundant or low-value alerts. Which concept should be selected?",
+                          "options":  [
+                                          "OpenTelemetry",
+                                          "Noise Reduction",
+                                          "Dashboard",
+                                          "Metrics"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Noise Reduction."
+                      },
+                      {
+                          "id":  226,
+                          "question":  "Which monitoring/logging concept best matches: desensitization due to excessive non-actionable alerts?",
+                          "options":  [
+                                          "Alert Fatigue",
+                                          "Latency",
+                                          "On-Call",
+                                          "Postmortem"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Alert Fatigue is defined as: desensitization due to excessive non-actionable alerts."
+                      },
+                      {
+                          "id":  227,
+                          "question":  "What is the most accurate description of \u0027Alert Fatigue\u0027?",
+                          "options":  [
+                                          "target reliability objective for service performance",
+                                          "desensitization due to excessive non-actionable alerts",
+                                          "automated execution of predefined remediation procedures",
+                                          "scheduled archival and replacement of active log files"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Alert Fatigue refers to: desensitization due to excessive non-actionable alerts."
+                      },
+                      {
+                          "id":  228,
+                          "question":  "\u0027Alert Fatigue\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Incident Detection and Response",
+                                          "Monitoring Tooling",
+                                          "Service Reliability Metrics"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Alert Fatigue is mainly part of Incident Detection and Response."
+                      },
+                      {
+                          "id":  229,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Log Rotation -\u003e desensitization due to excessive non-actionable alerts",
+                                          "Throughput -\u003e desensitization due to excessive non-actionable alerts",
+                                          "War Room -\u003e desensitization due to excessive non-actionable alerts",
+                                          "Alert Fatigue -\u003e desensitization due to excessive non-actionable alerts"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Alert Fatigue -\u003e desensitization due to excessive non-actionable alerts\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  230,
+                          "question":  "A Bank SO IT operations requirement states: desensitization due to excessive non-actionable alerts. Which concept should be selected?",
+                          "options":  [
+                                          "Postmortem",
+                                          "Alert Fatigue",
+                                          "Latency",
+                                          "On-Call"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Alert Fatigue."
+                      },
+                      {
+                          "id":  231,
+                          "question":  "Which monitoring/logging concept best matches: rules defining whom to notify when incidents persist?",
+                          "options":  [
+                                          "Escalation Policy",
+                                          "Runbook Automation",
+                                          "P95 Latency",
+                                          "RCA"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Escalation Policy is defined as: rules defining whom to notify when incidents persist."
+                      },
+                      {
+                          "id":  232,
+                          "question":  "What is the most accurate description of \u0027Escalation Policy\u0027?",
+                          "options":  [
+                                          "automated execution of predefined remediation procedures",
+                                          "rules defining whom to notify when incidents persist",
+                                          "percentage of requests resulting in failures",
+                                          "centralized collection of logs from multiple sources"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Escalation Policy refers to: rules defining whom to notify when incidents persist."
+                      },
+                      {
+                          "id":  233,
+                          "question":  "\u0027Escalation Policy\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Monitoring Tooling",
+                                          "Service Reliability Metrics",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Escalation Policy is mainly part of Incident Detection and Response."
+                      },
+                      {
+                          "id":  234,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Throughput -\u003e rules defining whom to notify when incidents persist",
+                                          "Sensitive Data Masking -\u003e rules defining whom to notify when incidents persist",
+                                          "Escalation Policy -\u003e rules defining whom to notify when incidents persist",
+                                          "Observability -\u003e rules defining whom to notify when incidents persist"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Escalation Policy -\u003e rules defining whom to notify when incidents persist\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  235,
+                          "question":  "A Bank SO IT operations requirement states: rules defining whom to notify when incidents persist. Which concept should be selected?",
+                          "options":  [
+                                          "Runbook Automation",
+                                          "P95 Latency",
+                                          "Escalation Policy",
+                                          "RCA"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Escalation Policy."
+                      },
+                      {
+                          "id":  236,
+                          "question":  "Which monitoring/logging concept best matches: coordinated collaboration channel during major incident?",
+                          "options":  [
+                                          "Real User Monitoring",
+                                          "War Room",
+                                          "Threshold",
+                                          "Audit Log"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "War Room is defined as: coordinated collaboration channel during major incident."
+                      },
+                      {
+                          "id":  237,
+                          "question":  "What is the most accurate description of \u0027War Room\u0027?",
+                          "options":  [
+                                          "Elasticsearch, Logstash, Kibana stack for log analytics",
+                                          "continuous observation of system and application health metrics",
+                                          "coordinated collaboration channel during major incident",
+                                          "visual interface summarizing key operational indicators"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "War Room refers to: coordinated collaboration channel during major incident."
+                      },
+                      {
+                          "id":  238,
+                          "question":  "\u0027War Room\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Fundamentals",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "War Room is mainly part of Incident Detection and Response."
+                      },
+                      {
+                          "id":  239,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Prometheus -\u003e coordinated collaboration channel during major incident",
+                                          "War Room -\u003e coordinated collaboration channel during major incident",
+                                          "Availability -\u003e coordinated collaboration channel during major incident",
+                                          "OpenTelemetry -\u003e coordinated collaboration channel during major incident"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027War Room -\u003e coordinated collaboration channel during major incident\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  240,
+                          "question":  "A Bank SO IT operations requirement states: coordinated collaboration channel during major incident. Which concept should be selected?",
+                          "options":  [
+                                          "Threshold",
+                                          "Real User Monitoring",
+                                          "Audit Log",
+                                          "War Room"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to War Room."
+                      },
+                      {
+                          "id":  241,
+                          "question":  "Which monitoring/logging concept best matches: blameless analysis documenting cause, impact, and improvements?",
+                          "options":  [
+                                          "Throughput",
+                                          "Log Sampling",
+                                          "Postmortem",
+                                          "Syslog"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Postmortem is defined as: blameless analysis documenting cause, impact, and improvements."
+                      },
+                      {
+                          "id":  242,
+                          "question":  "What is the most accurate description of \u0027Postmortem\u0027?",
+                          "options":  [
+                                          "end-to-end record of request journey across services",
+                                          "formal agreement defining service performance commitments",
+                                          "visualization platform for metrics and logs dashboards",
+                                          "blameless analysis documenting cause, impact, and improvements"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Postmortem refers to: blameless analysis documenting cause, impact, and improvements."
+                      },
+                      {
+                          "id":  243,
+                          "question":  "\u0027Postmortem\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Postmortem is mainly part of Incident Detection and Response."
+                      },
+                      {
+                          "id":  244,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "P95 Latency -\u003e blameless analysis documenting cause, impact, and improvements",
+                                          "Postmortem -\u003e blameless analysis documenting cause, impact, and improvements",
+                                          "Trace -\u003e blameless analysis documenting cause, impact, and improvements",
+                                          "ELK Stack -\u003e blameless analysis documenting cause, impact, and improvements"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Postmortem -\u003e blameless analysis documenting cause, impact, and improvements\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  245,
+                          "question":  "A Bank SO IT operations requirement states: blameless analysis documenting cause, impact, and improvements. Which concept should be selected?",
+                          "options":  [
+                                          "Postmortem",
+                                          "Log Sampling",
+                                          "Throughput",
+                                          "Syslog"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Postmortem."
+                      },
+                      {
+                          "id":  246,
+                          "question":  "Which monitoring/logging concept best matches: root cause analysis identifying underlying incident reason?",
+                          "options":  [
+                                          "Threshold",
+                                          "RCA",
+                                          "Anomaly Detection",
+                                          "SLA"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "RCA is defined as: root cause analysis identifying underlying incident reason."
+                      },
+                      {
+                          "id":  247,
+                          "question":  "What is the most accurate description of \u0027RCA\u0027?",
+                          "options":  [
+                                          "automated execution of predefined remediation procedures",
+                                          "root cause analysis identifying underlying incident reason",
+                                          "defined value boundary used for alert triggering",
+                                          "centralized collection of logs from multiple sources"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "RCA refers to: root cause analysis identifying underlying incident reason."
+                      },
+                      {
+                          "id":  248,
+                          "question":  "\u0027RCA\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Monitoring Tooling",
+                                          "Incident Detection and Response",
+                                          "Log Management",
+                                          "Monitoring Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "RCA is mainly part of Incident Detection and Response."
+                      },
+                      {
+                          "id":  249,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Threshold -\u003e root cause analysis identifying underlying incident reason",
+                                          "Log Sampling -\u003e root cause analysis identifying underlying incident reason",
+                                          "RCA -\u003e root cause analysis identifying underlying incident reason",
+                                          "False Positive -\u003e root cause analysis identifying underlying incident reason"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027RCA -\u003e root cause analysis identifying underlying incident reason\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  250,
+                          "question":  "A Bank SO IT operations requirement states: root cause analysis identifying underlying incident reason. Which concept should be selected?",
+                          "options":  [
+                                          "SLA",
+                                          "RCA",
+                                          "Threshold",
+                                          "Anomaly Detection"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to RCA."
+                      }
+                  ]
+}

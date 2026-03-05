@@ -1,0 +1,31 @@
+{
+  "exams": [
+    {
+      "id": "bank_so_it",
+      "name": "Bank / Regulatory Bodies SO IT",
+      "mockTests": [
+        {
+          "id": "mock_test_1",
+          "title": "Mock Test 1",
+          "file": "mock1.json",
+          "questionCount": 100,
+          "durationMinutes": 90
+        },
+        {
+          "id": "mock_test_2",
+          "title": "Mock Test 2",
+          "file": "mock2.json",
+          "questionCount": 100,
+          "durationMinutes": 90
+        },
+        {
+          "id": "mock_test_3",
+          "title": "Mock Test 3",
+          "file": "mock3.json",
+          "questionCount": 100,
+          "durationMinutes": 90
+        }
+      ]
+    }
+  ]
+}

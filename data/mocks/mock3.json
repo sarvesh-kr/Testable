@@ -1,0 +1,1204 @@
+﻿{
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "What is the most accurate description of \u0027Transaction Limit Management\u0027?",
+                          "options":  [
+                                          "authentication requiring more than one independent factor",
+                                          "service authorizing and routing online payment transactions",
+                                          "configuring permissible transfer and withdrawal thresholds",
+                                          "unified customer experience across multiple service channels"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Transaction Limit Management refers to: configuring permissible transfer and withdrawal thresholds."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "Which Computer Architecture concept best matches: instruction set philosophy with complex variable-length instructions?",
+                          "options":  [
+                                          "CISC",
+                                          "Clock Speed",
+                                          "Instruction Set Architecture",
+                                          "Control Hazard"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "CISC is defined as: instruction set philosophy with complex variable-length instructions."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "A Bank SO IT ATM operations requirement states: card storing data in magnetic stripe tracks. Which concept should be selected?",
+                          "options":  [
+                                          "Skimming",
+                                          "PIN Block",
+                                          "Online PIN",
+                                          "Magnetic Stripe Card"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Magnetic Stripe Card."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "A Bank SO IT application requirement states: process of verifying user or client identity. Which concept should be selected?",
+                          "options":  [
+                                          "DELETE",
+                                          "CSS Grid",
+                                          "Authentication",
+                                          "TLS Certificate"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Authentication."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "Which Computer Architecture concept best matches: I/O method using separate address space for devices?",
+                          "options":  [
+                                          "Endianness",
+                                          "Port-Mapped I/O",
+                                          "Superscalar",
+                                          "Register"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Port-Mapped I/O is defined as: I/O method using separate address space for devices."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "Identify the correct cryptography term-definition mapping.",
+                          "options":  [
+                                          "Cryptography -\u003e set of cryptographic algorithms used in secure connection",
+                                          "Rainbow Table Attack -\u003e set of cryptographic algorithms used in secure connection",
+                                          "CSR -\u003e set of cryptographic algorithms used in secure connection",
+                                          "Cipher Suite -\u003e set of cryptographic algorithms used in secure connection"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Cipher Suite -\u003e set of cryptographic algorithms used in secure connection\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "What is the most accurate description of \u0027End of Day Processing\u0027?",
+                          "options":  [
+                                          "opening day activities enabling transaction processing",
+                                          "configuring product, interest, and rule settings in core banking",
+                                          "daily batch operations for closure, interest, and reconciliation",
+                                          "banking services accessed via web browser"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "End of Day Processing refers to: daily batch operations for closure, interest, and reconciliation."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "Identify the correct term-definition mapping.",
+                          "options":  [
+                                          "Paging -\u003e time spent in ready queue before execution",
+                                          "Waiting Time -\u003e time spent in ready queue before execution",
+                                          "Caching -\u003e time spent in ready queue before execution",
+                                          "Page Fault -\u003e time spent in ready queue before execution"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Waiting Time -\u003e time spent in ready queue before execution\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "\u0027Audit Trail\u0027 belongs mainly to which core banking area?",
+                          "options":  [
+                                          "Payments Integration",
+                                          "Core Banking Fundamentals",
+                                          "Compliance and Risk",
+                                          "Digital Banking Channels"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Audit Trail is mainly part of Compliance and Risk."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "What is the most accurate description of \u0027Real User Monitoring\u0027?",
+                          "options":  [
+                                          "capturing timestamped records of system and application events",
+                                          "collection of performance data from actual user sessions",
+                                          "obscuring confidential fields in log output",
+                                          "number of transactions processed per unit time"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Real User Monitoring refers to: collection of performance data from actual user sessions."
+                      },
+                      {
+                          "id":  11,
+                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
+                          "options":  [
+                                          "SLI -\u003e maximum acceptable data loss window",
+                                          "RPO -\u003e maximum acceptable data loss window",
+                                          "Tracing -\u003e maximum acceptable data loss window",
+                                          "Deployment -\u003e maximum acceptable data loss window"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027RPO -\u003e maximum acceptable data loss window\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  12,
+                          "question":  "Identify the correct monitoring/logging term-definition mapping.",
+                          "options":  [
+                                          "Real User Monitoring -\u003e component routing and deduplicating monitoring alerts",
+                                          "Logging -\u003e component routing and deduplicating monitoring alerts",
+                                          "Prometheus -\u003e component routing and deduplicating monitoring alerts",
+                                          "Alertmanager -\u003e component routing and deduplicating monitoring alerts"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Alertmanager -\u003e component routing and deduplicating monitoring alerts\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  13,
+                          "question":  "Which of the following is primarily used for legacy VPN tunneling over PPP?",
+                          "options":  [
+                                          "EIGRP",
+                                          "SNMP",
+                                          "PPTP",
+                                          "NDR"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "PPTP is primarily associated with legacy VPN tunneling over PPP."
+                      },
+                      {
+                          "id":  14,
+                          "question":  "Which payment concept best matches: assigning risk value to transaction based on indicators?",
+                          "options":  [
+                                          "RRN",
+                                          "Risk Scoring",
+                                          "Real-Time Processing",
+                                          "Posting"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Risk Scoring is defined as: assigning risk value to transaction based on indicators."
+                      },
+                      {
+                          "id":  15,
+                          "question":  "A system design requirement states: overlapping execution stages of multiple instructions. Which concept should be selected?",
+                          "options":  [
+                                          "Data Bus",
+                                          "Address Bus",
+                                          "Pipelining",
+                                          "Memory Latency"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Pipelining."
+                      },
+                      {
+                          "id":  16,
+                          "question":  "Which of the following is primarily used for Cisco-based first-hop gateway redundancy?",
+                          "options":  [
+                                          "DHCP",
+                                          "HSRP",
+                                          "RARP",
+                                          "LDAP"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "HSRP is primarily associated with Cisco-based first-hop gateway redundancy."
+                      },
+                      {
+                          "id":  17,
+                          "question":  "A Bank SO IT modernization requirement states: automation tool for configuration management and orchestration. Which concept should be selected?",
+                          "options":  [
+                                          "Logging",
+                                          "Ansible",
+                                          "PaaS",
+                                          "ReplicaSet"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Ansible."
+                      },
+                      {
+                          "id":  18,
+                          "question":  "\u0027Bus\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Memory Hierarchy",
+                                          "Bus and I/O",
+                                          "Instruction Processing",
+                                          "Architecture Design"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Bus is mainly part of Bus and I/O."
+                      },
+                      {
+                          "id":  19,
+                          "question":  "\u0027RPO\u0027 belongs mainly to which core banking area?",
+                          "options":  [
+                                          "Digital Banking Channels",
+                                          "Security and Operations",
+                                          "Payments Integration",
+                                          "Compliance and Risk"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "RPO is mainly part of Security and Operations."
+                      },
+                      {
+                          "id":  20,
+                          "question":  "Identify the correct term-definition mapping.",
+                          "options":  [
+                                          "External Fragmentation -\u003e free memory split into non-contiguous small blocks",
+                                          "Semaphore -\u003e free memory split into non-contiguous small blocks",
+                                          "Directory -\u003e free memory split into non-contiguous small blocks",
+                                          "Deadlock -\u003e free memory split into non-contiguous small blocks"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027External Fragmentation -\u003e free memory split into non-contiguous small blocks\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  21,
+                          "question":  "\u0027Page Fault\u0027 is primarily associated with which OS area?",
+                          "options":  [
+                                          "System Architecture",
+                                          "I/O Management",
+                                          "File Management",
+                                          "Memory Management"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Page Fault is mainly part of Memory Management in Operating Systems."
+                      },
+                      {
+                          "id":  22,
+                          "question":  "A Bank SO IT security requirement states: public-key cryptography based on elliptic curve mathematics. Which concept should be selected?",
+                          "options":  [
+                                          "ECC",
+                                          "PKI",
+                                          "IKE",
+                                          "TLS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to ECC."
+                      },
+                      {
+                          "id":  23,
+                          "question":  "\u0027Status Code 401\u0027 belongs mainly to which web/application area?",
+                          "options":  [
+                                          "Frontend Engineering",
+                                          "HTTP Methods and Status",
+                                          "API Fundamentals",
+                                          "Web Security Fundamentals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Status Code 401 is mainly part of HTTP Methods and Status."
+                      },
+                      {
+                          "id":  24,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Whitelist -\u003e protocol used to synchronize mailbox content across devices",
+                                          "IMAP -\u003e protocol used to synchronize mailbox content across devices",
+                                          "MDA -\u003e protocol used to synchronize mailbox content across devices",
+                                          "Delivery Delay -\u003e protocol used to synchronize mailbox content across devices"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027IMAP -\u003e protocol used to synchronize mailbox content across devices\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  25,
+                          "question":  "\u0027Bellman-Ford Algorithm\u0027 belongs mainly to which DSA area?",
+                          "options":  [
+                                          "Complexity Analysis",
+                                          "Graph Algorithms",
+                                          "Graph Concepts",
+                                          "Core Data Structures"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Bellman-Ford Algorithm is mainly part of Graph Algorithms."
+                      },
+                      {
+                          "id":  26,
+                          "question":  "What is the most accurate description of \u0027UTR\u0027?",
+                          "options":  [
+                                          "network component routing transactions to destination institutions",
+                                          "merchant-initiated return of funds to customer",
+                                          "recording transaction entries in customer and GL accounts",
+                                          "unique transaction reference for tracking payment"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "UTR refers to: unique transaction reference for tracking payment."
+                      },
+                      {
+                          "id":  27,
+                          "question":  "\u0027Interpreter\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Error Handling",
+                                          "Algorithmic Thinking",
+                                          "Object-Oriented Programming",
+                                          "Programming Basics"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Interpreter is mainly part of Programming Basics."
+                      },
+                      {
+                          "id":  28,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Address Bus -\u003e single memory path shared by instructions and data",
+                                          "Little Endian -\u003e single memory path shared by instructions and data",
+                                          "Register -\u003e single memory path shared by instructions and data",
+                                          "Von Neumann Architecture -\u003e single memory path shared by instructions and data"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Von Neumann Architecture -\u003e single memory path shared by instructions and data\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  29,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "Durability -\u003e logical design describing structure of database objects",
+                                          "Third Normal Form -\u003e logical design describing structure of database objects",
+                                          "Transaction -\u003e logical design describing structure of database objects",
+                                          "Schema -\u003e logical design describing structure of database objects"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Schema -\u003e logical design describing structure of database objects\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  30,
+                          "question":  "What is the most accurate description of \u0027Credential Stuffing\u0027?",
+                          "options":  [
+                                          "automated login attempts using leaked credentials",
+                                          "protecting data confidentiality using cryptographic methods",
+                                          "granting only minimum required access permissions",
+                                          "identifying device characteristics for risk assessment"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Credential Stuffing refers to: automated login attempts using leaked credentials."
+                      },
+                      {
+                          "id":  31,
+                          "question":  "What is the most accurate description of \u0027Workaround\u0027?",
+                          "options":  [
+                                          "temporary measure reducing impact before permanent fix",
+                                          "mean time to detect incident occurrence",
+                                          "public/internal dashboard communicating service health states",
+                                          "process capturing and reusing operational knowledge articles"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Workaround refers to: temporary measure reducing impact before permanent fix."
+                      },
+                      {
+                          "id":  32,
+                          "question":  "A bank IT database requirement states: SQL command used to add new rows into a table. Which concept should be selected?",
+                          "options":  [
+                                          "INSERT",
+                                          "Composite Key",
+                                          "First Normal Form",
+                                          "ROLLBACK"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to INSERT."
+                      },
+                      {
+                          "id":  33,
+                          "question":  "What is the most accurate description of \u0027JSON\u0027?",
+                          "options":  [
+                                          "HTTP response code indicating unauthorized access",
+                                          "digital certificate enabling encrypted HTTPS communication",
+                                          "HTTP method used to replace resource representation",
+                                          "lightweight data-interchange format using key-value pairs"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "JSON refers to: lightweight data-interchange format using key-value pairs."
+                      },
+                      {
+                          "id":  34,
+                          "question":  "A Bank SO IT email operations requirement states: policy-based condition-action logic for message handling. Which concept should be selected?",
+                          "options":  [
+                                          "Hard Bounce",
+                                          "High Availability",
+                                          "Auto-Responder",
+                                          "Mail Flow Rule"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Mail Flow Rule."
+                      },
+                      {
+                          "id":  35,
+                          "question":  "A Bank SO IT resilience requirement states: switching operations to alternate site or system. Which concept should be selected?",
+                          "options":  [
+                                          "Failover",
+                                          "Log Retention",
+                                          "Gap Analysis",
+                                          "Recovery Runbook"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Failover."
+                      },
+                      {
+                          "id":  36,
+                          "question":  "Which email systems concept best matches: slow message transit due to queue/load/network factors?",
+                          "options":  [
+                                          "Delivery Delay",
+                                          "High Availability",
+                                          "SMTP Authentication",
+                                          "URL Rewriting"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Delivery Delay is defined as: slow message transit due to queue/load/network factors."
+                      },
+                      {
+                          "id":  37,
+                          "question":  "A project requirement states: risk-driven iterative model combining prototyping and planning. Which concept should be selected?",
+                          "options":  [
+                                          "Unit Testing",
+                                          "Traceability Matrix",
+                                          "Cyclomatic Complexity",
+                                          "Spiral Model"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Spiral Model."
+                      },
+                      {
+                          "id":  38,
+                          "question":  "\u0027Ansible\u0027 belongs mainly to which Cloud/DevOps area?",
+                          "options":  [
+                                          "Infrastructure as Code",
+                                          "Cloud Operations",
+                                          "Monitoring and Reliability",
+                                          "Release Strategies"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Ansible is mainly part of Infrastructure as Code."
+                      },
+                      {
+                          "id":  39,
+                          "question":  "A bank IT database requirement states: key formed by more than one column. Which concept should be selected?",
+                          "options":  [
+                                          "CHECK Constraint",
+                                          "Isolation",
+                                          "INNER JOIN",
+                                          "Composite Key"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Composite Key."
+                      },
+                      {
+                          "id":  40,
+                          "question":  "A Bank SO IT operations requirement states: obscuring confidential fields in log output. Which concept should be selected?",
+                          "options":  [
+                                          "OpenTelemetry",
+                                          "Escalation Policy",
+                                          "False Negative",
+                                          "Sensitive Data Masking"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Sensitive Data Masking."
+                      },
+                      {
+                          "id":  41,
+                          "question":  "\u0027Git Commit\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Development Workflow",
+                                          "Testing and Quality",
+                                          "Programming Basics",
+                                          "Object-Oriented Programming"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Git Commit is mainly part of Development Workflow."
+                      },
+                      {
+                          "id":  42,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Data Type -\u003e classification defining kind of value and operations",
+                                          "Interpreter -\u003e classification defining kind of value and operations",
+                                          "Big O Notation -\u003e classification defining kind of value and operations",
+                                          "Loop -\u003e classification defining kind of value and operations"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Data Type -\u003e classification defining kind of value and operations\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  43,
+                          "question":  "A Bank SO IT email operations requirement states: misconfigured relay allowing unauthenticated message forwarding. Which concept should be selected?",
+                          "options":  [
+                                          "Reputation Score",
+                                          "Hard Bounce",
+                                          "POP3",
+                                          "Open Relay"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Open Relay."
+                      },
+                      {
+                          "id":  44,
+                          "question":  "Which Cloud/DevOps concept best matches: Kubernetes API object controlling external HTTP/S routing?",
+                          "options":  [
+                                          "Ingress",
+                                          "Load Balancer",
+                                          "Jenkins",
+                                          "Auto Scaling"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Ingress is defined as: Kubernetes API object controlling external HTTP/S routing."
+                      },
+                      {
+                          "id":  45,
+                          "question":  "Which secure coding/web security concept best matches: testing running application for runtime security issues?",
+                          "options":  [
+                                          "Session Fixation",
+                                          "Role-Based Access Control",
+                                          "Secure Coding",
+                                          "Dynamic Analysis"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Dynamic Analysis is defined as: testing running application for runtime security issues."
+                      },
+                      {
+                          "id":  46,
+                          "question":  "A Bank SO IT coding requirement states: contract specifying methods without implementation details. Which concept should be selected?",
+                          "options":  [
+                                          "Integration Test",
+                                          "Interface",
+                                          "Exception",
+                                          "Space Complexity"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Interface."
+                      },
+                      {
+                          "id":  47,
+                          "question":  "Identify the correct cryptography term-definition mapping.",
+                          "options":  [
+                                          "Man-in-the-Middle -\u003e process of verifying identity of user or system",
+                                          "Authentication -\u003e process of verifying identity of user or system",
+                                          "Confidentiality -\u003e process of verifying identity of user or system",
+                                          "Hardware Security Module -\u003e process of verifying identity of user or system"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Authentication -\u003e process of verifying identity of user or system\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  48,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "Responsive Design -\u003e HTTP method used to remove resource",
+                                          "Status Code 401 -\u003e HTTP method used to remove resource",
+                                          "DELETE -\u003e HTTP method used to remove resource",
+                                          "Viewport -\u003e HTTP method used to remove resource"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027DELETE -\u003e HTTP method used to remove resource\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  49,
+                          "question":  "\u0027Interrupt\u0027 is primarily associated with which OS area?",
+                          "options":  [
+                                          "Concurrency",
+                                          "System Architecture",
+                                          "Process Management",
+                                          "File Management"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Interrupt is mainly part of System Architecture in Operating Systems."
+                      },
+                      {
+                          "id":  50,
+                          "question":  "Which Operating System concept best matches: deadlock condition where resources cannot be forcibly taken?",
+                          "options":  [
+                                          "No Preemption",
+                                          "Segmentation",
+                                          "Device Driver",
+                                          "Thread"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "No Preemption is defined as: deadlock condition where resources cannot be forcibly taken."
+                      },
+                      {
+                          "id":  51,
+                          "question":  "\u0027Branch\u0027 belongs mainly to which programming area?",
+                          "options":  [
+                                          "Algorithmic Thinking",
+                                          "Error Handling",
+                                          "Development Workflow",
+                                          "Programming Basics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Branch is mainly part of Development Workflow."
+                      },
+                      {
+                          "id":  52,
+                          "question":  "Identify the correct email systems term-definition mapping.",
+                          "options":  [
+                                          "Email Gateway -\u003e holding area for messages flagged as suspicious",
+                                          "Archiving -\u003e holding area for messages flagged as suspicious",
+                                          "Quarantine -\u003e holding area for messages flagged as suspicious",
+                                          "Mailbox -\u003e holding area for messages flagged as suspicious"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Quarantine -\u003e holding area for messages flagged as suspicious\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  53,
+                          "question":  "A Bank SO IT ATM operations requirement states: personal identification number used for cardholder verification. Which concept should be selected?",
+                          "options":  [
+                                          "PIN",
+                                          "EMV Chip Card",
+                                          "Cash Withdrawal",
+                                          "Expiry Date"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to PIN."
+                      },
+                      {
+                          "id":  54,
+                          "question":  "Which Programming concept best matches: recorded snapshot of staged source code changes?",
+                          "options":  [
+                                          "Constructor",
+                                          "Runtime Error",
+                                          "Hash Table",
+                                          "Git Commit"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Git Commit is defined as: recorded snapshot of staged source code changes."
+                      },
+                      {
+                          "id":  55,
+                          "question":  "A Bank SO IT transaction requirement states: stage where issuer validates and approves transaction. Which concept should be selected?",
+                          "options":  [
+                                          "IFSC",
+                                          "Tokenization",
+                                          "RuPay",
+                                          "Authorization"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Authorization."
+                      },
+                      {
+                          "id":  56,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "CSRF -\u003e attack forcing authenticated user to perform unwanted action",
+                                          "Media Query -\u003e attack forcing authenticated user to perform unwanted action",
+                                          "CORS -\u003e attack forcing authenticated user to perform unwanted action",
+                                          "HTML -\u003e attack forcing authenticated user to perform unwanted action"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027CSRF -\u003e attack forcing authenticated user to perform unwanted action\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  57,
+                          "question":  "What is the most accurate description of \u0027PEP Screening\u0027?",
+                          "options":  [
+                                          "matching entries in foreign currency correspondent accounts",
+                                          "regulated secure sharing of banking data via APIs",
+                                          "identifying politically exposed persons for enhanced due diligence",
+                                          "rule and model-based system detecting suspicious activity"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "PEP Screening refers to: identifying politically exposed persons for enhanced due diligence."
+                      },
+                      {
+                          "id":  58,
+                          "question":  "\u0027Auto Scaling\u0027 belongs mainly to which Cloud/DevOps area?",
+                          "options":  [
+                                          "Cloud Deployment Models",
+                                          "Cloud Operations",
+                                          "Containerization",
+                                          "Monitoring and Reliability"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Auto Scaling is mainly part of Cloud Operations."
+                      },
+                      {
+                          "id":  59,
+                          "question":  "Identify the correct IT operations term-definition mapping.",
+                          "options":  [
+                                          "Capacity Management -\u003e activities that ensure stable and efficient IT service delivery",
+                                          "Release Management -\u003e activities that ensure stable and efficient IT service delivery",
+                                          "IT Operations -\u003e activities that ensure stable and efficient IT service delivery",
+                                          "Bridge Call -\u003e activities that ensure stable and efficient IT service delivery"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027IT Operations -\u003e activities that ensure stable and efficient IT service delivery\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  60,
+                          "question":  "Identify the correct DBMS term-definition mapping.",
+                          "options":  [
+                                          "COMMIT -\u003e ACID property controlling visibility of concurrent transaction changes",
+                                          "Isolation -\u003e ACID property controlling visibility of concurrent transaction changes",
+                                          "Instance -\u003e ACID property controlling visibility of concurrent transaction changes",
+                                          "First Normal Form -\u003e ACID property controlling visibility of concurrent transaction changes"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Isolation -\u003e ACID property controlling visibility of concurrent transaction changes\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  61,
+                          "question":  "Which DSA concept best matches: precomputed cumulative sums enabling range query optimization?",
+                          "options":  [
+                                          "Prefix Sum",
+                                          "Sliding Window",
+                                          "Greedy Algorithm",
+                                          "Dynamic Programming"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Prefix Sum is defined as: precomputed cumulative sums enabling range query optimization."
+                      },
+                      {
+                          "id":  62,
+                          "question":  "What is the most accurate description of \u0027Role-Based Access Control\u0027?",
+                          "options":  [
+                                          "flaw allowing unauthorized action due to weak authorization checks",
+                                          "gaining higher permissions than originally granted",
+                                          "cookie flag preventing JavaScript access to cookie data",
+                                          "access model assigning permissions based on roles"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Role-Based Access Control refers to: access model assigning permissions based on roles."
+                      },
+                      {
+                          "id":  63,
+                          "question":  "A Bank SO IT technical requirement states: class of decision problems verifiable in polynomial time and NP-hard. Which concept should be selected?",
+                          "options":  [
+                                          "NP-Complete",
+                                          "Prefix Sum",
+                                          "Floyd-Warshall Algorithm",
+                                          "Amortized Analysis"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to NP-Complete."
+                      },
+                      {
+                          "id":  64,
+                          "question":  "A Bank SO IT requirement states: master accounting book recording all financial entries. Which concept should be selected?",
+                          "options":  [
+                                          "SWIFT Messaging",
+                                          "Video KYC",
+                                          "General Ledger",
+                                          "CFT"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to General Ledger."
+                      },
+                      {
+                          "id":  65,
+                          "question":  "What is the most accurate description of \u0027Contactless Card\u0027?",
+                          "options":  [
+                                          "matching ATM journal, switch, and core banking records",
+                                          "institution that owns or manages ATM/merchant terminal",
+                                          "card enabling tap transactions via NFC interface",
+                                          "transaction failure due to delayed or missing response"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Contactless Card refers to: card enabling tap transactions via NFC interface."
+                      },
+                      {
+                          "id":  66,
+                          "question":  "Which payment concept best matches: multi-factor authentication requirement for secure payment access?",
+                          "options":  [
+                                          "BBPS",
+                                          "RuPay",
+                                          "MFA",
+                                          "Sanctions Screening"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MFA is defined as: multi-factor authentication requirement for secure payment access."
+                      },
+                      {
+                          "id":  67,
+                          "question":  "What is the most accurate description of \u0027Alert\u0027?",
+                          "options":  [
+                                          "selective log capture to reduce volume and cost",
+                                          "identification of deviations from normal telemetry patterns",
+                                          "notification triggered when metric/log rule condition is met",
+                                          "visual interface summarizing key operational indicators"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Alert refers to: notification triggered when metric/log rule condition is met."
+                      },
+                      {
+                          "id":  68,
+                          "question":  "\u0027System Testing\u0027 belongs mainly to which software engineering area?",
+                          "options":  [
+                                          "SDLC Models",
+                                          "Project Management",
+                                          "DevOps and Process",
+                                          "Testing"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "System Testing is mainly part of Testing."
+                      },
+                      {
+                          "id":  69,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Data Loss Prevention -\u003e social engineering attack using deceptive communication",
+                                          "Security Policy -\u003e social engineering attack using deceptive communication",
+                                          "Vishing -\u003e social engineering attack using deceptive communication",
+                                          "Phishing -\u003e social engineering attack using deceptive communication"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Phishing -\u003e social engineering attack using deceptive communication\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  70,
+                          "question":  "Identify the correct ATM/Card term-definition mapping.",
+                          "options":  [
+                                          "PIN -\u003e ATM feature allowing customer to reset card PIN",
+                                          "PIN Change -\u003e ATM feature allowing customer to reset card PIN",
+                                          "ATM Monitoring -\u003e ATM feature allowing customer to reset card PIN",
+                                          "Second Line Maintenance -\u003e ATM feature allowing customer to reset card PIN"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027PIN Change -\u003e ATM feature allowing customer to reset card PIN\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  71,
+                          "question":  "Identify the correct ATM/Card term-definition mapping.",
+                          "options":  [
+                                          "Remote Key Loading -\u003e transaction response indicating authorization failure",
+                                          "Dispute -\u003e transaction response indicating authorization failure",
+                                          "Decline -\u003e transaction response indicating authorization failure",
+                                          "Key Management -\u003e transaction response indicating authorization failure"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Decline -\u003e transaction response indicating authorization failure\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  72,
+                          "question":  "A Bank SO IT coding requirement states: reusable block of code performing specific task. Which concept should be selected?",
+                          "options":  [
+                                          "Inheritance",
+                                          "Function",
+                                          "Interpreter",
+                                          "Exception"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Function."
+                      },
+                      {
+                          "id":  73,
+                          "question":  "Which backup/DR concept best matches: duration backups are preserved before deletion?",
+                          "options":  [
+                                          "Offsite Backup",
+                                          "Retention Period",
+                                          "Backup Encryption",
+                                          "Differential Backup"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Retention Period is defined as: duration backups are preserved before deletion."
+                      },
+                      {
+                          "id":  74,
+                          "question":  "A Bank SO IT security requirement states: replacing sensitive values with non-sensitive tokens. Which concept should be selected?",
+                          "options":  [
+                                          "Tokenization",
+                                          "Digital Signature",
+                                          "Cipher Suite",
+                                          "Man-in-the-Middle"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Tokenization."
+                      },
+                      {
+                          "id":  75,
+                          "question":  "Which Web/App Development concept best matches: tree representation of HTML document for script interaction?",
+                          "options":  [
+                                          "Endpoint",
+                                          "POST",
+                                          "DOM",
+                                          "Minification"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "DOM is defined as: tree representation of HTML document for script interaction."
+                      },
+                      {
+                          "id":  76,
+                          "question":  "\u0027Issuer Bank\u0027 belongs mainly to which payment systems area?",
+                          "options":  [
+                                          "Transaction Lifecycle",
+                                          "Identifiers and Messaging",
+                                          "Payment Fundamentals",
+                                          "Indian Payment Rails"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Issuer Bank is mainly part of Payment Fundamentals."
+                      },
+                      {
+                          "id":  77,
+                          "question":  "Which Computer Architecture concept best matches: signal requesting CPU attention for event handling?",
+                          "options":  [
+                                          "Interrupt",
+                                          "Instruction Cycle",
+                                          "Control Bus",
+                                          "MIPS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Interrupt is defined as: signal requesting CPU attention for event handling."
+                      },
+                      {
+                          "id":  78,
+                          "question":  "Which payment concept best matches: stage where issuer validates and approves transaction?",
+                          "options":  [
+                                          "Authorization",
+                                          "RuPay",
+                                          "Tokenization",
+                                          "IFSC"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Authorization is defined as: stage where issuer validates and approves transaction."
+                      },
+                      {
+                          "id":  79,
+                          "question":  "What is the most accurate description of \u0027Insecure Deserialization\u0027?",
+                          "options":  [
+                                          "identifier used to authenticate client application requests",
+                                          "continuous process of identifying and remediating weaknesses",
+                                          "development practice focused on preventing security vulnerabilities in code",
+                                          "unsafe object deserialization enabling code execution or tampering"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Insecure Deserialization refers to: unsafe object deserialization enabling code execution or tampering."
+                      },
+                      {
+                          "id":  80,
+                          "question":  "\u0027On-Call\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Service Reliability Metrics",
+                                          "Incident Detection and Response",
+                                          "Monitoring Tooling",
+                                          "Log Management"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "On-Call is mainly part of Monitoring Tooling."
+                      },
+                      {
+                          "id":  81,
+                          "question":  "\u0027Privilege Escalation\u0027 belongs mainly to which secure coding/web security area?",
+                          "options":  [
+                                          "Identity and Access Security",
+                                          "Mitigation Techniques",
+                                          "Transport and API Security",
+                                          "Common Web Vulnerabilities"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Privilege Escalation is mainly part of Identity and Access Security."
+                      },
+                      {
+                          "id":  82,
+                          "question":  "\u0027Monitoring\u0027 belongs mainly to which monitoring/logging area?",
+                          "options":  [
+                                          "Log Management",
+                                          "Service Reliability Metrics",
+                                          "Monitoring Tooling",
+                                          "Monitoring Fundamentals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Monitoring is mainly part of Monitoring Fundamentals."
+                      },
+                      {
+                          "id":  83,
+                          "question":  "What is the most accurate description of \u0027Bridge Call\u0027?",
+                          "options":  [
+                                          "failure to meet agreed service target commitments",
+                                          "real-time conference for incident troubleshooting coordination",
+                                          "extent of business effect caused by an incident",
+                                          "maximum acceptable time to restore critical service"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Bridge Call refers to: real-time conference for incident troubleshooting coordination."
+                      },
+                      {
+                          "id":  84,
+                          "question":  "Identify the correct backup/DR term-definition mapping.",
+                          "options":  [
+                                          "Hot Site -\u003e analysis of drill outcomes and improvement actions",
+                                          "Snapshot -\u003e analysis of drill outcomes and improvement actions",
+                                          "Post Drill Review -\u003e analysis of drill outcomes and improvement actions",
+                                          "Differential Backup -\u003e analysis of drill outcomes and improvement actions"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Post Drill Review -\u003e analysis of drill outcomes and improvement actions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  85,
+                          "question":  "A Bank SO IT operations requirement states: policy governing duration of log storage. Which concept should be selected?",
+                          "options":  [
+                                          "Correlation ID",
+                                          "Noise Reduction",
+                                          "Log Retention",
+                                          "Audit Log"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Log Retention."
+                      },
+                      {
+                          "id":  86,
+                          "question":  "Identify the correct cyber security term-definition mapping.",
+                          "options":  [
+                                          "Forensics -\u003e protecting data confidentiality using cryptographic methods",
+                                          "Device Fingerprinting -\u003e protecting data confidentiality using cryptographic methods",
+                                          "Account Takeover -\u003e protecting data confidentiality using cryptographic methods",
+                                          "Data Encryption -\u003e protecting data confidentiality using cryptographic methods"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Data Encryption -\u003e protecting data confidentiality using cryptographic methods\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  87,
+                          "question":  "Identify the correct web/app term-definition mapping.",
+                          "options":  [
+                                          "HTTPS -\u003e secure HTTP communication over TLS",
+                                          "Idempotency -\u003e secure HTTP communication over TLS",
+                                          "Lazy Loading -\u003e secure HTTP communication over TLS",
+                                          "Media Query -\u003e secure HTTP communication over TLS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027HTTPS -\u003e secure HTTP communication over TLS\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  88,
+                          "question":  "\u0027Symmetric Encryption\u0027 belongs mainly to which cryptography/security area?",
+                          "options":  [
+                                          "Algorithms and Primitives",
+                                          "Security Fundamentals",
+                                          "Digital Trust",
+                                          "Cryptographic Models"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Symmetric Encryption is mainly part of Cryptographic Models."
+                      },
+                      {
+                          "id":  89,
+                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
+                          "options":  [
+                                          "Virtualization -\u003e smallest deployable unit in Kubernetes",
+                                          "Jenkins -\u003e smallest deployable unit in Kubernetes",
+                                          "Hybrid Cloud -\u003e smallest deployable unit in Kubernetes",
+                                          "Pod -\u003e smallest deployable unit in Kubernetes"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Pod -\u003e smallest deployable unit in Kubernetes\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  90,
+                          "question":  "What is the most accurate description of \u0027Class\u0027?",
+                          "options":  [
+                                          "same method name with different parameter signatures",
+                                          "hiding implementation details while exposing essentials",
+                                          "branching construct selecting path based on condition",
+                                          "blueprint defining attributes and methods of objects"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Class refers to: blueprint defining attributes and methods of objects."
+                      },
+                      {
+                          "id":  91,
+                          "question":  "A Bank SO IT email operations requirement states: tracking route and status of specific email. Which concept should be selected?",
+                          "options":  [
+                                          "Queue Management",
+                                          "Distribution List",
+                                          "Message Trace",
+                                          "Delivery Delay"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Message Trace."
+                      },
+                      {
+                          "id":  92,
+                          "question":  "Which monitoring/logging concept best matches: visualization platform for metrics and logs dashboards?",
+                          "options":  [
+                                          "SLA",
+                                          "Alert Fatigue",
+                                          "Grafana",
+                                          "Postmortem"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Grafana is defined as: visualization platform for metrics and logs dashboards."
+                      },
+                      {
+                          "id":  93,
+                          "question":  "Identify the correct IT operations term-definition mapping.",
+                          "options":  [
+                                          "Release Management -\u003e process capturing and reusing operational knowledge articles",
+                                          "Knowledge Management -\u003e process capturing and reusing operational knowledge articles",
+                                          "MTTD -\u003e process capturing and reusing operational knowledge articles",
+                                          "Priority Matrix -\u003e process capturing and reusing operational knowledge articles"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Knowledge Management -\u003e process capturing and reusing operational knowledge articles\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  94,
+                          "question":  "Identify the correct programming term-definition mapping.",
+                          "options":  [
+                                          "Abstraction -\u003e mechanism deriving new class from existing class",
+                                          "Inheritance -\u003e mechanism deriving new class from existing class",
+                                          "Stack -\u003e mechanism deriving new class from existing class",
+                                          "Binary Search -\u003e mechanism deriving new class from existing class"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Inheritance -\u003e mechanism deriving new class from existing class\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  95,
+                          "question":  "What is the most accurate description of \u0027AES\u0027?",
+                          "options":  [
+                                          "process of converting plaintext into ciphertext",
+                                          "widely used symmetric block cipher standard",
+                                          "process of verifying identity of user or system",
+                                          "standard format for public key digital certificates"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "AES refers to: widely used symmetric block cipher standard."
+                      },
+                      {
+                          "id":  96,
+                          "question":  "\u0027Full Backup\u0027 belongs mainly to which backup/disaster recovery area?",
+                          "options":  [
+                                          "Backup Fundamentals",
+                                          "Recovery Objectives",
+                                          "Security and Compliance",
+                                          "Backup Types and Strategies"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Full Backup is mainly part of Backup Types and Strategies."
+                      },
+                      {
+                          "id":  97,
+                          "question":  "Which IT operations concept best matches: tracked log of operational risks and mitigation plans?",
+                          "options":  [
+                                          "Failover",
+                                          "Risk Register",
+                                          "Alert",
+                                          "SOC"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Risk Register is defined as: tracked log of operational risks and mitigation plans."
+                      },
+                      {
+                          "id":  98,
+                          "question":  "Which DBMS concept best matches: normal form removing transitive dependency on non-key attributes?",
+                          "options":  [
+                                          "Third Normal Form",
+                                          "Referential Integrity",
+                                          "Non-Clustered Index",
+                                          "INNER JOIN"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Third Normal Form is defined as: normal form removing transitive dependency on non-key attributes."
+                      },
+                      {
+                          "id":  99,
+                          "question":  "Which banking cyber security concept best matches: SMS based social engineering attack?",
+                          "options":  [
+                                          "Cyber Security",
+                                          "EDR",
+                                          "Smishing",
+                                          "Credential Stuffing"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Smishing is defined as: SMS based social engineering attack."
+                      },
+                      {
+                          "id":  100,
+                          "question":  "Identify the correct DSA term-definition mapping.",
+                          "options":  [
+                                          "Floyd-Warshall Algorithm -\u003e all-pairs shortest path dynamic programming algorithm",
+                                          "Heap Sort -\u003e all-pairs shortest path dynamic programming algorithm",
+                                          "Queue -\u003e all-pairs shortest path dynamic programming algorithm",
+                                          "Recursion -\u003e all-pairs shortest path dynamic programming algorithm"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Floyd-Warshall Algorithm -\u003e all-pairs shortest path dynamic programming algorithm\u0027 is correctly mapped."
+                      }
+                  ]
+}

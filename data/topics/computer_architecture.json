@@ -1,0 +1,3004 @@
+﻿{
+    "questions":  [
+                      {
+                          "id":  1,
+                          "question":  "Which Computer Architecture concept best matches: unit performing arithmetic and logical operations in CPU?",
+                          "options":  [
+                                          "ALU",
+                                          "ROM",
+                                          "Control Bus",
+                                          "Throughput"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "ALU is defined as: unit performing arithmetic and logical operations in CPU."
+                      },
+                      {
+                          "id":  2,
+                          "question":  "What is the most accurate description of \u0027ALU\u0027?",
+                          "options":  [
+                                          "bus carrying read/write and control signals",
+                                          "technique extending memory using disk space",
+                                          "separate memory paths for instructions and data",
+                                          "unit performing arithmetic and logical operations in CPU"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "ALU refers to: unit performing arithmetic and logical operations in CPU."
+                      },
+                      {
+                          "id":  3,
+                          "question":  "\u0027ALU\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Performance Metrics",
+                                          "Architecture Design",
+                                          "CPU Core",
+                                          "Instruction Processing"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "ALU is mainly part of CPU Core."
+                      },
+                      {
+                          "id":  4,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "ALU -\u003e unit performing arithmetic and logical operations in CPU",
+                                          "Clock Speed -\u003e unit performing arithmetic and logical operations in CPU",
+                                          "Multicore -\u003e unit performing arithmetic and logical operations in CPU",
+                                          "Instruction Cycle -\u003e unit performing arithmetic and logical operations in CPU"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027ALU -\u003e unit performing arithmetic and logical operations in CPU\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  5,
+                          "question":  "A system design requirement states: unit performing arithmetic and logical operations in CPU. Which concept should be selected?",
+                          "options":  [
+                                          "ALU",
+                                          "Throughput",
+                                          "ROM",
+                                          "Control Bus"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to ALU."
+                      },
+                      {
+                          "id":  6,
+                          "question":  "Which Computer Architecture concept best matches: unit directing instruction execution and control signals?",
+                          "options":  [
+                                          "RAM",
+                                          "Data Bus",
+                                          "Control Unit",
+                                          "Big Endian"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Control Unit is defined as: unit directing instruction execution and control signals."
+                      },
+                      {
+                          "id":  7,
+                          "question":  "What is the most accurate description of \u0027Control Unit\u0027?",
+                          "options":  [
+                                          "register used for intermediate arithmetic results",
+                                          "overlapping execution stages of multiple instructions",
+                                          "fetch-decode-execute sequence of CPU operation",
+                                          "unit directing instruction execution and control signals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Control Unit refers to: unit directing instruction execution and control signals."
+                      },
+                      {
+                          "id":  8,
+                          "question":  "\u0027Control Unit\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "CPU Core",
+                                          "Architecture Design",
+                                          "Memory Hierarchy",
+                                          "Bus and I/O"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Control Unit is mainly part of CPU Core."
+                      },
+                      {
+                          "id":  9,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "ROM -\u003e unit directing instruction execution and control signals",
+                                          "Memory-Mapped I/O -\u003e unit directing instruction execution and control signals",
+                                          "Control Unit -\u003e unit directing instruction execution and control signals",
+                                          "Data Hazard -\u003e unit directing instruction execution and control signals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Control Unit -\u003e unit directing instruction execution and control signals\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  10,
+                          "question":  "A system design requirement states: unit directing instruction execution and control signals. Which concept should be selected?",
+                          "options":  [
+                                          "Data Bus",
+                                          "Big Endian",
+                                          "RAM",
+                                          "Control Unit"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Control Unit."
+                      },
+                      {
+                          "id":  11,
+                          "question":  "Which Computer Architecture concept best matches: small fastest storage location inside CPU?",
+                          "options":  [
+                                          "ROM",
+                                          "Register",
+                                          "Multicore",
+                                          "Address Bus"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Register is defined as: small fastest storage location inside CPU."
+                      },
+                      {
+                          "id":  12,
+                          "question":  "What is the most accurate description of \u0027Register\u0027?",
+                          "options":  [
+                                          "storing most significant byte at lowest memory address",
+                                          "unit performing arithmetic and logical operations in CPU",
+                                          "small fastest storage location inside CPU",
+                                          "single memory path shared by instructions and data"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Register refers to: small fastest storage location inside CPU."
+                      },
+                      {
+                          "id":  13,
+                          "question":  "\u0027Register\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Architecture Design",
+                                          "CPU Core",
+                                          "Bus and I/O",
+                                          "Memory Hierarchy"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Register is mainly part of CPU Core."
+                      },
+                      {
+                          "id":  14,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Instruction Set Architecture -\u003e small fastest storage location inside CPU",
+                                          "Superscalar -\u003e small fastest storage location inside CPU",
+                                          "Register -\u003e small fastest storage location inside CPU",
+                                          "Big Endian -\u003e small fastest storage location inside CPU"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Register -\u003e small fastest storage location inside CPU\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  15,
+                          "question":  "A system design requirement states: small fastest storage location inside CPU. Which concept should be selected?",
+                          "options":  [
+                                          "Register",
+                                          "Address Bus",
+                                          "ROM",
+                                          "Multicore"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Register."
+                      },
+                      {
+                          "id":  16,
+                          "question":  "Which Computer Architecture concept best matches: register holding address of next instruction?",
+                          "options":  [
+                                          "Program Counter",
+                                          "Address Bus",
+                                          "MIPS",
+                                          "Clock Speed"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Program Counter is defined as: register holding address of next instruction."
+                      },
+                      {
+                          "id":  17,
+                          "question":  "What is the most accurate description of \u0027Program Counter\u0027?",
+                          "options":  [
+                                          "register holding address of next instruction",
+                                          "bus carrying read/write and control signals",
+                                          "CPU design issuing multiple instructions per clock",
+                                          "CPU executing instructions as operands become available"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Program Counter refers to: register holding address of next instruction."
+                      },
+                      {
+                          "id":  18,
+                          "question":  "\u0027Program Counter\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "CPU Core",
+                                          "Bus and I/O",
+                                          "Memory Hierarchy",
+                                          "Instruction Processing"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Program Counter is mainly part of CPU Core."
+                      },
+                      {
+                          "id":  19,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Address Bus -\u003e register holding address of next instruction",
+                                          "Little Endian -\u003e register holding address of next instruction",
+                                          "Program Counter -\u003e register holding address of next instruction",
+                                          "Bus -\u003e register holding address of next instruction"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Program Counter -\u003e register holding address of next instruction\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  20,
+                          "question":  "A system design requirement states: register holding address of next instruction. Which concept should be selected?",
+                          "options":  [
+                                          "Clock Speed",
+                                          "Address Bus",
+                                          "MIPS",
+                                          "Program Counter"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Program Counter."
+                      },
+                      {
+                          "id":  21,
+                          "question":  "Which Computer Architecture concept best matches: register storing currently fetched instruction?",
+                          "options":  [
+                                          "DMA",
+                                          "Instruction Register",
+                                          "Little Endian",
+                                          "Harvard Architecture"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Instruction Register is defined as: register storing currently fetched instruction."
+                      },
+                      {
+                          "id":  22,
+                          "question":  "What is the most accurate description of \u0027Instruction Register\u0027?",
+                          "options":  [
+                                          "programmer-visible interface of processor operations",
+                                          "instruction set philosophy with simple fixed-length instructions",
+                                          "register storing currently fetched instruction",
+                                          "storing least significant byte at lowest memory address"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Instruction Register refers to: register storing currently fetched instruction."
+                      },
+                      {
+                          "id":  23,
+                          "question":  "\u0027Instruction Register\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Memory Hierarchy",
+                                          "Instruction Processing",
+                                          "Bus and I/O",
+                                          "CPU Core"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Instruction Register is mainly part of CPU Core."
+                      },
+                      {
+                          "id":  24,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "L2 Cache -\u003e register storing currently fetched instruction",
+                                          "RAM -\u003e register storing currently fetched instruction",
+                                          "Instruction Register -\u003e register storing currently fetched instruction",
+                                          "Hazard -\u003e register storing currently fetched instruction"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Instruction Register -\u003e register storing currently fetched instruction\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  25,
+                          "question":  "A system design requirement states: register storing currently fetched instruction. Which concept should be selected?",
+                          "options":  [
+                                          "Little Endian",
+                                          "DMA",
+                                          "Harvard Architecture",
+                                          "Instruction Register"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Instruction Register."
+                      },
+                      {
+                          "id":  26,
+                          "question":  "Which Computer Architecture concept best matches: register used for intermediate arithmetic results?",
+                          "options":  [
+                                          "Control Bus",
+                                          "Throughput",
+                                          "Harvard Architecture",
+                                          "Accumulator"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Accumulator is defined as: register used for intermediate arithmetic results."
+                      },
+                      {
+                          "id":  27,
+                          "question":  "What is the most accurate description of \u0027Accumulator\u0027?",
+                          "options":  [
+                                          "register used for intermediate arithmetic results",
+                                          "unit directing instruction execution and control signals",
+                                          "direct transfer between I/O and memory without CPU intervention",
+                                          "number of CPU cycles executed per second"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Accumulator refers to: register used for intermediate arithmetic results."
+                      },
+                      {
+                          "id":  28,
+                          "question":  "\u0027Accumulator\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "CPU Core",
+                                          "Bus and I/O",
+                                          "Performance Metrics",
+                                          "Architecture Design"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Accumulator is mainly part of CPU Core."
+                      },
+                      {
+                          "id":  29,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Control Bus -\u003e register used for intermediate arithmetic results",
+                                          "Von Neumann Architecture -\u003e register used for intermediate arithmetic results",
+                                          "Accumulator -\u003e register used for intermediate arithmetic results",
+                                          "Hazard -\u003e register used for intermediate arithmetic results"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Accumulator -\u003e register used for intermediate arithmetic results\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  30,
+                          "question":  "A system design requirement states: register used for intermediate arithmetic results. Which concept should be selected?",
+                          "options":  [
+                                          "Control Bus",
+                                          "Throughput",
+                                          "Accumulator",
+                                          "Harvard Architecture"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Accumulator."
+                      },
+                      {
+                          "id":  31,
+                          "question":  "Which Computer Architecture concept best matches: small high-speed memory between CPU and RAM?",
+                          "options":  [
+                                          "L3 Cache",
+                                          "RISC",
+                                          "Cache Memory",
+                                          "Program Counter"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Cache Memory is defined as: small high-speed memory between CPU and RAM."
+                      },
+                      {
+                          "id":  32,
+                          "question":  "What is the most accurate description of \u0027Cache Memory\u0027?",
+                          "options":  [
+                                          "register holding address of next instruction",
+                                          "millions of instructions executed per second",
+                                          "small high-speed memory between CPU and RAM",
+                                          "number of CPU cycles executed per second"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Cache Memory refers to: small high-speed memory between CPU and RAM."
+                      },
+                      {
+                          "id":  33,
+                          "question":  "\u0027Cache Memory\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Instruction Processing",
+                                          "Performance Metrics",
+                                          "CPU Core",
+                                          "Memory Hierarchy"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Cache Memory is mainly part of Memory Hierarchy."
+                      },
+                      {
+                          "id":  34,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Cache Memory -\u003e small high-speed memory between CPU and RAM",
+                                          "Control Bus -\u003e small high-speed memory between CPU and RAM",
+                                          "L1 Cache -\u003e small high-speed memory between CPU and RAM",
+                                          "Branch Prediction -\u003e small high-speed memory between CPU and RAM"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Cache Memory -\u003e small high-speed memory between CPU and RAM\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  35,
+                          "question":  "A system design requirement states: small high-speed memory between CPU and RAM. Which concept should be selected?",
+                          "options":  [
+                                          "Program Counter",
+                                          "L3 Cache",
+                                          "Cache Memory",
+                                          "RISC"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Cache Memory."
+                      },
+                      {
+                          "id":  36,
+                          "question":  "Which Computer Architecture concept best matches: closest and fastest cache level to CPU core?",
+                          "options":  [
+                                          "L1 Cache",
+                                          "Accumulator",
+                                          "Address Bus",
+                                          "CPI"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "L1 Cache is defined as: closest and fastest cache level to CPU core."
+                      },
+                      {
+                          "id":  37,
+                          "question":  "What is the most accurate description of \u0027L1 Cache\u0027?",
+                          "options":  [
+                                          "processor containing multiple independent CPU cores",
+                                          "technique guessing branch outcome to improve pipeline flow",
+                                          "closest and fastest cache level to CPU core",
+                                          "average clock cycles per instruction"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "L1 Cache refers to: closest and fastest cache level to CPU core."
+                      },
+                      {
+                          "id":  38,
+                          "question":  "\u0027L1 Cache\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Memory Hierarchy",
+                                          "Bus and I/O",
+                                          "Instruction Processing",
+                                          "Performance Metrics"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "L1 Cache is mainly part of Memory Hierarchy."
+                      },
+                      {
+                          "id":  39,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Memory-Mapped I/O -\u003e closest and fastest cache level to CPU core",
+                                          "Instruction Register -\u003e closest and fastest cache level to CPU core",
+                                          "Multicore -\u003e closest and fastest cache level to CPU core",
+                                          "L1 Cache -\u003e closest and fastest cache level to CPU core"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027L1 Cache -\u003e closest and fastest cache level to CPU core\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  40,
+                          "question":  "A system design requirement states: closest and fastest cache level to CPU core. Which concept should be selected?",
+                          "options":  [
+                                          "L1 Cache",
+                                          "Accumulator",
+                                          "Address Bus",
+                                          "CPI"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to L1 Cache."
+                      },
+                      {
+                          "id":  41,
+                          "question":  "Which Computer Architecture concept best matches: larger but slower cache than L1?",
+                          "options":  [
+                                          "L2 Cache",
+                                          "Accumulator",
+                                          "Little Endian",
+                                          "Data Hazard"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "L2 Cache is defined as: larger but slower cache than L1."
+                      },
+                      {
+                          "id":  42,
+                          "question":  "What is the most accurate description of \u0027L2 Cache\u0027?",
+                          "options":  [
+                                          "overlapping execution stages of multiple instructions",
+                                          "separate memory paths for instructions and data",
+                                          "larger but slower cache than L1",
+                                          "interrupt that can be disabled by CPU"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "L2 Cache refers to: larger but slower cache than L1."
+                      },
+                      {
+                          "id":  43,
+                          "question":  "\u0027L2 Cache\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Performance Metrics",
+                                          "Memory Hierarchy",
+                                          "Bus and I/O",
+                                          "CPU Core"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "L2 Cache is mainly part of Memory Hierarchy."
+                      },
+                      {
+                          "id":  44,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "RISC -\u003e larger but slower cache than L1",
+                                          "ROM -\u003e larger but slower cache than L1",
+                                          "Memory-Mapped I/O -\u003e larger but slower cache than L1",
+                                          "L2 Cache -\u003e larger but slower cache than L1"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027L2 Cache -\u003e larger but slower cache than L1\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  45,
+                          "question":  "A system design requirement states: larger but slower cache than L1. Which concept should be selected?",
+                          "options":  [
+                                          "L2 Cache",
+                                          "Accumulator",
+                                          "Little Endian",
+                                          "Data Hazard"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to L2 Cache."
+                      },
+                      {
+                          "id":  46,
+                          "question":  "Which Computer Architecture concept best matches: shared cache across multiple cores in many CPUs?",
+                          "options":  [
+                                          "Interrupt",
+                                          "Structural Hazard",
+                                          "DMA",
+                                          "L3 Cache"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "L3 Cache is defined as: shared cache across multiple cores in many CPUs."
+                      },
+                      {
+                          "id":  47,
+                          "question":  "What is the most accurate description of \u0027L3 Cache\u0027?",
+                          "options":  [
+                                          "closest and fastest cache level to CPU core",
+                                          "unit directing instruction execution and control signals",
+                                          "register storing currently fetched instruction",
+                                          "shared cache across multiple cores in many CPUs"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "L3 Cache refers to: shared cache across multiple cores in many CPUs."
+                      },
+                      {
+                          "id":  48,
+                          "question":  "\u0027L3 Cache\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Performance Metrics",
+                                          "Memory Hierarchy",
+                                          "Bus and I/O",
+                                          "Architecture Design"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "L3 Cache is mainly part of Memory Hierarchy."
+                      },
+                      {
+                          "id":  49,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "L2 Cache -\u003e shared cache across multiple cores in many CPUs",
+                                          "Multicore -\u003e shared cache across multiple cores in many CPUs",
+                                          "ROM -\u003e shared cache across multiple cores in many CPUs",
+                                          "L3 Cache -\u003e shared cache across multiple cores in many CPUs"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027L3 Cache -\u003e shared cache across multiple cores in many CPUs\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  50,
+                          "question":  "A system design requirement states: shared cache across multiple cores in many CPUs. Which concept should be selected?",
+                          "options":  [
+                                          "Interrupt",
+                                          "Structural Hazard",
+                                          "L3 Cache",
+                                          "DMA"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to L3 Cache."
+                      },
+                      {
+                          "id":  51,
+                          "question":  "Which Computer Architecture concept best matches: volatile main memory used during program execution?",
+                          "options":  [
+                                          "RAM",
+                                          "Little Endian",
+                                          "ROM",
+                                          "Accumulator"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "RAM is defined as: volatile main memory used during program execution."
+                      },
+                      {
+                          "id":  52,
+                          "question":  "What is the most accurate description of \u0027RAM\u0027?",
+                          "options":  [
+                                          "non-volatile memory storing firmware instructions",
+                                          "closest and fastest cache level to CPU core",
+                                          "volatile main memory used during program execution",
+                                          "storing most significant byte at lowest memory address"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "RAM refers to: volatile main memory used during program execution."
+                      },
+                      {
+                          "id":  53,
+                          "question":  "\u0027RAM\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Memory Hierarchy",
+                                          "Performance Metrics",
+                                          "Instruction Processing",
+                                          "Architecture Design"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "RAM is mainly part of Memory Hierarchy."
+                      },
+                      {
+                          "id":  54,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Harvard Architecture -\u003e volatile main memory used during program execution",
+                                          "Endianness -\u003e volatile main memory used during program execution",
+                                          "RISC -\u003e volatile main memory used during program execution",
+                                          "RAM -\u003e volatile main memory used during program execution"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027RAM -\u003e volatile main memory used during program execution\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  55,
+                          "question":  "A system design requirement states: volatile main memory used during program execution. Which concept should be selected?",
+                          "options":  [
+                                          "Accumulator",
+                                          "RAM",
+                                          "ROM",
+                                          "Little Endian"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to RAM."
+                      },
+                      {
+                          "id":  56,
+                          "question":  "Which Computer Architecture concept best matches: non-volatile memory storing firmware instructions?",
+                          "options":  [
+                                          "Out-of-Order Execution",
+                                          "Structural Hazard",
+                                          "Branch Prediction",
+                                          "ROM"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "ROM is defined as: non-volatile memory storing firmware instructions."
+                      },
+                      {
+                          "id":  57,
+                          "question":  "What is the most accurate description of \u0027ROM\u0027?",
+                          "options":  [
+                                          "control unit design using microinstructions in control memory",
+                                          "register storing currently fetched instruction",
+                                          "byte order used for storing multi-byte data",
+                                          "non-volatile memory storing firmware instructions"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "ROM refers to: non-volatile memory storing firmware instructions."
+                      },
+                      {
+                          "id":  58,
+                          "question":  "\u0027ROM\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Architecture Design",
+                                          "Bus and I/O",
+                                          "Memory Hierarchy",
+                                          "Performance Metrics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "ROM is mainly part of Memory Hierarchy."
+                      },
+                      {
+                          "id":  59,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Control Bus -\u003e non-volatile memory storing firmware instructions",
+                                          "ROM -\u003e non-volatile memory storing firmware instructions",
+                                          "L2 Cache -\u003e non-volatile memory storing firmware instructions",
+                                          "Clock Speed -\u003e non-volatile memory storing firmware instructions"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027ROM -\u003e non-volatile memory storing firmware instructions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  60,
+                          "question":  "A system design requirement states: non-volatile memory storing firmware instructions. Which concept should be selected?",
+                          "options":  [
+                                          "Out-of-Order Execution",
+                                          "Structural Hazard",
+                                          "Branch Prediction",
+                                          "ROM"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to ROM."
+                      },
+                      {
+                          "id":  61,
+                          "question":  "Which Computer Architecture concept best matches: technique extending memory using disk space?",
+                          "options":  [
+                                          "Instruction Set Architecture",
+                                          "Address Bus",
+                                          "MIPS",
+                                          "Virtual Memory"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Virtual Memory is defined as: technique extending memory using disk space."
+                      },
+                      {
+                          "id":  62,
+                          "question":  "What is the most accurate description of \u0027Virtual Memory\u0027?",
+                          "options":  [
+                                          "bus carrying actual data between components",
+                                          "pipeline issue due to hardware resource conflict",
+                                          "hardware unit translating virtual addresses to physical addresses",
+                                          "technique extending memory using disk space"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Virtual Memory refers to: technique extending memory using disk space."
+                      },
+                      {
+                          "id":  63,
+                          "question":  "\u0027Virtual Memory\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Architecture Design",
+                                          "Instruction Processing",
+                                          "Memory Hierarchy",
+                                          "CPU Core"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Virtual Memory is mainly part of Memory Hierarchy."
+                      },
+                      {
+                          "id":  64,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "L1 Cache -\u003e technique extending memory using disk space",
+                                          "Little Endian -\u003e technique extending memory using disk space",
+                                          "Clock Speed -\u003e technique extending memory using disk space",
+                                          "Virtual Memory -\u003e technique extending memory using disk space"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Virtual Memory -\u003e technique extending memory using disk space\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  65,
+                          "question":  "A system design requirement states: technique extending memory using disk space. Which concept should be selected?",
+                          "options":  [
+                                          "Instruction Set Architecture",
+                                          "Address Bus",
+                                          "Virtual Memory",
+                                          "MIPS"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Virtual Memory."
+                      },
+                      {
+                          "id":  66,
+                          "question":  "Which Computer Architecture concept best matches: delay between memory request and data availability?",
+                          "options":  [
+                                          "Control Bus",
+                                          "Virtual Memory",
+                                          "Memory Latency",
+                                          "Microprogramming"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Memory Latency is defined as: delay between memory request and data availability."
+                      },
+                      {
+                          "id":  67,
+                          "question":  "What is the most accurate description of \u0027Memory Latency\u0027?",
+                          "options":  [
+                                          "bus carrying memory or I/O address information",
+                                          "delay between memory request and data availability",
+                                          "unit directing instruction execution and control signals",
+                                          "larger but slower cache than L1"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Memory Latency refers to: delay between memory request and data availability."
+                      },
+                      {
+                          "id":  68,
+                          "question":  "\u0027Memory Latency\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Performance Metrics",
+                                          "Architecture Design",
+                                          "Instruction Processing",
+                                          "Memory Hierarchy"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Memory Latency is mainly part of Memory Hierarchy."
+                      },
+                      {
+                          "id":  69,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Amdahl Law -\u003e delay between memory request and data availability",
+                                          "Big Endian -\u003e delay between memory request and data availability",
+                                          "Memory Latency -\u003e delay between memory request and data availability",
+                                          "Structural Hazard -\u003e delay between memory request and data availability"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Memory Latency -\u003e delay between memory request and data availability\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  70,
+                          "question":  "A system design requirement states: delay between memory request and data availability. Which concept should be selected?",
+                          "options":  [
+                                          "Memory Latency",
+                                          "Virtual Memory",
+                                          "Microprogramming",
+                                          "Control Bus"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Memory Latency."
+                      },
+                      {
+                          "id":  71,
+                          "question":  "Which Computer Architecture concept best matches: amount of data transferred per unit time?",
+                          "options":  [
+                                          "CPI",
+                                          "Microprogramming",
+                                          "Memory Bandwidth",
+                                          "Address Bus"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Memory Bandwidth is defined as: amount of data transferred per unit time."
+                      },
+                      {
+                          "id":  72,
+                          "question":  "What is the most accurate description of \u0027Memory Bandwidth\u0027?",
+                          "options":  [
+                                          "amount of data transferred per unit time",
+                                          "I/O method using memory address space for devices",
+                                          "signal requesting CPU attention for event handling",
+                                          "processor containing multiple independent CPU cores"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Memory Bandwidth refers to: amount of data transferred per unit time."
+                      },
+                      {
+                          "id":  73,
+                          "question":  "\u0027Memory Bandwidth\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Instruction Processing",
+                                          "Memory Hierarchy",
+                                          "CPU Core",
+                                          "Bus and I/O"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Memory Bandwidth is mainly part of Memory Hierarchy."
+                      },
+                      {
+                          "id":  74,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Memory-Mapped I/O -\u003e amount of data transferred per unit time",
+                                          "Big Endian -\u003e amount of data transferred per unit time",
+                                          "Little Endian -\u003e amount of data transferred per unit time",
+                                          "Memory Bandwidth -\u003e amount of data transferred per unit time"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Memory Bandwidth -\u003e amount of data transferred per unit time\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  75,
+                          "question":  "A system design requirement states: amount of data transferred per unit time. Which concept should be selected?",
+                          "options":  [
+                                          "CPI",
+                                          "Microprogramming",
+                                          "Memory Bandwidth",
+                                          "Address Bus"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Memory Bandwidth."
+                      },
+                      {
+                          "id":  76,
+                          "question":  "Which Computer Architecture concept best matches: fetch-decode-execute sequence of CPU operation?",
+                          "options":  [
+                                          "Maskable Interrupt",
+                                          "Instruction Cycle",
+                                          "Cache Memory",
+                                          "Control Hazard"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Instruction Cycle is defined as: fetch-decode-execute sequence of CPU operation."
+                      },
+                      {
+                          "id":  77,
+                          "question":  "What is the most accurate description of \u0027Instruction Cycle\u0027?",
+                          "options":  [
+                                          "separate memory paths for instructions and data",
+                                          "instruction set philosophy with simple fixed-length instructions",
+                                          "fetch-decode-execute sequence of CPU operation",
+                                          "storing least significant byte at lowest memory address"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Instruction Cycle refers to: fetch-decode-execute sequence of CPU operation."
+                      },
+                      {
+                          "id":  78,
+                          "question":  "\u0027Instruction Cycle\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "CPU Core",
+                                          "Bus and I/O",
+                                          "Architecture Design",
+                                          "Instruction Processing"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Instruction Cycle is mainly part of Instruction Processing."
+                      },
+                      {
+                          "id":  79,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Register -\u003e fetch-decode-execute sequence of CPU operation",
+                                          "Instruction Cycle -\u003e fetch-decode-execute sequence of CPU operation",
+                                          "Instruction Set Architecture -\u003e fetch-decode-execute sequence of CPU operation",
+                                          "Amdahl Law -\u003e fetch-decode-execute sequence of CPU operation"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Instruction Cycle -\u003e fetch-decode-execute sequence of CPU operation\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  80,
+                          "question":  "A system design requirement states: fetch-decode-execute sequence of CPU operation. Which concept should be selected?",
+                          "options":  [
+                                          "Cache Memory",
+                                          "Instruction Cycle",
+                                          "Control Hazard",
+                                          "Maskable Interrupt"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Instruction Cycle."
+                      },
+                      {
+                          "id":  81,
+                          "question":  "Which Computer Architecture concept best matches: overlapping execution stages of multiple instructions?",
+                          "options":  [
+                                          "Pipelining",
+                                          "Address Bus",
+                                          "Memory Latency",
+                                          "Data Bus"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Pipelining is defined as: overlapping execution stages of multiple instructions."
+                      },
+                      {
+                          "id":  82,
+                          "question":  "What is the most accurate description of \u0027Pipelining\u0027?",
+                          "options":  [
+                                          "technique guessing branch outcome to improve pipeline flow",
+                                          "signal requesting CPU attention for event handling",
+                                          "overlapping execution stages of multiple instructions",
+                                          "processor containing multiple independent CPU cores"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Pipelining refers to: overlapping execution stages of multiple instructions."
+                      },
+                      {
+                          "id":  83,
+                          "question":  "\u0027Pipelining\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Instruction Processing",
+                                          "CPU Core",
+                                          "Bus and I/O",
+                                          "Performance Metrics"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Pipelining is mainly part of Instruction Processing."
+                      },
+                      {
+                          "id":  84,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Clock Speed -\u003e overlapping execution stages of multiple instructions",
+                                          "Port-Mapped I/O -\u003e overlapping execution stages of multiple instructions",
+                                          "Pipelining -\u003e overlapping execution stages of multiple instructions",
+                                          "Memory Bandwidth -\u003e overlapping execution stages of multiple instructions"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Pipelining -\u003e overlapping execution stages of multiple instructions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  85,
+                          "question":  "A system design requirement states: overlapping execution stages of multiple instructions. Which concept should be selected?",
+                          "options":  [
+                                          "Data Bus",
+                                          "Address Bus",
+                                          "Pipelining",
+                                          "Memory Latency"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Pipelining."
+                      },
+                      {
+                          "id":  86,
+                          "question":  "Which Computer Architecture concept best matches: condition causing pipeline stall or incorrect execution?",
+                          "options":  [
+                                          "Accumulator",
+                                          "RISC",
+                                          "Hazard",
+                                          "Microprogramming"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Hazard is defined as: condition causing pipeline stall or incorrect execution."
+                      },
+                      {
+                          "id":  87,
+                          "question":  "What is the most accurate description of \u0027Hazard\u0027?",
+                          "options":  [
+                                          "number of tasks completed in given time",
+                                          "condition causing pipeline stall or incorrect execution",
+                                          "bus carrying memory or I/O address information",
+                                          "bus carrying read/write and control signals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Hazard refers to: condition causing pipeline stall or incorrect execution."
+                      },
+                      {
+                          "id":  88,
+                          "question":  "\u0027Hazard\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Performance Metrics",
+                                          "Instruction Processing",
+                                          "Bus and I/O",
+                                          "CPU Core"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Hazard is mainly part of Instruction Processing."
+                      },
+                      {
+                          "id":  89,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Hazard -\u003e condition causing pipeline stall or incorrect execution",
+                                          "Non-Maskable Interrupt -\u003e condition causing pipeline stall or incorrect execution",
+                                          "Superscalar -\u003e condition causing pipeline stall or incorrect execution",
+                                          "DMA -\u003e condition causing pipeline stall or incorrect execution"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Hazard -\u003e condition causing pipeline stall or incorrect execution\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  90,
+                          "question":  "A system design requirement states: condition causing pipeline stall or incorrect execution. Which concept should be selected?",
+                          "options":  [
+                                          "RISC",
+                                          "Accumulator",
+                                          "Microprogramming",
+                                          "Hazard"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Hazard."
+                      },
+                      {
+                          "id":  91,
+                          "question":  "Which Computer Architecture concept best matches: pipeline issue from instruction data dependency?",
+                          "options":  [
+                                          "CISC",
+                                          "CPI",
+                                          "Bus",
+                                          "Data Hazard"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Data Hazard is defined as: pipeline issue from instruction data dependency."
+                      },
+                      {
+                          "id":  92,
+                          "question":  "What is the most accurate description of \u0027Data Hazard\u0027?",
+                          "options":  [
+                                          "pipeline issue from instruction data dependency",
+                                          "fetch-decode-execute sequence of CPU operation",
+                                          "byte order used for storing multi-byte data",
+                                          "number of tasks completed in given time"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Data Hazard refers to: pipeline issue from instruction data dependency."
+                      },
+                      {
+                          "id":  93,
+                          "question":  "\u0027Data Hazard\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Architecture Design",
+                                          "Instruction Processing",
+                                          "Memory Hierarchy",
+                                          "Performance Metrics"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Data Hazard is mainly part of Instruction Processing."
+                      },
+                      {
+                          "id":  94,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "MIPS -\u003e pipeline issue from instruction data dependency",
+                                          "Data Bus -\u003e pipeline issue from instruction data dependency",
+                                          "Structural Hazard -\u003e pipeline issue from instruction data dependency",
+                                          "Data Hazard -\u003e pipeline issue from instruction data dependency"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Data Hazard -\u003e pipeline issue from instruction data dependency\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  95,
+                          "question":  "A system design requirement states: pipeline issue from instruction data dependency. Which concept should be selected?",
+                          "options":  [
+                                          "CPI",
+                                          "Data Hazard",
+                                          "Bus",
+                                          "CISC"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Data Hazard."
+                      },
+                      {
+                          "id":  96,
+                          "question":  "Which Computer Architecture concept best matches: pipeline issue caused by branch instructions?",
+                          "options":  [
+                                          "CISC",
+                                          "Control Hazard",
+                                          "Memory Bandwidth",
+                                          "Big Endian"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Control Hazard is defined as: pipeline issue caused by branch instructions."
+                      },
+                      {
+                          "id":  97,
+                          "question":  "What is the most accurate description of \u0027Control Hazard\u0027?",
+                          "options":  [
+                                          "pipeline issue caused by branch instructions",
+                                          "speedup limitation due to non-parallelizable portion",
+                                          "pipeline issue due to hardware resource conflict",
+                                          "CPU design issuing multiple instructions per clock"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Control Hazard refers to: pipeline issue caused by branch instructions."
+                      },
+                      {
+                          "id":  98,
+                          "question":  "\u0027Control Hazard\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Bus and I/O",
+                                          "Memory Hierarchy",
+                                          "Instruction Processing",
+                                          "Architecture Design"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Control Hazard is mainly part of Instruction Processing."
+                      },
+                      {
+                          "id":  99,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Amdahl Law -\u003e pipeline issue caused by branch instructions",
+                                          "Control Hazard -\u003e pipeline issue caused by branch instructions",
+                                          "Instruction Cycle -\u003e pipeline issue caused by branch instructions",
+                                          "Hazard -\u003e pipeline issue caused by branch instructions"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Control Hazard -\u003e pipeline issue caused by branch instructions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  100,
+                          "question":  "A system design requirement states: pipeline issue caused by branch instructions. Which concept should be selected?",
+                          "options":  [
+                                          "Control Hazard",
+                                          "Big Endian",
+                                          "Memory Bandwidth",
+                                          "CISC"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Control Hazard."
+                      },
+                      {
+                          "id":  101,
+                          "question":  "Which Computer Architecture concept best matches: pipeline issue due to hardware resource conflict?",
+                          "options":  [
+                                          "Accumulator",
+                                          "Hazard",
+                                          "Structural Hazard",
+                                          "ALU"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Structural Hazard is defined as: pipeline issue due to hardware resource conflict."
+                      },
+                      {
+                          "id":  102,
+                          "question":  "What is the most accurate description of \u0027Structural Hazard\u0027?",
+                          "options":  [
+                                          "larger but slower cache than L1",
+                                          "speedup limitation due to non-parallelizable portion",
+                                          "pipeline issue due to hardware resource conflict",
+                                          "unit performing arithmetic and logical operations in CPU"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Structural Hazard refers to: pipeline issue due to hardware resource conflict."
+                      },
+                      {
+                          "id":  103,
+                          "question":  "\u0027Structural Hazard\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Memory Hierarchy",
+                                          "CPU Core",
+                                          "Instruction Processing",
+                                          "Architecture Design"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Structural Hazard is mainly part of Instruction Processing."
+                      },
+                      {
+                          "id":  104,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Structural Hazard -\u003e pipeline issue due to hardware resource conflict",
+                                          "Superscalar -\u003e pipeline issue due to hardware resource conflict",
+                                          "Von Neumann Architecture -\u003e pipeline issue due to hardware resource conflict",
+                                          "Instruction Register -\u003e pipeline issue due to hardware resource conflict"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Structural Hazard -\u003e pipeline issue due to hardware resource conflict\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  105,
+                          "question":  "A system design requirement states: pipeline issue due to hardware resource conflict. Which concept should be selected?",
+                          "options":  [
+                                          "Hazard",
+                                          "ALU",
+                                          "Accumulator",
+                                          "Structural Hazard"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Structural Hazard."
+                      },
+                      {
+                          "id":  106,
+                          "question":  "Which Computer Architecture concept best matches: technique guessing branch outcome to improve pipeline flow?",
+                          "options":  [
+                                          "Multicore",
+                                          "Out-of-Order Execution",
+                                          "Branch Prediction",
+                                          "Memory Bandwidth"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Branch Prediction is defined as: technique guessing branch outcome to improve pipeline flow."
+                      },
+                      {
+                          "id":  107,
+                          "question":  "What is the most accurate description of \u0027Branch Prediction\u0027?",
+                          "options":  [
+                                          "register storing currently fetched instruction",
+                                          "technique guessing branch outcome to improve pipeline flow",
+                                          "overlapping execution stages of multiple instructions",
+                                          "separate memory paths for instructions and data"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Branch Prediction refers to: technique guessing branch outcome to improve pipeline flow."
+                      },
+                      {
+                          "id":  108,
+                          "question":  "\u0027Branch Prediction\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Bus and I/O",
+                                          "Memory Hierarchy",
+                                          "Instruction Processing",
+                                          "CPU Core"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Branch Prediction is mainly part of Instruction Processing."
+                      },
+                      {
+                          "id":  109,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Branch Prediction -\u003e technique guessing branch outcome to improve pipeline flow",
+                                          "Address Bus -\u003e technique guessing branch outcome to improve pipeline flow",
+                                          "Cache Memory -\u003e technique guessing branch outcome to improve pipeline flow",
+                                          "Non-Maskable Interrupt -\u003e technique guessing branch outcome to improve pipeline flow"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Branch Prediction -\u003e technique guessing branch outcome to improve pipeline flow\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  110,
+                          "question":  "A system design requirement states: technique guessing branch outcome to improve pipeline flow. Which concept should be selected?",
+                          "options":  [
+                                          "Multicore",
+                                          "Memory Bandwidth",
+                                          "Out-of-Order Execution",
+                                          "Branch Prediction"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Branch Prediction."
+                      },
+                      {
+                          "id":  111,
+                          "question":  "Which Computer Architecture concept best matches: CPU design issuing multiple instructions per clock?",
+                          "options":  [
+                                          "Superscalar",
+                                          "Memory Latency",
+                                          "Bus",
+                                          "Data Hazard"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Superscalar is defined as: CPU design issuing multiple instructions per clock."
+                      },
+                      {
+                          "id":  112,
+                          "question":  "What is the most accurate description of \u0027Superscalar\u0027?",
+                          "options":  [
+                                          "pipeline issue due to hardware resource conflict",
+                                          "larger but slower cache than L1",
+                                          "single memory path shared by instructions and data",
+                                          "CPU design issuing multiple instructions per clock"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Superscalar refers to: CPU design issuing multiple instructions per clock."
+                      },
+                      {
+                          "id":  113,
+                          "question":  "\u0027Superscalar\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Instruction Processing",
+                                          "Memory Hierarchy",
+                                          "Performance Metrics",
+                                          "Architecture Design"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Superscalar is mainly part of Instruction Processing."
+                      },
+                      {
+                          "id":  114,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Superscalar -\u003e CPU design issuing multiple instructions per clock",
+                                          "Microprogramming -\u003e CPU design issuing multiple instructions per clock",
+                                          "RAM -\u003e CPU design issuing multiple instructions per clock",
+                                          "L1 Cache -\u003e CPU design issuing multiple instructions per clock"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Superscalar -\u003e CPU design issuing multiple instructions per clock\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  115,
+                          "question":  "A system design requirement states: CPU design issuing multiple instructions per clock. Which concept should be selected?",
+                          "options":  [
+                                          "Bus",
+                                          "Memory Latency",
+                                          "Data Hazard",
+                                          "Superscalar"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Superscalar."
+                      },
+                      {
+                          "id":  116,
+                          "question":  "Which Computer Architecture concept best matches: CPU executing instructions as operands become available?",
+                          "options":  [
+                                          "Interrupt",
+                                          "Instruction Register",
+                                          "Data Bus",
+                                          "Out-of-Order Execution"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Out-of-Order Execution is defined as: CPU executing instructions as operands become available."
+                      },
+                      {
+                          "id":  117,
+                          "question":  "What is the most accurate description of \u0027Out-of-Order Execution\u0027?",
+                          "options":  [
+                                          "CPU executing instructions as operands become available",
+                                          "technique extending memory using disk space",
+                                          "number of tasks completed in given time",
+                                          "volatile main memory used during program execution"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Out-of-Order Execution refers to: CPU executing instructions as operands become available."
+                      },
+                      {
+                          "id":  118,
+                          "question":  "\u0027Out-of-Order Execution\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Architecture Design",
+                                          "Memory Hierarchy",
+                                          "Instruction Processing",
+                                          "Performance Metrics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Out-of-Order Execution is mainly part of Instruction Processing."
+                      },
+                      {
+                          "id":  119,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Data Bus -\u003e CPU executing instructions as operands become available",
+                                          "Out-of-Order Execution -\u003e CPU executing instructions as operands become available",
+                                          "Throughput -\u003e CPU executing instructions as operands become available",
+                                          "Pipelining -\u003e CPU executing instructions as operands become available"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Out-of-Order Execution -\u003e CPU executing instructions as operands become available\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  120,
+                          "question":  "A system design requirement states: CPU executing instructions as operands become available. Which concept should be selected?",
+                          "options":  [
+                                          "Interrupt",
+                                          "Instruction Register",
+                                          "Out-of-Order Execution",
+                                          "Data Bus"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Out-of-Order Execution."
+                      },
+                      {
+                          "id":  121,
+                          "question":  "Which Computer Architecture concept best matches: number of CPU cycles executed per second?",
+                          "options":  [
+                                          "Throughput",
+                                          "MMU",
+                                          "Clock Speed",
+                                          "Instruction Register"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Clock Speed is defined as: number of CPU cycles executed per second."
+                      },
+                      {
+                          "id":  122,
+                          "question":  "What is the most accurate description of \u0027Clock Speed\u0027?",
+                          "options":  [
+                                          "processor containing multiple independent CPU cores",
+                                          "register holding address of next instruction",
+                                          "amount of data transferred per unit time",
+                                          "number of CPU cycles executed per second"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Clock Speed refers to: number of CPU cycles executed per second."
+                      },
+                      {
+                          "id":  123,
+                          "question":  "\u0027Clock Speed\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Performance Metrics",
+                                          "Instruction Processing",
+                                          "Bus and I/O",
+                                          "CPU Core"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Clock Speed is mainly part of Performance Metrics."
+                      },
+                      {
+                          "id":  124,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Clock Speed -\u003e number of CPU cycles executed per second",
+                                          "Program Counter -\u003e number of CPU cycles executed per second",
+                                          "Instruction Register -\u003e number of CPU cycles executed per second",
+                                          "Pipelining -\u003e number of CPU cycles executed per second"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Clock Speed -\u003e number of CPU cycles executed per second\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  125,
+                          "question":  "A system design requirement states: number of CPU cycles executed per second. Which concept should be selected?",
+                          "options":  [
+                                          "MMU",
+                                          "Throughput",
+                                          "Instruction Register",
+                                          "Clock Speed"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Clock Speed."
+                      },
+                      {
+                          "id":  126,
+                          "question":  "Which Computer Architecture concept best matches: average clock cycles per instruction?",
+                          "options":  [
+                                          "Out-of-Order Execution",
+                                          "Data Bus",
+                                          "CPI",
+                                          "Clock Speed"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CPI is defined as: average clock cycles per instruction."
+                      },
+                      {
+                          "id":  127,
+                          "question":  "What is the most accurate description of \u0027CPI\u0027?",
+                          "options":  [
+                                          "register used for intermediate arithmetic results",
+                                          "pipeline issue due to hardware resource conflict",
+                                          "average clock cycles per instruction",
+                                          "small fastest storage location inside CPU"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CPI refers to: average clock cycles per instruction."
+                      },
+                      {
+                          "id":  128,
+                          "question":  "\u0027CPI\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Instruction Processing",
+                                          "Performance Metrics",
+                                          "Memory Hierarchy",
+                                          "Architecture Design"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "CPI is mainly part of Performance Metrics."
+                      },
+                      {
+                          "id":  129,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "L3 Cache -\u003e average clock cycles per instruction",
+                                          "CPI -\u003e average clock cycles per instruction",
+                                          "DMA -\u003e average clock cycles per instruction",
+                                          "Little Endian -\u003e average clock cycles per instruction"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027CPI -\u003e average clock cycles per instruction\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  130,
+                          "question":  "A system design requirement states: average clock cycles per instruction. Which concept should be selected?",
+                          "options":  [
+                                          "CPI",
+                                          "Data Bus",
+                                          "Clock Speed",
+                                          "Out-of-Order Execution"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to CPI."
+                      },
+                      {
+                          "id":  131,
+                          "question":  "Which Computer Architecture concept best matches: millions of instructions executed per second?",
+                          "options":  [
+                                          "Data Hazard",
+                                          "Hazard",
+                                          "MIPS",
+                                          "Bus"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MIPS is defined as: millions of instructions executed per second."
+                      },
+                      {
+                          "id":  132,
+                          "question":  "What is the most accurate description of \u0027MIPS\u0027?",
+                          "options":  [
+                                          "amount of data transferred per unit time",
+                                          "I/O method using separate address space for devices",
+                                          "millions of instructions executed per second",
+                                          "larger but slower cache than L1"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MIPS refers to: millions of instructions executed per second."
+                      },
+                      {
+                          "id":  133,
+                          "question":  "\u0027MIPS\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "CPU Core",
+                                          "Architecture Design",
+                                          "Performance Metrics",
+                                          "Bus and I/O"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MIPS is mainly part of Performance Metrics."
+                      },
+                      {
+                          "id":  134,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "MIPS -\u003e millions of instructions executed per second",
+                                          "Virtual Memory -\u003e millions of instructions executed per second",
+                                          "ALU -\u003e millions of instructions executed per second",
+                                          "Cache Memory -\u003e millions of instructions executed per second"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027MIPS -\u003e millions of instructions executed per second\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  135,
+                          "question":  "A system design requirement states: millions of instructions executed per second. Which concept should be selected?",
+                          "options":  [
+                                          "MIPS",
+                                          "Bus",
+                                          "Data Hazard",
+                                          "Hazard"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to MIPS."
+                      },
+                      {
+                          "id":  136,
+                          "question":  "Which Computer Architecture concept best matches: number of tasks completed in given time?",
+                          "options":  [
+                                          "Cache Memory",
+                                          "Virtual Memory",
+                                          "Memory-Mapped I/O",
+                                          "Throughput"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Throughput is defined as: number of tasks completed in given time."
+                      },
+                      {
+                          "id":  137,
+                          "question":  "What is the most accurate description of \u0027Throughput\u0027?",
+                          "options":  [
+                                          "larger but slower cache than L1",
+                                          "number of tasks completed in given time",
+                                          "condition causing pipeline stall or incorrect execution",
+                                          "average clock cycles per instruction"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Throughput refers to: number of tasks completed in given time."
+                      },
+                      {
+                          "id":  138,
+                          "question":  "\u0027Throughput\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "CPU Core",
+                                          "Architecture Design",
+                                          "Performance Metrics",
+                                          "Memory Hierarchy"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Throughput is mainly part of Performance Metrics."
+                      },
+                      {
+                          "id":  139,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Interrupt -\u003e number of tasks completed in given time",
+                                          "Clock Speed -\u003e number of tasks completed in given time",
+                                          "Throughput -\u003e number of tasks completed in given time",
+                                          "Program Counter -\u003e number of tasks completed in given time"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Throughput -\u003e number of tasks completed in given time\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  140,
+                          "question":  "A system design requirement states: number of tasks completed in given time. Which concept should be selected?",
+                          "options":  [
+                                          "Cache Memory",
+                                          "Virtual Memory",
+                                          "Memory-Mapped I/O",
+                                          "Throughput"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Throughput."
+                      },
+                      {
+                          "id":  141,
+                          "question":  "Which Computer Architecture concept best matches: speedup limitation due to non-parallelizable portion?",
+                          "options":  [
+                                          "Microprogramming",
+                                          "Von Neumann Architecture",
+                                          "Amdahl Law",
+                                          "Cache Memory"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Amdahl Law is defined as: speedup limitation due to non-parallelizable portion."
+                      },
+                      {
+                          "id":  142,
+                          "question":  "What is the most accurate description of \u0027Amdahl Law\u0027?",
+                          "options":  [
+                                          "speedup limitation due to non-parallelizable portion",
+                                          "condition causing pipeline stall or incorrect execution",
+                                          "small fastest storage location inside CPU",
+                                          "volatile main memory used during program execution"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Amdahl Law refers to: speedup limitation due to non-parallelizable portion."
+                      },
+                      {
+                          "id":  143,
+                          "question":  "\u0027Amdahl Law\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Bus and I/O",
+                                          "Performance Metrics",
+                                          "CPU Core",
+                                          "Memory Hierarchy"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Amdahl Law is mainly part of Performance Metrics."
+                      },
+                      {
+                          "id":  144,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "MIPS -\u003e speedup limitation due to non-parallelizable portion",
+                                          "L1 Cache -\u003e speedup limitation due to non-parallelizable portion",
+                                          "Amdahl Law -\u003e speedup limitation due to non-parallelizable portion",
+                                          "Instruction Register -\u003e speedup limitation due to non-parallelizable portion"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Amdahl Law -\u003e speedup limitation due to non-parallelizable portion\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  145,
+                          "question":  "A system design requirement states: speedup limitation due to non-parallelizable portion. Which concept should be selected?",
+                          "options":  [
+                                          "Cache Memory",
+                                          "Microprogramming",
+                                          "Von Neumann Architecture",
+                                          "Amdahl Law"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Amdahl Law."
+                      },
+                      {
+                          "id":  146,
+                          "question":  "Which Computer Architecture concept best matches: processor containing multiple independent CPU cores?",
+                          "options":  [
+                                          "MMU",
+                                          "Harvard Architecture",
+                                          "RAM",
+                                          "Multicore"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Multicore is defined as: processor containing multiple independent CPU cores."
+                      },
+                      {
+                          "id":  147,
+                          "question":  "What is the most accurate description of \u0027Multicore\u0027?",
+                          "options":  [
+                                          "processor containing multiple independent CPU cores",
+                                          "control unit design using microinstructions in control memory",
+                                          "volatile main memory used during program execution",
+                                          "millions of instructions executed per second"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Multicore refers to: processor containing multiple independent CPU cores."
+                      },
+                      {
+                          "id":  148,
+                          "question":  "\u0027Multicore\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Instruction Processing",
+                                          "CPU Core",
+                                          "Bus and I/O",
+                                          "Performance Metrics"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Multicore is mainly part of Performance Metrics."
+                      },
+                      {
+                          "id":  149,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "MIPS -\u003e processor containing multiple independent CPU cores",
+                                          "Multicore -\u003e processor containing multiple independent CPU cores",
+                                          "Instruction Register -\u003e processor containing multiple independent CPU cores",
+                                          "Little Endian -\u003e processor containing multiple independent CPU cores"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Multicore -\u003e processor containing multiple independent CPU cores\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  150,
+                          "question":  "A system design requirement states: processor containing multiple independent CPU cores. Which concept should be selected?",
+                          "options":  [
+                                          "Multicore",
+                                          "Harvard Architecture",
+                                          "MMU",
+                                          "RAM"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Multicore."
+                      },
+                      {
+                          "id":  151,
+                          "question":  "Which Computer Architecture concept best matches: communication pathway carrying data, address, and control signals?",
+                          "options":  [
+                                          "Program Counter",
+                                          "ROM",
+                                          "Bus",
+                                          "Maskable Interrupt"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Bus is defined as: communication pathway carrying data, address, and control signals."
+                      },
+                      {
+                          "id":  152,
+                          "question":  "What is the most accurate description of \u0027Bus\u0027?",
+                          "options":  [
+                                          "bus carrying memory or I/O address information",
+                                          "larger but slower cache than L1",
+                                          "pipeline issue due to hardware resource conflict",
+                                          "communication pathway carrying data, address, and control signals"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Bus refers to: communication pathway carrying data, address, and control signals."
+                      },
+                      {
+                          "id":  153,
+                          "question":  "\u0027Bus\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Memory Hierarchy",
+                                          "Bus and I/O",
+                                          "Instruction Processing",
+                                          "Architecture Design"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Bus is mainly part of Bus and I/O."
+                      },
+                      {
+                          "id":  154,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "MIPS -\u003e communication pathway carrying data, address, and control signals",
+                                          "Big Endian -\u003e communication pathway carrying data, address, and control signals",
+                                          "Bus -\u003e communication pathway carrying data, address, and control signals",
+                                          "Control Unit -\u003e communication pathway carrying data, address, and control signals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Bus -\u003e communication pathway carrying data, address, and control signals\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  155,
+                          "question":  "A system design requirement states: communication pathway carrying data, address, and control signals. Which concept should be selected?",
+                          "options":  [
+                                          "Bus",
+                                          "ROM",
+                                          "Maskable Interrupt",
+                                          "Program Counter"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Bus."
+                      },
+                      {
+                          "id":  156,
+                          "question":  "Which Computer Architecture concept best matches: bus carrying actual data between components?",
+                          "options":  [
+                                          "Von Neumann Architecture",
+                                          "Data Bus",
+                                          "L3 Cache",
+                                          "RAM"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Data Bus is defined as: bus carrying actual data between components."
+                      },
+                      {
+                          "id":  157,
+                          "question":  "What is the most accurate description of \u0027Data Bus\u0027?",
+                          "options":  [
+                                          "bus carrying actual data between components",
+                                          "technique guessing branch outcome to improve pipeline flow",
+                                          "unit performing arithmetic and logical operations in CPU",
+                                          "non-volatile memory storing firmware instructions"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Data Bus refers to: bus carrying actual data between components."
+                      },
+                      {
+                          "id":  158,
+                          "question":  "\u0027Data Bus\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Bus and I/O",
+                                          "Architecture Design",
+                                          "Memory Hierarchy",
+                                          "CPU Core"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Data Bus is mainly part of Bus and I/O."
+                      },
+                      {
+                          "id":  159,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "RISC -\u003e bus carrying actual data between components",
+                                          "CISC -\u003e bus carrying actual data between components",
+                                          "Multicore -\u003e bus carrying actual data between components",
+                                          "Data Bus -\u003e bus carrying actual data between components"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Data Bus -\u003e bus carrying actual data between components\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  160,
+                          "question":  "A system design requirement states: bus carrying actual data between components. Which concept should be selected?",
+                          "options":  [
+                                          "Data Bus",
+                                          "RAM",
+                                          "Von Neumann Architecture",
+                                          "L3 Cache"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Data Bus."
+                      },
+                      {
+                          "id":  161,
+                          "question":  "Which Computer Architecture concept best matches: bus carrying memory or I/O address information?",
+                          "options":  [
+                                          "Structural Hazard",
+                                          "Accumulator",
+                                          "Address Bus",
+                                          "MMU"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Address Bus is defined as: bus carrying memory or I/O address information."
+                      },
+                      {
+                          "id":  162,
+                          "question":  "What is the most accurate description of \u0027Address Bus\u0027?",
+                          "options":  [
+                                          "bus carrying read/write and control signals",
+                                          "bus carrying memory or I/O address information",
+                                          "single memory path shared by instructions and data",
+                                          "storing least significant byte at lowest memory address"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Address Bus refers to: bus carrying memory or I/O address information."
+                      },
+                      {
+                          "id":  163,
+                          "question":  "\u0027Address Bus\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Bus and I/O",
+                                          "Memory Hierarchy",
+                                          "Instruction Processing",
+                                          "CPU Core"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Address Bus is mainly part of Bus and I/O."
+                      },
+                      {
+                          "id":  164,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Address Bus -\u003e bus carrying memory or I/O address information",
+                                          "MMU -\u003e bus carrying memory or I/O address information",
+                                          "Instruction Set Architecture -\u003e bus carrying memory or I/O address information",
+                                          "Control Bus -\u003e bus carrying memory or I/O address information"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Address Bus -\u003e bus carrying memory or I/O address information\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  165,
+                          "question":  "A system design requirement states: bus carrying memory or I/O address information. Which concept should be selected?",
+                          "options":  [
+                                          "Address Bus",
+                                          "MMU",
+                                          "Structural Hazard",
+                                          "Accumulator"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Address Bus."
+                      },
+                      {
+                          "id":  166,
+                          "question":  "Which Computer Architecture concept best matches: bus carrying read/write and control signals?",
+                          "options":  [
+                                          "Memory-Mapped I/O",
+                                          "ALU",
+                                          "Accumulator",
+                                          "Control Bus"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Control Bus is defined as: bus carrying read/write and control signals."
+                      },
+                      {
+                          "id":  167,
+                          "question":  "What is the most accurate description of \u0027Control Bus\u0027?",
+                          "options":  [
+                                          "bus carrying read/write and control signals",
+                                          "control unit design using microinstructions in control memory",
+                                          "overlapping execution stages of multiple instructions",
+                                          "I/O method using separate address space for devices"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Control Bus refers to: bus carrying read/write and control signals."
+                      },
+                      {
+                          "id":  168,
+                          "question":  "\u0027Control Bus\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Architecture Design",
+                                          "Bus and I/O",
+                                          "Memory Hierarchy",
+                                          "Instruction Processing"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Control Bus is mainly part of Bus and I/O."
+                      },
+                      {
+                          "id":  169,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Superscalar -\u003e bus carrying read/write and control signals",
+                                          "Amdahl Law -\u003e bus carrying read/write and control signals",
+                                          "Control Bus -\u003e bus carrying read/write and control signals",
+                                          "Instruction Cycle -\u003e bus carrying read/write and control signals"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Control Bus -\u003e bus carrying read/write and control signals\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  170,
+                          "question":  "A system design requirement states: bus carrying read/write and control signals. Which concept should be selected?",
+                          "options":  [
+                                          "Control Bus",
+                                          "Memory-Mapped I/O",
+                                          "ALU",
+                                          "Accumulator"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Control Bus."
+                      },
+                      {
+                          "id":  171,
+                          "question":  "Which Computer Architecture concept best matches: direct transfer between I/O and memory without CPU intervention?",
+                          "options":  [
+                                          "Instruction Cycle",
+                                          "DMA",
+                                          "L2 Cache",
+                                          "Structural Hazard"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "DMA is defined as: direct transfer between I/O and memory without CPU intervention."
+                      },
+                      {
+                          "id":  172,
+                          "question":  "What is the most accurate description of \u0027DMA\u0027?",
+                          "options":  [
+                                          "closest and fastest cache level to CPU core",
+                                          "direct transfer between I/O and memory without CPU intervention",
+                                          "interrupt that cannot be ignored by CPU",
+                                          "control unit design using microinstructions in control memory"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "DMA refers to: direct transfer between I/O and memory without CPU intervention."
+                      },
+                      {
+                          "id":  173,
+                          "question":  "\u0027DMA\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "CPU Core",
+                                          "Instruction Processing",
+                                          "Performance Metrics",
+                                          "Bus and I/O"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "DMA is mainly part of Bus and I/O."
+                      },
+                      {
+                          "id":  174,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "DMA -\u003e direct transfer between I/O and memory without CPU intervention",
+                                          "Hazard -\u003e direct transfer between I/O and memory without CPU intervention",
+                                          "Instruction Set Architecture -\u003e direct transfer between I/O and memory without CPU intervention",
+                                          "Address Bus -\u003e direct transfer between I/O and memory without CPU intervention"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027DMA -\u003e direct transfer between I/O and memory without CPU intervention\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  175,
+                          "question":  "A system design requirement states: direct transfer between I/O and memory without CPU intervention. Which concept should be selected?",
+                          "options":  [
+                                          "Structural Hazard",
+                                          "DMA",
+                                          "Instruction Cycle",
+                                          "L2 Cache"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to DMA."
+                      },
+                      {
+                          "id":  176,
+                          "question":  "Which Computer Architecture concept best matches: signal requesting CPU attention for event handling?",
+                          "options":  [
+                                          "Interrupt",
+                                          "Instruction Cycle",
+                                          "Control Bus",
+                                          "MIPS"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Interrupt is defined as: signal requesting CPU attention for event handling."
+                      },
+                      {
+                          "id":  177,
+                          "question":  "What is the most accurate description of \u0027Interrupt\u0027?",
+                          "options":  [
+                                          "pipeline issue from instruction data dependency",
+                                          "millions of instructions executed per second",
+                                          "instruction set philosophy with simple fixed-length instructions",
+                                          "signal requesting CPU attention for event handling"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Interrupt refers to: signal requesting CPU attention for event handling."
+                      },
+                      {
+                          "id":  178,
+                          "question":  "\u0027Interrupt\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "CPU Core",
+                                          "Instruction Processing",
+                                          "Bus and I/O",
+                                          "Performance Metrics"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Interrupt is mainly part of Bus and I/O."
+                      },
+                      {
+                          "id":  179,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "RAM -\u003e signal requesting CPU attention for event handling",
+                                          "Interrupt -\u003e signal requesting CPU attention for event handling",
+                                          "Control Bus -\u003e signal requesting CPU attention for event handling",
+                                          "Program Counter -\u003e signal requesting CPU attention for event handling"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027Interrupt -\u003e signal requesting CPU attention for event handling\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  180,
+                          "question":  "A system design requirement states: signal requesting CPU attention for event handling. Which concept should be selected?",
+                          "options":  [
+                                          "Control Bus",
+                                          "MIPS",
+                                          "Instruction Cycle",
+                                          "Interrupt"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Interrupt."
+                      },
+                      {
+                          "id":  181,
+                          "question":  "Which Computer Architecture concept best matches: interrupt that can be disabled by CPU?",
+                          "options":  [
+                                          "Maskable Interrupt",
+                                          "Control Unit",
+                                          "Data Hazard",
+                                          "Cache Memory"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Maskable Interrupt is defined as: interrupt that can be disabled by CPU."
+                      },
+                      {
+                          "id":  182,
+                          "question":  "What is the most accurate description of \u0027Maskable Interrupt\u0027?",
+                          "options":  [
+                                          "technique guessing branch outcome to improve pipeline flow",
+                                          "instruction set philosophy with complex variable-length instructions",
+                                          "pipeline issue from instruction data dependency",
+                                          "interrupt that can be disabled by CPU"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Maskable Interrupt refers to: interrupt that can be disabled by CPU."
+                      },
+                      {
+                          "id":  183,
+                          "question":  "\u0027Maskable Interrupt\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Memory Hierarchy",
+                                          "Bus and I/O",
+                                          "Performance Metrics",
+                                          "CPU Core"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Maskable Interrupt is mainly part of Bus and I/O."
+                      },
+                      {
+                          "id":  184,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Instruction Cycle -\u003e interrupt that can be disabled by CPU",
+                                          "Hazard -\u003e interrupt that can be disabled by CPU",
+                                          "RISC -\u003e interrupt that can be disabled by CPU",
+                                          "Maskable Interrupt -\u003e interrupt that can be disabled by CPU"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Maskable Interrupt -\u003e interrupt that can be disabled by CPU\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  185,
+                          "question":  "A system design requirement states: interrupt that can be disabled by CPU. Which concept should be selected?",
+                          "options":  [
+                                          "Data Hazard",
+                                          "Cache Memory",
+                                          "Control Unit",
+                                          "Maskable Interrupt"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Maskable Interrupt."
+                      },
+                      {
+                          "id":  186,
+                          "question":  "Which Computer Architecture concept best matches: interrupt that cannot be ignored by CPU?",
+                          "options":  [
+                                          "CISC",
+                                          "Non-Maskable Interrupt",
+                                          "Instruction Register",
+                                          "Hazard"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Non-Maskable Interrupt is defined as: interrupt that cannot be ignored by CPU."
+                      },
+                      {
+                          "id":  187,
+                          "question":  "What is the most accurate description of \u0027Non-Maskable Interrupt\u0027?",
+                          "options":  [
+                                          "technique extending memory using disk space",
+                                          "interrupt that cannot be ignored by CPU",
+                                          "storing most significant byte at lowest memory address",
+                                          "hardware unit translating virtual addresses to physical addresses"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Non-Maskable Interrupt refers to: interrupt that cannot be ignored by CPU."
+                      },
+                      {
+                          "id":  188,
+                          "question":  "\u0027Non-Maskable Interrupt\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Bus and I/O",
+                                          "Memory Hierarchy",
+                                          "Performance Metrics",
+                                          "Instruction Processing"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Non-Maskable Interrupt is mainly part of Bus and I/O."
+                      },
+                      {
+                          "id":  189,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Non-Maskable Interrupt -\u003e interrupt that cannot be ignored by CPU",
+                                          "Interrupt -\u003e interrupt that cannot be ignored by CPU",
+                                          "Data Bus -\u003e interrupt that cannot be ignored by CPU",
+                                          "Bus -\u003e interrupt that cannot be ignored by CPU"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Non-Maskable Interrupt -\u003e interrupt that cannot be ignored by CPU\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  190,
+                          "question":  "A system design requirement states: interrupt that cannot be ignored by CPU. Which concept should be selected?",
+                          "options":  [
+                                          "CISC",
+                                          "Instruction Register",
+                                          "Hazard",
+                                          "Non-Maskable Interrupt"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Non-Maskable Interrupt."
+                      },
+                      {
+                          "id":  191,
+                          "question":  "Which Computer Architecture concept best matches: I/O method using memory address space for devices?",
+                          "options":  [
+                                          "MIPS",
+                                          "Clock Speed",
+                                          "Memory-Mapped I/O",
+                                          "DMA"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Memory-Mapped I/O is defined as: I/O method using memory address space for devices."
+                      },
+                      {
+                          "id":  192,
+                          "question":  "What is the most accurate description of \u0027Memory-Mapped I/O\u0027?",
+                          "options":  [
+                                          "instruction set philosophy with complex variable-length instructions",
+                                          "I/O method using memory address space for devices",
+                                          "unit directing instruction execution and control signals",
+                                          "communication pathway carrying data, address, and control signals"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Memory-Mapped I/O refers to: I/O method using memory address space for devices."
+                      },
+                      {
+                          "id":  193,
+                          "question":  "\u0027Memory-Mapped I/O\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "CPU Core",
+                                          "Architecture Design",
+                                          "Memory Hierarchy",
+                                          "Bus and I/O"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Memory-Mapped I/O is mainly part of Bus and I/O."
+                      },
+                      {
+                          "id":  194,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Non-Maskable Interrupt -\u003e I/O method using memory address space for devices",
+                                          "Data Hazard -\u003e I/O method using memory address space for devices",
+                                          "Memory-Mapped I/O -\u003e I/O method using memory address space for devices",
+                                          "Interrupt -\u003e I/O method using memory address space for devices"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Memory-Mapped I/O -\u003e I/O method using memory address space for devices\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  195,
+                          "question":  "A system design requirement states: I/O method using memory address space for devices. Which concept should be selected?",
+                          "options":  [
+                                          "MIPS",
+                                          "Clock Speed",
+                                          "DMA",
+                                          "Memory-Mapped I/O"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Memory-Mapped I/O."
+                      },
+                      {
+                          "id":  196,
+                          "question":  "Which Computer Architecture concept best matches: I/O method using separate address space for devices?",
+                          "options":  [
+                                          "Endianness",
+                                          "Port-Mapped I/O",
+                                          "Superscalar",
+                                          "Register"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Port-Mapped I/O is defined as: I/O method using separate address space for devices."
+                      },
+                      {
+                          "id":  197,
+                          "question":  "What is the most accurate description of \u0027Port-Mapped I/O\u0027?",
+                          "options":  [
+                                          "I/O method using separate address space for devices",
+                                          "single memory path shared by instructions and data",
+                                          "control unit design using microinstructions in control memory",
+                                          "CPU design issuing multiple instructions per clock"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Port-Mapped I/O refers to: I/O method using separate address space for devices."
+                      },
+                      {
+                          "id":  198,
+                          "question":  "\u0027Port-Mapped I/O\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "CPU Core",
+                                          "Performance Metrics",
+                                          "Memory Hierarchy",
+                                          "Bus and I/O"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Port-Mapped I/O is mainly part of Bus and I/O."
+                      },
+                      {
+                          "id":  199,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Program Counter -\u003e I/O method using separate address space for devices",
+                                          "ALU -\u003e I/O method using separate address space for devices",
+                                          "Superscalar -\u003e I/O method using separate address space for devices",
+                                          "Port-Mapped I/O -\u003e I/O method using separate address space for devices"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Port-Mapped I/O -\u003e I/O method using separate address space for devices\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  200,
+                          "question":  "A system design requirement states: I/O method using separate address space for devices. Which concept should be selected?",
+                          "options":  [
+                                          "Endianness",
+                                          "Port-Mapped I/O",
+                                          "Superscalar",
+                                          "Register"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Port-Mapped I/O."
+                      },
+                      {
+                          "id":  201,
+                          "question":  "Which Computer Architecture concept best matches: instruction set philosophy with simple fixed-length instructions?",
+                          "options":  [
+                                          "Hazard",
+                                          "Interrupt",
+                                          "Branch Prediction",
+                                          "RISC"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "RISC is defined as: instruction set philosophy with simple fixed-length instructions."
+                      },
+                      {
+                          "id":  202,
+                          "question":  "What is the most accurate description of \u0027RISC\u0027?",
+                          "options":  [
+                                          "direct transfer between I/O and memory without CPU intervention",
+                                          "bus carrying actual data between components",
+                                          "delay between memory request and data availability",
+                                          "instruction set philosophy with simple fixed-length instructions"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "RISC refers to: instruction set philosophy with simple fixed-length instructions."
+                      },
+                      {
+                          "id":  203,
+                          "question":  "\u0027RISC\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Memory Hierarchy",
+                                          "Architecture Design",
+                                          "Instruction Processing",
+                                          "Performance Metrics"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "RISC is mainly part of Architecture Design."
+                      },
+                      {
+                          "id":  204,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Control Bus -\u003e instruction set philosophy with simple fixed-length instructions",
+                                          "L3 Cache -\u003e instruction set philosophy with simple fixed-length instructions",
+                                          "RISC -\u003e instruction set philosophy with simple fixed-length instructions",
+                                          "Instruction Cycle -\u003e instruction set philosophy with simple fixed-length instructions"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027RISC -\u003e instruction set philosophy with simple fixed-length instructions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  205,
+                          "question":  "A system design requirement states: instruction set philosophy with simple fixed-length instructions. Which concept should be selected?",
+                          "options":  [
+                                          "Hazard",
+                                          "Branch Prediction",
+                                          "RISC",
+                                          "Interrupt"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to RISC."
+                      },
+                      {
+                          "id":  206,
+                          "question":  "Which Computer Architecture concept best matches: instruction set philosophy with complex variable-length instructions?",
+                          "options":  [
+                                          "CISC",
+                                          "Clock Speed",
+                                          "Instruction Set Architecture",
+                                          "Control Hazard"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "CISC is defined as: instruction set philosophy with complex variable-length instructions."
+                      },
+                      {
+                          "id":  207,
+                          "question":  "What is the most accurate description of \u0027CISC\u0027?",
+                          "options":  [
+                                          "unit directing instruction execution and control signals",
+                                          "I/O method using separate address space for devices",
+                                          "instruction set philosophy with complex variable-length instructions",
+                                          "average clock cycles per instruction"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "CISC refers to: instruction set philosophy with complex variable-length instructions."
+                      },
+                      {
+                          "id":  208,
+                          "question":  "\u0027CISC\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Bus and I/O",
+                                          "Architecture Design",
+                                          "Performance Metrics",
+                                          "Instruction Processing"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "CISC is mainly part of Architecture Design."
+                      },
+                      {
+                          "id":  209,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "L2 Cache -\u003e instruction set philosophy with complex variable-length instructions",
+                                          "CISC -\u003e instruction set philosophy with complex variable-length instructions",
+                                          "Clock Speed -\u003e instruction set philosophy with complex variable-length instructions",
+                                          "Von Neumann Architecture -\u003e instruction set philosophy with complex variable-length instructions"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Only \u0027CISC -\u003e instruction set philosophy with complex variable-length instructions\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  210,
+                          "question":  "A system design requirement states: instruction set philosophy with complex variable-length instructions. Which concept should be selected?",
+                          "options":  [
+                                          "Clock Speed",
+                                          "Instruction Set Architecture",
+                                          "Control Hazard",
+                                          "CISC"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to CISC."
+                      },
+                      {
+                          "id":  211,
+                          "question":  "Which Computer Architecture concept best matches: separate memory paths for instructions and data?",
+                          "options":  [
+                                          "RAM",
+                                          "Von Neumann Architecture",
+                                          "Amdahl Law",
+                                          "Harvard Architecture"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Harvard Architecture is defined as: separate memory paths for instructions and data."
+                      },
+                      {
+                          "id":  212,
+                          "question":  "What is the most accurate description of \u0027Harvard Architecture\u0027?",
+                          "options":  [
+                                          "larger but slower cache than L1",
+                                          "condition causing pipeline stall or incorrect execution",
+                                          "separate memory paths for instructions and data",
+                                          "CPU executing instructions as operands become available"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Harvard Architecture refers to: separate memory paths for instructions and data."
+                      },
+                      {
+                          "id":  213,
+                          "question":  "\u0027Harvard Architecture\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Architecture Design",
+                                          "Instruction Processing",
+                                          "CPU Core",
+                                          "Bus and I/O"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Harvard Architecture is mainly part of Architecture Design."
+                      },
+                      {
+                          "id":  214,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Hazard -\u003e separate memory paths for instructions and data",
+                                          "Superscalar -\u003e separate memory paths for instructions and data",
+                                          "Harvard Architecture -\u003e separate memory paths for instructions and data",
+                                          "ALU -\u003e separate memory paths for instructions and data"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Harvard Architecture -\u003e separate memory paths for instructions and data\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  215,
+                          "question":  "A system design requirement states: separate memory paths for instructions and data. Which concept should be selected?",
+                          "options":  [
+                                          "Harvard Architecture",
+                                          "RAM",
+                                          "Amdahl Law",
+                                          "Von Neumann Architecture"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Harvard Architecture."
+                      },
+                      {
+                          "id":  216,
+                          "question":  "Which Computer Architecture concept best matches: single memory path shared by instructions and data?",
+                          "options":  [
+                                          "Big Endian",
+                                          "Bus",
+                                          "Instruction Cycle",
+                                          "Von Neumann Architecture"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Von Neumann Architecture is defined as: single memory path shared by instructions and data."
+                      },
+                      {
+                          "id":  217,
+                          "question":  "What is the most accurate description of \u0027Von Neumann Architecture\u0027?",
+                          "options":  [
+                                          "byte order used for storing multi-byte data",
+                                          "number of CPU cycles executed per second",
+                                          "I/O method using separate address space for devices",
+                                          "single memory path shared by instructions and data"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Von Neumann Architecture refers to: single memory path shared by instructions and data."
+                      },
+                      {
+                          "id":  218,
+                          "question":  "\u0027Von Neumann Architecture\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Architecture Design",
+                                          "Instruction Processing",
+                                          "CPU Core",
+                                          "Bus and I/O"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Von Neumann Architecture is mainly part of Architecture Design."
+                      },
+                      {
+                          "id":  219,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Address Bus -\u003e single memory path shared by instructions and data",
+                                          "Little Endian -\u003e single memory path shared by instructions and data",
+                                          "Register -\u003e single memory path shared by instructions and data",
+                                          "Von Neumann Architecture -\u003e single memory path shared by instructions and data"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Von Neumann Architecture -\u003e single memory path shared by instructions and data\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  220,
+                          "question":  "A system design requirement states: single memory path shared by instructions and data. Which concept should be selected?",
+                          "options":  [
+                                          "Von Neumann Architecture",
+                                          "Bus",
+                                          "Instruction Cycle",
+                                          "Big Endian"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to Von Neumann Architecture."
+                      },
+                      {
+                          "id":  221,
+                          "question":  "Which Computer Architecture concept best matches: control unit design using microinstructions in control memory?",
+                          "options":  [
+                                          "Data Bus",
+                                          "Control Unit",
+                                          "Microprogramming",
+                                          "Control Hazard"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Microprogramming is defined as: control unit design using microinstructions in control memory."
+                      },
+                      {
+                          "id":  222,
+                          "question":  "What is the most accurate description of \u0027Microprogramming\u0027?",
+                          "options":  [
+                                          "storing most significant byte at lowest memory address",
+                                          "technique extending memory using disk space",
+                                          "control unit design using microinstructions in control memory",
+                                          "pipeline issue due to hardware resource conflict"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Microprogramming refers to: control unit design using microinstructions in control memory."
+                      },
+                      {
+                          "id":  223,
+                          "question":  "\u0027Microprogramming\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Bus and I/O",
+                                          "Performance Metrics",
+                                          "Instruction Processing",
+                                          "Architecture Design"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Microprogramming is mainly part of Architecture Design."
+                      },
+                      {
+                          "id":  224,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Cache Memory -\u003e control unit design using microinstructions in control memory",
+                                          "Non-Maskable Interrupt -\u003e control unit design using microinstructions in control memory",
+                                          "Control Hazard -\u003e control unit design using microinstructions in control memory",
+                                          "Microprogramming -\u003e control unit design using microinstructions in control memory"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Only \u0027Microprogramming -\u003e control unit design using microinstructions in control memory\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  225,
+                          "question":  "A system design requirement states: control unit design using microinstructions in control memory. Which concept should be selected?",
+                          "options":  [
+                                          "Control Hazard",
+                                          "Microprogramming",
+                                          "Data Bus",
+                                          "Control Unit"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "The requirement directly points to Microprogramming."
+                      },
+                      {
+                          "id":  226,
+                          "question":  "Which Computer Architecture concept best matches: byte order used for storing multi-byte data?",
+                          "options":  [
+                                          "Endianness",
+                                          "Memory Latency",
+                                          "Hazard",
+                                          "Memory Bandwidth"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Endianness is defined as: byte order used for storing multi-byte data."
+                      },
+                      {
+                          "id":  227,
+                          "question":  "What is the most accurate description of \u0027Endianness\u0027?",
+                          "options":  [
+                                          "instruction set philosophy with complex variable-length instructions",
+                                          "byte order used for storing multi-byte data",
+                                          "technique guessing branch outcome to improve pipeline flow",
+                                          "small high-speed memory between CPU and RAM"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Endianness refers to: byte order used for storing multi-byte data."
+                      },
+                      {
+                          "id":  228,
+                          "question":  "\u0027Endianness\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Instruction Processing",
+                                          "Architecture Design",
+                                          "Memory Hierarchy",
+                                          "Performance Metrics"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Endianness is mainly part of Architecture Design."
+                      },
+                      {
+                          "id":  229,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Big Endian -\u003e byte order used for storing multi-byte data",
+                                          "Throughput -\u003e byte order used for storing multi-byte data",
+                                          "Endianness -\u003e byte order used for storing multi-byte data",
+                                          "Program Counter -\u003e byte order used for storing multi-byte data"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Endianness -\u003e byte order used for storing multi-byte data\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  230,
+                          "question":  "A system design requirement states: byte order used for storing multi-byte data. Which concept should be selected?",
+                          "options":  [
+                                          "Memory Latency",
+                                          "Memory Bandwidth",
+                                          "Hazard",
+                                          "Endianness"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Endianness."
+                      },
+                      {
+                          "id":  231,
+                          "question":  "Which Computer Architecture concept best matches: storing most significant byte at lowest memory address?",
+                          "options":  [
+                                          "Instruction Register",
+                                          "Port-Mapped I/O",
+                                          "Big Endian",
+                                          "Endianness"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Big Endian is defined as: storing most significant byte at lowest memory address."
+                      },
+                      {
+                          "id":  232,
+                          "question":  "What is the most accurate description of \u0027Big Endian\u0027?",
+                          "options":  [
+                                          "unit directing instruction execution and control signals",
+                                          "larger but slower cache than L1",
+                                          "storing most significant byte at lowest memory address",
+                                          "interrupt that cannot be ignored by CPU"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Big Endian refers to: storing most significant byte at lowest memory address."
+                      },
+                      {
+                          "id":  233,
+                          "question":  "\u0027Big Endian\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Bus and I/O",
+                                          "Memory Hierarchy",
+                                          "Architecture Design",
+                                          "Instruction Processing"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Big Endian is mainly part of Architecture Design."
+                      },
+                      {
+                          "id":  234,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "CISC -\u003e storing most significant byte at lowest memory address",
+                                          "Hazard -\u003e storing most significant byte at lowest memory address",
+                                          "Big Endian -\u003e storing most significant byte at lowest memory address",
+                                          "CPI -\u003e storing most significant byte at lowest memory address"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Big Endian -\u003e storing most significant byte at lowest memory address\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  235,
+                          "question":  "A system design requirement states: storing most significant byte at lowest memory address. Which concept should be selected?",
+                          "options":  [
+                                          "Endianness",
+                                          "Instruction Register",
+                                          "Big Endian",
+                                          "Port-Mapped I/O"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Big Endian."
+                      },
+                      {
+                          "id":  236,
+                          "question":  "Which Computer Architecture concept best matches: storing least significant byte at lowest memory address?",
+                          "options":  [
+                                          "Little Endian",
+                                          "L2 Cache",
+                                          "Clock Speed",
+                                          "RAM"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Little Endian is defined as: storing least significant byte at lowest memory address."
+                      },
+                      {
+                          "id":  237,
+                          "question":  "What is the most accurate description of \u0027Little Endian\u0027?",
+                          "options":  [
+                                          "condition causing pipeline stall or incorrect execution",
+                                          "storing least significant byte at lowest memory address",
+                                          "shared cache across multiple cores in many CPUs",
+                                          "byte order used for storing multi-byte data"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Little Endian refers to: storing least significant byte at lowest memory address."
+                      },
+                      {
+                          "id":  238,
+                          "question":  "\u0027Little Endian\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "Performance Metrics",
+                                          "Architecture Design",
+                                          "CPU Core",
+                                          "Bus and I/O"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "Little Endian is mainly part of Architecture Design."
+                      },
+                      {
+                          "id":  239,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Multicore -\u003e storing least significant byte at lowest memory address",
+                                          "Von Neumann Architecture -\u003e storing least significant byte at lowest memory address",
+                                          "Little Endian -\u003e storing least significant byte at lowest memory address",
+                                          "Instruction Set Architecture -\u003e storing least significant byte at lowest memory address"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027Little Endian -\u003e storing least significant byte at lowest memory address\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  240,
+                          "question":  "A system design requirement states: storing least significant byte at lowest memory address. Which concept should be selected?",
+                          "options":  [
+                                          "RAM",
+                                          "L2 Cache",
+                                          "Clock Speed",
+                                          "Little Endian"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "The requirement directly points to Little Endian."
+                      },
+                      {
+                          "id":  241,
+                          "question":  "Which Computer Architecture concept best matches: programmer-visible interface of processor operations?",
+                          "options":  [
+                                          "Big Endian",
+                                          "Memory Bandwidth",
+                                          "Branch Prediction",
+                                          "Instruction Set Architecture"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Instruction Set Architecture is defined as: programmer-visible interface of processor operations."
+                      },
+                      {
+                          "id":  242,
+                          "question":  "What is the most accurate description of \u0027Instruction Set Architecture\u0027?",
+                          "options":  [
+                                          "number of CPU cycles executed per second",
+                                          "CPU design issuing multiple instructions per clock",
+                                          "separate memory paths for instructions and data",
+                                          "programmer-visible interface of processor operations"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Instruction Set Architecture refers to: programmer-visible interface of processor operations."
+                      },
+                      {
+                          "id":  243,
+                          "question":  "\u0027Instruction Set Architecture\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "CPU Core",
+                                          "Performance Metrics",
+                                          "Memory Hierarchy",
+                                          "Architecture Design"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "Instruction Set Architecture is mainly part of Architecture Design."
+                      },
+                      {
+                          "id":  244,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Instruction Set Architecture -\u003e programmer-visible interface of processor operations",
+                                          "MIPS -\u003e programmer-visible interface of processor operations",
+                                          "Pipelining -\u003e programmer-visible interface of processor operations",
+                                          "Address Bus -\u003e programmer-visible interface of processor operations"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "Only \u0027Instruction Set Architecture -\u003e programmer-visible interface of processor operations\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  245,
+                          "question":  "A system design requirement states: programmer-visible interface of processor operations. Which concept should be selected?",
+                          "options":  [
+                                          "Big Endian",
+                                          "Memory Bandwidth",
+                                          "Instruction Set Architecture",
+                                          "Branch Prediction"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "The requirement directly points to Instruction Set Architecture."
+                      },
+                      {
+                          "id":  246,
+                          "question":  "Which Computer Architecture concept best matches: hardware unit translating virtual addresses to physical addresses?",
+                          "options":  [
+                                          "Throughput",
+                                          "RISC",
+                                          "MMU",
+                                          "Branch Prediction"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "MMU is defined as: hardware unit translating virtual addresses to physical addresses."
+                      },
+                      {
+                          "id":  247,
+                          "question":  "What is the most accurate description of \u0027MMU\u0027?",
+                          "options":  [
+                                          "closest and fastest cache level to CPU core",
+                                          "I/O method using memory address space for devices",
+                                          "communication pathway carrying data, address, and control signals",
+                                          "hardware unit translating virtual addresses to physical addresses"
+                                      ],
+                          "answer":  3,
+                          "explanation":  "MMU refers to: hardware unit translating virtual addresses to physical addresses."
+                      },
+                      {
+                          "id":  248,
+                          "question":  "\u0027MMU\u0027 belongs mainly to which architecture area?",
+                          "options":  [
+                                          "CPU Core",
+                                          "Architecture Design",
+                                          "Memory Hierarchy",
+                                          "Instruction Processing"
+                                      ],
+                          "answer":  1,
+                          "explanation":  "MMU is mainly part of Architecture Design."
+                      },
+                      {
+                          "id":  249,
+                          "question":  "Identify the correct architecture term-definition mapping.",
+                          "options":  [
+                                          "Control Bus -\u003e hardware unit translating virtual addresses to physical addresses",
+                                          "Harvard Architecture -\u003e hardware unit translating virtual addresses to physical addresses",
+                                          "MMU -\u003e hardware unit translating virtual addresses to physical addresses",
+                                          "Interrupt -\u003e hardware unit translating virtual addresses to physical addresses"
+                                      ],
+                          "answer":  2,
+                          "explanation":  "Only \u0027MMU -\u003e hardware unit translating virtual addresses to physical addresses\u0027 is correctly mapped."
+                      },
+                      {
+                          "id":  250,
+                          "question":  "A system design requirement states: hardware unit translating virtual addresses to physical addresses. Which concept should be selected?",
+                          "options":  [
+                                          "MMU",
+                                          "Throughput",
+                                          "RISC",
+                                          "Branch Prediction"
+                                      ],
+                          "answer":  0,
+                          "explanation":  "The requirement directly points to MMU."
+                      }
+                  ]
+}
