@@ -456,7 +456,7 @@ async function initMockList() {
     const range = createEl("input");
     range.type = "range";
     range.min = "0";
-    range.max = String(Math.min(cfg.topic.questionCount, getConfiguredTotalQuestions()));
+    range.max = String(cfg.topic.questionCount);
     range.value = String(cfg.limit);
     range.disabled = !cfg.selected;
 
@@ -544,9 +544,8 @@ async function initMockList() {
     }
 
     totalQuestionsValue.textContent = totalQuestionsInput.value;
-    const target = getConfiguredTotalQuestions();
     topicConfigs.forEach((cfg) => {
-      cfg.limit = Math.min(cfg.limit, cfg.topic.questionCount, target);
+      cfg.limit = Math.min(cfg.limit, cfg.topic.questionCount);
     });
     renderTopicRows();
     updateConfiguratorSummary();
