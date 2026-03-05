@@ -48,6 +48,15 @@ function setMockConfigStatus(message, tone = "") {
   status.textContent = message;
 }
 
+const DEFAULT_MOCK_TOPIC_SELECTION = new Set([
+  "computer_networks_cyber_security",
+  "database_management_system",
+  "operating_system",
+  "software_engineering",
+  "computer_architecture",
+  "data_structure_algorithm"
+]);
+
 function buildAllocationPlan(topicConfigs, targetCount) {
   const selected = topicConfigs.filter((cfg) => cfg.selected);
   if (!selected.length) {
@@ -515,7 +524,7 @@ async function initMockList() {
     const defaultCap = Math.max(1, Math.floor(getConfiguredTotalQuestions() / Math.max(1, topics.length)));
     topicConfigs = topics.map((topic) => ({
       topic,
-      selected: true,
+      selected: DEFAULT_MOCK_TOPIC_SELECTION.has(topic.id),
       exact: false,
       limit: Math.min(defaultCap, topic.questionCount, getConfiguredTotalQuestions())
     }));
