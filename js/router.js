@@ -593,6 +593,13 @@ async function initMockList() {
 
       const customQuestionsKey = `otp_custom_questions_${attempt.attemptId}`;
       saveToStorage(customQuestionsKey, questions);
+      const persisted = getFromStorage(customQuestionsKey, null);
+      if (!Array.isArray(persisted) || persisted.length !== questions.length) {
+        removeFromStorage(customQuestionsKey);
+        throw new Error(
+          "Unable to persist personalized mock data. Reduce total questions and try again."
+        );
+      }
       attempt.customQuestionsKey = customQuestionsKey;
       startAttempt(attempt);
     } catch (error) {
