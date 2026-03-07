@@ -13,6 +13,18 @@ Thumbs.db
 *.log
 *.tmp
 *.bak
+logs/
+
+# Local scraping/import runtime state (keep private)
+data/import_state/
+
+# Local scripts and generators (not required for project hosting)
+scripts/
+
+# Local CN question fetching/import scripts (explicit private rules)
+scripts/import_cn_*.ps1
+scripts/run_cn_append_until_exhausted.ps1
+scripts/run_cn_import_until_success.ps1
 
 # Python cache (if local scripts are extended)
 __pycache__/

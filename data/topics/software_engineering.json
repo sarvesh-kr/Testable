@@ -98,18 +98,6 @@
                       },
                       {
                           "id":  9,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Modularity -\u003e sequential model with phase-wise completion",
-                                          "Spiral Model -\u003e sequential model with phase-wise completion",
-                                          "Waterfall Model -\u003e sequential model with phase-wise completion",
-                                          "Black Box Testing -\u003e sequential model with phase-wise completion"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Waterfall Model -\u003e sequential model with phase-wise completion\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  10,
                           "question":  "A project requirement states: sequential model with phase-wise completion. Which concept should be selected?",
                           "options":  [
                                           "Integration Testing",
@@ -121,7 +109,7 @@
                           "explanation":  "The requirement directly points to Waterfall Model."
                       },
                       {
-                          "id":  11,
+                          "id":  10,
                           "question":  "Which Software Engineering concept best matches: testing-focused model mapping development phases to test levels?",
                           "options":  [
                                           "Boundary Value Analysis",
@@ -133,7 +121,7 @@
                           "explanation":  "V-Model is defined as: testing-focused model mapping development phases to test levels."
                       },
                       {
-                          "id":  12,
+                          "id":  11,
                           "question":  "What is the most accurate description of \u0027V-Model\u0027?",
                           "options":  [
                                           "testing-focused model mapping development phases to test levels",
@@ -145,7 +133,7 @@
                           "explanation":  "V-Model refers to: testing-focused model mapping development phases to test levels."
                       },
                       {
-                          "id":  13,
+                          "id":  12,
                           "question":  "\u0027V-Model\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Requirements",
@@ -157,19 +145,7 @@
                           "explanation":  "V-Model is mainly part of SDLC Models."
                       },
                       {
-                          "id":  14,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Sequence Diagram -\u003e testing-focused model mapping development phases to test levels",
-                                          "V-Model -\u003e testing-focused model mapping development phases to test levels",
-                                          "Cohesion -\u003e testing-focused model mapping development phases to test levels",
-                                          "SRS -\u003e testing-focused model mapping development phases to test levels"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027V-Model -\u003e testing-focused model mapping development phases to test levels\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  15,
+                          "id":  13,
                           "question":  "A project requirement states: testing-focused model mapping development phases to test levels. Which concept should be selected?",
                           "options":  [
                                           "Boundary Value Analysis",
@@ -181,7 +157,7 @@
                           "explanation":  "The requirement directly points to V-Model."
                       },
                       {
-                          "id":  16,
+                          "id":  14,
                           "question":  "Which Software Engineering concept best matches: risk-driven iterative model combining prototyping and planning?",
                           "options":  [
                                           "Spiral Model",
@@ -193,7 +169,7 @@
                           "explanation":  "Spiral Model is defined as: risk-driven iterative model combining prototyping and planning."
                       },
                       {
-                          "id":  17,
+                          "id":  15,
                           "question":  "What is the most accurate description of \u0027Spiral Model\u0027?",
                           "options":  [
                                           "focused test to verify specific change works",
@@ -205,7 +181,7 @@
                           "explanation":  "Spiral Model refers to: risk-driven iterative model combining prototyping and planning."
                       },
                       {
-                          "id":  18,
+                          "id":  16,
                           "question":  "\u0027Spiral Model\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Quality Metrics",
@@ -217,19 +193,7 @@
                           "explanation":  "Spiral Model is mainly part of SDLC Models."
                       },
                       {
-                          "id":  19,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Software Development Life Cycle -\u003e risk-driven iterative model combining prototyping and planning",
-                                          "Coupling -\u003e risk-driven iterative model combining prototyping and planning",
-                                          "Sequence Diagram -\u003e risk-driven iterative model combining prototyping and planning",
-                                          "Spiral Model -\u003e risk-driven iterative model combining prototyping and planning"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Spiral Model -\u003e risk-driven iterative model combining prototyping and planning\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  20,
+                          "id":  17,
                           "question":  "A project requirement states: risk-driven iterative model combining prototyping and planning. Which concept should be selected?",
                           "options":  [
                                           "Unit Testing",
@@ -241,7 +205,7 @@
                           "explanation":  "The requirement directly points to Spiral Model."
                       },
                       {
-                          "id":  21,
+                          "id":  18,
                           "question":  "Which Software Engineering concept best matches: model delivering software in small functional increments?",
                           "options":  [
                                           "Encapsulation",
@@ -253,7 +217,7 @@
                           "explanation":  "Incremental Model is defined as: model delivering software in small functional increments."
                       },
                       {
-                          "id":  22,
+                          "id":  19,
                           "question":  "What is the most accurate description of \u0027Incremental Model\u0027?",
                           "options":  [
                                           "UML diagram showing classes, attributes, and relationships",
@@ -265,7 +229,7 @@
                           "explanation":  "Incremental Model refers to: model delivering software in small functional increments."
                       },
                       {
-                          "id":  23,
+                          "id":  20,
                           "question":  "\u0027Incremental Model\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Requirements",
@@ -277,19 +241,7 @@
                           "explanation":  "Incremental Model is mainly part of SDLC Models."
                       },
                       {
-                          "id":  24,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Non-Functional Requirement -\u003e model delivering software in small functional increments",
-                                          "Smoke Testing -\u003e model delivering software in small functional increments",
-                                          "Modularity -\u003e model delivering software in small functional increments",
-                                          "Incremental Model -\u003e model delivering software in small functional increments"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Incremental Model -\u003e model delivering software in small functional increments\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  25,
+                          "id":  21,
                           "question":  "A project requirement states: model delivering software in small functional increments. Which concept should be selected?",
                           "options":  [
                                           "Cyclomatic Complexity",
@@ -301,7 +253,7 @@
                           "explanation":  "The requirement directly points to Incremental Model."
                       },
                       {
-                          "id":  26,
+                          "id":  22,
                           "question":  "Which Software Engineering concept best matches: iterative approach emphasizing collaboration and rapid feedback?",
                           "options":  [
                                           "Agile",
@@ -313,7 +265,7 @@
                           "explanation":  "Agile is defined as: iterative approach emphasizing collaboration and rapid feedback."
                       },
                       {
-                          "id":  27,
+                          "id":  23,
                           "question":  "What is the most accurate description of \u0027Agile\u0027?",
                           "options":  [
                                           "systematic examination of source code by peers",
@@ -325,7 +277,7 @@
                           "explanation":  "Agile refers to: iterative approach emphasizing collaboration and rapid feedback."
                       },
                       {
-                          "id":  28,
+                          "id":  24,
                           "question":  "\u0027Agile\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "DevOps and Process",
@@ -337,19 +289,7 @@
                           "explanation":  "Agile is mainly part of SDLC Models."
                       },
                       {
-                          "id":  29,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Unit Testing -\u003e iterative approach emphasizing collaboration and rapid feedback",
-                                          "Agile -\u003e iterative approach emphasizing collaboration and rapid feedback",
-                                          "White Box Testing -\u003e iterative approach emphasizing collaboration and rapid feedback",
-                                          "Code Coverage -\u003e iterative approach emphasizing collaboration and rapid feedback"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Agile -\u003e iterative approach emphasizing collaboration and rapid feedback\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  30,
+                          "id":  25,
                           "question":  "A project requirement states: iterative approach emphasizing collaboration and rapid feedback. Which concept should be selected?",
                           "options":  [
                                           "Agile",
@@ -361,7 +301,7 @@
                           "explanation":  "The requirement directly points to Agile."
                       },
                       {
-                          "id":  31,
+                          "id":  26,
                           "question":  "Which Software Engineering concept best matches: agile framework using sprints and defined team roles?",
                           "options":  [
                                           "Class Diagram",
@@ -373,7 +313,7 @@
                           "explanation":  "Scrum is defined as: agile framework using sprints and defined team roles."
                       },
                       {
-                          "id":  32,
+                          "id":  27,
                           "question":  "What is the most accurate description of \u0027Scrum\u0027?",
                           "options":  [
                                           "validation by user/business to confirm readiness",
@@ -385,7 +325,7 @@
                           "explanation":  "Scrum refers to: agile framework using sprints and defined team roles."
                       },
                       {
-                          "id":  33,
+                          "id":  28,
                           "question":  "\u0027Scrum\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "DevOps and Process",
@@ -397,19 +337,7 @@
                           "explanation":  "Scrum is mainly part of SDLC Models."
                       },
                       {
-                          "id":  34,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Modularity -\u003e agile framework using sprints and defined team roles",
-                                          "Requirement Engineering -\u003e agile framework using sprints and defined team roles",
-                                          "Sequence Diagram -\u003e agile framework using sprints and defined team roles",
-                                          "Scrum -\u003e agile framework using sprints and defined team roles"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Scrum -\u003e agile framework using sprints and defined team roles\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  35,
+                          "id":  29,
                           "question":  "A project requirement states: agile framework using sprints and defined team roles. Which concept should be selected?",
                           "options":  [
                                           "Requirement Engineering",
@@ -421,7 +349,7 @@
                           "explanation":  "The requirement directly points to Scrum."
                       },
                       {
-                          "id":  36,
+                          "id":  30,
                           "question":  "Which Software Engineering concept best matches: agile method visualizing work and limiting work-in-progress?",
                           "options":  [
                                           "MTBF",
@@ -433,7 +361,7 @@
                           "explanation":  "Kanban is defined as: agile method visualizing work and limiting work-in-progress."
                       },
                       {
-                          "id":  37,
+                          "id":  31,
                           "question":  "What is the most accurate description of \u0027Kanban\u0027?",
                           "options":  [
                                           "automatic deployment to production after pipeline success",
@@ -445,7 +373,7 @@
                           "explanation":  "Kanban refers to: agile method visualizing work and limiting work-in-progress."
                       },
                       {
-                          "id":  38,
+                          "id":  32,
                           "question":  "\u0027Kanban\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Quality Metrics",
@@ -457,19 +385,7 @@
                           "explanation":  "Kanban is mainly part of SDLC Models."
                       },
                       {
-                          "id":  39,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Version Control -\u003e agile method visualizing work and limiting work-in-progress",
-                                          "Abstraction -\u003e agile method visualizing work and limiting work-in-progress",
-                                          "Kanban -\u003e agile method visualizing work and limiting work-in-progress",
-                                          "Traceability Matrix -\u003e agile method visualizing work and limiting work-in-progress"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Kanban -\u003e agile method visualizing work and limiting work-in-progress\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  40,
+                          "id":  33,
                           "question":  "A project requirement states: agile method visualizing work and limiting work-in-progress. Which concept should be selected?",
                           "options":  [
                                           "Continuous Delivery",
@@ -481,7 +397,7 @@
                           "explanation":  "The requirement directly points to Kanban."
                       },
                       {
-                          "id":  41,
+                          "id":  34,
                           "question":  "Which Software Engineering concept best matches: process of eliciting, analyzing, validating requirements?",
                           "options":  [
                                           "Cyclomatic Complexity",
@@ -493,7 +409,7 @@
                           "explanation":  "Requirement Engineering is defined as: process of eliciting, analyzing, validating requirements."
                       },
                       {
-                          "id":  42,
+                          "id":  35,
                           "question":  "What is the most accurate description of \u0027Requirement Engineering\u0027?",
                           "options":  [
                                           "process of eliciting, analyzing, validating requirements",
@@ -505,7 +421,7 @@
                           "explanation":  "Requirement Engineering refers to: process of eliciting, analyzing, validating requirements."
                       },
                       {
-                          "id":  43,
+                          "id":  36,
                           "question":  "\u0027Requirement Engineering\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Requirements",
@@ -517,19 +433,7 @@
                           "explanation":  "Requirement Engineering is mainly part of Requirements."
                       },
                       {
-                          "id":  44,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Cyclomatic Complexity -\u003e process of eliciting, analyzing, validating requirements",
-                                          "SRS -\u003e process of eliciting, analyzing, validating requirements",
-                                          "Requirement Engineering -\u003e process of eliciting, analyzing, validating requirements",
-                                          "Regression Testing -\u003e process of eliciting, analyzing, validating requirements"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Requirement Engineering -\u003e process of eliciting, analyzing, validating requirements\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  45,
+                          "id":  37,
                           "question":  "A project requirement states: process of eliciting, analyzing, validating requirements. Which concept should be selected?",
                           "options":  [
                                           "Non-Functional Requirement",
@@ -541,7 +445,7 @@
                           "explanation":  "The requirement directly points to Requirement Engineering."
                       },
                       {
-                          "id":  46,
+                          "id":  38,
                           "question":  "Which Software Engineering concept best matches: statement describing what system must do?",
                           "options":  [
                                           "Regression Testing",
@@ -553,7 +457,7 @@
                           "explanation":  "Functional Requirement is defined as: statement describing what system must do."
                       },
                       {
-                          "id":  47,
+                          "id":  39,
                           "question":  "What is the most accurate description of \u0027Functional Requirement\u0027?",
                           "options":  [
                                           "practice of frequent code merges with automated builds",
@@ -565,7 +469,7 @@
                           "explanation":  "Functional Requirement refers to: statement describing what system must do."
                       },
                       {
-                          "id":  48,
+                          "id":  40,
                           "question":  "\u0027Functional Requirement\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Requirements",
@@ -577,19 +481,7 @@
                           "explanation":  "Functional Requirement is mainly part of Requirements."
                       },
                       {
-                          "id":  49,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Agile -\u003e statement describing what system must do",
-                                          "Black Box Testing -\u003e statement describing what system must do",
-                                          "Functional Requirement -\u003e statement describing what system must do",
-                                          "MTBF -\u003e statement describing what system must do"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Functional Requirement -\u003e statement describing what system must do\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  50,
+                          "id":  41,
                           "question":  "A project requirement states: statement describing what system must do. Which concept should be selected?",
                           "options":  [
                                           "Software Development Life Cycle",
@@ -601,7 +493,7 @@
                           "explanation":  "The requirement directly points to Functional Requirement."
                       },
                       {
-                          "id":  51,
+                          "id":  42,
                           "question":  "Which Software Engineering concept best matches: statement describing quality attributes and constraints?",
                           "options":  [
                                           "Non-Functional Requirement",
@@ -613,7 +505,7 @@
                           "explanation":  "Non-Functional Requirement is defined as: statement describing quality attributes and constraints."
                       },
                       {
-                          "id":  52,
+                          "id":  43,
                           "question":  "What is the most accurate description of \u0027Non-Functional Requirement\u0027?",
                           "options":  [
                                           "testing individual software units in isolation",
@@ -625,7 +517,7 @@
                           "explanation":  "Non-Functional Requirement refers to: statement describing quality attributes and constraints."
                       },
                       {
-                          "id":  53,
+                          "id":  44,
                           "question":  "\u0027Non-Functional Requirement\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Requirements",
@@ -637,19 +529,7 @@
                           "explanation":  "Non-Functional Requirement is mainly part of Requirements."
                       },
                       {
-                          "id":  54,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Scrum -\u003e statement describing quality attributes and constraints",
-                                          "Non-Functional Requirement -\u003e statement describing quality attributes and constraints",
-                                          "Feasibility Study -\u003e statement describing quality attributes and constraints",
-                                          "SRS -\u003e statement describing quality attributes and constraints"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Non-Functional Requirement -\u003e statement describing quality attributes and constraints\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  55,
+                          "id":  45,
                           "question":  "A project requirement states: statement describing quality attributes and constraints. Which concept should be selected?",
                           "options":  [
                                           "Continuous Deployment",
@@ -661,7 +541,7 @@
                           "explanation":  "The requirement directly points to Non-Functional Requirement."
                       },
                       {
-                          "id":  56,
+                          "id":  46,
                           "question":  "Which Software Engineering concept best matches: document specifying complete software requirements?",
                           "options":  [
                                           "System Testing",
@@ -673,7 +553,7 @@
                           "explanation":  "SRS is defined as: document specifying complete software requirements."
                       },
                       {
-                          "id":  57,
+                          "id":  47,
                           "question":  "What is the most accurate description of \u0027SRS\u0027?",
                           "options":  [
                                           "test design technique using boundary input values",
@@ -685,7 +565,7 @@
                           "explanation":  "SRS refers to: document specifying complete software requirements."
                       },
                       {
-                          "id":  58,
+                          "id":  48,
                           "question":  "\u0027SRS\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Quality Metrics",
@@ -697,19 +577,7 @@
                           "explanation":  "SRS is mainly part of Requirements."
                       },
                       {
-                          "id":  59,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Software Development Life Cycle -\u003e document specifying complete software requirements",
-                                          "SRS -\u003e document specifying complete software requirements",
-                                          "Functional Requirement -\u003e document specifying complete software requirements",
-                                          "Agile -\u003e document specifying complete software requirements"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027SRS -\u003e document specifying complete software requirements\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  60,
+                          "id":  49,
                           "question":  "A project requirement states: document specifying complete software requirements. Which concept should be selected?",
                           "options":  [
                                           "SRS",
@@ -721,7 +589,7 @@
                           "explanation":  "The requirement directly points to SRS."
                       },
                       {
-                          "id":  61,
+                          "id":  50,
                           "question":  "Which Software Engineering concept best matches: interaction scenario between actor and system?",
                           "options":  [
                                           "Black Box Testing",
@@ -733,7 +601,7 @@
                           "explanation":  "Use Case is defined as: interaction scenario between actor and system."
                       },
                       {
-                          "id":  62,
+                          "id":  51,
                           "question":  "What is the most accurate description of \u0027Use Case\u0027?",
                           "options":  [
                                           "focusing on essential behavior while hiding details",
@@ -745,7 +613,7 @@
                           "explanation":  "Use Case refers to: interaction scenario between actor and system."
                       },
                       {
-                          "id":  63,
+                          "id":  52,
                           "question":  "\u0027Use Case\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Testing",
@@ -757,19 +625,7 @@
                           "explanation":  "Use Case is mainly part of Requirements."
                       },
                       {
-                          "id":  64,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Risk Management -\u003e interaction scenario between actor and system",
-                                          "Code Coverage -\u003e interaction scenario between actor and system",
-                                          "UML -\u003e interaction scenario between actor and system",
-                                          "Use Case -\u003e interaction scenario between actor and system"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Use Case -\u003e interaction scenario between actor and system\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  65,
+                          "id":  53,
                           "question":  "A project requirement states: interaction scenario between actor and system. Which concept should be selected?",
                           "options":  [
                                           "Use Case",
@@ -781,7 +637,7 @@
                           "explanation":  "The requirement directly points to Use Case."
                       },
                       {
-                          "id":  66,
+                          "id":  54,
                           "question":  "Which Software Engineering concept best matches: assessment of technical, economic, operational viability?",
                           "options":  [
                                           "Design Pattern",
@@ -793,7 +649,7 @@
                           "explanation":  "Feasibility Study is defined as: assessment of technical, economic, operational viability."
                       },
                       {
-                          "id":  67,
+                          "id":  55,
                           "question":  "What is the most accurate description of \u0027Feasibility Study\u0027?",
                           "options":  [
                                           "document specifying complete software requirements",
@@ -805,7 +661,7 @@
                           "explanation":  "Feasibility Study refers to: assessment of technical, economic, operational viability."
                       },
                       {
-                          "id":  68,
+                          "id":  56,
                           "question":  "\u0027Feasibility Study\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Requirements",
@@ -817,19 +673,7 @@
                           "explanation":  "Feasibility Study is mainly part of Requirements."
                       },
                       {
-                          "id":  69,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Waterfall Model -\u003e assessment of technical, economic, operational viability",
-                                          "Encapsulation -\u003e assessment of technical, economic, operational viability",
-                                          "Feasibility Study -\u003e assessment of technical, economic, operational viability",
-                                          "SRS -\u003e assessment of technical, economic, operational viability"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Feasibility Study -\u003e assessment of technical, economic, operational viability\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  70,
+                          "id":  57,
                           "question":  "A project requirement states: assessment of technical, economic, operational viability. Which concept should be selected?",
                           "options":  [
                                           "Feasibility Study",
@@ -841,7 +685,7 @@
                           "explanation":  "The requirement directly points to Feasibility Study."
                       },
                       {
-                          "id":  71,
+                          "id":  58,
                           "question":  "Which Software Engineering concept best matches: mapping between requirements and test cases/deliverables?",
                           "options":  [
                                           "Traceability Matrix",
@@ -853,7 +697,7 @@
                           "explanation":  "Traceability Matrix is defined as: mapping between requirements and test cases/deliverables."
                       },
                       {
-                          "id":  72,
+                          "id":  59,
                           "question":  "What is the most accurate description of \u0027Traceability Matrix\u0027?",
                           "options":  [
                                           "mapping between requirements and test cases/deliverables",
@@ -865,7 +709,7 @@
                           "explanation":  "Traceability Matrix refers to: mapping between requirements and test cases/deliverables."
                       },
                       {
-                          "id":  73,
+                          "id":  60,
                           "question":  "\u0027Traceability Matrix\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Quality Metrics",
@@ -877,19 +721,7 @@
                           "explanation":  "Traceability Matrix is mainly part of Requirements."
                       },
                       {
-                          "id":  74,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Regression Testing -\u003e mapping between requirements and test cases/deliverables",
-                                          "Traceability Matrix -\u003e mapping between requirements and test cases/deliverables",
-                                          "Encapsulation -\u003e mapping between requirements and test cases/deliverables",
-                                          "Continuous Integration -\u003e mapping between requirements and test cases/deliverables"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Traceability Matrix -\u003e mapping between requirements and test cases/deliverables\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  75,
+                          "id":  61,
                           "question":  "A project requirement states: mapping between requirements and test cases/deliverables. Which concept should be selected?",
                           "options":  [
                                           "Traceability Matrix",
@@ -901,7 +733,7 @@
                           "explanation":  "The requirement directly points to Traceability Matrix."
                       },
                       {
-                          "id":  76,
+                          "id":  62,
                           "question":  "Which Software Engineering concept best matches: design principle dividing system into manageable components?",
                           "options":  [
                                           "Abstraction",
@@ -913,7 +745,7 @@
                           "explanation":  "Modularity is defined as: design principle dividing system into manageable components."
                       },
                       {
-                          "id":  77,
+                          "id":  63,
                           "question":  "What is the most accurate description of \u0027Modularity\u0027?",
                           "options":  [
                                           "standard notation for visualizing software design artifacts",
@@ -925,7 +757,7 @@
                           "explanation":  "Modularity refers to: design principle dividing system into manageable components."
                       },
                       {
-                          "id":  78,
+                          "id":  64,
                           "question":  "\u0027Modularity\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Project Management",
@@ -937,19 +769,7 @@
                           "explanation":  "Modularity is mainly part of Design Principles."
                       },
                       {
-                          "id":  79,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Sanity Testing -\u003e design principle dividing system into manageable components",
-                                          "Incremental Model -\u003e design principle dividing system into manageable components",
-                                          "Modularity -\u003e design principle dividing system into manageable components",
-                                          "Continuous Integration -\u003e design principle dividing system into manageable components"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Modularity -\u003e design principle dividing system into manageable components\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  80,
+                          "id":  65,
                           "question":  "A project requirement states: design principle dividing system into manageable components. Which concept should be selected?",
                           "options":  [
                                           "Incremental Model",
@@ -961,7 +781,7 @@
                           "explanation":  "The requirement directly points to Modularity."
                       },
                       {
-                          "id":  81,
+                          "id":  66,
                           "question":  "Which Software Engineering concept best matches: degree to which module elements belong together?",
                           "options":  [
                                           "Traceability Matrix",
@@ -973,7 +793,7 @@
                           "explanation":  "Cohesion is defined as: degree to which module elements belong together."
                       },
                       {
-                          "id":  82,
+                          "id":  67,
                           "question":  "What is the most accurate description of \u0027Cohesion\u0027?",
                           "options":  [
                                           "agile framework using sprints and defined team roles",
@@ -985,7 +805,7 @@
                           "explanation":  "Cohesion refers to: degree to which module elements belong together."
                       },
                       {
-                          "id":  83,
+                          "id":  68,
                           "question":  "\u0027Cohesion\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Quality Metrics",
@@ -997,19 +817,7 @@
                           "explanation":  "Cohesion is mainly part of Design Principles."
                       },
                       {
-                          "id":  84,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Cohesion -\u003e degree to which module elements belong together",
-                                          "Defect Density -\u003e degree to which module elements belong together",
-                                          "Feasibility Study -\u003e degree to which module elements belong together",
-                                          "Waterfall Model -\u003e degree to which module elements belong together"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Cohesion -\u003e degree to which module elements belong together\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  85,
+                          "id":  69,
                           "question":  "A project requirement states: degree to which module elements belong together. Which concept should be selected?",
                           "options":  [
                                           "Modularity",
@@ -1021,7 +829,7 @@
                           "explanation":  "The requirement directly points to Cohesion."
                       },
                       {
-                          "id":  86,
+                          "id":  70,
                           "question":  "Which Software Engineering concept best matches: degree of interdependence between modules?",
                           "options":  [
                                           "Feasibility Study",
@@ -1033,7 +841,7 @@
                           "explanation":  "Coupling is defined as: degree of interdependence between modules."
                       },
                       {
-                          "id":  87,
+                          "id":  71,
                           "question":  "What is the most accurate description of \u0027Coupling\u0027?",
                           "options":  [
                                           "degree of interdependence between modules",
@@ -1045,7 +853,7 @@
                           "explanation":  "Coupling refers to: degree of interdependence between modules."
                       },
                       {
-                          "id":  88,
+                          "id":  72,
                           "question":  "\u0027Coupling\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Quality Metrics",
@@ -1057,19 +865,7 @@
                           "explanation":  "Coupling is mainly part of Design Principles."
                       },
                       {
-                          "id":  89,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Kanban -\u003e degree of interdependence between modules",
-                                          "Coupling -\u003e degree of interdependence between modules",
-                                          "Abstraction -\u003e degree of interdependence between modules",
-                                          "Traceability Matrix -\u003e degree of interdependence between modules"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Coupling -\u003e degree of interdependence between modules\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  90,
+                          "id":  73,
                           "question":  "A project requirement states: degree of interdependence between modules. Which concept should be selected?",
                           "options":  [
                                           "Sanity Testing",
@@ -1081,7 +877,7 @@
                           "explanation":  "The requirement directly points to Coupling."
                       },
                       {
-                          "id":  91,
+                          "id":  74,
                           "question":  "Which Software Engineering concept best matches: focusing on essential behavior while hiding details?",
                           "options":  [
                                           "Boundary Value Analysis",
@@ -1093,7 +889,7 @@
                           "explanation":  "Abstraction is defined as: focusing on essential behavior while hiding details."
                       },
                       {
-                          "id":  92,
+                          "id":  75,
                           "question":  "What is the most accurate description of \u0027Abstraction\u0027?",
                           "options":  [
                                           "model delivering software in small functional increments",
@@ -1105,7 +901,7 @@
                           "explanation":  "Abstraction refers to: focusing on essential behavior while hiding details."
                       },
                       {
-                          "id":  93,
+                          "id":  76,
                           "question":  "\u0027Abstraction\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Testing",
@@ -1117,19 +913,7 @@
                           "explanation":  "Abstraction is mainly part of Design Principles."
                       },
                       {
-                          "id":  94,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "UML -\u003e focusing on essential behavior while hiding details",
-                                          "Equivalence Partitioning -\u003e focusing on essential behavior while hiding details",
-                                          "Abstraction -\u003e focusing on essential behavior while hiding details",
-                                          "Spiral Model -\u003e focusing on essential behavior while hiding details"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Abstraction -\u003e focusing on essential behavior while hiding details\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  95,
+                          "id":  77,
                           "question":  "A project requirement states: focusing on essential behavior while hiding details. Which concept should be selected?",
                           "options":  [
                                           "Boundary Value Analysis",
@@ -1141,7 +925,7 @@
                           "explanation":  "The requirement directly points to Abstraction."
                       },
                       {
-                          "id":  96,
+                          "id":  78,
                           "question":  "Which Software Engineering concept best matches: bundling data with methods and restricting direct access?",
                           "options":  [
                                           "Acceptance Testing",
@@ -1153,7 +937,7 @@
                           "explanation":  "Encapsulation is defined as: bundling data with methods and restricting direct access."
                       },
                       {
-                          "id":  97,
+                          "id":  79,
                           "question":  "What is the most accurate description of \u0027Encapsulation\u0027?",
                           "options":  [
                                           "set of object-oriented design principles for maintainable code",
@@ -1165,7 +949,7 @@
                           "explanation":  "Encapsulation refers to: bundling data with methods and restricting direct access."
                       },
                       {
-                          "id":  98,
+                          "id":  80,
                           "question":  "\u0027Encapsulation\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Requirements",
@@ -1177,19 +961,7 @@
                           "explanation":  "Encapsulation is mainly part of Design Principles."
                       },
                       {
-                          "id":  99,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Encapsulation -\u003e bundling data with methods and restricting direct access",
-                                          "Waterfall Model -\u003e bundling data with methods and restricting direct access",
-                                          "Version Control -\u003e bundling data with methods and restricting direct access",
-                                          "Class Diagram -\u003e bundling data with methods and restricting direct access"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Encapsulation -\u003e bundling data with methods and restricting direct access\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  100,
+                          "id":  81,
                           "question":  "A project requirement states: bundling data with methods and restricting direct access. Which concept should be selected?",
                           "options":  [
                                           "Acceptance Testing",
@@ -1201,7 +973,7 @@
                           "explanation":  "The requirement directly points to Encapsulation."
                       },
                       {
-                          "id":  101,
+                          "id":  82,
                           "question":  "Which Software Engineering concept best matches: set of object-oriented design principles for maintainable code?",
                           "options":  [
                                           "Scrum",
@@ -1213,7 +985,7 @@
                           "explanation":  "SOLID is defined as: set of object-oriented design principles for maintainable code."
                       },
                       {
-                          "id":  102,
+                          "id":  83,
                           "question":  "What is the most accurate description of \u0027SOLID\u0027?",
                           "options":  [
                                           "degree of interdependence between modules",
@@ -1225,7 +997,7 @@
                           "explanation":  "SOLID refers to: set of object-oriented design principles for maintainable code."
                       },
                       {
-                          "id":  103,
+                          "id":  84,
                           "question":  "\u0027SOLID\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "DevOps and Process",
@@ -1237,19 +1009,7 @@
                           "explanation":  "SOLID is mainly part of Design Principles."
                       },
                       {
-                          "id":  104,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "SOLID -\u003e set of object-oriented design principles for maintainable code",
-                                          "MTBF -\u003e set of object-oriented design principles for maintainable code",
-                                          "Code Coverage -\u003e set of object-oriented design principles for maintainable code",
-                                          "White Box Testing -\u003e set of object-oriented design principles for maintainable code"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027SOLID -\u003e set of object-oriented design principles for maintainable code\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  105,
+                          "id":  85,
                           "question":  "A project requirement states: set of object-oriented design principles for maintainable code. Which concept should be selected?",
                           "options":  [
                                           "SOLID",
@@ -1261,7 +1021,7 @@
                           "explanation":  "The requirement directly points to SOLID."
                       },
                       {
-                          "id":  106,
+                          "id":  86,
                           "question":  "Which Software Engineering concept best matches: reusable solution template for common design problem?",
                           "options":  [
                                           "Kanban",
@@ -1273,7 +1033,7 @@
                           "explanation":  "Design Pattern is defined as: reusable solution template for common design problem."
                       },
                       {
-                          "id":  107,
+                          "id":  87,
                           "question":  "What is the most accurate description of \u0027Design Pattern\u0027?",
                           "options":  [
                                           "reusable solution template for common design problem",
@@ -1285,7 +1045,7 @@
                           "explanation":  "Design Pattern refers to: reusable solution template for common design problem."
                       },
                       {
-                          "id":  108,
+                          "id":  88,
                           "question":  "\u0027Design Pattern\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Quality Metrics",
@@ -1297,19 +1057,7 @@
                           "explanation":  "Design Pattern is mainly part of Design Principles."
                       },
                       {
-                          "id":  109,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Defect Density -\u003e reusable solution template for common design problem",
-                                          "Critical Path -\u003e reusable solution template for common design problem",
-                                          "Design Pattern -\u003e reusable solution template for common design problem",
-                                          "Class Diagram -\u003e reusable solution template for common design problem"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Design Pattern -\u003e reusable solution template for common design problem\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  110,
+                          "id":  89,
                           "question":  "A project requirement states: reusable solution template for common design problem. Which concept should be selected?",
                           "options":  [
                                           "MTBF",
@@ -1321,7 +1069,7 @@
                           "explanation":  "The requirement directly points to Design Pattern."
                       },
                       {
-                          "id":  111,
+                          "id":  90,
                           "question":  "Which Software Engineering concept best matches: standard notation for visualizing software design artifacts?",
                           "options":  [
                                           "Defect Density",
@@ -1333,7 +1081,7 @@
                           "explanation":  "UML is defined as: standard notation for visualizing software design artifacts."
                       },
                       {
-                          "id":  112,
+                          "id":  91,
                           "question":  "What is the most accurate description of \u0027UML\u0027?",
                           "options":  [
                                           "statement describing quality attributes and constraints",
@@ -1345,7 +1093,7 @@
                           "explanation":  "UML refers to: standard notation for visualizing software design artifacts."
                       },
                       {
-                          "id":  113,
+                          "id":  92,
                           "question":  "\u0027UML\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "DevOps and Process",
@@ -1357,19 +1105,7 @@
                           "explanation":  "UML is mainly part of Design Principles."
                       },
                       {
-                          "id":  114,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "UML -\u003e standard notation for visualizing software design artifacts",
-                                          "Integration Testing -\u003e standard notation for visualizing software design artifacts",
-                                          "Code Review -\u003e standard notation for visualizing software design artifacts",
-                                          "Functional Requirement -\u003e standard notation for visualizing software design artifacts"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027UML -\u003e standard notation for visualizing software design artifacts\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  115,
+                          "id":  93,
                           "question":  "A project requirement states: standard notation for visualizing software design artifacts. Which concept should be selected?",
                           "options":  [
                                           "Integration Testing",
@@ -1381,7 +1117,7 @@
                           "explanation":  "The requirement directly points to UML."
                       },
                       {
-                          "id":  116,
+                          "id":  94,
                           "question":  "Which Software Engineering concept best matches: UML diagram showing classes, attributes, and relationships?",
                           "options":  [
                                           "UML",
@@ -1393,7 +1129,7 @@
                           "explanation":  "Class Diagram is defined as: UML diagram showing classes, attributes, and relationships."
                       },
                       {
-                          "id":  117,
+                          "id":  95,
                           "question":  "What is the most accurate description of \u0027Class Diagram\u0027?",
                           "options":  [
                                           "UML diagram showing classes, attributes, and relationships",
@@ -1405,7 +1141,7 @@
                           "explanation":  "Class Diagram refers to: UML diagram showing classes, attributes, and relationships."
                       },
                       {
-                          "id":  118,
+                          "id":  96,
                           "question":  "\u0027Class Diagram\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Testing",
@@ -1417,19 +1153,7 @@
                           "explanation":  "Class Diagram is mainly part of Design Principles."
                       },
                       {
-                          "id":  119,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Smoke Testing -\u003e UML diagram showing classes, attributes, and relationships",
-                                          "Class Diagram -\u003e UML diagram showing classes, attributes, and relationships",
-                                          "Continuous Integration -\u003e UML diagram showing classes, attributes, and relationships",
-                                          "Sanity Testing -\u003e UML diagram showing classes, attributes, and relationships"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Class Diagram -\u003e UML diagram showing classes, attributes, and relationships\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  120,
+                          "id":  97,
                           "question":  "A project requirement states: UML diagram showing classes, attributes, and relationships. Which concept should be selected?",
                           "options":  [
                                           "Black Box Testing",
@@ -1441,7 +1165,7 @@
                           "explanation":  "The requirement directly points to Class Diagram."
                       },
                       {
-                          "id":  121,
+                          "id":  98,
                           "question":  "Which Software Engineering concept best matches: UML diagram showing interaction order among objects?",
                           "options":  [
                                           "Unit Testing",
@@ -1453,7 +1177,7 @@
                           "explanation":  "Sequence Diagram is defined as: UML diagram showing interaction order among objects."
                       },
                       {
-                          "id":  122,
+                          "id":  99,
                           "question":  "What is the most accurate description of \u0027Sequence Diagram\u0027?",
                           "options":  [
                                           "UML diagram showing interaction order among objects",
@@ -1465,7 +1189,7 @@
                           "explanation":  "Sequence Diagram refers to: UML diagram showing interaction order among objects."
                       },
                       {
-                          "id":  123,
+                          "id":  100,
                           "question":  "\u0027Sequence Diagram\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Design Principles",
@@ -1477,19 +1201,7 @@
                           "explanation":  "Sequence Diagram is mainly part of Design Principles."
                       },
                       {
-                          "id":  124,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Regression Testing -\u003e UML diagram showing interaction order among objects",
-                                          "Equivalence Partitioning -\u003e UML diagram showing interaction order among objects",
-                                          "Sequence Diagram -\u003e UML diagram showing interaction order among objects",
-                                          "Technical Debt -\u003e UML diagram showing interaction order among objects"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Sequence Diagram -\u003e UML diagram showing interaction order among objects\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  125,
+                          "id":  101,
                           "question":  "A project requirement states: UML diagram showing interaction order among objects. Which concept should be selected?",
                           "options":  [
                                           "Sequence Diagram",
@@ -1501,7 +1213,7 @@
                           "explanation":  "The requirement directly points to Sequence Diagram."
                       },
                       {
-                          "id":  126,
+                          "id":  102,
                           "question":  "Which Software Engineering concept best matches: testing individual software units in isolation?",
                           "options":  [
                                           "Waterfall Model",
@@ -1513,7 +1225,7 @@
                           "explanation":  "Unit Testing is defined as: testing individual software units in isolation."
                       },
                       {
-                          "id":  127,
+                          "id":  103,
                           "question":  "What is the most accurate description of \u0027Unit Testing\u0027?",
                           "options":  [
                                           "testing based on internal logic and code paths",
@@ -1525,7 +1237,7 @@
                           "explanation":  "Unit Testing refers to: testing individual software units in isolation."
                       },
                       {
-                          "id":  128,
+                          "id":  104,
                           "question":  "\u0027Unit Testing\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Requirements",
@@ -1537,19 +1249,7 @@
                           "explanation":  "Unit Testing is mainly part of Testing."
                       },
                       {
-                          "id":  129,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Risk Management -\u003e testing individual software units in isolation",
-                                          "Unit Testing -\u003e testing individual software units in isolation",
-                                          "Encapsulation -\u003e testing individual software units in isolation",
-                                          "Smoke Testing -\u003e testing individual software units in isolation"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Unit Testing -\u003e testing individual software units in isolation\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  130,
+                          "id":  105,
                           "question":  "A project requirement states: testing individual software units in isolation. Which concept should be selected?",
                           "options":  [
                                           "Feasibility Study",
@@ -1561,7 +1261,7 @@
                           "explanation":  "The requirement directly points to Unit Testing."
                       },
                       {
-                          "id":  131,
+                          "id":  106,
                           "question":  "Which Software Engineering concept best matches: testing interactions among integrated modules?",
                           "options":  [
                                           "Abstraction",
@@ -1573,7 +1273,7 @@
                           "explanation":  "Integration Testing is defined as: testing interactions among integrated modules."
                       },
                       {
-                          "id":  132,
+                          "id":  107,
                           "question":  "What is the most accurate description of \u0027Integration Testing\u0027?",
                           "options":  [
                                           "agile method visualizing work and limiting work-in-progress",
@@ -1585,7 +1285,7 @@
                           "explanation":  "Integration Testing refers to: testing interactions among integrated modules."
                       },
                       {
-                          "id":  133,
+                          "id":  108,
                           "question":  "\u0027Integration Testing\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Testing",
@@ -1597,19 +1297,7 @@
                           "explanation":  "Integration Testing is mainly part of Testing."
                       },
                       {
-                          "id":  134,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Integration Testing -\u003e testing interactions among integrated modules",
-                                          "Smoke Testing -\u003e testing interactions among integrated modules",
-                                          "Cohesion -\u003e testing interactions among integrated modules",
-                                          "SOLID -\u003e testing interactions among integrated modules"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Integration Testing -\u003e testing interactions among integrated modules\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  135,
+                          "id":  109,
                           "question":  "A project requirement states: testing interactions among integrated modules. Which concept should be selected?",
                           "options":  [
                                           "Integration Testing",
@@ -1621,7 +1309,7 @@
                           "explanation":  "The requirement directly points to Integration Testing."
                       },
                       {
-                          "id":  136,
+                          "id":  110,
                           "question":  "Which Software Engineering concept best matches: testing complete integrated system against requirements?",
                           "options":  [
                                           "MTBF",
@@ -1633,7 +1321,7 @@
                           "explanation":  "System Testing is defined as: testing complete integrated system against requirements."
                       },
                       {
-                          "id":  137,
+                          "id":  111,
                           "question":  "What is the most accurate description of \u0027System Testing\u0027?",
                           "options":  [
                                           "testing complete integrated system against requirements",
@@ -1645,7 +1333,7 @@
                           "explanation":  "System Testing refers to: testing complete integrated system against requirements."
                       },
                       {
-                          "id":  138,
+                          "id":  112,
                           "question":  "\u0027System Testing\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "SDLC Models",
@@ -1657,19 +1345,7 @@
                           "explanation":  "System Testing is mainly part of Testing."
                       },
                       {
-                          "id":  139,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Spiral Model -\u003e testing complete integrated system against requirements",
-                                          "Boundary Value Analysis -\u003e testing complete integrated system against requirements",
-                                          "Software Development Life Cycle -\u003e testing complete integrated system against requirements",
-                                          "System Testing -\u003e testing complete integrated system against requirements"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027System Testing -\u003e testing complete integrated system against requirements\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  140,
+                          "id":  113,
                           "question":  "A project requirement states: testing complete integrated system against requirements. Which concept should be selected?",
                           "options":  [
                                           "System Testing",
@@ -1681,7 +1357,7 @@
                           "explanation":  "The requirement directly points to System Testing."
                       },
                       {
-                          "id":  141,
+                          "id":  114,
                           "question":  "Which Software Engineering concept best matches: validation by user/business to confirm readiness?",
                           "options":  [
                                           "Acceptance Testing",
@@ -1693,7 +1369,7 @@
                           "explanation":  "Acceptance Testing is defined as: validation by user/business to confirm readiness."
                       },
                       {
-                          "id":  142,
+                          "id":  115,
                           "question":  "What is the most accurate description of \u0027Acceptance Testing\u0027?",
                           "options":  [
                                           "assessment of technical, economic, operational viability",
@@ -1705,7 +1381,7 @@
                           "explanation":  "Acceptance Testing refers to: validation by user/business to confirm readiness."
                       },
                       {
-                          "id":  143,
+                          "id":  116,
                           "question":  "\u0027Acceptance Testing\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Testing",
@@ -1717,19 +1393,7 @@
                           "explanation":  "Acceptance Testing is mainly part of Testing."
                       },
                       {
-                          "id":  144,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Acceptance Testing -\u003e validation by user/business to confirm readiness",
-                                          "Non-Functional Requirement -\u003e validation by user/business to confirm readiness",
-                                          "UML -\u003e validation by user/business to confirm readiness",
-                                          "Defect Density -\u003e validation by user/business to confirm readiness"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Acceptance Testing -\u003e validation by user/business to confirm readiness\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  145,
+                          "id":  117,
                           "question":  "A project requirement states: validation by user/business to confirm readiness. Which concept should be selected?",
                           "options":  [
                                           "Agile",
@@ -1741,7 +1405,7 @@
                           "explanation":  "The requirement directly points to Acceptance Testing."
                       },
                       {
-                          "id":  146,
+                          "id":  118,
                           "question":  "Which Software Engineering concept best matches: retesting to ensure changes do not break existing features?",
                           "options":  [
                                           "Regression Testing",
@@ -1753,7 +1417,7 @@
                           "explanation":  "Regression Testing is defined as: retesting to ensure changes do not break existing features."
                       },
                       {
-                          "id":  147,
+                          "id":  119,
                           "question":  "What is the most accurate description of \u0027Regression Testing\u0027?",
                           "options":  [
                                           "automatic deployment to production after pipeline success",
@@ -1765,7 +1429,7 @@
                           "explanation":  "Regression Testing refers to: retesting to ensure changes do not break existing features."
                       },
                       {
-                          "id":  148,
+                          "id":  120,
                           "question":  "\u0027Regression Testing\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "DevOps and Process",
@@ -1777,19 +1441,7 @@
                           "explanation":  "Regression Testing is mainly part of Testing."
                       },
                       {
-                          "id":  149,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Regression Testing -\u003e retesting to ensure changes do not break existing features",
-                                          "Requirement Engineering -\u003e retesting to ensure changes do not break existing features",
-                                          "Functional Requirement -\u003e retesting to ensure changes do not break existing features",
-                                          "Sequence Diagram -\u003e retesting to ensure changes do not break existing features"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Regression Testing -\u003e retesting to ensure changes do not break existing features\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  150,
+                          "id":  121,
                           "question":  "A project requirement states: retesting to ensure changes do not break existing features. Which concept should be selected?",
                           "options":  [
                                           "Regression Testing",
@@ -1801,7 +1453,7 @@
                           "explanation":  "The requirement directly points to Regression Testing."
                       },
                       {
-                          "id":  151,
+                          "id":  122,
                           "question":  "Which Software Engineering concept best matches: quick test to verify critical build stability?",
                           "options":  [
                                           "UML",
@@ -1813,7 +1465,7 @@
                           "explanation":  "Smoke Testing is defined as: quick test to verify critical build stability."
                       },
                       {
-                          "id":  152,
+                          "id":  123,
                           "question":  "What is the most accurate description of \u0027Smoke Testing\u0027?",
                           "options":  [
                                           "testing-focused model mapping development phases to test levels",
@@ -1825,7 +1477,7 @@
                           "explanation":  "Smoke Testing refers to: quick test to verify critical build stability."
                       },
                       {
-                          "id":  153,
+                          "id":  124,
                           "question":  "\u0027Smoke Testing\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Quality Metrics",
@@ -1837,19 +1489,7 @@
                           "explanation":  "Smoke Testing is mainly part of Testing."
                       },
                       {
-                          "id":  154,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Software Development Life Cycle -\u003e quick test to verify critical build stability",
-                                          "Continuous Integration -\u003e quick test to verify critical build stability",
-                                          "Smoke Testing -\u003e quick test to verify critical build stability",
-                                          "Risk Management -\u003e quick test to verify critical build stability"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Smoke Testing -\u003e quick test to verify critical build stability\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  155,
+                          "id":  125,
                           "question":  "A project requirement states: quick test to verify critical build stability. Which concept should be selected?",
                           "options":  [
                                           "UML",
@@ -1861,7 +1501,7 @@
                           "explanation":  "The requirement directly points to Smoke Testing."
                       },
                       {
-                          "id":  156,
+                          "id":  126,
                           "question":  "Which Software Engineering concept best matches: focused test to verify specific change works?",
                           "options":  [
                                           "Spiral Model",
@@ -1873,7 +1513,7 @@
                           "explanation":  "Sanity Testing is defined as: focused test to verify specific change works."
                       },
                       {
-                          "id":  157,
+                          "id":  127,
                           "question":  "What is the most accurate description of \u0027Sanity Testing\u0027?",
                           "options":  [
                                           "validation by user/business to confirm readiness",
@@ -1885,7 +1525,7 @@
                           "explanation":  "Sanity Testing refers to: focused test to verify specific change works."
                       },
                       {
-                          "id":  158,
+                          "id":  128,
                           "question":  "\u0027Sanity Testing\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Design Principles",
@@ -1897,19 +1537,7 @@
                           "explanation":  "Sanity Testing is mainly part of Testing."
                       },
                       {
-                          "id":  159,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Acceptance Testing -\u003e focused test to verify specific change works",
-                                          "Non-Functional Requirement -\u003e focused test to verify specific change works",
-                                          "Configuration Management -\u003e focused test to verify specific change works",
-                                          "Sanity Testing -\u003e focused test to verify specific change works"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Sanity Testing -\u003e focused test to verify specific change works\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  160,
+                          "id":  129,
                           "question":  "A project requirement states: focused test to verify specific change works. Which concept should be selected?",
                           "options":  [
                                           "Sequence Diagram",
@@ -1921,7 +1549,7 @@
                           "explanation":  "The requirement directly points to Sanity Testing."
                       },
                       {
-                          "id":  161,
+                          "id":  130,
                           "question":  "Which Software Engineering concept best matches: testing functionality without internal code knowledge?",
                           "options":  [
                                           "Kanban",
@@ -1933,7 +1561,7 @@
                           "explanation":  "Black Box Testing is defined as: testing functionality without internal code knowledge."
                       },
                       {
-                          "id":  162,
+                          "id":  131,
                           "question":  "What is the most accurate description of \u0027Black Box Testing\u0027?",
                           "options":  [
                                           "UML diagram showing classes, attributes, and relationships",
@@ -1945,7 +1573,7 @@
                           "explanation":  "Black Box Testing refers to: testing functionality without internal code knowledge."
                       },
                       {
-                          "id":  163,
+                          "id":  132,
                           "question":  "\u0027Black Box Testing\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Testing",
@@ -1957,19 +1585,7 @@
                           "explanation":  "Black Box Testing is mainly part of Testing."
                       },
                       {
-                          "id":  164,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Risk Management -\u003e testing functionality without internal code knowledge",
-                                          "Regression Testing -\u003e testing functionality without internal code knowledge",
-                                          "Black Box Testing -\u003e testing functionality without internal code knowledge",
-                                          "Use Case -\u003e testing functionality without internal code knowledge"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Black Box Testing -\u003e testing functionality without internal code knowledge\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  165,
+                          "id":  133,
                           "question":  "A project requirement states: testing functionality without internal code knowledge. Which concept should be selected?",
                           "options":  [
                                           "Black Box Testing",
@@ -1981,7 +1597,7 @@
                           "explanation":  "The requirement directly points to Black Box Testing."
                       },
                       {
-                          "id":  166,
+                          "id":  134,
                           "question":  "Which Software Engineering concept best matches: testing based on internal logic and code paths?",
                           "options":  [
                                           "Modularity",
@@ -1993,7 +1609,7 @@
                           "explanation":  "White Box Testing is defined as: testing based on internal logic and code paths."
                       },
                       {
-                          "id":  167,
+                          "id":  135,
                           "question":  "What is the most accurate description of \u0027White Box Testing\u0027?",
                           "options":  [
                                           "mean time between two system failures",
@@ -2005,7 +1621,7 @@
                           "explanation":  "White Box Testing refers to: testing based on internal logic and code paths."
                       },
                       {
-                          "id":  168,
+                          "id":  136,
                           "question":  "\u0027White Box Testing\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "DevOps and Process",
@@ -2017,19 +1633,7 @@
                           "explanation":  "White Box Testing is mainly part of Testing."
                       },
                       {
-                          "id":  169,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Traceability Matrix -\u003e testing based on internal logic and code paths",
-                                          "V-Model -\u003e testing based on internal logic and code paths",
-                                          "Smoke Testing -\u003e testing based on internal logic and code paths",
-                                          "White Box Testing -\u003e testing based on internal logic and code paths"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027White Box Testing -\u003e testing based on internal logic and code paths\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  170,
+                          "id":  137,
                           "question":  "A project requirement states: testing based on internal logic and code paths. Which concept should be selected?",
                           "options":  [
                                           "Modularity",
@@ -2041,7 +1645,7 @@
                           "explanation":  "The requirement directly points to White Box Testing."
                       },
                       {
-                          "id":  171,
+                          "id":  138,
                           "question":  "Which Software Engineering concept best matches: test design technique using boundary input values?",
                           "options":  [
                                           "Sequence Diagram",
@@ -2053,7 +1657,7 @@
                           "explanation":  "Boundary Value Analysis is defined as: test design technique using boundary input values."
                       },
                       {
-                          "id":  172,
+                          "id":  139,
                           "question":  "What is the most accurate description of \u0027Boundary Value Analysis\u0027?",
                           "options":  [
                                           "test design technique using boundary input values",
@@ -2065,7 +1669,7 @@
                           "explanation":  "Boundary Value Analysis refers to: test design technique using boundary input values."
                       },
                       {
-                          "id":  173,
+                          "id":  140,
                           "question":  "\u0027Boundary Value Analysis\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Requirements",
@@ -2077,19 +1681,7 @@
                           "explanation":  "Boundary Value Analysis is mainly part of Testing."
                       },
                       {
-                          "id":  174,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Scrum -\u003e test design technique using boundary input values",
-                                          "System Testing -\u003e test design technique using boundary input values",
-                                          "Boundary Value Analysis -\u003e test design technique using boundary input values",
-                                          "Critical Path -\u003e test design technique using boundary input values"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Boundary Value Analysis -\u003e test design technique using boundary input values\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  175,
+                          "id":  141,
                           "question":  "A project requirement states: test design technique using boundary input values. Which concept should be selected?",
                           "options":  [
                                           "Sequence Diagram",
@@ -2101,7 +1693,7 @@
                           "explanation":  "The requirement directly points to Boundary Value Analysis."
                       },
                       {
-                          "id":  176,
+                          "id":  142,
                           "question":  "Which Software Engineering concept best matches: test design technique dividing inputs into valid/invalid classes?",
                           "options":  [
                                           "Incremental Model",
@@ -2113,7 +1705,7 @@
                           "explanation":  "Equivalence Partitioning is defined as: test design technique dividing inputs into valid/invalid classes."
                       },
                       {
-                          "id":  177,
+                          "id":  143,
                           "question":  "What is the most accurate description of \u0027Equivalence Partitioning\u0027?",
                           "options":  [
                                           "testing based on internal logic and code paths",
@@ -2125,7 +1717,7 @@
                           "explanation":  "Equivalence Partitioning refers to: test design technique dividing inputs into valid/invalid classes."
                       },
                       {
-                          "id":  178,
+                          "id":  144,
                           "question":  "\u0027Equivalence Partitioning\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "SDLC Models",
@@ -2137,19 +1729,7 @@
                           "explanation":  "Equivalence Partitioning is mainly part of Testing."
                       },
                       {
-                          "id":  179,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Integration Testing -\u003e test design technique dividing inputs into valid/invalid classes",
-                                          "Equivalence Partitioning -\u003e test design technique dividing inputs into valid/invalid classes",
-                                          "Configuration Management -\u003e test design technique dividing inputs into valid/invalid classes",
-                                          "Agile -\u003e test design technique dividing inputs into valid/invalid classes"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Equivalence Partitioning -\u003e test design technique dividing inputs into valid/invalid classes\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  180,
+                          "id":  145,
                           "question":  "A project requirement states: test design technique dividing inputs into valid/invalid classes. Which concept should be selected?",
                           "options":  [
                                           "Integration Testing",
@@ -2161,7 +1741,7 @@
                           "explanation":  "The requirement directly points to Equivalence Partitioning."
                       },
                       {
-                          "id":  181,
+                          "id":  146,
                           "question":  "Which Software Engineering concept best matches: number of defects per size unit of software?",
                           "options":  [
                                           "Cyclomatic Complexity",
@@ -2173,7 +1753,7 @@
                           "explanation":  "Defect Density is defined as: number of defects per size unit of software."
                       },
                       {
-                          "id":  182,
+                          "id":  147,
                           "question":  "What is the most accurate description of \u0027Defect Density\u0027?",
                           "options":  [
                                           "statement describing quality attributes and constraints",
@@ -2185,7 +1765,7 @@
                           "explanation":  "Defect Density refers to: number of defects per size unit of software."
                       },
                       {
-                          "id":  183,
+                          "id":  148,
                           "question":  "\u0027Defect Density\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Design Principles",
@@ -2197,19 +1777,7 @@
                           "explanation":  "Defect Density is mainly part of Quality Metrics."
                       },
                       {
-                          "id":  184,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Equivalence Partitioning -\u003e number of defects per size unit of software",
-                                          "Defect Density -\u003e number of defects per size unit of software",
-                                          "Continuous Deployment -\u003e number of defects per size unit of software",
-                                          "Cohesion -\u003e number of defects per size unit of software"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Defect Density -\u003e number of defects per size unit of software\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  185,
+                          "id":  149,
                           "question":  "A project requirement states: number of defects per size unit of software. Which concept should be selected?",
                           "options":  [
                                           "Regression Testing",
@@ -2221,7 +1789,7 @@
                           "explanation":  "The requirement directly points to Defect Density."
                       },
                       {
-                          "id":  186,
+                          "id":  150,
                           "question":  "Which Software Engineering concept best matches: metric indicating number of independent code paths?",
                           "options":  [
                                           "MTBF",
@@ -2233,7 +1801,7 @@
                           "explanation":  "Cyclomatic Complexity is defined as: metric indicating number of independent code paths."
                       },
                       {
-                          "id":  187,
+                          "id":  151,
                           "question":  "What is the most accurate description of \u0027Cyclomatic Complexity\u0027?",
                           "options":  [
                                           "metric indicating number of independent code paths",
@@ -2245,7 +1813,7 @@
                           "explanation":  "Cyclomatic Complexity refers to: metric indicating number of independent code paths."
                       },
                       {
-                          "id":  188,
+                          "id":  152,
                           "question":  "\u0027Cyclomatic Complexity\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Requirements",
@@ -2257,19 +1825,7 @@
                           "explanation":  "Cyclomatic Complexity is mainly part of Quality Metrics."
                       },
                       {
-                          "id":  189,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Traceability Matrix -\u003e metric indicating number of independent code paths",
-                                          "Equivalence Partitioning -\u003e metric indicating number of independent code paths",
-                                          "Cyclomatic Complexity -\u003e metric indicating number of independent code paths",
-                                          "Sanity Testing -\u003e metric indicating number of independent code paths"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Cyclomatic Complexity -\u003e metric indicating number of independent code paths\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  190,
+                          "id":  153,
                           "question":  "A project requirement states: metric indicating number of independent code paths. Which concept should be selected?",
                           "options":  [
                                           "MTBF",
@@ -2281,7 +1837,7 @@
                           "explanation":  "The requirement directly points to Cyclomatic Complexity."
                       },
                       {
-                          "id":  191,
+                          "id":  154,
                           "question":  "Which Software Engineering concept best matches: percentage of code executed by tests?",
                           "options":  [
                                           "Black Box Testing",
@@ -2293,7 +1849,7 @@
                           "explanation":  "Code Coverage is defined as: percentage of code executed by tests."
                       },
                       {
-                          "id":  192,
+                          "id":  155,
                           "question":  "What is the most accurate description of \u0027Code Coverage\u0027?",
                           "options":  [
                                           "testing based on internal logic and code paths",
@@ -2305,7 +1861,7 @@
                           "explanation":  "Code Coverage refers to: percentage of code executed by tests."
                       },
                       {
-                          "id":  193,
+                          "id":  156,
                           "question":  "\u0027Code Coverage\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Quality Metrics",
@@ -2317,19 +1873,7 @@
                           "explanation":  "Code Coverage is mainly part of Quality Metrics."
                       },
                       {
-                          "id":  194,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "SOLID -\u003e percentage of code executed by tests",
-                                          "Continuous Integration -\u003e percentage of code executed by tests",
-                                          "Sanity Testing -\u003e percentage of code executed by tests",
-                                          "Code Coverage -\u003e percentage of code executed by tests"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Code Coverage -\u003e percentage of code executed by tests\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  195,
+                          "id":  157,
                           "question":  "A project requirement states: percentage of code executed by tests. Which concept should be selected?",
                           "options":  [
                                           "Code Coverage",
@@ -2341,7 +1885,7 @@
                           "explanation":  "The requirement directly points to Code Coverage."
                       },
                       {
-                          "id":  196,
+                          "id":  158,
                           "question":  "Which Software Engineering concept best matches: mean time to restore service after failure?",
                           "options":  [
                                           "V-Model",
@@ -2353,7 +1897,7 @@
                           "explanation":  "MTTR is defined as: mean time to restore service after failure."
                       },
                       {
-                          "id":  197,
+                          "id":  159,
                           "question":  "What is the most accurate description of \u0027MTTR\u0027?",
                           "options":  [
                                           "longest dependent task sequence determining project duration",
@@ -2365,7 +1909,7 @@
                           "explanation":  "MTTR refers to: mean time to restore service after failure."
                       },
                       {
-                          "id":  198,
+                          "id":  160,
                           "question":  "\u0027MTTR\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "SDLC Models",
@@ -2377,19 +1921,7 @@
                           "explanation":  "MTTR is mainly part of Quality Metrics."
                       },
                       {
-                          "id":  199,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "MTTR -\u003e mean time to restore service after failure",
-                                          "Functional Requirement -\u003e mean time to restore service after failure",
-                                          "Acceptance Testing -\u003e mean time to restore service after failure",
-                                          "Continuous Deployment -\u003e mean time to restore service after failure"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027MTTR -\u003e mean time to restore service after failure\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  200,
+                          "id":  161,
                           "question":  "A project requirement states: mean time to restore service after failure. Which concept should be selected?",
                           "options":  [
                                           "MTTR",
@@ -2401,7 +1933,7 @@
                           "explanation":  "The requirement directly points to MTTR."
                       },
                       {
-                          "id":  201,
+                          "id":  162,
                           "question":  "Which Software Engineering concept best matches: mean time between two system failures?",
                           "options":  [
                                           "Code Review",
@@ -2413,7 +1945,7 @@
                           "explanation":  "MTBF is defined as: mean time between two system failures."
                       },
                       {
-                          "id":  202,
+                          "id":  163,
                           "question":  "What is the most accurate description of \u0027MTBF\u0027?",
                           "options":  [
                                           "mean time between two system failures",
@@ -2425,7 +1957,7 @@
                           "explanation":  "MTBF refers to: mean time between two system failures."
                       },
                       {
-                          "id":  203,
+                          "id":  164,
                           "question":  "\u0027MTBF\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Quality Metrics",
@@ -2437,19 +1969,7 @@
                           "explanation":  "MTBF is mainly part of Quality Metrics."
                       },
                       {
-                          "id":  204,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "MTBF -\u003e mean time between two system failures",
-                                          "V-Model -\u003e mean time between two system failures",
-                                          "MTTR -\u003e mean time between two system failures",
-                                          "Requirement Engineering -\u003e mean time between two system failures"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027MTBF -\u003e mean time between two system failures\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  205,
+                          "id":  165,
                           "question":  "A project requirement states: mean time between two system failures. Which concept should be selected?",
                           "options":  [
                                           "Sanity Testing",
@@ -2461,7 +1981,7 @@
                           "explanation":  "The requirement directly points to MTBF."
                       },
                       {
-                          "id":  206,
+                          "id":  166,
                           "question":  "Which Software Engineering concept best matches: control of software versions and changes?",
                           "options":  [
                                           "Unit Testing",
@@ -2473,7 +1993,7 @@
                           "explanation":  "Configuration Management is defined as: control of software versions and changes."
                       },
                       {
-                          "id":  207,
+                          "id":  167,
                           "question":  "What is the most accurate description of \u0027Configuration Management\u0027?",
                           "options":  [
                                           "practice of frequent code merges with automated builds",
@@ -2485,7 +2005,7 @@
                           "explanation":  "Configuration Management refers to: control of software versions and changes."
                       },
                       {
-                          "id":  208,
+                          "id":  168,
                           "question":  "\u0027Configuration Management\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Quality Metrics",
@@ -2497,19 +2017,7 @@
                           "explanation":  "Configuration Management is mainly part of DevOps and Process."
                       },
                       {
-                          "id":  209,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Coupling -\u003e control of software versions and changes",
-                                          "SRS -\u003e control of software versions and changes",
-                                          "Configuration Management -\u003e control of software versions and changes",
-                                          "White Box Testing -\u003e control of software versions and changes"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Configuration Management -\u003e control of software versions and changes\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  210,
+                          "id":  169,
                           "question":  "A project requirement states: control of software versions and changes. Which concept should be selected?",
                           "options":  [
                                           "Sequence Diagram",
@@ -2521,7 +2029,7 @@
                           "explanation":  "The requirement directly points to Configuration Management."
                       },
                       {
-                          "id":  211,
+                          "id":  170,
                           "question":  "Which Software Engineering concept best matches: system tracking changes to source code over time?",
                           "options":  [
                                           "Code Review",
@@ -2533,7 +2041,7 @@
                           "explanation":  "Version Control is defined as: system tracking changes to source code over time."
                       },
                       {
-                          "id":  212,
+                          "id":  171,
                           "question":  "What is the most accurate description of \u0027Version Control\u0027?",
                           "options":  [
                                           "validation by user/business to confirm readiness",
@@ -2545,7 +2053,7 @@
                           "explanation":  "Version Control refers to: system tracking changes to source code over time."
                       },
                       {
-                          "id":  213,
+                          "id":  172,
                           "question":  "\u0027Version Control\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "SDLC Models",
@@ -2557,19 +2065,7 @@
                           "explanation":  "Version Control is mainly part of DevOps and Process."
                       },
                       {
-                          "id":  214,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Version Control -\u003e system tracking changes to source code over time",
-                                          "Configuration Management -\u003e system tracking changes to source code over time",
-                                          "Design Pattern -\u003e system tracking changes to source code over time",
-                                          "Cohesion -\u003e system tracking changes to source code over time"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Version Control -\u003e system tracking changes to source code over time\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  215,
+                          "id":  173,
                           "question":  "A project requirement states: system tracking changes to source code over time. Which concept should be selected?",
                           "options":  [
                                           "Software Development Life Cycle",
@@ -2581,7 +2077,7 @@
                           "explanation":  "The requirement directly points to Version Control."
                       },
                       {
-                          "id":  216,
+                          "id":  174,
                           "question":  "Which Software Engineering concept best matches: practice of frequent code merges with automated builds?",
                           "options":  [
                                           "Waterfall Model",
@@ -2593,7 +2089,7 @@
                           "explanation":  "Continuous Integration is defined as: practice of frequent code merges with automated builds."
                       },
                       {
-                          "id":  217,
+                          "id":  175,
                           "question":  "What is the most accurate description of \u0027Continuous Integration\u0027?",
                           "options":  [
                                           "risk-driven iterative model combining prototyping and planning",
@@ -2605,7 +2101,7 @@
                           "explanation":  "Continuous Integration refers to: practice of frequent code merges with automated builds."
                       },
                       {
-                          "id":  218,
+                          "id":  176,
                           "question":  "\u0027Continuous Integration\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Design Principles",
@@ -2617,19 +2113,7 @@
                           "explanation":  "Continuous Integration is mainly part of DevOps and Process."
                       },
                       {
-                          "id":  219,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Continuous Deployment -\u003e practice of frequent code merges with automated builds",
-                                          "Boundary Value Analysis -\u003e practice of frequent code merges with automated builds",
-                                          "Continuous Integration -\u003e practice of frequent code merges with automated builds",
-                                          "Version Control -\u003e practice of frequent code merges with automated builds"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Continuous Integration -\u003e practice of frequent code merges with automated builds\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  220,
+                          "id":  177,
                           "question":  "A project requirement states: practice of frequent code merges with automated builds. Which concept should be selected?",
                           "options":  [
                                           "Waterfall Model",
@@ -2641,7 +2125,7 @@
                           "explanation":  "The requirement directly points to Continuous Integration."
                       },
                       {
-                          "id":  221,
+                          "id":  178,
                           "question":  "Which Software Engineering concept best matches: practice ensuring software is releasable at any time?",
                           "options":  [
                                           "Abstraction",
@@ -2653,7 +2137,7 @@
                           "explanation":  "Continuous Delivery is defined as: practice ensuring software is releasable at any time."
                       },
                       {
-                          "id":  222,
+                          "id":  179,
                           "question":  "What is the most accurate description of \u0027Continuous Delivery\u0027?",
                           "options":  [
                                           "testing interactions among integrated modules",
@@ -2665,7 +2149,7 @@
                           "explanation":  "Continuous Delivery refers to: practice ensuring software is releasable at any time."
                       },
                       {
-                          "id":  223,
+                          "id":  180,
                           "question":  "\u0027Continuous Delivery\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Design Principles",
@@ -2677,19 +2161,7 @@
                           "explanation":  "Continuous Delivery is mainly part of DevOps and Process."
                       },
                       {
-                          "id":  224,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Continuous Delivery -\u003e practice ensuring software is releasable at any time",
-                                          "Agile -\u003e practice ensuring software is releasable at any time",
-                                          "Spiral Model -\u003e practice ensuring software is releasable at any time",
-                                          "MTTR -\u003e practice ensuring software is releasable at any time"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Continuous Delivery -\u003e practice ensuring software is releasable at any time\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  225,
+                          "id":  181,
                           "question":  "A project requirement states: practice ensuring software is releasable at any time. Which concept should be selected?",
                           "options":  [
                                           "Continuous Deployment",
@@ -2701,7 +2173,7 @@
                           "explanation":  "The requirement directly points to Continuous Delivery."
                       },
                       {
-                          "id":  226,
+                          "id":  182,
                           "question":  "Which Software Engineering concept best matches: automatic deployment to production after pipeline success?",
                           "options":  [
                                           "Cyclomatic Complexity",
@@ -2713,7 +2185,7 @@
                           "explanation":  "Continuous Deployment is defined as: automatic deployment to production after pipeline success."
                       },
                       {
-                          "id":  227,
+                          "id":  183,
                           "question":  "What is the most accurate description of \u0027Continuous Deployment\u0027?",
                           "options":  [
                                           "automatic deployment to production after pipeline success",
@@ -2725,7 +2197,7 @@
                           "explanation":  "Continuous Deployment refers to: automatic deployment to production after pipeline success."
                       },
                       {
-                          "id":  228,
+                          "id":  184,
                           "question":  "\u0027Continuous Deployment\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Requirements",
@@ -2737,19 +2209,7 @@
                           "explanation":  "Continuous Deployment is mainly part of DevOps and Process."
                       },
                       {
-                          "id":  229,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Boundary Value Analysis -\u003e automatic deployment to production after pipeline success",
-                                          "Continuous Deployment -\u003e automatic deployment to production after pipeline success",
-                                          "Cyclomatic Complexity -\u003e automatic deployment to production after pipeline success",
-                                          "Spiral Model -\u003e automatic deployment to production after pipeline success"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Continuous Deployment -\u003e automatic deployment to production after pipeline success\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  230,
+                          "id":  185,
                           "question":  "A project requirement states: automatic deployment to production after pipeline success. Which concept should be selected?",
                           "options":  [
                                           "Cyclomatic Complexity",
@@ -2761,7 +2221,7 @@
                           "explanation":  "The requirement directly points to Continuous Deployment."
                       },
                       {
-                          "id":  231,
+                          "id":  186,
                           "question":  "Which Software Engineering concept best matches: systematic examination of source code by peers?",
                           "options":  [
                                           "Code Review",
@@ -2773,7 +2233,7 @@
                           "explanation":  "Code Review is defined as: systematic examination of source code by peers."
                       },
                       {
-                          "id":  232,
+                          "id":  187,
                           "question":  "What is the most accurate description of \u0027Code Review\u0027?",
                           "options":  [
                                           "practice ensuring software is releasable at any time",
@@ -2785,7 +2245,7 @@
                           "explanation":  "Code Review refers to: systematic examination of source code by peers."
                       },
                       {
-                          "id":  233,
+                          "id":  188,
                           "question":  "\u0027Code Review\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "DevOps and Process",
@@ -2797,19 +2257,7 @@
                           "explanation":  "Code Review is mainly part of DevOps and Process."
                       },
                       {
-                          "id":  234,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Non-Functional Requirement -\u003e systematic examination of source code by peers",
-                                          "Modularity -\u003e systematic examination of source code by peers",
-                                          "Code Review -\u003e systematic examination of source code by peers",
-                                          "Abstraction -\u003e systematic examination of source code by peers"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Code Review -\u003e systematic examination of source code by peers\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  235,
+                          "id":  189,
                           "question":  "A project requirement states: systematic examination of source code by peers. Which concept should be selected?",
                           "options":  [
                                           "Code Review",
@@ -2821,7 +2269,7 @@
                           "explanation":  "The requirement directly points to Code Review."
                       },
                       {
-                          "id":  236,
+                          "id":  190,
                           "question":  "Which Software Engineering concept best matches: future cost caused by short-term design compromises?",
                           "options":  [
                                           "Technical Debt",
@@ -2833,7 +2281,7 @@
                           "explanation":  "Technical Debt is defined as: future cost caused by short-term design compromises."
                       },
                       {
-                          "id":  237,
+                          "id":  191,
                           "question":  "What is the most accurate description of \u0027Technical Debt\u0027?",
                           "options":  [
                                           "agile framework using sprints and defined team roles",
@@ -2845,7 +2293,7 @@
                           "explanation":  "Technical Debt refers to: future cost caused by short-term design compromises."
                       },
                       {
-                          "id":  238,
+                          "id":  192,
                           "question":  "\u0027Technical Debt\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Requirements",
@@ -2857,19 +2305,7 @@
                           "explanation":  "Technical Debt is mainly part of DevOps and Process."
                       },
                       {
-                          "id":  239,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Integration Testing -\u003e future cost caused by short-term design compromises",
-                                          "Black Box Testing -\u003e future cost caused by short-term design compromises",
-                                          "Technical Debt -\u003e future cost caused by short-term design compromises",
-                                          "Non-Functional Requirement -\u003e future cost caused by short-term design compromises"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Technical Debt -\u003e future cost caused by short-term design compromises\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  240,
+                          "id":  193,
                           "question":  "A project requirement states: future cost caused by short-term design compromises. Which concept should be selected?",
                           "options":  [
                                           "Technical Debt",
@@ -2881,7 +2317,7 @@
                           "explanation":  "The requirement directly points to Technical Debt."
                       },
                       {
-                          "id":  241,
+                          "id":  194,
                           "question":  "Which Software Engineering concept best matches: identifying and mitigating project uncertainties?",
                           "options":  [
                                           "Kanban",
@@ -2893,7 +2329,7 @@
                           "explanation":  "Risk Management is defined as: identifying and mitigating project uncertainties."
                       },
                       {
-                          "id":  242,
+                          "id":  195,
                           "question":  "What is the most accurate description of \u0027Risk Management\u0027?",
                           "options":  [
                                           "UML diagram showing interaction order among objects",
@@ -2905,7 +2341,7 @@
                           "explanation":  "Risk Management refers to: identifying and mitigating project uncertainties."
                       },
                       {
-                          "id":  243,
+                          "id":  196,
                           "question":  "\u0027Risk Management\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "DevOps and Process",
@@ -2917,19 +2353,7 @@
                           "explanation":  "Risk Management is mainly part of Project Management."
                       },
                       {
-                          "id":  244,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "Non-Functional Requirement -\u003e identifying and mitigating project uncertainties",
-                                          "Risk Management -\u003e identifying and mitigating project uncertainties",
-                                          "Critical Path -\u003e identifying and mitigating project uncertainties",
-                                          "Incremental Model -\u003e identifying and mitigating project uncertainties"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Risk Management -\u003e identifying and mitigating project uncertainties\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  245,
+                          "id":  197,
                           "question":  "A project requirement states: identifying and mitigating project uncertainties. Which concept should be selected?",
                           "options":  [
                                           "Abstraction",
@@ -2941,7 +2365,7 @@
                           "explanation":  "The requirement directly points to Risk Management."
                       },
                       {
-                          "id":  246,
+                          "id":  198,
                           "question":  "Which Software Engineering concept best matches: longest dependent task sequence determining project duration?",
                           "options":  [
                                           "Use Case",
@@ -2953,7 +2377,7 @@
                           "explanation":  "Critical Path is defined as: longest dependent task sequence determining project duration."
                       },
                       {
-                          "id":  247,
+                          "id":  199,
                           "question":  "What is the most accurate description of \u0027Critical Path\u0027?",
                           "options":  [
                                           "longest dependent task sequence determining project duration",
@@ -2965,7 +2389,7 @@
                           "explanation":  "Critical Path refers to: longest dependent task sequence determining project duration."
                       },
                       {
-                          "id":  248,
+                          "id":  200,
                           "question":  "\u0027Critical Path\u0027 belongs mainly to which software engineering area?",
                           "options":  [
                                           "Quality Metrics",
@@ -2977,19 +2401,7 @@
                           "explanation":  "Critical Path is mainly part of Project Management."
                       },
                       {
-                          "id":  249,
-                          "question":  "Identify the correct software engineering term-definition mapping.",
-                          "options":  [
-                                          "SOLID -\u003e longest dependent task sequence determining project duration",
-                                          "UML -\u003e longest dependent task sequence determining project duration",
-                                          "Incremental Model -\u003e longest dependent task sequence determining project duration",
-                                          "Critical Path -\u003e longest dependent task sequence determining project duration"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Critical Path -\u003e longest dependent task sequence determining project duration\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  250,
+                          "id":  201,
                           "question":  "A project requirement states: longest dependent task sequence determining project duration. Which concept should be selected?",
                           "options":  [
                                           "Configuration Management",

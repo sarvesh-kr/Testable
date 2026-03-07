@@ -98,18 +98,6 @@
                       },
                       {
                           "id":  9,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Linked List -\u003e linear structure of nodes connected via pointers",
-                                          "Counting Sort -\u003e linear structure of nodes connected via pointers",
-                                          "Theta Notation -\u003e linear structure of nodes connected via pointers",
-                                          "Breadth First Search -\u003e linear structure of nodes connected via pointers"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Linked List -\u003e linear structure of nodes connected via pointers\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  10,
                           "question":  "A Bank SO IT technical requirement states: linear structure of nodes connected via pointers. Which concept should be selected?",
                           "options":  [
                                           "Linked List",
@@ -121,7 +109,7 @@
                           "explanation":  "The requirement directly points to Linked List."
                       },
                       {
-                          "id":  11,
+                          "id":  10,
                           "question":  "Which DSA concept best matches: linked list where each node has next and previous pointers?",
                           "options":  [
                                           "Graph",
@@ -133,7 +121,7 @@
                           "explanation":  "Doubly Linked List is defined as: linked list where each node has next and previous pointers."
                       },
                       {
-                          "id":  12,
+                          "id":  11,
                           "question":  "What is the most accurate description of \u0027Doubly Linked List\u0027?",
                           "options":  [
                                           "upper bound notation for algorithm growth rate",
@@ -145,7 +133,7 @@
                           "explanation":  "Doubly Linked List refers to: linked list where each node has next and previous pointers."
                       },
                       {
-                          "id":  13,
+                          "id":  12,
                           "question":  "\u0027Doubly Linked List\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Sorting and Searching",
@@ -157,19 +145,7 @@
                           "explanation":  "Doubly Linked List is mainly part of Core Data Structures."
                       },
                       {
-                          "id":  14,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Dynamic Programming -\u003e linked list where each node has next and previous pointers",
-                                          "Breadth First Search -\u003e linked list where each node has next and previous pointers",
-                                          "Doubly Linked List -\u003e linked list where each node has next and previous pointers",
-                                          "Linked List -\u003e linked list where each node has next and previous pointers"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Doubly Linked List -\u003e linked list where each node has next and previous pointers\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  15,
+                          "id":  13,
                           "question":  "A Bank SO IT technical requirement states: linked list where each node has next and previous pointers. Which concept should be selected?",
                           "options":  [
                                           "Graph",
@@ -181,7 +157,7 @@
                           "explanation":  "The requirement directly points to Doubly Linked List."
                       },
                       {
-                          "id":  16,
+                          "id":  14,
                           "question":  "Which DSA concept best matches: LIFO structure supporting push and pop operations?",
                           "options":  [
                                           "Binary Search Tree",
@@ -193,7 +169,7 @@
                           "explanation":  "Stack is defined as: LIFO structure supporting push and pop operations."
                       },
                       {
-                          "id":  17,
+                          "id":  15,
                           "question":  "What is the most accurate description of \u0027Stack\u0027?",
                           "options":  [
                                           "technique splitting problem into smaller independent subproblems",
@@ -205,7 +181,7 @@
                           "explanation":  "Stack refers to: LIFO structure supporting push and pop operations."
                       },
                       {
-                          "id":  18,
+                          "id":  16,
                           "question":  "\u0027Stack\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Concepts",
@@ -217,19 +193,7 @@
                           "explanation":  "Stack is mainly part of Core Data Structures."
                       },
                       {
-                          "id":  19,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Stack -\u003e LIFO structure supporting push and pop operations",
-                                          "Branch and Bound -\u003e LIFO structure supporting push and pop operations",
-                                          "Doubly Linked List -\u003e LIFO structure supporting push and pop operations",
-                                          "Insertion Sort -\u003e LIFO structure supporting push and pop operations"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Stack -\u003e LIFO structure supporting push and pop operations\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  20,
+                          "id":  17,
                           "question":  "A Bank SO IT technical requirement states: LIFO structure supporting push and pop operations. Which concept should be selected?",
                           "options":  [
                                           "Topological Sort",
@@ -241,7 +205,7 @@
                           "explanation":  "The requirement directly points to Stack."
                       },
                       {
-                          "id":  21,
+                          "id":  18,
                           "question":  "Which DSA concept best matches: FIFO structure supporting enqueue and dequeue operations?",
                           "options":  [
                                           "Recursion",
@@ -253,7 +217,7 @@
                           "explanation":  "Queue is defined as: FIFO structure supporting enqueue and dequeue operations."
                       },
                       {
-                          "id":  22,
+                          "id":  19,
                           "question":  "What is the most accurate description of \u0027Queue\u0027?",
                           "options":  [
                                           "FIFO structure supporting enqueue and dequeue operations",
@@ -265,7 +229,7 @@
                           "explanation":  "Queue refers to: FIFO structure supporting enqueue and dequeue operations."
                       },
                       {
-                          "id":  23,
+                          "id":  20,
                           "question":  "\u0027Queue\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Core Data Structures",
@@ -277,19 +241,7 @@
                           "explanation":  "Queue is mainly part of Core Data Structures."
                       },
                       {
-                          "id":  24,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "NP-Complete -\u003e FIFO structure supporting enqueue and dequeue operations",
-                                          "Queue -\u003e FIFO structure supporting enqueue and dequeue operations",
-                                          "Undirected Graph -\u003e FIFO structure supporting enqueue and dequeue operations",
-                                          "Heap Sort -\u003e FIFO structure supporting enqueue and dequeue operations"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Queue -\u003e FIFO structure supporting enqueue and dequeue operations\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  25,
+                          "id":  21,
                           "question":  "A Bank SO IT technical requirement states: FIFO structure supporting enqueue and dequeue operations. Which concept should be selected?",
                           "options":  [
                                           "Recursion",
@@ -301,7 +253,7 @@
                           "explanation":  "The requirement directly points to Queue."
                       },
                       {
-                          "id":  26,
+                          "id":  22,
                           "question":  "Which DSA concept best matches: double-ended queue allowing insertion and deletion at both ends?",
                           "options":  [
                                           "Array",
@@ -313,7 +265,7 @@
                           "explanation":  "Deque is defined as: double-ended queue allowing insertion and deletion at both ends."
                       },
                       {
-                          "id":  27,
+                          "id":  23,
                           "question":  "What is the most accurate description of \u0027Deque\u0027?",
                           "options":  [
                                           "technique using two indices moving through data structure",
@@ -325,7 +277,7 @@
                           "explanation":  "Deque refers to: double-ended queue allowing insertion and deletion at both ends."
                       },
                       {
-                          "id":  28,
+                          "id":  24,
                           "question":  "\u0027Deque\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Algorithms",
@@ -337,19 +289,7 @@
                           "explanation":  "Deque is mainly part of Core Data Structures."
                       },
                       {
-                          "id":  29,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Undirected Graph -\u003e double-ended queue allowing insertion and deletion at both ends",
-                                          "Array -\u003e double-ended queue allowing insertion and deletion at both ends",
-                                          "Backtracking -\u003e double-ended queue allowing insertion and deletion at both ends",
-                                          "Deque -\u003e double-ended queue allowing insertion and deletion at both ends"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Deque -\u003e double-ended queue allowing insertion and deletion at both ends\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  30,
+                          "id":  25,
                           "question":  "A Bank SO IT technical requirement states: double-ended queue allowing insertion and deletion at both ends. Which concept should be selected?",
                           "options":  [
                                           "Array",
@@ -361,7 +301,7 @@
                           "explanation":  "The requirement directly points to Deque."
                       },
                       {
-                          "id":  31,
+                          "id":  26,
                           "question":  "Which DSA concept best matches: key-value structure using hash function for indexing?",
                           "options":  [
                                           "Space Complexity",
@@ -373,7 +313,7 @@
                           "explanation":  "Hash Table is defined as: key-value structure using hash function for indexing."
                       },
                       {
-                          "id":  32,
+                          "id":  27,
                           "question":  "What is the most accurate description of \u0027Hash Table\u0027?",
                           "options":  [
                                           "technique splitting problem into smaller independent subproblems",
@@ -385,7 +325,7 @@
                           "explanation":  "Hash Table refers to: key-value structure using hash function for indexing."
                       },
                       {
-                          "id":  33,
+                          "id":  28,
                           "question":  "\u0027Hash Table\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Complexity Analysis",
@@ -397,19 +337,7 @@
                           "explanation":  "Hash Table is mainly part of Core Data Structures."
                       },
                       {
-                          "id":  34,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Branch and Bound -\u003e key-value structure using hash function for indexing",
-                                          "Breadth First Search -\u003e key-value structure using hash function for indexing",
-                                          "Hash Table -\u003e key-value structure using hash function for indexing",
-                                          "Dynamic Programming -\u003e key-value structure using hash function for indexing"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Hash Table -\u003e key-value structure using hash function for indexing\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  35,
+                          "id":  29,
                           "question":  "A Bank SO IT technical requirement states: key-value structure using hash function for indexing. Which concept should be selected?",
                           "options":  [
                                           "Directed Graph",
@@ -421,7 +349,7 @@
                           "explanation":  "The requirement directly points to Hash Table."
                       },
                       {
-                          "id":  36,
+                          "id":  30,
                           "question":  "Which DSA concept best matches: complete binary tree satisfying heap order property?",
                           "options":  [
                                           "Depth First Search",
@@ -433,7 +361,7 @@
                           "explanation":  "Heap is defined as: complete binary tree satisfying heap order property."
                       },
                       {
-                          "id":  37,
+                          "id":  31,
                           "question":  "What is the most accurate description of \u0027Heap\u0027?",
                           "options":  [
                                           "non-comparison sort for bounded integer ranges",
@@ -445,7 +373,7 @@
                           "explanation":  "Heap refers to: complete binary tree satisfying heap order property."
                       },
                       {
-                          "id":  38,
+                          "id":  32,
                           "question":  "\u0027Heap\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Core Data Structures",
@@ -457,19 +385,7 @@
                           "explanation":  "Heap is mainly part of Core Data Structures."
                       },
                       {
-                          "id":  39,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Amortized Analysis -\u003e complete binary tree satisfying heap order property",
-                                          "Selection Sort -\u003e complete binary tree satisfying heap order property",
-                                          "Heap -\u003e complete binary tree satisfying heap order property",
-                                          "Topological Sort -\u003e complete binary tree satisfying heap order property"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Heap -\u003e complete binary tree satisfying heap order property\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  40,
+                          "id":  33,
                           "question":  "A Bank SO IT technical requirement states: complete binary tree satisfying heap order property. Which concept should be selected?",
                           "options":  [
                                           "Two Pointers",
@@ -481,7 +397,7 @@
                           "explanation":  "The requirement directly points to Heap."
                       },
                       {
-                          "id":  41,
+                          "id":  34,
                           "question":  "Which DSA concept best matches: binary tree where left keys are smaller and right keys larger?",
                           "options":  [
                                           "Heap",
@@ -493,7 +409,7 @@
                           "explanation":  "Binary Search Tree is defined as: binary tree where left keys are smaller and right keys larger."
                       },
                       {
-                          "id":  42,
+                          "id":  35,
                           "question":  "What is the most accurate description of \u0027Binary Search Tree\u0027?",
                           "options":  [
                                           "maximum operations required by algorithm for input",
@@ -505,7 +421,7 @@
                           "explanation":  "Binary Search Tree refers to: binary tree where left keys are smaller and right keys larger."
                       },
                       {
-                          "id":  43,
+                          "id":  36,
                           "question":  "\u0027Binary Search Tree\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Core Data Structures",
@@ -517,19 +433,7 @@
                           "explanation":  "Binary Search Tree is mainly part of Core Data Structures."
                       },
                       {
-                          "id":  44,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Backtracking -\u003e binary tree where left keys are smaller and right keys larger",
-                                          "Divide and Conquer -\u003e binary tree where left keys are smaller and right keys larger",
-                                          "Binary Search Tree -\u003e binary tree where left keys are smaller and right keys larger",
-                                          "Branch and Bound -\u003e binary tree where left keys are smaller and right keys larger"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Binary Search Tree -\u003e binary tree where left keys are smaller and right keys larger\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  45,
+                          "id":  37,
                           "question":  "A Bank SO IT technical requirement states: binary tree where left keys are smaller and right keys larger. Which concept should be selected?",
                           "options":  [
                                           "Average Case",
@@ -541,7 +445,7 @@
                           "explanation":  "The requirement directly points to Binary Search Tree."
                       },
                       {
-                          "id":  46,
+                          "id":  38,
                           "question":  "Which DSA concept best matches: prefix tree optimized for string retrieval?",
                           "options":  [
                                           "Directed Graph",
@@ -553,7 +457,7 @@
                           "explanation":  "Trie is defined as: prefix tree optimized for string retrieval."
                       },
                       {
-                          "id":  47,
+                          "id":  39,
                           "question":  "What is the most accurate description of \u0027Trie\u0027?",
                           "options":  [
                                           "search algorithm halving sorted search space each step",
@@ -565,7 +469,7 @@
                           "explanation":  "Trie refers to: prefix tree optimized for string retrieval."
                       },
                       {
-                          "id":  48,
+                          "id":  40,
                           "question":  "\u0027Trie\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Complexity Analysis",
@@ -577,19 +481,7 @@
                           "explanation":  "Trie is mainly part of Core Data Structures."
                       },
                       {
-                          "id":  49,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Trie -\u003e prefix tree optimized for string retrieval",
-                                          "Deque -\u003e prefix tree optimized for string retrieval",
-                                          "Queue -\u003e prefix tree optimized for string retrieval",
-                                          "Best Case -\u003e prefix tree optimized for string retrieval"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Trie -\u003e prefix tree optimized for string retrieval\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  50,
+                          "id":  41,
                           "question":  "A Bank SO IT technical requirement states: prefix tree optimized for string retrieval. Which concept should be selected?",
                           "options":  [
                                           "Recursion",
@@ -601,7 +493,7 @@
                           "explanation":  "The requirement directly points to Trie."
                       },
                       {
-                          "id":  51,
+                          "id":  42,
                           "question":  "Which DSA concept best matches: set of vertices connected by edges?",
                           "options":  [
                                           "Graph",
@@ -613,7 +505,7 @@
                           "explanation":  "Graph is defined as: set of vertices connected by edges."
                       },
                       {
-                          "id":  52,
+                          "id":  43,
                           "question":  "What is the most accurate description of \u0027Graph\u0027?",
                           "options":  [
                                           "contiguous collection of elements accessed by index",
@@ -625,7 +517,7 @@
                           "explanation":  "Graph refers to: set of vertices connected by edges."
                       },
                       {
-                          "id":  53,
+                          "id":  44,
                           "question":  "\u0027Graph\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Algorithmic Techniques",
@@ -637,19 +529,7 @@
                           "explanation":  "Graph is mainly part of Graph Concepts."
                       },
                       {
-                          "id":  54,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Directed Graph -\u003e set of vertices connected by edges",
-                                          "Graph -\u003e set of vertices connected by edges",
-                                          "Greedy Algorithm -\u003e set of vertices connected by edges",
-                                          "Deque -\u003e set of vertices connected by edges"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Graph -\u003e set of vertices connected by edges\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  55,
+                          "id":  45,
                           "question":  "A Bank SO IT technical requirement states: set of vertices connected by edges. Which concept should be selected?",
                           "options":  [
                                           "Big O Notation",
@@ -661,7 +541,7 @@
                           "explanation":  "The requirement directly points to Graph."
                       },
                       {
-                          "id":  56,
+                          "id":  46,
                           "question":  "Which DSA concept best matches: graph where edges have direction?",
                           "options":  [
                                           "Directed Graph",
@@ -673,7 +553,7 @@
                           "explanation":  "Directed Graph is defined as: graph where edges have direction."
                       },
                       {
-                          "id":  57,
+                          "id":  47,
                           "question":  "What is the most accurate description of \u0027Directed Graph\u0027?",
                           "options":  [
                                           "graph where edges have no direction",
@@ -685,7 +565,7 @@
                           "explanation":  "Directed Graph refers to: graph where edges have direction."
                       },
                       {
-                          "id":  58,
+                          "id":  48,
                           "question":  "\u0027Directed Graph\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Complexity Analysis",
@@ -697,19 +577,7 @@
                           "explanation":  "Directed Graph is mainly part of Graph Concepts."
                       },
                       {
-                          "id":  59,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Recursion -\u003e graph where edges have direction",
-                                          "Omega Notation -\u003e graph where edges have direction",
-                                          "Directed Graph -\u003e graph where edges have direction",
-                                          "Branch and Bound -\u003e graph where edges have direction"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Directed Graph -\u003e graph where edges have direction\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  60,
+                          "id":  49,
                           "question":  "A Bank SO IT technical requirement states: graph where edges have direction. Which concept should be selected?",
                           "options":  [
                                           "Heap Sort",
@@ -721,7 +589,7 @@
                           "explanation":  "The requirement directly points to Directed Graph."
                       },
                       {
-                          "id":  61,
+                          "id":  50,
                           "question":  "Which DSA concept best matches: graph where edges have no direction?",
                           "options":  [
                                           "Array",
@@ -733,7 +601,7 @@
                           "explanation":  "Undirected Graph is defined as: graph where edges have no direction."
                       },
                       {
-                          "id":  62,
+                          "id":  51,
                           "question":  "What is the most accurate description of \u0027Undirected Graph\u0027?",
                           "options":  [
                                           "sorting algorithm building sorted list by insertion",
@@ -745,7 +613,7 @@
                           "explanation":  "Undirected Graph refers to: graph where edges have no direction."
                       },
                       {
-                          "id":  63,
+                          "id":  52,
                           "question":  "\u0027Undirected Graph\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Algorithmic Techniques",
@@ -757,19 +625,7 @@
                           "explanation":  "Undirected Graph is mainly part of Graph Concepts."
                       },
                       {
-                          "id":  64,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Undirected Graph -\u003e graph where edges have no direction",
-                                          "Merge Sort -\u003e graph where edges have no direction",
-                                          "Dynamic Programming -\u003e graph where edges have no direction",
-                                          "Doubly Linked List -\u003e graph where edges have no direction"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Undirected Graph -\u003e graph where edges have no direction\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  65,
+                          "id":  53,
                           "question":  "A Bank SO IT technical requirement states: graph where edges have no direction. Which concept should be selected?",
                           "options":  [
                                           "Linear Search",
@@ -781,7 +637,7 @@
                           "explanation":  "The requirement directly points to Undirected Graph."
                       },
                       {
-                          "id":  66,
+                          "id":  54,
                           "question":  "Which DSA concept best matches: graph where edges carry associated weights?",
                           "options":  [
                                           "Heap Sort",
@@ -793,7 +649,7 @@
                           "explanation":  "Weighted Graph is defined as: graph where edges carry associated weights."
                       },
                       {
-                          "id":  67,
+                          "id":  55,
                           "question":  "What is the most accurate description of \u0027Weighted Graph\u0027?",
                           "options":  [
                                           "search estimating likely position in uniformly distributed sorted data",
@@ -805,7 +661,7 @@
                           "explanation":  "Weighted Graph refers to: graph where edges carry associated weights."
                       },
                       {
-                          "id":  68,
+                          "id":  56,
                           "question":  "\u0027Weighted Graph\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Complexity Analysis",
@@ -817,19 +673,7 @@
                           "explanation":  "Weighted Graph is mainly part of Graph Concepts."
                       },
                       {
-                          "id":  69,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Weighted Graph -\u003e graph where edges carry associated weights",
-                                          "Recursion -\u003e graph where edges carry associated weights",
-                                          "Best Case -\u003e graph where edges carry associated weights",
-                                          "Deque -\u003e graph where edges carry associated weights"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Weighted Graph -\u003e graph where edges carry associated weights\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  70,
+                          "id":  57,
                           "question":  "A Bank SO IT technical requirement states: graph where edges carry associated weights. Which concept should be selected?",
                           "options":  [
                                           "Amortized Analysis",
@@ -841,7 +685,7 @@
                           "explanation":  "The requirement directly points to Weighted Graph."
                       },
                       {
-                          "id":  71,
+                          "id":  58,
                           "question":  "Which DSA concept best matches: graph traversal exploring neighbors level by level?",
                           "options":  [
                                           "Dijkstra Algorithm",
@@ -853,7 +697,7 @@
                           "explanation":  "Breadth First Search is defined as: graph traversal exploring neighbors level by level."
                       },
                       {
-                          "id":  72,
+                          "id":  59,
                           "question":  "What is the most accurate description of \u0027Breadth First Search\u0027?",
                           "options":  [
                                           "precomputed cumulative sums enabling range query optimization",
@@ -865,7 +709,7 @@
                           "explanation":  "Breadth First Search refers to: graph traversal exploring neighbors level by level."
                       },
                       {
-                          "id":  73,
+                          "id":  60,
                           "question":  "\u0027Breadth First Search\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Algorithmic Techniques",
@@ -877,19 +721,7 @@
                           "explanation":  "Breadth First Search is mainly part of Graph Algorithms."
                       },
                       {
-                          "id":  74,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Topological Sort -\u003e graph traversal exploring neighbors level by level",
-                                          "Omega Notation -\u003e graph traversal exploring neighbors level by level",
-                                          "Floyd-Warshall Algorithm -\u003e graph traversal exploring neighbors level by level",
-                                          "Breadth First Search -\u003e graph traversal exploring neighbors level by level"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Breadth First Search -\u003e graph traversal exploring neighbors level by level\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  75,
+                          "id":  61,
                           "question":  "A Bank SO IT technical requirement states: graph traversal exploring neighbors level by level. Which concept should be selected?",
                           "options":  [
                                           "Breadth First Search",
@@ -901,7 +733,7 @@
                           "explanation":  "The requirement directly points to Breadth First Search."
                       },
                       {
-                          "id":  76,
+                          "id":  62,
                           "question":  "Which DSA concept best matches: graph traversal exploring path deeply before backtracking?",
                           "options":  [
                                           "Omega Notation",
@@ -913,7 +745,7 @@
                           "explanation":  "Depth First Search is defined as: graph traversal exploring path deeply before backtracking."
                       },
                       {
-                          "id":  77,
+                          "id":  63,
                           "question":  "What is the most accurate description of \u0027Depth First Search\u0027?",
                           "options":  [
                                           "linked list where each node has next and previous pointers",
@@ -925,7 +757,7 @@
                           "explanation":  "Depth First Search refers to: graph traversal exploring path deeply before backtracking."
                       },
                       {
-                          "id":  78,
+                          "id":  64,
                           "question":  "\u0027Depth First Search\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Algorithms",
@@ -937,19 +769,7 @@
                           "explanation":  "Depth First Search is mainly part of Graph Algorithms."
                       },
                       {
-                          "id":  79,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Depth First Search -\u003e graph traversal exploring path deeply before backtracking",
-                                          "Directed Graph -\u003e graph traversal exploring path deeply before backtracking",
-                                          "Binary Search Tree -\u003e graph traversal exploring path deeply before backtracking",
-                                          "Weighted Graph -\u003e graph traversal exploring path deeply before backtracking"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Depth First Search -\u003e graph traversal exploring path deeply before backtracking\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  80,
+                          "id":  65,
                           "question":  "A Bank SO IT technical requirement states: graph traversal exploring path deeply before backtracking. Which concept should be selected?",
                           "options":  [
                                           "Omega Notation",
@@ -961,7 +781,7 @@
                           "explanation":  "The requirement directly points to Depth First Search."
                       },
                       {
-                          "id":  81,
+                          "id":  66,
                           "question":  "Which DSA concept best matches: shortest path algorithm for non-negative edge weights?",
                           "options":  [
                                           "Linear Search",
@@ -973,7 +793,7 @@
                           "explanation":  "Dijkstra Algorithm is defined as: shortest path algorithm for non-negative edge weights."
                       },
                       {
-                          "id":  82,
+                          "id":  67,
                           "question":  "What is the most accurate description of \u0027Dijkstra Algorithm\u0027?",
                           "options":  [
                                           "average cost analysis over sequence of operations",
@@ -985,7 +805,7 @@
                           "explanation":  "Dijkstra Algorithm refers to: shortest path algorithm for non-negative edge weights."
                       },
                       {
-                          "id":  83,
+                          "id":  68,
                           "question":  "\u0027Dijkstra Algorithm\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Algorithmic Techniques",
@@ -997,19 +817,7 @@
                           "explanation":  "Dijkstra Algorithm is mainly part of Graph Algorithms."
                       },
                       {
-                          "id":  84,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Dijkstra Algorithm -\u003e shortest path algorithm for non-negative edge weights",
-                                          "Binary Search -\u003e shortest path algorithm for non-negative edge weights",
-                                          "Doubly Linked List -\u003e shortest path algorithm for non-negative edge weights",
-                                          "Bubble Sort -\u003e shortest path algorithm for non-negative edge weights"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Dijkstra Algorithm -\u003e shortest path algorithm for non-negative edge weights\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  85,
+                          "id":  69,
                           "question":  "A Bank SO IT technical requirement states: shortest path algorithm for non-negative edge weights. Which concept should be selected?",
                           "options":  [
                                           "Linear Search",
@@ -1021,7 +829,7 @@
                           "explanation":  "The requirement directly points to Dijkstra Algorithm."
                       },
                       {
-                          "id":  86,
+                          "id":  70,
                           "question":  "Which DSA concept best matches: shortest path algorithm handling negative edge weights?",
                           "options":  [
                                           "Greedy Algorithm",
@@ -1033,7 +841,7 @@
                           "explanation":  "Bellman-Ford Algorithm is defined as: shortest path algorithm handling negative edge weights."
                       },
                       {
-                          "id":  87,
+                          "id":  71,
                           "question":  "What is the most accurate description of \u0027Bellman-Ford Algorithm\u0027?",
                           "options":  [
                                           "problem-solving approach where function calls itself",
@@ -1045,7 +853,7 @@
                           "explanation":  "Bellman-Ford Algorithm refers to: shortest path algorithm handling negative edge weights."
                       },
                       {
-                          "id":  88,
+                          "id":  72,
                           "question":  "\u0027Bellman-Ford Algorithm\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Complexity Analysis",
@@ -1057,19 +865,7 @@
                           "explanation":  "Bellman-Ford Algorithm is mainly part of Graph Algorithms."
                       },
                       {
-                          "id":  89,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Bellman-Ford Algorithm -\u003e shortest path algorithm handling negative edge weights",
-                                          "Binary Search -\u003e shortest path algorithm handling negative edge weights",
-                                          "Stack -\u003e shortest path algorithm handling negative edge weights",
-                                          "Worst Case -\u003e shortest path algorithm handling negative edge weights"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Bellman-Ford Algorithm -\u003e shortest path algorithm handling negative edge weights\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  90,
+                          "id":  73,
                           "question":  "A Bank SO IT technical requirement states: shortest path algorithm handling negative edge weights. Which concept should be selected?",
                           "options":  [
                                           "Bellman-Ford Algorithm",
@@ -1081,7 +877,7 @@
                           "explanation":  "The requirement directly points to Bellman-Ford Algorithm."
                       },
                       {
-                          "id":  91,
+                          "id":  74,
                           "question":  "Which DSA concept best matches: all-pairs shortest path dynamic programming algorithm?",
                           "options":  [
                                           "Dynamic Programming",
@@ -1093,7 +889,7 @@
                           "explanation":  "Floyd-Warshall Algorithm is defined as: all-pairs shortest path dynamic programming algorithm."
                       },
                       {
-                          "id":  92,
+                          "id":  75,
                           "question":  "What is the most accurate description of \u0027Floyd-Warshall Algorithm\u0027?",
                           "options":  [
                                           "tight bound notation for algorithm growth rate",
@@ -1105,7 +901,7 @@
                           "explanation":  "Floyd-Warshall Algorithm refers to: all-pairs shortest path dynamic programming algorithm."
                       },
                       {
-                          "id":  93,
+                          "id":  76,
                           "question":  "\u0027Floyd-Warshall Algorithm\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Complexity Analysis",
@@ -1117,19 +913,7 @@
                           "explanation":  "Floyd-Warshall Algorithm is mainly part of Graph Algorithms."
                       },
                       {
-                          "id":  94,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Floyd-Warshall Algorithm -\u003e all-pairs shortest path dynamic programming algorithm",
-                                          "Heap Sort -\u003e all-pairs shortest path dynamic programming algorithm",
-                                          "Queue -\u003e all-pairs shortest path dynamic programming algorithm",
-                                          "Recursion -\u003e all-pairs shortest path dynamic programming algorithm"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Floyd-Warshall Algorithm -\u003e all-pairs shortest path dynamic programming algorithm\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  95,
+                          "id":  77,
                           "question":  "A Bank SO IT technical requirement states: all-pairs shortest path dynamic programming algorithm. Which concept should be selected?",
                           "options":  [
                                           "Dynamic Programming",
@@ -1141,7 +925,7 @@
                           "explanation":  "The requirement directly points to Floyd-Warshall Algorithm."
                       },
                       {
-                          "id":  96,
+                          "id":  78,
                           "question":  "Which DSA concept best matches: linear ordering of DAG vertices by dependency?",
                           "options":  [
                                           "Divide and Conquer",
@@ -1153,7 +937,7 @@
                           "explanation":  "Topological Sort is defined as: linear ordering of DAG vertices by dependency."
                       },
                       {
-                          "id":  97,
+                          "id":  79,
                           "question":  "What is the most accurate description of \u0027Topological Sort\u0027?",
                           "options":  [
                                           "linear ordering of DAG vertices by dependency",
@@ -1165,7 +949,7 @@
                           "explanation":  "Topological Sort refers to: linear ordering of DAG vertices by dependency."
                       },
                       {
-                          "id":  98,
+                          "id":  80,
                           "question":  "\u0027Topological Sort\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Concepts",
@@ -1177,19 +961,7 @@
                           "explanation":  "Topological Sort is mainly part of Graph Algorithms."
                       },
                       {
-                          "id":  99,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Linked List -\u003e linear ordering of DAG vertices by dependency",
-                                          "Topological Sort -\u003e linear ordering of DAG vertices by dependency",
-                                          "Recursion -\u003e linear ordering of DAG vertices by dependency",
-                                          "Dijkstra Algorithm -\u003e linear ordering of DAG vertices by dependency"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Topological Sort -\u003e linear ordering of DAG vertices by dependency\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  100,
+                          "id":  81,
                           "question":  "A Bank SO IT technical requirement states: linear ordering of DAG vertices by dependency. Which concept should be selected?",
                           "options":  [
                                           "Topological Sort",
@@ -1201,7 +973,7 @@
                           "explanation":  "The requirement directly points to Topological Sort."
                       },
                       {
-                          "id":  101,
+                          "id":  82,
                           "question":  "Which DSA concept best matches: problem-solving approach where function calls itself?",
                           "options":  [
                                           "Recursion",
@@ -1213,7 +985,7 @@
                           "explanation":  "Recursion is defined as: problem-solving approach where function calls itself."
                       },
                       {
-                          "id":  102,
+                          "id":  83,
                           "question":  "What is the most accurate description of \u0027Recursion\u0027?",
                           "options":  [
                                           "all-pairs shortest path dynamic programming algorithm",
@@ -1225,7 +997,7 @@
                           "explanation":  "Recursion refers to: problem-solving approach where function calls itself."
                       },
                       {
-                          "id":  103,
+                          "id":  84,
                           "question":  "\u0027Recursion\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Core Data Structures",
@@ -1237,19 +1009,7 @@
                           "explanation":  "Recursion is mainly part of Algorithmic Techniques."
                       },
                       {
-                          "id":  104,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Recursion -\u003e problem-solving approach where function calls itself",
-                                          "Radix Sort -\u003e problem-solving approach where function calls itself",
-                                          "Big O Notation -\u003e problem-solving approach where function calls itself",
-                                          "Weighted Graph -\u003e problem-solving approach where function calls itself"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Recursion -\u003e problem-solving approach where function calls itself\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  105,
+                          "id":  85,
                           "question":  "A Bank SO IT technical requirement states: problem-solving approach where function calls itself. Which concept should be selected?",
                           "options":  [
                                           "Bellman-Ford Algorithm",
@@ -1261,7 +1021,7 @@
                           "explanation":  "The requirement directly points to Recursion."
                       },
                       {
-                          "id":  106,
+                          "id":  86,
                           "question":  "Which DSA concept best matches: optimization technique using overlapping subproblems and memoization?",
                           "options":  [
                                           "Trie",
@@ -1273,7 +1033,7 @@
                           "explanation":  "Dynamic Programming is defined as: optimization technique using overlapping subproblems and memoization."
                       },
                       {
-                          "id":  107,
+                          "id":  87,
                           "question":  "What is the most accurate description of \u0027Dynamic Programming\u0027?",
                           "options":  [
                                           "linear structure of nodes connected via pointers",
@@ -1285,7 +1045,7 @@
                           "explanation":  "Dynamic Programming refers to: optimization technique using overlapping subproblems and memoization."
                       },
                       {
-                          "id":  108,
+                          "id":  88,
                           "question":  "\u0027Dynamic Programming\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Complexity Analysis",
@@ -1297,19 +1057,7 @@
                           "explanation":  "Dynamic Programming is mainly part of Algorithmic Techniques."
                       },
                       {
-                          "id":  109,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Linear Search -\u003e optimization technique using overlapping subproblems and memoization",
-                                          "Radix Sort -\u003e optimization technique using overlapping subproblems and memoization",
-                                          "Omega Notation -\u003e optimization technique using overlapping subproblems and memoization",
-                                          "Dynamic Programming -\u003e optimization technique using overlapping subproblems and memoization"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Dynamic Programming -\u003e optimization technique using overlapping subproblems and memoization\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  110,
+                          "id":  89,
                           "question":  "A Bank SO IT technical requirement states: optimization technique using overlapping subproblems and memoization. Which concept should be selected?",
                           "options":  [
                                           "Stack",
@@ -1321,7 +1069,7 @@
                           "explanation":  "The requirement directly points to Dynamic Programming."
                       },
                       {
-                          "id":  111,
+                          "id":  90,
                           "question":  "Which DSA concept best matches: approach making locally optimal choices at each step?",
                           "options":  [
                                           "Linear Search",
@@ -1333,7 +1081,7 @@
                           "explanation":  "Greedy Algorithm is defined as: approach making locally optimal choices at each step."
                       },
                       {
-                          "id":  112,
+                          "id":  91,
                           "question":  "What is the most accurate description of \u0027Greedy Algorithm\u0027?",
                           "options":  [
                                           "lower bound notation for algorithm growth rate",
@@ -1345,7 +1093,7 @@
                           "explanation":  "Greedy Algorithm refers to: approach making locally optimal choices at each step."
                       },
                       {
-                          "id":  113,
+                          "id":  92,
                           "question":  "\u0027Greedy Algorithm\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Algorithms",
@@ -1357,19 +1105,7 @@
                           "explanation":  "Greedy Algorithm is mainly part of Algorithmic Techniques."
                       },
                       {
-                          "id":  114,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Binary Search -\u003e approach making locally optimal choices at each step",
-                                          "Greedy Algorithm -\u003e approach making locally optimal choices at each step",
-                                          "Omega Notation -\u003e approach making locally optimal choices at each step",
-                                          "Best Case -\u003e approach making locally optimal choices at each step"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Greedy Algorithm -\u003e approach making locally optimal choices at each step\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  115,
+                          "id":  93,
                           "question":  "A Bank SO IT technical requirement states: approach making locally optimal choices at each step. Which concept should be selected?",
                           "options":  [
                                           "Interpolation Search",
@@ -1381,7 +1117,7 @@
                           "explanation":  "The requirement directly points to Greedy Algorithm."
                       },
                       {
-                          "id":  116,
+                          "id":  94,
                           "question":  "Which DSA concept best matches: technique splitting problem into smaller independent subproblems?",
                           "options":  [
                                           "Linked List",
@@ -1393,7 +1129,7 @@
                           "explanation":  "Divide and Conquer is defined as: technique splitting problem into smaller independent subproblems."
                       },
                       {
-                          "id":  117,
+                          "id":  95,
                           "question":  "What is the most accurate description of \u0027Divide and Conquer\u0027?",
                           "options":  [
                                           "prefix tree optimized for string retrieval",
@@ -1405,7 +1141,7 @@
                           "explanation":  "Divide and Conquer refers to: technique splitting problem into smaller independent subproblems."
                       },
                       {
-                          "id":  118,
+                          "id":  96,
                           "question":  "\u0027Divide and Conquer\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Algorithmic Techniques",
@@ -1417,19 +1153,7 @@
                           "explanation":  "Divide and Conquer is mainly part of Algorithmic Techniques."
                       },
                       {
-                          "id":  119,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Sliding Window -\u003e technique splitting problem into smaller independent subproblems",
-                                          "Dijkstra Algorithm -\u003e technique splitting problem into smaller independent subproblems",
-                                          "Prefix Sum -\u003e technique splitting problem into smaller independent subproblems",
-                                          "Divide and Conquer -\u003e technique splitting problem into smaller independent subproblems"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Divide and Conquer -\u003e technique splitting problem into smaller independent subproblems\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  120,
+                          "id":  97,
                           "question":  "A Bank SO IT technical requirement states: technique splitting problem into smaller independent subproblems. Which concept should be selected?",
                           "options":  [
                                           "Linked List",
@@ -1441,7 +1165,7 @@
                           "explanation":  "The requirement directly points to Divide and Conquer."
                       },
                       {
-                          "id":  121,
+                          "id":  98,
                           "question":  "Which DSA concept best matches: search technique trying possibilities and undoing invalid choices?",
                           "options":  [
                                           "Backtracking",
@@ -1453,7 +1177,7 @@
                           "explanation":  "Backtracking is defined as: search technique trying possibilities and undoing invalid choices."
                       },
                       {
-                          "id":  122,
+                          "id":  99,
                           "question":  "What is the most accurate description of \u0027Backtracking\u0027?",
                           "options":  [
                                           "graph traversal exploring neighbors level by level",
@@ -1465,7 +1189,7 @@
                           "explanation":  "Backtracking refers to: search technique trying possibilities and undoing invalid choices."
                       },
                       {
-                          "id":  123,
+                          "id":  100,
                           "question":  "\u0027Backtracking\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Core Data Structures",
@@ -1477,19 +1201,7 @@
                           "explanation":  "Backtracking is mainly part of Algorithmic Techniques."
                       },
                       {
-                          "id":  124,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Directed Graph -\u003e search technique trying possibilities and undoing invalid choices",
-                                          "Backtracking -\u003e search technique trying possibilities and undoing invalid choices",
-                                          "Floyd-Warshall Algorithm -\u003e search technique trying possibilities and undoing invalid choices",
-                                          "Doubly Linked List -\u003e search technique trying possibilities and undoing invalid choices"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Backtracking -\u003e search technique trying possibilities and undoing invalid choices\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  125,
+                          "id":  101,
                           "question":  "A Bank SO IT technical requirement states: search technique trying possibilities and undoing invalid choices. Which concept should be selected?",
                           "options":  [
                                           "Average Case",
@@ -1501,7 +1213,7 @@
                           "explanation":  "The requirement directly points to Backtracking."
                       },
                       {
-                          "id":  126,
+                          "id":  102,
                           "question":  "Which DSA concept best matches: optimization technique pruning branches by bounds?",
                           "options":  [
                                           "Floyd-Warshall Algorithm",
@@ -1513,7 +1225,7 @@
                           "explanation":  "Branch and Bound is defined as: optimization technique pruning branches by bounds."
                       },
                       {
-                          "id":  127,
+                          "id":  103,
                           "question":  "What is the most accurate description of \u0027Branch and Bound\u0027?",
                           "options":  [
                                           "minimum operations required by algorithm for input",
@@ -1525,7 +1237,7 @@
                           "explanation":  "Branch and Bound refers to: optimization technique pruning branches by bounds."
                       },
                       {
-                          "id":  128,
+                          "id":  104,
                           "question":  "\u0027Branch and Bound\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Complexity Analysis",
@@ -1537,19 +1249,7 @@
                           "explanation":  "Branch and Bound is mainly part of Algorithmic Techniques."
                       },
                       {
-                          "id":  129,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Heap Sort -\u003e optimization technique pruning branches by bounds",
-                                          "Bubble Sort -\u003e optimization technique pruning branches by bounds",
-                                          "Worst Case -\u003e optimization technique pruning branches by bounds",
-                                          "Branch and Bound -\u003e optimization technique pruning branches by bounds"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Branch and Bound -\u003e optimization technique pruning branches by bounds\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  130,
+                          "id":  105,
                           "question":  "A Bank SO IT technical requirement states: optimization technique pruning branches by bounds. Which concept should be selected?",
                           "options":  [
                                           "Floyd-Warshall Algorithm",
@@ -1561,7 +1261,7 @@
                           "explanation":  "The requirement directly points to Branch and Bound."
                       },
                       {
-                          "id":  131,
+                          "id":  106,
                           "question":  "Which DSA concept best matches: technique maintaining window over sequence for efficient computation?",
                           "options":  [
                                           "Selection Sort",
@@ -1573,7 +1273,7 @@
                           "explanation":  "Sliding Window is defined as: technique maintaining window over sequence for efficient computation."
                       },
                       {
-                          "id":  132,
+                          "id":  107,
                           "question":  "What is the most accurate description of \u0027Sliding Window\u0027?",
                           "options":  [
                                           "key-value structure using hash function for indexing",
@@ -1585,7 +1285,7 @@
                           "explanation":  "Sliding Window refers to: technique maintaining window over sequence for efficient computation."
                       },
                       {
-                          "id":  133,
+                          "id":  108,
                           "question":  "\u0027Sliding Window\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Complexity Analysis",
@@ -1597,19 +1297,7 @@
                           "explanation":  "Sliding Window is mainly part of Algorithmic Techniques."
                       },
                       {
-                          "id":  134,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Queue -\u003e technique maintaining window over sequence for efficient computation",
-                                          "Sliding Window -\u003e technique maintaining window over sequence for efficient computation",
-                                          "Linked List -\u003e technique maintaining window over sequence for efficient computation",
-                                          "Dynamic Programming -\u003e technique maintaining window over sequence for efficient computation"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Sliding Window -\u003e technique maintaining window over sequence for efficient computation\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  135,
+                          "id":  109,
                           "question":  "A Bank SO IT technical requirement states: technique maintaining window over sequence for efficient computation. Which concept should be selected?",
                           "options":  [
                                           "Doubly Linked List",
@@ -1621,7 +1309,7 @@
                           "explanation":  "The requirement directly points to Sliding Window."
                       },
                       {
-                          "id":  136,
+                          "id":  110,
                           "question":  "Which DSA concept best matches: technique using two indices moving through data structure?",
                           "options":  [
                                           "Deque",
@@ -1633,7 +1321,7 @@
                           "explanation":  "Two Pointers is defined as: technique using two indices moving through data structure."
                       },
                       {
-                          "id":  137,
+                          "id":  111,
                           "question":  "What is the most accurate description of \u0027Two Pointers\u0027?",
                           "options":  [
                                           "technique using two indices moving through data structure",
@@ -1645,7 +1333,7 @@
                           "explanation":  "Two Pointers refers to: technique using two indices moving through data structure."
                       },
                       {
-                          "id":  138,
+                          "id":  112,
                           "question":  "\u0027Two Pointers\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Algorithmic Techniques",
@@ -1657,19 +1345,7 @@
                           "explanation":  "Two Pointers is mainly part of Algorithmic Techniques."
                       },
                       {
-                          "id":  139,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Deque -\u003e technique using two indices moving through data structure",
-                                          "Merge Sort -\u003e technique using two indices moving through data structure",
-                                          "Topological Sort -\u003e technique using two indices moving through data structure",
-                                          "Two Pointers -\u003e technique using two indices moving through data structure"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Two Pointers -\u003e technique using two indices moving through data structure\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  140,
+                          "id":  113,
                           "question":  "A Bank SO IT technical requirement states: technique using two indices moving through data structure. Which concept should be selected?",
                           "options":  [
                                           "Deque",
@@ -1681,7 +1357,7 @@
                           "explanation":  "The requirement directly points to Two Pointers."
                       },
                       {
-                          "id":  141,
+                          "id":  114,
                           "question":  "Which DSA concept best matches: search algorithm halving sorted search space each step?",
                           "options":  [
                                           "Stack",
@@ -1693,7 +1369,7 @@
                           "explanation":  "Binary Search is defined as: search algorithm halving sorted search space each step."
                       },
                       {
-                          "id":  142,
+                          "id":  115,
                           "question":  "What is the most accurate description of \u0027Binary Search\u0027?",
                           "options":  [
                                           "sorting algorithm selecting minimum and placing it in order",
@@ -1705,7 +1381,7 @@
                           "explanation":  "Binary Search refers to: search algorithm halving sorted search space each step."
                       },
                       {
-                          "id":  143,
+                          "id":  116,
                           "question":  "\u0027Binary Search\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Algorithms",
@@ -1717,19 +1393,7 @@
                           "explanation":  "Binary Search is mainly part of Algorithmic Techniques."
                       },
                       {
-                          "id":  144,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Binary Search Tree -\u003e search algorithm halving sorted search space each step",
-                                          "Binary Search -\u003e search algorithm halving sorted search space each step",
-                                          "Topological Sort -\u003e search algorithm halving sorted search space each step",
-                                          "Stack -\u003e search algorithm halving sorted search space each step"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Binary Search -\u003e search algorithm halving sorted search space each step\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  145,
+                          "id":  117,
                           "question":  "A Bank SO IT technical requirement states: search algorithm halving sorted search space each step. Which concept should be selected?",
                           "options":  [
                                           "Stack",
@@ -1741,7 +1405,7 @@
                           "explanation":  "The requirement directly points to Binary Search."
                       },
                       {
-                          "id":  146,
+                          "id":  118,
                           "question":  "Which DSA concept best matches: precomputed cumulative sums enabling range query optimization?",
                           "options":  [
                                           "Prefix Sum",
@@ -1753,7 +1417,7 @@
                           "explanation":  "Prefix Sum is defined as: precomputed cumulative sums enabling range query optimization."
                       },
                       {
-                          "id":  147,
+                          "id":  119,
                           "question":  "What is the most accurate description of \u0027Prefix Sum\u0027?",
                           "options":  [
                                           "class of decision problems verifiable in polynomial time and NP-hard",
@@ -1765,7 +1429,7 @@
                           "explanation":  "Prefix Sum refers to: precomputed cumulative sums enabling range query optimization."
                       },
                       {
-                          "id":  148,
+                          "id":  120,
                           "question":  "\u0027Prefix Sum\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Sorting and Searching",
@@ -1777,19 +1441,7 @@
                           "explanation":  "Prefix Sum is mainly part of Algorithmic Techniques."
                       },
                       {
-                          "id":  149,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Omega Notation -\u003e precomputed cumulative sums enabling range query optimization",
-                                          "Recursion -\u003e precomputed cumulative sums enabling range query optimization",
-                                          "Linked List -\u003e precomputed cumulative sums enabling range query optimization",
-                                          "Prefix Sum -\u003e precomputed cumulative sums enabling range query optimization"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Prefix Sum -\u003e precomputed cumulative sums enabling range query optimization\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  150,
+                          "id":  121,
                           "question":  "A Bank SO IT technical requirement states: precomputed cumulative sums enabling range query optimization. Which concept should be selected?",
                           "options":  [
                                           "Prefix Sum",
@@ -1801,7 +1453,7 @@
                           "explanation":  "The requirement directly points to Prefix Sum."
                       },
                       {
-                          "id":  151,
+                          "id":  122,
                           "question":  "Which DSA concept best matches: sorting algorithm repeatedly swapping adjacent out-of-order elements?",
                           "options":  [
                                           "Bubble Sort",
@@ -1813,7 +1465,7 @@
                           "explanation":  "Bubble Sort is defined as: sorting algorithm repeatedly swapping adjacent out-of-order elements."
                       },
                       {
-                          "id":  152,
+                          "id":  123,
                           "question":  "What is the most accurate description of \u0027Bubble Sort\u0027?",
                           "options":  [
                                           "graph traversal exploring neighbors level by level",
@@ -1825,7 +1477,7 @@
                           "explanation":  "Bubble Sort refers to: sorting algorithm repeatedly swapping adjacent out-of-order elements."
                       },
                       {
-                          "id":  153,
+                          "id":  124,
                           "question":  "\u0027Bubble Sort\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Complexity Analysis",
@@ -1837,19 +1489,7 @@
                           "explanation":  "Bubble Sort is mainly part of Sorting and Searching."
                       },
                       {
-                          "id":  154,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Divide and Conquer -\u003e sorting algorithm repeatedly swapping adjacent out-of-order elements",
-                                          "Big O Notation -\u003e sorting algorithm repeatedly swapping adjacent out-of-order elements",
-                                          "Bubble Sort -\u003e sorting algorithm repeatedly swapping adjacent out-of-order elements",
-                                          "Queue -\u003e sorting algorithm repeatedly swapping adjacent out-of-order elements"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Bubble Sort -\u003e sorting algorithm repeatedly swapping adjacent out-of-order elements\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  155,
+                          "id":  125,
                           "question":  "A Bank SO IT technical requirement states: sorting algorithm repeatedly swapping adjacent out-of-order elements. Which concept should be selected?",
                           "options":  [
                                           "Hash Table",
@@ -1861,7 +1501,7 @@
                           "explanation":  "The requirement directly points to Bubble Sort."
                       },
                       {
-                          "id":  156,
+                          "id":  126,
                           "question":  "Which DSA concept best matches: sorting algorithm selecting minimum and placing it in order?",
                           "options":  [
                                           "Backtracking",
@@ -1873,7 +1513,7 @@
                           "explanation":  "Selection Sort is defined as: sorting algorithm selecting minimum and placing it in order."
                       },
                       {
-                          "id":  157,
+                          "id":  127,
                           "question":  "What is the most accurate description of \u0027Selection Sort\u0027?",
                           "options":  [
                                           "binary tree where left keys are smaller and right keys larger",
@@ -1885,7 +1525,7 @@
                           "explanation":  "Selection Sort refers to: sorting algorithm selecting minimum and placing it in order."
                       },
                       {
-                          "id":  158,
+                          "id":  128,
                           "question":  "\u0027Selection Sort\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Algorithms",
@@ -1897,19 +1537,7 @@
                           "explanation":  "Selection Sort is mainly part of Sorting and Searching."
                       },
                       {
-                          "id":  159,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Selection Sort -\u003e sorting algorithm selecting minimum and placing it in order",
-                                          "Binary Search -\u003e sorting algorithm selecting minimum and placing it in order",
-                                          "Topological Sort -\u003e sorting algorithm selecting minimum and placing it in order",
-                                          "Backtracking -\u003e sorting algorithm selecting minimum and placing it in order"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Selection Sort -\u003e sorting algorithm selecting minimum and placing it in order\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  160,
+                          "id":  129,
                           "question":  "A Bank SO IT technical requirement states: sorting algorithm selecting minimum and placing it in order. Which concept should be selected?",
                           "options":  [
                                           "Selection Sort",
@@ -1921,7 +1549,7 @@
                           "explanation":  "The requirement directly points to Selection Sort."
                       },
                       {
-                          "id":  161,
+                          "id":  130,
                           "question":  "Which DSA concept best matches: sorting algorithm building sorted list by insertion?",
                           "options":  [
                                           "Directed Graph",
@@ -1933,7 +1561,7 @@
                           "explanation":  "Insertion Sort is defined as: sorting algorithm building sorted list by insertion."
                       },
                       {
-                          "id":  162,
+                          "id":  131,
                           "question":  "What is the most accurate description of \u0027Insertion Sort\u0027?",
                           "options":  [
                                           "sorting algorithm building sorted list by insertion",
@@ -1945,7 +1573,7 @@
                           "explanation":  "Insertion Sort refers to: sorting algorithm building sorted list by insertion."
                       },
                       {
-                          "id":  163,
+                          "id":  132,
                           "question":  "\u0027Insertion Sort\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Concepts",
@@ -1957,19 +1585,7 @@
                           "explanation":  "Insertion Sort is mainly part of Sorting and Searching."
                       },
                       {
-                          "id":  164,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Insertion Sort -\u003e sorting algorithm building sorted list by insertion",
-                                          "Two Pointers -\u003e sorting algorithm building sorted list by insertion",
-                                          "Directed Graph -\u003e sorting algorithm building sorted list by insertion",
-                                          "Doubly Linked List -\u003e sorting algorithm building sorted list by insertion"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Insertion Sort -\u003e sorting algorithm building sorted list by insertion\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  165,
+                          "id":  133,
                           "question":  "A Bank SO IT technical requirement states: sorting algorithm building sorted list by insertion. Which concept should be selected?",
                           "options":  [
                                           "Directed Graph",
@@ -1981,7 +1597,7 @@
                           "explanation":  "The requirement directly points to Insertion Sort."
                       },
                       {
-                          "id":  166,
+                          "id":  134,
                           "question":  "Which DSA concept best matches: stable divide-and-conquer sorting algorithm with O(n log n) time?",
                           "options":  [
                                           "Merge Sort",
@@ -1993,7 +1609,7 @@
                           "explanation":  "Merge Sort is defined as: stable divide-and-conquer sorting algorithm with O(n log n) time."
                       },
                       {
-                          "id":  167,
+                          "id":  135,
                           "question":  "What is the most accurate description of \u0027Merge Sort\u0027?",
                           "options":  [
                                           "stable divide-and-conquer sorting algorithm with O(n log n) time",
@@ -2005,7 +1621,7 @@
                           "explanation":  "Merge Sort refers to: stable divide-and-conquer sorting algorithm with O(n log n) time."
                       },
                       {
-                          "id":  168,
+                          "id":  136,
                           "question":  "\u0027Merge Sort\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Algorithmic Techniques",
@@ -2017,19 +1633,7 @@
                           "explanation":  "Merge Sort is mainly part of Sorting and Searching."
                       },
                       {
-                          "id":  169,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Theta Notation -\u003e stable divide-and-conquer sorting algorithm with O(n log n) time",
-                                          "Prefix Sum -\u003e stable divide-and-conquer sorting algorithm with O(n log n) time",
-                                          "Merge Sort -\u003e stable divide-and-conquer sorting algorithm with O(n log n) time",
-                                          "Sliding Window -\u003e stable divide-and-conquer sorting algorithm with O(n log n) time"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Merge Sort -\u003e stable divide-and-conquer sorting algorithm with O(n log n) time\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  170,
+                          "id":  137,
                           "question":  "A Bank SO IT technical requirement states: stable divide-and-conquer sorting algorithm with O(n log n) time. Which concept should be selected?",
                           "options":  [
                                           "Deque",
@@ -2041,7 +1645,7 @@
                           "explanation":  "The requirement directly points to Merge Sort."
                       },
                       {
-                          "id":  171,
+                          "id":  138,
                           "question":  "Which DSA concept best matches: divide-and-conquer sorting algorithm around pivot partition?",
                           "options":  [
                                           "Quick Sort",
@@ -2053,7 +1657,7 @@
                           "explanation":  "Quick Sort is defined as: divide-and-conquer sorting algorithm around pivot partition."
                       },
                       {
-                          "id":  172,
+                          "id":  139,
                           "question":  "What is the most accurate description of \u0027Quick Sort\u0027?",
                           "options":  [
                                           "graph where edges have direction",
@@ -2065,7 +1669,7 @@
                           "explanation":  "Quick Sort refers to: divide-and-conquer sorting algorithm around pivot partition."
                       },
                       {
-                          "id":  173,
+                          "id":  140,
                           "question":  "\u0027Quick Sort\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Complexity Analysis",
@@ -2077,19 +1681,7 @@
                           "explanation":  "Quick Sort is mainly part of Sorting and Searching."
                       },
                       {
-                          "id":  174,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Floyd-Warshall Algorithm -\u003e divide-and-conquer sorting algorithm around pivot partition",
-                                          "Sliding Window -\u003e divide-and-conquer sorting algorithm around pivot partition",
-                                          "Quick Sort -\u003e divide-and-conquer sorting algorithm around pivot partition",
-                                          "Depth First Search -\u003e divide-and-conquer sorting algorithm around pivot partition"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Quick Sort -\u003e divide-and-conquer sorting algorithm around pivot partition\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  175,
+                          "id":  141,
                           "question":  "A Bank SO IT technical requirement states: divide-and-conquer sorting algorithm around pivot partition. Which concept should be selected?",
                           "options":  [
                                           "Divide and Conquer",
@@ -2101,7 +1693,7 @@
                           "explanation":  "The requirement directly points to Quick Sort."
                       },
                       {
-                          "id":  176,
+                          "id":  142,
                           "question":  "Which DSA concept best matches: sorting algorithm using heap structure for ordering?",
                           "options":  [
                                           "Graph",
@@ -2113,7 +1705,7 @@
                           "explanation":  "Heap Sort is defined as: sorting algorithm using heap structure for ordering."
                       },
                       {
-                          "id":  177,
+                          "id":  143,
                           "question":  "What is the most accurate description of \u0027Heap Sort\u0027?",
                           "options":  [
                                           "sorting algorithm using heap structure for ordering",
@@ -2125,7 +1717,7 @@
                           "explanation":  "Heap Sort refers to: sorting algorithm using heap structure for ordering."
                       },
                       {
-                          "id":  178,
+                          "id":  144,
                           "question":  "\u0027Heap Sort\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Concepts",
@@ -2137,19 +1729,7 @@
                           "explanation":  "Heap Sort is mainly part of Sorting and Searching."
                       },
                       {
-                          "id":  179,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Trie -\u003e sorting algorithm using heap structure for ordering",
-                                          "Hash Table -\u003e sorting algorithm using heap structure for ordering",
-                                          "Heap Sort -\u003e sorting algorithm using heap structure for ordering",
-                                          "Counting Sort -\u003e sorting algorithm using heap structure for ordering"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Heap Sort -\u003e sorting algorithm using heap structure for ordering\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  180,
+                          "id":  145,
                           "question":  "A Bank SO IT technical requirement states: sorting algorithm using heap structure for ordering. Which concept should be selected?",
                           "options":  [
                                           "Heap Sort",
@@ -2161,7 +1741,7 @@
                           "explanation":  "The requirement directly points to Heap Sort."
                       },
                       {
-                          "id":  181,
+                          "id":  146,
                           "question":  "Which DSA concept best matches: non-comparison sort for bounded integer ranges?",
                           "options":  [
                                           "Time Complexity",
@@ -2173,7 +1753,7 @@
                           "explanation":  "Counting Sort is defined as: non-comparison sort for bounded integer ranges."
                       },
                       {
-                          "id":  182,
+                          "id":  147,
                           "question":  "What is the most accurate description of \u0027Counting Sort\u0027?",
                           "options":  [
                                           "set of vertices connected by edges",
@@ -2185,7 +1765,7 @@
                           "explanation":  "Counting Sort refers to: non-comparison sort for bounded integer ranges."
                       },
                       {
-                          "id":  183,
+                          "id":  148,
                           "question":  "\u0027Counting Sort\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Concepts",
@@ -2197,19 +1777,7 @@
                           "explanation":  "Counting Sort is mainly part of Sorting and Searching."
                       },
                       {
-                          "id":  184,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Undirected Graph -\u003e non-comparison sort for bounded integer ranges",
-                                          "Bubble Sort -\u003e non-comparison sort for bounded integer ranges",
-                                          "Counting Sort -\u003e non-comparison sort for bounded integer ranges",
-                                          "Dynamic Programming -\u003e non-comparison sort for bounded integer ranges"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Counting Sort -\u003e non-comparison sort for bounded integer ranges\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  185,
+                          "id":  149,
                           "question":  "A Bank SO IT technical requirement states: non-comparison sort for bounded integer ranges. Which concept should be selected?",
                           "options":  [
                                           "Counting Sort",
@@ -2221,7 +1789,7 @@
                           "explanation":  "The requirement directly points to Counting Sort."
                       },
                       {
-                          "id":  186,
+                          "id":  150,
                           "question":  "Which DSA concept best matches: non-comparison sort processing digits by significance?",
                           "options":  [
                                           "Array",
@@ -2233,7 +1801,7 @@
                           "explanation":  "Radix Sort is defined as: non-comparison sort processing digits by significance."
                       },
                       {
-                          "id":  187,
+                          "id":  151,
                           "question":  "What is the most accurate description of \u0027Radix Sort\u0027?",
                           "options":  [
                                           "non-comparison sort processing digits by significance",
@@ -2245,7 +1813,7 @@
                           "explanation":  "Radix Sort refers to: non-comparison sort processing digits by significance."
                       },
                       {
-                          "id":  188,
+                          "id":  152,
                           "question":  "\u0027Radix Sort\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Sorting and Searching",
@@ -2257,19 +1825,7 @@
                           "explanation":  "Radix Sort is mainly part of Sorting and Searching."
                       },
                       {
-                          "id":  189,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Depth First Search -\u003e non-comparison sort processing digits by significance",
-                                          "Directed Graph -\u003e non-comparison sort processing digits by significance",
-                                          "Radix Sort -\u003e non-comparison sort processing digits by significance",
-                                          "Binary Search Tree -\u003e non-comparison sort processing digits by significance"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Radix Sort -\u003e non-comparison sort processing digits by significance\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  190,
+                          "id":  153,
                           "question":  "A Bank SO IT technical requirement states: non-comparison sort processing digits by significance. Which concept should be selected?",
                           "options":  [
                                           "Radix Sort",
@@ -2281,7 +1837,7 @@
                           "explanation":  "The requirement directly points to Radix Sort."
                       },
                       {
-                          "id":  191,
+                          "id":  154,
                           "question":  "Which DSA concept best matches: sequential search scanning each element until target found?",
                           "options":  [
                                           "Interpolation Search",
@@ -2293,7 +1849,7 @@
                           "explanation":  "Linear Search is defined as: sequential search scanning each element until target found."
                       },
                       {
-                          "id":  192,
+                          "id":  155,
                           "question":  "What is the most accurate description of \u0027Linear Search\u0027?",
                           "options":  [
                                           "sequential search scanning each element until target found",
@@ -2305,7 +1861,7 @@
                           "explanation":  "Linear Search refers to: sequential search scanning each element until target found."
                       },
                       {
-                          "id":  193,
+                          "id":  156,
                           "question":  "\u0027Linear Search\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Concepts",
@@ -2317,19 +1873,7 @@
                           "explanation":  "Linear Search is mainly part of Sorting and Searching."
                       },
                       {
-                          "id":  194,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Linear Search -\u003e sequential search scanning each element until target found",
-                                          "Undirected Graph -\u003e sequential search scanning each element until target found",
-                                          "Merge Sort -\u003e sequential search scanning each element until target found",
-                                          "Counting Sort -\u003e sequential search scanning each element until target found"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Linear Search -\u003e sequential search scanning each element until target found\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  195,
+                          "id":  157,
                           "question":  "A Bank SO IT technical requirement states: sequential search scanning each element until target found. Which concept should be selected?",
                           "options":  [
                                           "Interpolation Search",
@@ -2341,7 +1885,7 @@
                           "explanation":  "The requirement directly points to Linear Search."
                       },
                       {
-                          "id":  196,
+                          "id":  158,
                           "question":  "Which DSA concept best matches: search estimating likely position in uniformly distributed sorted data?",
                           "options":  [
                                           "Space Complexity",
@@ -2353,7 +1897,7 @@
                           "explanation":  "Interpolation Search is defined as: search estimating likely position in uniformly distributed sorted data."
                       },
                       {
-                          "id":  197,
+                          "id":  159,
                           "question":  "What is the most accurate description of \u0027Interpolation Search\u0027?",
                           "options":  [
                                           "graph traversal exploring neighbors level by level",
@@ -2365,7 +1909,7 @@
                           "explanation":  "Interpolation Search refers to: search estimating likely position in uniformly distributed sorted data."
                       },
                       {
-                          "id":  198,
+                          "id":  160,
                           "question":  "\u0027Interpolation Search\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Sorting and Searching",
@@ -2377,19 +1921,7 @@
                           "explanation":  "Interpolation Search is mainly part of Sorting and Searching."
                       },
                       {
-                          "id":  199,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Counting Sort -\u003e search estimating likely position in uniformly distributed sorted data",
-                                          "Big O Notation -\u003e search estimating likely position in uniformly distributed sorted data",
-                                          "Dijkstra Algorithm -\u003e search estimating likely position in uniformly distributed sorted data",
-                                          "Interpolation Search -\u003e search estimating likely position in uniformly distributed sorted data"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Interpolation Search -\u003e search estimating likely position in uniformly distributed sorted data\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  200,
+                          "id":  161,
                           "question":  "A Bank SO IT technical requirement states: search estimating likely position in uniformly distributed sorted data. Which concept should be selected?",
                           "options":  [
                                           "Space Complexity",
@@ -2401,7 +1933,7 @@
                           "explanation":  "The requirement directly points to Interpolation Search."
                       },
                       {
-                          "id":  201,
+                          "id":  162,
                           "question":  "Which DSA concept best matches: asymptotic measure of runtime growth with input size?",
                           "options":  [
                                           "Linked List",
@@ -2413,7 +1945,7 @@
                           "explanation":  "Time Complexity is defined as: asymptotic measure of runtime growth with input size."
                       },
                       {
-                          "id":  202,
+                          "id":  163,
                           "question":  "What is the most accurate description of \u0027Time Complexity\u0027?",
                           "options":  [
                                           "search technique trying possibilities and undoing invalid choices",
@@ -2425,7 +1957,7 @@
                           "explanation":  "Time Complexity refers to: asymptotic measure of runtime growth with input size."
                       },
                       {
-                          "id":  203,
+                          "id":  164,
                           "question":  "\u0027Time Complexity\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Sorting and Searching",
@@ -2437,19 +1969,7 @@
                           "explanation":  "Time Complexity is mainly part of Complexity Analysis."
                       },
                       {
-                          "id":  204,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Binary Search -\u003e asymptotic measure of runtime growth with input size",
-                                          "Deque -\u003e asymptotic measure of runtime growth with input size",
-                                          "Queue -\u003e asymptotic measure of runtime growth with input size",
-                                          "Time Complexity -\u003e asymptotic measure of runtime growth with input size"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Time Complexity -\u003e asymptotic measure of runtime growth with input size\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  205,
+                          "id":  165,
                           "question":  "A Bank SO IT technical requirement states: asymptotic measure of runtime growth with input size. Which concept should be selected?",
                           "options":  [
                                           "Quick Sort",
@@ -2461,7 +1981,7 @@
                           "explanation":  "The requirement directly points to Time Complexity."
                       },
                       {
-                          "id":  206,
+                          "id":  166,
                           "question":  "Which DSA concept best matches: asymptotic measure of memory usage growth with input size?",
                           "options":  [
                                           "Branch and Bound",
@@ -2473,7 +1993,7 @@
                           "explanation":  "Space Complexity is defined as: asymptotic measure of memory usage growth with input size."
                       },
                       {
-                          "id":  207,
+                          "id":  167,
                           "question":  "What is the most accurate description of \u0027Space Complexity\u0027?",
                           "options":  [
                                           "asymptotic measure of memory usage growth with input size",
@@ -2485,7 +2005,7 @@
                           "explanation":  "Space Complexity refers to: asymptotic measure of memory usage growth with input size."
                       },
                       {
-                          "id":  208,
+                          "id":  168,
                           "question":  "\u0027Space Complexity\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Algorithms",
@@ -2497,19 +2017,7 @@
                           "explanation":  "Space Complexity is mainly part of Complexity Analysis."
                       },
                       {
-                          "id":  209,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Space Complexity -\u003e asymptotic measure of memory usage growth with input size",
-                                          "Theta Notation -\u003e asymptotic measure of memory usage growth with input size",
-                                          "Trie -\u003e asymptotic measure of memory usage growth with input size",
-                                          "Best Case -\u003e asymptotic measure of memory usage growth with input size"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Space Complexity -\u003e asymptotic measure of memory usage growth with input size\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  210,
+                          "id":  169,
                           "question":  "A Bank SO IT technical requirement states: asymptotic measure of memory usage growth with input size. Which concept should be selected?",
                           "options":  [
                                           "Best Case",
@@ -2521,7 +2029,7 @@
                           "explanation":  "The requirement directly points to Space Complexity."
                       },
                       {
-                          "id":  211,
+                          "id":  170,
                           "question":  "Which DSA concept best matches: upper bound notation for algorithm growth rate?",
                           "options":  [
                                           "Bellman-Ford Algorithm",
@@ -2533,7 +2041,7 @@
                           "explanation":  "Big O Notation is defined as: upper bound notation for algorithm growth rate."
                       },
                       {
-                          "id":  212,
+                          "id":  171,
                           "question":  "What is the most accurate description of \u0027Big O Notation\u0027?",
                           "options":  [
                                           "upper bound notation for algorithm growth rate",
@@ -2545,7 +2053,7 @@
                           "explanation":  "Big O Notation refers to: upper bound notation for algorithm growth rate."
                       },
                       {
-                          "id":  213,
+                          "id":  172,
                           "question":  "\u0027Big O Notation\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Complexity Analysis",
@@ -2557,19 +2065,7 @@
                           "explanation":  "Big O Notation is mainly part of Complexity Analysis."
                       },
                       {
-                          "id":  214,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Depth First Search -\u003e upper bound notation for algorithm growth rate",
-                                          "Stack -\u003e upper bound notation for algorithm growth rate",
-                                          "Big O Notation -\u003e upper bound notation for algorithm growth rate",
-                                          "Time Complexity -\u003e upper bound notation for algorithm growth rate"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Big O Notation -\u003e upper bound notation for algorithm growth rate\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  215,
+                          "id":  173,
                           "question":  "A Bank SO IT technical requirement states: upper bound notation for algorithm growth rate. Which concept should be selected?",
                           "options":  [
                                           "Two Pointers",
@@ -2581,7 +2077,7 @@
                           "explanation":  "The requirement directly points to Big O Notation."
                       },
                       {
-                          "id":  216,
+                          "id":  174,
                           "question":  "Which DSA concept best matches: lower bound notation for algorithm growth rate?",
                           "options":  [
                                           "Quick Sort",
@@ -2593,7 +2089,7 @@
                           "explanation":  "Omega Notation is defined as: lower bound notation for algorithm growth rate."
                       },
                       {
-                          "id":  217,
+                          "id":  175,
                           "question":  "What is the most accurate description of \u0027Omega Notation\u0027?",
                           "options":  [
                                           "approach making locally optimal choices at each step",
@@ -2605,7 +2101,7 @@
                           "explanation":  "Omega Notation refers to: lower bound notation for algorithm growth rate."
                       },
                       {
-                          "id":  218,
+                          "id":  176,
                           "question":  "\u0027Omega Notation\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Sorting and Searching",
@@ -2617,19 +2113,7 @@
                           "explanation":  "Omega Notation is mainly part of Complexity Analysis."
                       },
                       {
-                          "id":  219,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Bellman-Ford Algorithm -\u003e lower bound notation for algorithm growth rate",
-                                          "Omega Notation -\u003e lower bound notation for algorithm growth rate",
-                                          "Dijkstra Algorithm -\u003e lower bound notation for algorithm growth rate",
-                                          "Binary Search Tree -\u003e lower bound notation for algorithm growth rate"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Omega Notation -\u003e lower bound notation for algorithm growth rate\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  220,
+                          "id":  177,
                           "question":  "A Bank SO IT technical requirement states: lower bound notation for algorithm growth rate. Which concept should be selected?",
                           "options":  [
                                           "Stack",
@@ -2641,7 +2125,7 @@
                           "explanation":  "The requirement directly points to Omega Notation."
                       },
                       {
-                          "id":  221,
+                          "id":  178,
                           "question":  "Which DSA concept best matches: tight bound notation for algorithm growth rate?",
                           "options":  [
                                           "Counting Sort",
@@ -2653,7 +2137,7 @@
                           "explanation":  "Theta Notation is defined as: tight bound notation for algorithm growth rate."
                       },
                       {
-                          "id":  222,
+                          "id":  179,
                           "question":  "What is the most accurate description of \u0027Theta Notation\u0027?",
                           "options":  [
                                           "tight bound notation for algorithm growth rate",
@@ -2665,7 +2149,7 @@
                           "explanation":  "Theta Notation refers to: tight bound notation for algorithm growth rate."
                       },
                       {
-                          "id":  223,
+                          "id":  180,
                           "question":  "\u0027Theta Notation\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Algorithmic Techniques",
@@ -2677,19 +2161,7 @@
                           "explanation":  "Theta Notation is mainly part of Complexity Analysis."
                       },
                       {
-                          "id":  224,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Amortized Analysis -\u003e tight bound notation for algorithm growth rate",
-                                          "Linked List -\u003e tight bound notation for algorithm growth rate",
-                                          "Theta Notation -\u003e tight bound notation for algorithm growth rate",
-                                          "Selection Sort -\u003e tight bound notation for algorithm growth rate"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Theta Notation -\u003e tight bound notation for algorithm growth rate\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  225,
+                          "id":  181,
                           "question":  "A Bank SO IT technical requirement states: tight bound notation for algorithm growth rate. Which concept should be selected?",
                           "options":  [
                                           "Sliding Window",
@@ -2701,7 +2173,7 @@
                           "explanation":  "The requirement directly points to Theta Notation."
                       },
                       {
-                          "id":  226,
+                          "id":  182,
                           "question":  "Which DSA concept best matches: average cost analysis over sequence of operations?",
                           "options":  [
                                           "Time Complexity",
@@ -2713,7 +2185,7 @@
                           "explanation":  "Amortized Analysis is defined as: average cost analysis over sequence of operations."
                       },
                       {
-                          "id":  227,
+                          "id":  183,
                           "question":  "What is the most accurate description of \u0027Amortized Analysis\u0027?",
                           "options":  [
                                           "average cost analysis over sequence of operations",
@@ -2725,7 +2197,7 @@
                           "explanation":  "Amortized Analysis refers to: average cost analysis over sequence of operations."
                       },
                       {
-                          "id":  228,
+                          "id":  184,
                           "question":  "\u0027Amortized Analysis\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Algorithmic Techniques",
@@ -2737,19 +2209,7 @@
                           "explanation":  "Amortized Analysis is mainly part of Complexity Analysis."
                       },
                       {
-                          "id":  229,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Two Pointers -\u003e average cost analysis over sequence of operations",
-                                          "Greedy Algorithm -\u003e average cost analysis over sequence of operations",
-                                          "Worst Case -\u003e average cost analysis over sequence of operations",
-                                          "Amortized Analysis -\u003e average cost analysis over sequence of operations"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Amortized Analysis -\u003e average cost analysis over sequence of operations\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  230,
+                          "id":  185,
                           "question":  "A Bank SO IT technical requirement states: average cost analysis over sequence of operations. Which concept should be selected?",
                           "options":  [
                                           "Doubly Linked List",
@@ -2761,7 +2221,7 @@
                           "explanation":  "The requirement directly points to Amortized Analysis."
                       },
                       {
-                          "id":  231,
+                          "id":  186,
                           "question":  "Which DSA concept best matches: minimum operations required by algorithm for input?",
                           "options":  [
                                           "Two Pointers",
@@ -2773,7 +2233,7 @@
                           "explanation":  "Best Case is defined as: minimum operations required by algorithm for input."
                       },
                       {
-                          "id":  232,
+                          "id":  187,
                           "question":  "What is the most accurate description of \u0027Best Case\u0027?",
                           "options":  [
                                           "divide-and-conquer sorting algorithm around pivot partition",
@@ -2785,7 +2245,7 @@
                           "explanation":  "Best Case refers to: minimum operations required by algorithm for input."
                       },
                       {
-                          "id":  233,
+                          "id":  188,
                           "question":  "\u0027Best Case\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Concepts",
@@ -2797,19 +2257,7 @@
                           "explanation":  "Best Case is mainly part of Complexity Analysis."
                       },
                       {
-                          "id":  234,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Counting Sort -\u003e minimum operations required by algorithm for input",
-                                          "Linear Search -\u003e minimum operations required by algorithm for input",
-                                          "NP-Complete -\u003e minimum operations required by algorithm for input",
-                                          "Best Case -\u003e minimum operations required by algorithm for input"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Best Case -\u003e minimum operations required by algorithm for input\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  235,
+                          "id":  189,
                           "question":  "A Bank SO IT technical requirement states: minimum operations required by algorithm for input. Which concept should be selected?",
                           "options":  [
                                           "Two Pointers",
@@ -2821,7 +2269,7 @@
                           "explanation":  "The requirement directly points to Best Case."
                       },
                       {
-                          "id":  236,
+                          "id":  190,
                           "question":  "Which DSA concept best matches: expected operations over distribution of inputs?",
                           "options":  [
                                           "Quick Sort",
@@ -2833,7 +2281,7 @@
                           "explanation":  "Average Case is defined as: expected operations over distribution of inputs."
                       },
                       {
-                          "id":  237,
+                          "id":  191,
                           "question":  "What is the most accurate description of \u0027Average Case\u0027?",
                           "options":  [
                                           "asymptotic measure of memory usage growth with input size",
@@ -2845,7 +2293,7 @@
                           "explanation":  "Average Case refers to: expected operations over distribution of inputs."
                       },
                       {
-                          "id":  238,
+                          "id":  192,
                           "question":  "\u0027Average Case\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Algorithms",
@@ -2857,19 +2305,7 @@
                           "explanation":  "Average Case is mainly part of Complexity Analysis."
                       },
                       {
-                          "id":  239,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Worst Case -\u003e expected operations over distribution of inputs",
-                                          "Average Case -\u003e expected operations over distribution of inputs",
-                                          "Topological Sort -\u003e expected operations over distribution of inputs",
-                                          "Best Case -\u003e expected operations over distribution of inputs"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Average Case -\u003e expected operations over distribution of inputs\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  240,
+                          "id":  193,
                           "question":  "A Bank SO IT technical requirement states: expected operations over distribution of inputs. Which concept should be selected?",
                           "options":  [
                                           "Bubble Sort",
@@ -2881,7 +2317,7 @@
                           "explanation":  "The requirement directly points to Average Case."
                       },
                       {
-                          "id":  241,
+                          "id":  194,
                           "question":  "Which DSA concept best matches: maximum operations required by algorithm for input?",
                           "options":  [
                                           "Worst Case",
@@ -2893,7 +2329,7 @@
                           "explanation":  "Worst Case is defined as: maximum operations required by algorithm for input."
                       },
                       {
-                          "id":  242,
+                          "id":  195,
                           "question":  "What is the most accurate description of \u0027Worst Case\u0027?",
                           "options":  [
                                           "maximum operations required by algorithm for input",
@@ -2905,7 +2341,7 @@
                           "explanation":  "Worst Case refers to: maximum operations required by algorithm for input."
                       },
                       {
-                          "id":  243,
+                          "id":  196,
                           "question":  "\u0027Worst Case\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Sorting and Searching",
@@ -2917,19 +2353,7 @@
                           "explanation":  "Worst Case is mainly part of Complexity Analysis."
                       },
                       {
-                          "id":  244,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "Breadth First Search -\u003e maximum operations required by algorithm for input",
-                                          "Radix Sort -\u003e maximum operations required by algorithm for input",
-                                          "Bellman-Ford Algorithm -\u003e maximum operations required by algorithm for input",
-                                          "Worst Case -\u003e maximum operations required by algorithm for input"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Worst Case -\u003e maximum operations required by algorithm for input\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  245,
+                          "id":  197,
                           "question":  "A Bank SO IT technical requirement states: maximum operations required by algorithm for input. Which concept should be selected?",
                           "options":  [
                                           "Radix Sort",
@@ -2941,7 +2365,7 @@
                           "explanation":  "The requirement directly points to Worst Case."
                       },
                       {
-                          "id":  246,
+                          "id":  198,
                           "question":  "Which DSA concept best matches: class of decision problems verifiable in polynomial time and NP-hard?",
                           "options":  [
                                           "Prefix Sum",
@@ -2953,7 +2377,7 @@
                           "explanation":  "NP-Complete is defined as: class of decision problems verifiable in polynomial time and NP-hard."
                       },
                       {
-                          "id":  247,
+                          "id":  199,
                           "question":  "What is the most accurate description of \u0027NP-Complete\u0027?",
                           "options":  [
                                           "optimization technique using overlapping subproblems and memoization",
@@ -2965,7 +2389,7 @@
                           "explanation":  "NP-Complete refers to: class of decision problems verifiable in polynomial time and NP-hard."
                       },
                       {
-                          "id":  248,
+                          "id":  200,
                           "question":  "\u0027NP-Complete\u0027 belongs mainly to which DSA area?",
                           "options":  [
                                           "Graph Algorithms",
@@ -2977,19 +2401,7 @@
                           "explanation":  "NP-Complete is mainly part of Complexity Analysis."
                       },
                       {
-                          "id":  249,
-                          "question":  "Identify the correct DSA term-definition mapping.",
-                          "options":  [
-                                          "NP-Complete -\u003e class of decision problems verifiable in polynomial time and NP-hard",
-                                          "Linear Search -\u003e class of decision problems verifiable in polynomial time and NP-hard",
-                                          "Branch and Bound -\u003e class of decision problems verifiable in polynomial time and NP-hard",
-                                          "Dijkstra Algorithm -\u003e class of decision problems verifiable in polynomial time and NP-hard"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027NP-Complete -\u003e class of decision problems verifiable in polynomial time and NP-hard\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  250,
+                          "id":  201,
                           "question":  "A Bank SO IT technical requirement states: class of decision problems verifiable in polynomial time and NP-hard. Which concept should be selected?",
                           "options":  [
                                           "NP-Complete",

@@ -98,18 +98,6 @@
                       },
                       {
                           "id":  9,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Recovery Plan -\u003e process of recovering data from backup copy",
-                                          "DR Drill -\u003e process of recovering data from backup copy",
-                                          "Restore -\u003e process of recovering data from backup copy",
-                                          "Mirror Backup -\u003e process of recovering data from backup copy"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Restore -\u003e process of recovering data from backup copy\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  10,
                           "question":  "A Bank SO IT resilience requirement states: process of recovering data from backup copy. Which concept should be selected?",
                           "options":  [
                                           "Immutable Backup",
@@ -121,7 +109,7 @@
                           "explanation":  "The requirement directly points to Restore."
                       },
                       {
-                          "id":  11,
+                          "id":  10,
                           "question":  "Which backup/DR concept best matches: capability to restore services after major disruption?",
                           "options":  [
                                           "Recovery Runbook",
@@ -133,7 +121,7 @@
                           "explanation":  "Disaster Recovery is defined as: capability to restore services after major disruption."
                       },
                       {
-                          "id":  12,
+                          "id":  11,
                           "question":  "What is the most accurate description of \u0027Disaster Recovery\u0027?",
                           "options":  [
                                           "maximum acceptable data loss measured in time",
@@ -145,7 +133,7 @@
                           "explanation":  "Disaster Recovery refers to: capability to restore services after major disruption."
                       },
                       {
-                          "id":  13,
+                          "id":  12,
                           "question":  "\u0027Disaster Recovery\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Types and Strategies",
@@ -157,19 +145,7 @@
                           "explanation":  "Disaster Recovery is mainly part of Backup Fundamentals."
                       },
                       {
-                          "id":  14,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Disaster Recovery -\u003e capability to restore services after major disruption",
-                                          "Gap Analysis -\u003e capability to restore services after major disruption",
-                                          "Business Continuity -\u003e capability to restore services after major disruption",
-                                          "Recovery Time -\u003e capability to restore services after major disruption"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Disaster Recovery -\u003e capability to restore services after major disruption\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  15,
+                          "id":  13,
                           "question":  "A Bank SO IT resilience requirement states: capability to restore services after major disruption. Which concept should be selected?",
                           "options":  [
                                           "RPO",
@@ -181,7 +157,7 @@
                           "explanation":  "The requirement directly points to Disaster Recovery."
                       },
                       {
-                          "id":  16,
+                          "id":  14,
                           "question":  "Which backup/DR concept best matches: ability to maintain critical operations during disruption?",
                           "options":  [
                                           "Differential Backup",
@@ -193,7 +169,7 @@
                           "explanation":  "Business Continuity is defined as: ability to maintain critical operations during disruption."
                       },
                       {
-                          "id":  17,
+                          "id":  15,
                           "question":  "What is the most accurate description of \u0027Business Continuity\u0027?",
                           "options":  [
                                           "ability to maintain critical operations during disruption",
@@ -205,7 +181,7 @@
                           "explanation":  "Business Continuity refers to: ability to maintain critical operations during disruption."
                       },
                       {
-                          "id":  18,
+                          "id":  16,
                           "question":  "\u0027Business Continuity\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Validation and Testing",
@@ -217,19 +193,7 @@
                           "explanation":  "Business Continuity is mainly part of Backup Fundamentals."
                       },
                       {
-                          "id":  19,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Segregation of Duties -\u003e ability to maintain critical operations during disruption",
-                                          "Audit Evidence -\u003e ability to maintain critical operations during disruption",
-                                          "Business Continuity -\u003e ability to maintain critical operations during disruption",
-                                          "Mirror Backup -\u003e ability to maintain critical operations during disruption"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Business Continuity -\u003e ability to maintain critical operations during disruption\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  20,
+                          "id":  17,
                           "question":  "A Bank SO IT resilience requirement states: ability to maintain critical operations during disruption. Which concept should be selected?",
                           "options":  [
                                           "Tabletop Exercise",
@@ -241,7 +205,7 @@
                           "explanation":  "The requirement directly points to Business Continuity."
                       },
                       {
-                          "id":  21,
+                          "id":  18,
                           "question":  "Which backup/DR concept best matches: documented rules for frequency, retention, and responsibility?",
                           "options":  [
                                           "Failover",
@@ -253,7 +217,7 @@
                           "explanation":  "Backup Policy is defined as: documented rules for frequency, retention, and responsibility."
                       },
                       {
-                          "id":  22,
+                          "id":  19,
                           "question":  "What is the most accurate description of \u0027Backup Policy\u0027?",
                           "options":  [
                                           "documented rules for frequency, retention, and responsibility",
@@ -265,7 +229,7 @@
                           "explanation":  "Backup Policy refers to: documented rules for frequency, retention, and responsibility."
                       },
                       {
-                          "id":  23,
+                          "id":  20,
                           "question":  "\u0027Backup Policy\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Security and Compliance",
@@ -277,19 +241,7 @@
                           "explanation":  "Backup Policy is mainly part of Backup Fundamentals."
                       },
                       {
-                          "id":  24,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Incremental Backup -\u003e documented rules for frequency, retention, and responsibility",
-                                          "DR Drill -\u003e documented rules for frequency, retention, and responsibility",
-                                          "Backup Policy -\u003e documented rules for frequency, retention, and responsibility",
-                                          "Tabletop Exercise -\u003e documented rules for frequency, retention, and responsibility"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Backup Policy -\u003e documented rules for frequency, retention, and responsibility\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  25,
+                          "id":  21,
                           "question":  "A Bank SO IT resilience requirement states: documented rules for frequency, retention, and responsibility. Which concept should be selected?",
                           "options":  [
                                           "RTO",
@@ -301,7 +253,7 @@
                           "explanation":  "The requirement directly points to Backup Policy."
                       },
                       {
-                          "id":  26,
+                          "id":  22,
                           "question":  "Which backup/DR concept best matches: duration backups are preserved before deletion?",
                           "options":  [
                                           "Offsite Backup",
@@ -313,7 +265,7 @@
                           "explanation":  "Retention Period is defined as: duration backups are preserved before deletion."
                       },
                       {
-                          "id":  27,
+                          "id":  23,
                           "question":  "What is the most accurate description of \u0027Retention Period\u0027?",
                           "options":  [
                                           "real-time duplicate copy maintaining near-identical dataset",
@@ -325,7 +277,7 @@
                           "explanation":  "Retention Period refers to: duration backups are preserved before deletion."
                       },
                       {
-                          "id":  28,
+                          "id":  24,
                           "question":  "\u0027Retention Period\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Security and Compliance",
@@ -337,19 +289,7 @@
                           "explanation":  "Retention Period is mainly part of Backup Fundamentals."
                       },
                       {
-                          "id":  29,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Mirror Backup -\u003e duration backups are preserved before deletion",
-                                          "Retention Period -\u003e duration backups are preserved before deletion",
-                                          "Recovery Priority -\u003e duration backups are preserved before deletion",
-                                          "Hot Backup -\u003e duration backups are preserved before deletion"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Retention Period -\u003e duration backups are preserved before deletion\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  30,
+                          "id":  25,
                           "question":  "A Bank SO IT resilience requirement states: duration backups are preserved before deletion. Which concept should be selected?",
                           "options":  [
                                           "Differential Backup",
@@ -361,7 +301,7 @@
                           "explanation":  "The requirement directly points to Retention Period."
                       },
                       {
-                          "id":  31,
+                          "id":  26,
                           "question":  "Which backup/DR concept best matches: scheduled time period allocated for backup operations?",
                           "options":  [
                                           "Key Management",
@@ -373,7 +313,7 @@
                           "explanation":  "Backup Window is defined as: scheduled time period allocated for backup operations."
                       },
                       {
-                          "id":  32,
+                          "id":  27,
                           "question":  "What is the most accurate description of \u0027Backup Window\u0027?",
                           "options":  [
                                           "scheduled time period allocated for backup operations",
@@ -385,7 +325,7 @@
                           "explanation":  "Backup Window refers to: scheduled time period allocated for backup operations."
                       },
                       {
-                          "id":  33,
+                          "id":  28,
                           "question":  "\u0027Backup Window\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Types and Strategies",
@@ -397,19 +337,7 @@
                           "explanation":  "Backup Window is mainly part of Backup Fundamentals."
                       },
                       {
-                          "id":  34,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Data Sovereignty -\u003e scheduled time period allocated for backup operations",
-                                          "Backup Window -\u003e scheduled time period allocated for backup operations",
-                                          "Recovery Point -\u003e scheduled time period allocated for backup operations",
-                                          "Cold Backup -\u003e scheduled time period allocated for backup operations"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Backup Window -\u003e scheduled time period allocated for backup operations\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  35,
+                          "id":  29,
                           "question":  "A Bank SO IT resilience requirement states: scheduled time period allocated for backup operations. Which concept should be selected?",
                           "options":  [
                                           "Full Backup",
@@ -421,7 +349,7 @@
                           "explanation":  "The requirement directly points to Backup Window."
                       },
                       {
-                          "id":  36,
+                          "id":  30,
                           "question":  "Which backup/DR concept best matches: documented procedure to restore systems and data?",
                           "options":  [
                                           "Data Classification",
@@ -433,7 +361,7 @@
                           "explanation":  "Recovery Plan is defined as: documented procedure to restore systems and data."
                       },
                       {
-                          "id":  37,
+                          "id":  31,
                           "question":  "What is the most accurate description of \u0027Recovery Plan\u0027?",
                           "options":  [
                                           "documented procedure to restore systems and data",
@@ -445,7 +373,7 @@
                           "explanation":  "Recovery Plan refers to: documented procedure to restore systems and data."
                       },
                       {
-                          "id":  38,
+                          "id":  32,
                           "question":  "\u0027Recovery Plan\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Fundamentals",
@@ -457,19 +385,7 @@
                           "explanation":  "Recovery Plan is mainly part of Backup Fundamentals."
                       },
                       {
-                          "id":  39,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Cold Site -\u003e documented procedure to restore systems and data",
-                                          "Recovery Time -\u003e documented procedure to restore systems and data",
-                                          "Recovery Runbook -\u003e documented procedure to restore systems and data",
-                                          "Recovery Plan -\u003e documented procedure to restore systems and data"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Recovery Plan -\u003e documented procedure to restore systems and data\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  40,
+                          "id":  33,
                           "question":  "A Bank SO IT resilience requirement states: documented procedure to restore systems and data. Which concept should be selected?",
                           "options":  [
                                           "Incremental Backup",
@@ -481,7 +397,7 @@
                           "explanation":  "The requirement directly points to Recovery Plan."
                       },
                       {
-                          "id":  41,
+                          "id":  34,
                           "question":  "Which backup/DR concept best matches: system whose unavailability causes significant business impact?",
                           "options":  [
                                           "Critical System",
@@ -493,7 +409,7 @@
                           "explanation":  "Critical System is defined as: system whose unavailability causes significant business impact."
                       },
                       {
-                          "id":  42,
+                          "id":  35,
                           "question":  "What is the most accurate description of \u0027Critical System\u0027?",
                           "options":  [
                                           "backup containing changes since last backup of any type",
@@ -505,7 +421,7 @@
                           "explanation":  "Critical System refers to: system whose unavailability causes significant business impact."
                       },
                       {
-                          "id":  43,
+                          "id":  36,
                           "question":  "\u0027Critical System\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Types and Strategies",
@@ -517,19 +433,7 @@
                           "explanation":  "Critical System is mainly part of Backup Fundamentals."
                       },
                       {
-                          "id":  44,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Backup Encryption -\u003e system whose unavailability causes significant business impact",
-                                          "Backup Window -\u003e system whose unavailability causes significant business impact",
-                                          "Failback -\u003e system whose unavailability causes significant business impact",
-                                          "Critical System -\u003e system whose unavailability causes significant business impact"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Critical System -\u003e system whose unavailability causes significant business impact\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  45,
+                          "id":  37,
                           "question":  "A Bank SO IT resilience requirement states: system whose unavailability causes significant business impact. Which concept should be selected?",
                           "options":  [
                                           "Recovery Time",
@@ -541,7 +445,7 @@
                           "explanation":  "The requirement directly points to Critical System."
                       },
                       {
-                          "id":  46,
+                          "id":  38,
                           "question":  "Which backup/DR concept best matches: categorization of data based on sensitivity and criticality?",
                           "options":  [
                                           "RPO",
@@ -553,7 +457,7 @@
                           "explanation":  "Data Classification is defined as: categorization of data based on sensitivity and criticality."
                       },
                       {
-                          "id":  47,
+                          "id":  39,
                           "question":  "What is the most accurate description of \u0027Data Classification\u0027?",
                           "options":  [
                                           "categorization of data based on sensitivity and criticality",
@@ -565,7 +469,7 @@
                           "explanation":  "Data Classification refers to: categorization of data based on sensitivity and criticality."
                       },
                       {
-                          "id":  48,
+                          "id":  40,
                           "question":  "\u0027Data Classification\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Recovery Objectives",
@@ -577,19 +481,7 @@
                           "explanation":  "Data Classification is mainly part of Backup Fundamentals."
                       },
                       {
-                          "id":  49,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Incident Escalation -\u003e categorization of data based on sensitivity and criticality",
-                                          "Cold Site -\u003e categorization of data based on sensitivity and criticality",
-                                          "Data Classification -\u003e categorization of data based on sensitivity and criticality",
-                                          "Recovery Plan -\u003e categorization of data based on sensitivity and criticality"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Data Classification -\u003e categorization of data based on sensitivity and criticality\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  50,
+                          "id":  41,
                           "question":  "A Bank SO IT resilience requirement states: categorization of data based on sensitivity and criticality. Which concept should be selected?",
                           "options":  [
                                           "Regulatory Compliance",
@@ -601,7 +493,7 @@
                           "explanation":  "The requirement directly points to Data Classification."
                       },
                       {
-                          "id":  51,
+                          "id":  42,
                           "question":  "Which backup/DR concept best matches: backup containing complete copy of selected data?",
                           "options":  [
                                           "Data Classification",
@@ -613,7 +505,7 @@
                           "explanation":  "Full Backup is defined as: backup containing complete copy of selected data."
                       },
                       {
-                          "id":  52,
+                          "id":  43,
                           "question":  "What is the most accurate description of \u0027Full Backup\u0027?",
                           "options":  [
                                           "backup containing complete copy of selected data",
@@ -625,7 +517,7 @@
                           "explanation":  "Full Backup refers to: backup containing complete copy of selected data."
                       },
                       {
-                          "id":  53,
+                          "id":  44,
                           "question":  "\u0027Full Backup\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Fundamentals",
@@ -637,19 +529,7 @@
                           "explanation":  "Full Backup is mainly part of Backup Types and Strategies."
                       },
                       {
-                          "id":  54,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Incident Escalation -\u003e backup containing complete copy of selected data",
-                                          "Recovery Plan -\u003e backup containing complete copy of selected data",
-                                          "Hot Backup -\u003e backup containing complete copy of selected data",
-                                          "Full Backup -\u003e backup containing complete copy of selected data"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Full Backup -\u003e backup containing complete copy of selected data\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  55,
+                          "id":  45,
                           "question":  "A Bank SO IT resilience requirement states: backup containing complete copy of selected data. Which concept should be selected?",
                           "options":  [
                                           "Full Backup",
@@ -661,7 +541,7 @@
                           "explanation":  "The requirement directly points to Full Backup."
                       },
                       {
-                          "id":  56,
+                          "id":  46,
                           "question":  "Which backup/DR concept best matches: backup containing changes since last backup of any type?",
                           "options":  [
                                           "Restore",
@@ -673,7 +553,7 @@
                           "explanation":  "Incremental Backup is defined as: backup containing changes since last backup of any type."
                       },
                       {
-                          "id":  57,
+                          "id":  47,
                           "question":  "What is the most accurate description of \u0027Incremental Backup\u0027?",
                           "options":  [
                                           "backup containing changes since last backup of any type",
@@ -685,7 +565,7 @@
                           "explanation":  "Incremental Backup refers to: backup containing changes since last backup of any type."
                       },
                       {
-                          "id":  58,
+                          "id":  48,
                           "question":  "\u0027Incremental Backup\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Fundamentals",
@@ -697,19 +577,7 @@
                           "explanation":  "Incremental Backup is mainly part of Backup Types and Strategies."
                       },
                       {
-                          "id":  59,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Full Backup -\u003e backup containing changes since last backup of any type",
-                                          "Restore Testing -\u003e backup containing changes since last backup of any type",
-                                          "Incremental Backup -\u003e backup containing changes since last backup of any type",
-                                          "Retention Period -\u003e backup containing changes since last backup of any type"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Incremental Backup -\u003e backup containing changes since last backup of any type\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  60,
+                          "id":  49,
                           "question":  "A Bank SO IT resilience requirement states: backup containing changes since last backup of any type. Which concept should be selected?",
                           "options":  [
                                           "Key Management",
@@ -721,7 +589,7 @@
                           "explanation":  "The requirement directly points to Incremental Backup."
                       },
                       {
-                          "id":  61,
+                          "id":  50,
                           "question":  "Which backup/DR concept best matches: backup containing changes since last full backup?",
                           "options":  [
                                           "Business Continuity",
@@ -733,7 +601,7 @@
                           "explanation":  "Differential Backup is defined as: backup containing changes since last full backup."
                       },
                       {
-                          "id":  62,
+                          "id":  51,
                           "question":  "What is the most accurate description of \u0027Differential Backup\u0027?",
                           "options":  [
                                           "separation of backup administration and approval roles",
@@ -745,7 +613,7 @@
                           "explanation":  "Differential Backup refers to: backup containing changes since last full backup."
                       },
                       {
-                          "id":  63,
+                          "id":  52,
                           "question":  "\u0027Differential Backup\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Fundamentals",
@@ -757,19 +625,7 @@
                           "explanation":  "Differential Backup is mainly part of Backup Types and Strategies."
                       },
                       {
-                          "id":  64,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Incremental Backup -\u003e backup containing changes since last full backup",
-                                          "Differential Backup -\u003e backup containing changes since last full backup",
-                                          "Backup -\u003e backup containing changes since last full backup",
-                                          "Offsite Backup -\u003e backup containing changes since last full backup"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Differential Backup -\u003e backup containing changes since last full backup\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  65,
+                          "id":  53,
                           "question":  "A Bank SO IT resilience requirement states: backup containing changes since last full backup. Which concept should be selected?",
                           "options":  [
                                           "Differential Backup",
@@ -781,7 +637,7 @@
                           "explanation":  "The requirement directly points to Differential Backup."
                       },
                       {
-                          "id":  66,
+                          "id":  54,
                           "question":  "Which backup/DR concept best matches: new full backup assembled from previous full and incrementals?",
                           "options":  [
                                           "Synthetic Full Backup",
@@ -793,7 +649,7 @@
                           "explanation":  "Synthetic Full Backup is defined as: new full backup assembled from previous full and incrementals."
                       },
                       {
-                          "id":  67,
+                          "id":  55,
                           "question":  "What is the most accurate description of \u0027Synthetic Full Backup\u0027?",
                           "options":  [
                                           "new full backup assembled from previous full and incrementals",
@@ -805,7 +661,7 @@
                           "explanation":  "Synthetic Full Backup refers to: new full backup assembled from previous full and incrementals."
                       },
                       {
-                          "id":  68,
+                          "id":  56,
                           "question":  "\u0027Synthetic Full Backup\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Fundamentals",
@@ -817,19 +673,7 @@
                           "explanation":  "Synthetic Full Backup is mainly part of Backup Types and Strategies."
                       },
                       {
-                          "id":  69,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Backup Encryption -\u003e new full backup assembled from previous full and incrementals",
-                                          "Synthetic Full Backup -\u003e new full backup assembled from previous full and incrementals",
-                                          "Differential Backup -\u003e new full backup assembled from previous full and incrementals",
-                                          "Business Continuity -\u003e new full backup assembled from previous full and incrementals"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Synthetic Full Backup -\u003e new full backup assembled from previous full and incrementals\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  70,
+                          "id":  57,
                           "question":  "A Bank SO IT resilience requirement states: new full backup assembled from previous full and incrementals. Which concept should be selected?",
                           "options":  [
                                           "Key Management",
@@ -841,7 +685,7 @@
                           "explanation":  "The requirement directly points to Synthetic Full Backup."
                       },
                       {
-                          "id":  71,
+                          "id":  58,
                           "question":  "Which backup/DR concept best matches: point-in-time image of data or volume state?",
                           "options":  [
                                           "Cold Backup",
@@ -853,7 +697,7 @@
                           "explanation":  "Snapshot is defined as: point-in-time image of data or volume state."
                       },
                       {
-                          "id":  72,
+                          "id":  59,
                           "question":  "What is the most accurate description of \u0027Snapshot\u0027?",
                           "options":  [
                                           "process confirming backups are complete and usable",
@@ -865,7 +709,7 @@
                           "explanation":  "Snapshot refers to: point-in-time image of data or volume state."
                       },
                       {
-                          "id":  73,
+                          "id":  60,
                           "question":  "\u0027Snapshot\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Fundamentals",
@@ -877,19 +721,7 @@
                           "explanation":  "Snapshot is mainly part of Backup Types and Strategies."
                       },
                       {
-                          "id":  74,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Backup -\u003e point-in-time image of data or volume state",
-                                          "Recovery Point -\u003e point-in-time image of data or volume state",
-                                          "Log Retention -\u003e point-in-time image of data or volume state",
-                                          "Snapshot -\u003e point-in-time image of data or volume state"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Snapshot -\u003e point-in-time image of data or volume state\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  75,
+                          "id":  61,
                           "question":  "A Bank SO IT resilience requirement states: point-in-time image of data or volume state. Which concept should be selected?",
                           "options":  [
                                           "Cold Backup",
@@ -901,7 +733,7 @@
                           "explanation":  "The requirement directly points to Snapshot."
                       },
                       {
-                          "id":  76,
+                          "id":  62,
                           "question":  "Which backup/DR concept best matches: real-time duplicate copy maintaining near-identical dataset?",
                           "options":  [
                                           "Recovery Runbook",
@@ -913,7 +745,7 @@
                           "explanation":  "Mirror Backup is defined as: real-time duplicate copy maintaining near-identical dataset."
                       },
                       {
-                          "id":  77,
+                          "id":  63,
                           "question":  "What is the most accurate description of \u0027Mirror Backup\u0027?",
                           "options":  [
                                           "real-time duplicate copy maintaining near-identical dataset",
@@ -925,7 +757,7 @@
                           "explanation":  "Mirror Backup refers to: real-time duplicate copy maintaining near-identical dataset."
                       },
                       {
-                          "id":  78,
+                          "id":  64,
                           "question":  "\u0027Mirror Backup\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Types and Strategies",
@@ -937,19 +769,7 @@
                           "explanation":  "Mirror Backup is mainly part of Backup Types and Strategies."
                       },
                       {
-                          "id":  79,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Recovery Runbook -\u003e real-time duplicate copy maintaining near-identical dataset",
-                                          "Mirror Backup -\u003e real-time duplicate copy maintaining near-identical dataset",
-                                          "Backup Verification -\u003e real-time duplicate copy maintaining near-identical dataset",
-                                          "Hot Site -\u003e real-time duplicate copy maintaining near-identical dataset"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Mirror Backup -\u003e real-time duplicate copy maintaining near-identical dataset\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  80,
+                          "id":  65,
                           "question":  "A Bank SO IT resilience requirement states: real-time duplicate copy maintaining near-identical dataset. Which concept should be selected?",
                           "options":  [
                                           "Recovery Runbook",
@@ -961,7 +781,7 @@
                           "explanation":  "The requirement directly points to Mirror Backup."
                       },
                       {
-                          "id":  81,
+                          "id":  66,
                           "question":  "Which backup/DR concept best matches: backup taken while system remains online and active?",
                           "options":  [
                                           "Audit Evidence",
@@ -973,7 +793,7 @@
                           "explanation":  "Hot Backup is defined as: backup taken while system remains online and active."
                       },
                       {
-                          "id":  82,
+                          "id":  67,
                           "question":  "What is the most accurate description of \u0027Hot Backup\u0027?",
                           "options":  [
                                           "requirement that data remains within specific legal jurisdictions",
@@ -985,7 +805,7 @@
                           "explanation":  "Hot Backup refers to: backup taken while system remains online and active."
                       },
                       {
-                          "id":  83,
+                          "id":  68,
                           "question":  "\u0027Hot Backup\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Fundamentals",
@@ -997,19 +817,7 @@
                           "explanation":  "Hot Backup is mainly part of Backup Types and Strategies."
                       },
                       {
-                          "id":  84,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Backup Encryption -\u003e backup taken while system remains online and active",
-                                          "Hot Backup -\u003e backup taken while system remains online and active",
-                                          "Cold Site -\u003e backup taken while system remains online and active",
-                                          "Offsite Backup -\u003e backup taken while system remains online and active"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Hot Backup -\u003e backup taken while system remains online and active\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  85,
+                          "id":  69,
                           "question":  "A Bank SO IT resilience requirement states: backup taken while system remains online and active. Which concept should be selected?",
                           "options":  [
                                           "Hot Backup",
@@ -1021,7 +829,7 @@
                           "explanation":  "The requirement directly points to Hot Backup."
                       },
                       {
-                          "id":  86,
+                          "id":  70,
                           "question":  "Which backup/DR concept best matches: backup taken when system is offline?",
                           "options":  [
                                           "Data Classification",
@@ -1033,7 +841,7 @@
                           "explanation":  "Cold Backup is defined as: backup taken when system is offline."
                       },
                       {
-                          "id":  87,
+                          "id":  71,
                           "question":  "What is the most accurate description of \u0027Cold Backup\u0027?",
                           "options":  [
                                           "fully operational DR site with minimal activation delay",
@@ -1045,7 +853,7 @@
                           "explanation":  "Cold Backup refers to: backup taken when system is offline."
                       },
                       {
-                          "id":  88,
+                          "id":  72,
                           "question":  "\u0027Cold Backup\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Types and Strategies",
@@ -1057,19 +865,7 @@
                           "explanation":  "Cold Backup is mainly part of Backup Types and Strategies."
                       },
                       {
-                          "id":  89,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Critical System -\u003e backup taken when system is offline",
-                                          "Data Classification -\u003e backup taken when system is offline",
-                                          "Tabletop Exercise -\u003e backup taken when system is offline",
-                                          "Cold Backup -\u003e backup taken when system is offline"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Cold Backup -\u003e backup taken when system is offline\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  90,
+                          "id":  73,
                           "question":  "A Bank SO IT resilience requirement states: backup taken when system is offline. Which concept should be selected?",
                           "options":  [
                                           "Recovery Plan",
@@ -1081,7 +877,7 @@
                           "explanation":  "The requirement directly points to Cold Backup."
                       },
                       {
-                          "id":  91,
+                          "id":  74,
                           "question":  "Which backup/DR concept best matches: backup copy stored at geographically separate location?",
                           "options":  [
                                           "Offsite Backup",
@@ -1093,7 +889,7 @@
                           "explanation":  "Offsite Backup is defined as: backup copy stored at geographically separate location."
                       },
                       {
-                          "id":  92,
+                          "id":  75,
                           "question":  "What is the most accurate description of \u0027Offsite Backup\u0027?",
                           "options":  [
                                           "categorization of data based on sensitivity and criticality",
@@ -1105,7 +901,7 @@
                           "explanation":  "Offsite Backup refers to: backup copy stored at geographically separate location."
                       },
                       {
-                          "id":  93,
+                          "id":  76,
                           "question":  "\u0027Offsite Backup\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Security and Compliance",
@@ -1117,19 +913,7 @@
                           "explanation":  "Offsite Backup is mainly part of Backup Types and Strategies."
                       },
                       {
-                          "id":  94,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Warm Site -\u003e backup copy stored at geographically separate location",
-                                          "Data Sovereignty -\u003e backup copy stored at geographically separate location",
-                                          "Offsite Backup -\u003e backup copy stored at geographically separate location",
-                                          "Recovery Time -\u003e backup copy stored at geographically separate location"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Offsite Backup -\u003e backup copy stored at geographically separate location\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  95,
+                          "id":  77,
                           "question":  "A Bank SO IT resilience requirement states: backup copy stored at geographically separate location. Which concept should be selected?",
                           "options":  [
                                           "Offsite Backup",
@@ -1141,7 +925,7 @@
                           "explanation":  "The requirement directly points to Offsite Backup."
                       },
                       {
-                          "id":  96,
+                          "id":  78,
                           "question":  "Which backup/DR concept best matches: backup that cannot be altered or deleted during lock period?",
                           "options":  [
                                           "Backup Policy",
@@ -1153,7 +937,7 @@
                           "explanation":  "Immutable Backup is defined as: backup that cannot be altered or deleted during lock period."
                       },
                       {
-                          "id":  97,
+                          "id":  79,
                           "question":  "What is the most accurate description of \u0027Immutable Backup\u0027?",
                           "options":  [
                                           "restriction of backup system access to authorized users",
@@ -1165,7 +949,7 @@
                           "explanation":  "Immutable Backup refers to: backup that cannot be altered or deleted during lock period."
                       },
                       {
-                          "id":  98,
+                          "id":  80,
                           "question":  "\u0027Immutable Backup\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Fundamentals",
@@ -1177,19 +961,7 @@
                           "explanation":  "Immutable Backup is mainly part of Backup Types and Strategies."
                       },
                       {
-                          "id":  99,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Gap Analysis -\u003e backup that cannot be altered or deleted during lock period",
-                                          "Data Classification -\u003e backup that cannot be altered or deleted during lock period",
-                                          "Incident Escalation -\u003e backup that cannot be altered or deleted during lock period",
-                                          "Immutable Backup -\u003e backup that cannot be altered or deleted during lock period"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Immutable Backup -\u003e backup that cannot be altered or deleted during lock period\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  100,
+                          "id":  81,
                           "question":  "A Bank SO IT resilience requirement states: backup that cannot be altered or deleted during lock period. Which concept should be selected?",
                           "options":  [
                                           "Restore Testing",
@@ -1201,7 +973,7 @@
                           "explanation":  "The requirement directly points to Immutable Backup."
                       },
                       {
-                          "id":  101,
+                          "id":  82,
                           "question":  "Which backup/DR concept best matches: maximum acceptable data loss measured in time?",
                           "options":  [
                                           "Recovery Priority",
@@ -1213,7 +985,7 @@
                           "explanation":  "RPO is defined as: maximum acceptable data loss measured in time."
                       },
                       {
-                          "id":  102,
+                          "id":  83,
                           "question":  "What is the most accurate description of \u0027RPO\u0027?",
                           "options":  [
                                           "maximum acceptable data loss measured in time",
@@ -1225,7 +997,7 @@
                           "explanation":  "RPO refers to: maximum acceptable data loss measured in time."
                       },
                       {
-                          "id":  103,
+                          "id":  84,
                           "question":  "\u0027RPO\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Recovery Objectives",
@@ -1237,19 +1009,7 @@
                           "explanation":  "RPO is mainly part of Recovery Objectives."
                       },
                       {
-                          "id":  104,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Recovery Runbook -\u003e maximum acceptable data loss measured in time",
-                                          "RPO -\u003e maximum acceptable data loss measured in time",
-                                          "Access Control -\u003e maximum acceptable data loss measured in time",
-                                          "Audit Evidence -\u003e maximum acceptable data loss measured in time"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027RPO -\u003e maximum acceptable data loss measured in time\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  105,
+                          "id":  85,
                           "question":  "A Bank SO IT resilience requirement states: maximum acceptable data loss measured in time. Which concept should be selected?",
                           "options":  [
                                           "Recovery Priority",
@@ -1261,7 +1021,7 @@
                           "explanation":  "The requirement directly points to RPO."
                       },
                       {
-                          "id":  106,
+                          "id":  86,
                           "question":  "Which backup/DR concept best matches: maximum acceptable time to restore service?",
                           "options":  [
                                           "RTO",
@@ -1273,7 +1033,7 @@
                           "explanation":  "RTO is defined as: maximum acceptable time to restore service."
                       },
                       {
-                          "id":  107,
+                          "id":  87,
                           "question":  "What is the most accurate description of \u0027RTO\u0027?",
                           "options":  [
                                           "maximum acceptable time to restore service",
@@ -1285,7 +1045,7 @@
                           "explanation":  "RTO refers to: maximum acceptable time to restore service."
                       },
                       {
-                          "id":  108,
+                          "id":  88,
                           "question":  "\u0027RTO\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Fundamentals",
@@ -1297,19 +1057,7 @@
                           "explanation":  "RTO is mainly part of Recovery Objectives."
                       },
                       {
-                          "id":  109,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "RTO -\u003e maximum acceptable time to restore service",
-                                          "Immutable Backup -\u003e maximum acceptable time to restore service",
-                                          "Hot Site -\u003e maximum acceptable time to restore service",
-                                          "Restore -\u003e maximum acceptable time to restore service"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027RTO -\u003e maximum acceptable time to restore service\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  110,
+                          "id":  89,
                           "question":  "A Bank SO IT resilience requirement states: maximum acceptable time to restore service. Which concept should be selected?",
                           "options":  [
                                           "Offsite Backup",
@@ -1321,7 +1069,7 @@
                           "explanation":  "The requirement directly points to RTO."
                       },
                       {
-                          "id":  111,
+                          "id":  90,
                           "question":  "Which backup/DR concept best matches: actual elapsed time to restore affected service?",
                           "options":  [
                                           "Recovery Point",
@@ -1333,7 +1081,7 @@
                           "explanation":  "Recovery Time is defined as: actual elapsed time to restore affected service."
                       },
                       {
-                          "id":  112,
+                          "id":  91,
                           "question":  "What is the most accurate description of \u0027Recovery Time\u0027?",
                           "options":  [
                                           "ordered sequence of systems restored based on business impact",
@@ -1345,7 +1093,7 @@
                           "explanation":  "Recovery Time refers to: actual elapsed time to restore affected service."
                       },
                       {
-                          "id":  113,
+                          "id":  92,
                           "question":  "\u0027Recovery Time\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Types and Strategies",
@@ -1357,19 +1105,7 @@
                           "explanation":  "Recovery Time is mainly part of Recovery Objectives."
                       },
                       {
-                          "id":  114,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Audit Evidence -\u003e actual elapsed time to restore affected service",
-                                          "Recovery Time -\u003e actual elapsed time to restore affected service",
-                                          "Incident Escalation -\u003e actual elapsed time to restore affected service",
-                                          "Incremental Backup -\u003e actual elapsed time to restore affected service"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Recovery Time -\u003e actual elapsed time to restore affected service\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  115,
+                          "id":  93,
                           "question":  "A Bank SO IT resilience requirement states: actual elapsed time to restore affected service. Which concept should be selected?",
                           "options":  [
                                           "DR Drill",
@@ -1381,7 +1117,7 @@
                           "explanation":  "The requirement directly points to Recovery Time."
                       },
                       {
-                          "id":  116,
+                          "id":  94,
                           "question":  "Which backup/DR concept best matches: point in time to which data is restored?",
                           "options":  [
                                           "Recovery Point",
@@ -1393,7 +1129,7 @@
                           "explanation":  "Recovery Point is defined as: point in time to which data is restored."
                       },
                       {
-                          "id":  117,
+                          "id":  95,
                           "question":  "What is the most accurate description of \u0027Recovery Point\u0027?",
                           "options":  [
                                           "periodic test proving recoverability of backup data",
@@ -1405,7 +1141,7 @@
                           "explanation":  "Recovery Point refers to: point in time to which data is restored."
                       },
                       {
-                          "id":  118,
+                          "id":  96,
                           "question":  "\u0027Recovery Point\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Recovery Objectives",
@@ -1417,19 +1153,7 @@
                           "explanation":  "Recovery Point is mainly part of Recovery Objectives."
                       },
                       {
-                          "id":  119,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Recovery Plan -\u003e point in time to which data is restored",
-                                          "Tabletop Exercise -\u003e point in time to which data is restored",
-                                          "Recovery Point -\u003e point in time to which data is restored",
-                                          "Restore Testing -\u003e point in time to which data is restored"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Recovery Point -\u003e point in time to which data is restored\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  120,
+                          "id":  97,
                           "question":  "A Bank SO IT resilience requirement states: point in time to which data is restored. Which concept should be selected?",
                           "options":  [
                                           "Cold Backup",
@@ -1441,7 +1165,7 @@
                           "explanation":  "The requirement directly points to Recovery Point."
                       },
                       {
-                          "id":  121,
+                          "id":  98,
                           "question":  "Which backup/DR concept best matches: switching operations to alternate site or system?",
                           "options":  [
                                           "Failover",
@@ -1453,7 +1177,7 @@
                           "explanation":  "Failover is defined as: switching operations to alternate site or system."
                       },
                       {
-                          "id":  122,
+                          "id":  99,
                           "question":  "What is the most accurate description of \u0027Failover\u0027?",
                           "options":  [
                                           "cryptographic protection of backup data at rest and transit",
@@ -1465,7 +1189,7 @@
                           "explanation":  "Failover refers to: switching operations to alternate site or system."
                       },
                       {
-                          "id":  123,
+                          "id":  100,
                           "question":  "\u0027Failover\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Recovery Objectives",
@@ -1477,19 +1201,7 @@
                           "explanation":  "Failover is mainly part of Recovery Objectives."
                       },
                       {
-                          "id":  124,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Cold Site -\u003e switching operations to alternate site or system",
-                                          "Backup Policy -\u003e switching operations to alternate site or system",
-                                          "RTO -\u003e switching operations to alternate site or system",
-                                          "Failover -\u003e switching operations to alternate site or system"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Failover -\u003e switching operations to alternate site or system\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  125,
+                          "id":  101,
                           "question":  "A Bank SO IT resilience requirement states: switching operations to alternate site or system. Which concept should be selected?",
                           "options":  [
                                           "Failover",
@@ -1501,7 +1213,7 @@
                           "explanation":  "The requirement directly points to Failover."
                       },
                       {
-                          "id":  126,
+                          "id":  102,
                           "question":  "Which backup/DR concept best matches: returning operations to primary site after recovery?",
                           "options":  [
                                           "Recovery Time",
@@ -1513,7 +1225,7 @@
                           "explanation":  "Failback is defined as: returning operations to primary site after recovery."
                       },
                       {
-                          "id":  127,
+                          "id":  103,
                           "question":  "What is the most accurate description of \u0027Failback\u0027?",
                           "options":  [
                                           "returning operations to primary site after recovery",
@@ -1525,7 +1237,7 @@
                           "explanation":  "Failback refers to: returning operations to primary site after recovery."
                       },
                       {
-                          "id":  128,
+                          "id":  104,
                           "question":  "\u0027Failback\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Recovery Objectives",
@@ -1537,19 +1249,7 @@
                           "explanation":  "Failback is mainly part of Recovery Objectives."
                       },
                       {
-                          "id":  129,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Disaster Recovery -\u003e returning operations to primary site after recovery",
-                                          "Recovery Point -\u003e returning operations to primary site after recovery",
-                                          "Failback -\u003e returning operations to primary site after recovery",
-                                          "Log Retention -\u003e returning operations to primary site after recovery"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Failback -\u003e returning operations to primary site after recovery\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  130,
+                          "id":  105,
                           "question":  "A Bank SO IT resilience requirement states: returning operations to primary site after recovery. Which concept should be selected?",
                           "options":  [
                                           "Recovery Time",
@@ -1561,7 +1261,7 @@
                           "explanation":  "The requirement directly points to Failback."
                       },
                       {
-                          "id":  131,
+                          "id":  106,
                           "question":  "Which backup/DR concept best matches: partially equipped DR site needing additional setup?",
                           "options":  [
                                           "Warm Site",
@@ -1573,7 +1273,7 @@
                           "explanation":  "Warm Site is defined as: partially equipped DR site needing additional setup."
                       },
                       {
-                          "id":  132,
+                          "id":  107,
                           "question":  "What is the most accurate description of \u0027Warm Site\u0027?",
                           "options":  [
                                           "real-time duplicate copy maintaining near-identical dataset",
@@ -1585,7 +1285,7 @@
                           "explanation":  "Warm Site refers to: partially equipped DR site needing additional setup."
                       },
                       {
-                          "id":  133,
+                          "id":  108,
                           "question":  "\u0027Warm Site\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Fundamentals",
@@ -1597,19 +1297,7 @@
                           "explanation":  "Warm Site is mainly part of Recovery Objectives."
                       },
                       {
-                          "id":  134,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Warm Site -\u003e partially equipped DR site needing additional setup",
-                                          "Full Backup -\u003e partially equipped DR site needing additional setup",
-                                          "Hot Backup -\u003e partially equipped DR site needing additional setup",
-                                          "RTO -\u003e partially equipped DR site needing additional setup"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Warm Site -\u003e partially equipped DR site needing additional setup\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  135,
+                          "id":  109,
                           "question":  "A Bank SO IT resilience requirement states: partially equipped DR site needing additional setup. Which concept should be selected?",
                           "options":  [
                                           "Log Retention",
@@ -1621,7 +1309,7 @@
                           "explanation":  "The requirement directly points to Warm Site."
                       },
                       {
-                          "id":  136,
+                          "id":  110,
                           "question":  "Which backup/DR concept best matches: fully operational DR site with minimal activation delay?",
                           "options":  [
                                           "Mirror Backup",
@@ -1633,7 +1321,7 @@
                           "explanation":  "Hot Site is defined as: fully operational DR site with minimal activation delay."
                       },
                       {
-                          "id":  137,
+                          "id":  111,
                           "question":  "What is the most accurate description of \u0027Hot Site\u0027?",
                           "options":  [
                                           "secure lifecycle handling of encryption keys",
@@ -1645,7 +1333,7 @@
                           "explanation":  "Hot Site refers to: fully operational DR site with minimal activation delay."
                       },
                       {
-                          "id":  138,
+                          "id":  112,
                           "question":  "\u0027Hot Site\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Fundamentals",
@@ -1657,19 +1345,7 @@
                           "explanation":  "Hot Site is mainly part of Recovery Objectives."
                       },
                       {
-                          "id":  139,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Backup -\u003e fully operational DR site with minimal activation delay",
-                                          "Hot Site -\u003e fully operational DR site with minimal activation delay",
-                                          "Disaster Recovery -\u003e fully operational DR site with minimal activation delay",
-                                          "Cold Site -\u003e fully operational DR site with minimal activation delay"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Hot Site -\u003e fully operational DR site with minimal activation delay\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  140,
+                          "id":  113,
                           "question":  "A Bank SO IT resilience requirement states: fully operational DR site with minimal activation delay. Which concept should be selected?",
                           "options":  [
                                           "Segregation of Duties",
@@ -1681,7 +1357,7 @@
                           "explanation":  "The requirement directly points to Hot Site."
                       },
                       {
-                          "id":  141,
+                          "id":  114,
                           "question":  "Which backup/DR concept best matches: basic DR location requiring major setup before use?",
                           "options":  [
                                           "Air-Gapped Backup",
@@ -1693,7 +1369,7 @@
                           "explanation":  "Cold Site is defined as: basic DR location requiring major setup before use."
                       },
                       {
-                          "id":  142,
+                          "id":  115,
                           "question":  "What is the most accurate description of \u0027Cold Site\u0027?",
                           "options":  [
                                           "basic DR location requiring major setup before use",
@@ -1705,7 +1381,7 @@
                           "explanation":  "Cold Site refers to: basic DR location requiring major setup before use."
                       },
                       {
-                          "id":  143,
+                          "id":  116,
                           "question":  "\u0027Cold Site\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Security and Compliance",
@@ -1717,19 +1393,7 @@
                           "explanation":  "Cold Site is mainly part of Recovery Objectives."
                       },
                       {
-                          "id":  144,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Hot Backup -\u003e basic DR location requiring major setup before use",
-                                          "Failback -\u003e basic DR location requiring major setup before use",
-                                          "Recovery Point -\u003e basic DR location requiring major setup before use",
-                                          "Cold Site -\u003e basic DR location requiring major setup before use"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Cold Site -\u003e basic DR location requiring major setup before use\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  145,
+                          "id":  117,
                           "question":  "A Bank SO IT resilience requirement states: basic DR location requiring major setup before use. Which concept should be selected?",
                           "options":  [
                                           "Air-Gapped Backup",
@@ -1741,7 +1405,7 @@
                           "explanation":  "The requirement directly points to Cold Site."
                       },
                       {
-                          "id":  146,
+                          "id":  118,
                           "question":  "Which backup/DR concept best matches: ordered sequence of systems restored based on business impact?",
                           "options":  [
                                           "Key Management",
@@ -1753,7 +1417,7 @@
                           "explanation":  "Recovery Priority is defined as: ordered sequence of systems restored based on business impact."
                       },
                       {
-                          "id":  147,
+                          "id":  119,
                           "question":  "What is the most accurate description of \u0027Recovery Priority\u0027?",
                           "options":  [
                                           "ordered sequence of systems restored based on business impact",
@@ -1765,7 +1429,7 @@
                           "explanation":  "Recovery Priority refers to: ordered sequence of systems restored based on business impact."
                       },
                       {
-                          "id":  148,
+                          "id":  120,
                           "question":  "\u0027Recovery Priority\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Types and Strategies",
@@ -1777,19 +1441,7 @@
                           "explanation":  "Recovery Priority is mainly part of Recovery Objectives."
                       },
                       {
-                          "id":  149,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Critical System -\u003e ordered sequence of systems restored based on business impact",
-                                          "Restore Testing -\u003e ordered sequence of systems restored based on business impact",
-                                          "Segregation of Duties -\u003e ordered sequence of systems restored based on business impact",
-                                          "Recovery Priority -\u003e ordered sequence of systems restored based on business impact"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Recovery Priority -\u003e ordered sequence of systems restored based on business impact\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  150,
+                          "id":  121,
                           "question":  "A Bank SO IT resilience requirement states: ordered sequence of systems restored based on business impact. Which concept should be selected?",
                           "options":  [
                                           "Key Management",
@@ -1801,7 +1453,7 @@
                           "explanation":  "The requirement directly points to Recovery Priority."
                       },
                       {
-                          "id":  151,
+                          "id":  122,
                           "question":  "Which backup/DR concept best matches: process confirming backups are complete and usable?",
                           "options":  [
                                           "Regulatory Compliance",
@@ -1813,7 +1465,7 @@
                           "explanation":  "Backup Verification is defined as: process confirming backups are complete and usable."
                       },
                       {
-                          "id":  152,
+                          "id":  123,
                           "question":  "What is the most accurate description of \u0027Backup Verification\u0027?",
                           "options":  [
                                           "partially equipped DR site needing additional setup",
@@ -1825,7 +1477,7 @@
                           "explanation":  "Backup Verification refers to: process confirming backups are complete and usable."
                       },
                       {
-                          "id":  153,
+                          "id":  124,
                           "question":  "\u0027Backup Verification\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Recovery Objectives",
@@ -1837,19 +1489,7 @@
                           "explanation":  "Backup Verification is mainly part of Validation and Testing."
                       },
                       {
-                          "id":  154,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Recovery Plan -\u003e process confirming backups are complete and usable",
-                                          "Backup Verification -\u003e process confirming backups are complete and usable",
-                                          "Checksum Validation -\u003e process confirming backups are complete and usable",
-                                          "Restore -\u003e process confirming backups are complete and usable"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Backup Verification -\u003e process confirming backups are complete and usable\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  155,
+                          "id":  125,
                           "question":  "A Bank SO IT resilience requirement states: process confirming backups are complete and usable. Which concept should be selected?",
                           "options":  [
                                           "Retention Period",
@@ -1861,7 +1501,7 @@
                           "explanation":  "The requirement directly points to Backup Verification."
                       },
                       {
-                          "id":  156,
+                          "id":  126,
                           "question":  "Which backup/DR concept best matches: periodic test proving recoverability of backup data?",
                           "options":  [
                                           "RPO",
@@ -1873,7 +1513,7 @@
                           "explanation":  "Restore Testing is defined as: periodic test proving recoverability of backup data."
                       },
                       {
-                          "id":  157,
+                          "id":  127,
                           "question":  "What is the most accurate description of \u0027Restore Testing\u0027?",
                           "options":  [
                                           "maximum acceptable data loss measured in time",
@@ -1885,7 +1525,7 @@
                           "explanation":  "Restore Testing refers to: periodic test proving recoverability of backup data."
                       },
                       {
-                          "id":  158,
+                          "id":  128,
                           "question":  "\u0027Restore Testing\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Security and Compliance",
@@ -1897,19 +1537,7 @@
                           "explanation":  "Restore Testing is mainly part of Validation and Testing."
                       },
                       {
-                          "id":  159,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Access Control -\u003e periodic test proving recoverability of backup data",
-                                          "Segregation of Duties -\u003e periodic test proving recoverability of backup data",
-                                          "Restore Testing -\u003e periodic test proving recoverability of backup data",
-                                          "Cold Site -\u003e periodic test proving recoverability of backup data"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Restore Testing -\u003e periodic test proving recoverability of backup data\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  160,
+                          "id":  129,
                           "question":  "A Bank SO IT resilience requirement states: periodic test proving recoverability of backup data. Which concept should be selected?",
                           "options":  [
                                           "Retention Period",
@@ -1921,7 +1549,7 @@
                           "explanation":  "The requirement directly points to Restore Testing."
                       },
                       {
-                          "id":  161,
+                          "id":  130,
                           "question":  "Which backup/DR concept best matches: simulated exercise validating disaster recovery procedures?",
                           "options":  [
                                           "Data Sovereignty",
@@ -1933,7 +1561,7 @@
                           "explanation":  "DR Drill is defined as: simulated exercise validating disaster recovery procedures."
                       },
                       {
-                          "id":  162,
+                          "id":  131,
                           "question":  "What is the most accurate description of \u0027DR Drill\u0027?",
                           "options":  [
                                           "process of recovering data from backup copy",
@@ -1945,7 +1573,7 @@
                           "explanation":  "DR Drill refers to: simulated exercise validating disaster recovery procedures."
                       },
                       {
-                          "id":  163,
+                          "id":  132,
                           "question":  "\u0027DR Drill\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Validation and Testing",
@@ -1957,19 +1585,7 @@
                           "explanation":  "DR Drill is mainly part of Validation and Testing."
                       },
                       {
-                          "id":  164,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Cold Site -\u003e simulated exercise validating disaster recovery procedures",
-                                          "Recovery Point -\u003e simulated exercise validating disaster recovery procedures",
-                                          "Restore Testing -\u003e simulated exercise validating disaster recovery procedures",
-                                          "DR Drill -\u003e simulated exercise validating disaster recovery procedures"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027DR Drill -\u003e simulated exercise validating disaster recovery procedures\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  165,
+                          "id":  133,
                           "question":  "A Bank SO IT resilience requirement states: simulated exercise validating disaster recovery procedures. Which concept should be selected?",
                           "options":  [
                                           "Backup",
@@ -1981,7 +1597,7 @@
                           "explanation":  "The requirement directly points to DR Drill."
                       },
                       {
-                          "id":  166,
+                          "id":  134,
                           "question":  "Which backup/DR concept best matches: integrity check comparing hash values of data?",
                           "options":  [
                                           "Tabletop Exercise",
@@ -1993,7 +1609,7 @@
                           "explanation":  "Checksum Validation is defined as: integrity check comparing hash values of data."
                       },
                       {
-                          "id":  167,
+                          "id":  135,
                           "question":  "What is the most accurate description of \u0027Checksum Validation\u0027?",
                           "options":  [
                                           "duration backups are preserved before deletion",
@@ -2005,7 +1621,7 @@
                           "explanation":  "Checksum Validation refers to: integrity check comparing hash values of data."
                       },
                       {
-                          "id":  168,
+                          "id":  136,
                           "question":  "\u0027Checksum Validation\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Types and Strategies",
@@ -2017,19 +1633,7 @@
                           "explanation":  "Checksum Validation is mainly part of Validation and Testing."
                       },
                       {
-                          "id":  169,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Tabletop Exercise -\u003e integrity check comparing hash values of data",
-                                          "Data Classification -\u003e integrity check comparing hash values of data",
-                                          "Recovery Runbook -\u003e integrity check comparing hash values of data",
-                                          "Checksum Validation -\u003e integrity check comparing hash values of data"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Checksum Validation -\u003e integrity check comparing hash values of data\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  170,
+                          "id":  137,
                           "question":  "A Bank SO IT resilience requirement states: integrity check comparing hash values of data. Which concept should be selected?",
                           "options":  [
                                           "Recovery Runbook",
@@ -2041,7 +1645,7 @@
                           "explanation":  "The requirement directly points to Checksum Validation."
                       },
                       {
-                          "id":  171,
+                          "id":  138,
                           "question":  "Which backup/DR concept best matches: step-by-step operational guide for recovery execution?",
                           "options":  [
                                           "Recovery Runbook",
@@ -2053,7 +1657,7 @@
                           "explanation":  "Recovery Runbook is defined as: step-by-step operational guide for recovery execution."
                       },
                       {
-                          "id":  172,
+                          "id":  139,
                           "question":  "What is the most accurate description of \u0027Recovery Runbook\u0027?",
                           "options":  [
                                           "step-by-step operational guide for recovery execution",
@@ -2065,7 +1669,7 @@
                           "explanation":  "Recovery Runbook refers to: step-by-step operational guide for recovery execution."
                       },
                       {
-                          "id":  173,
+                          "id":  140,
                           "question":  "\u0027Recovery Runbook\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Validation and Testing",
@@ -2077,19 +1681,7 @@
                           "explanation":  "Recovery Runbook is mainly part of Validation and Testing."
                       },
                       {
-                          "id":  174,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Recovery Runbook -\u003e step-by-step operational guide for recovery execution",
-                                          "Data Classification -\u003e step-by-step operational guide for recovery execution",
-                                          "Gap Analysis -\u003e step-by-step operational guide for recovery execution",
-                                          "Incremental Backup -\u003e step-by-step operational guide for recovery execution"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Recovery Runbook -\u003e step-by-step operational guide for recovery execution\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  175,
+                          "id":  141,
                           "question":  "A Bank SO IT resilience requirement states: step-by-step operational guide for recovery execution. Which concept should be selected?",
                           "options":  [
                                           "Synthetic Full Backup",
@@ -2101,7 +1693,7 @@
                           "explanation":  "The requirement directly points to Recovery Runbook."
                       },
                       {
-                          "id":  176,
+                          "id":  142,
                           "question":  "Which backup/DR concept best matches: discussion-based scenario walkthrough for preparedness?",
                           "options":  [
                                           "Regulatory Compliance",
@@ -2113,7 +1705,7 @@
                           "explanation":  "Tabletop Exercise is defined as: discussion-based scenario walkthrough for preparedness."
                       },
                       {
-                          "id":  177,
+                          "id":  143,
                           "question":  "What is the most accurate description of \u0027Tabletop Exercise\u0027?",
                           "options":  [
                                           "discussion-based scenario walkthrough for preparedness",
@@ -2125,7 +1717,7 @@
                           "explanation":  "Tabletop Exercise refers to: discussion-based scenario walkthrough for preparedness."
                       },
                       {
-                          "id":  178,
+                          "id":  144,
                           "question":  "\u0027Tabletop Exercise\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Security and Compliance",
@@ -2137,19 +1729,7 @@
                           "explanation":  "Tabletop Exercise is mainly part of Validation and Testing."
                       },
                       {
-                          "id":  179,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Tabletop Exercise -\u003e discussion-based scenario walkthrough for preparedness",
-                                          "Recovery Point -\u003e discussion-based scenario walkthrough for preparedness",
-                                          "Incident Escalation -\u003e discussion-based scenario walkthrough for preparedness",
-                                          "Backup Policy -\u003e discussion-based scenario walkthrough for preparedness"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Tabletop Exercise -\u003e discussion-based scenario walkthrough for preparedness\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  180,
+                          "id":  145,
                           "question":  "A Bank SO IT resilience requirement states: discussion-based scenario walkthrough for preparedness. Which concept should be selected?",
                           "options":  [
                                           "Hot Site",
@@ -2161,7 +1741,7 @@
                           "explanation":  "The requirement directly points to Tabletop Exercise."
                       },
                       {
-                          "id":  181,
+                          "id":  146,
                           "question":  "Which backup/DR concept best matches: assessment identifying differences between current and target readiness?",
                           "options":  [
                                           "Recovery Time",
@@ -2173,7 +1753,7 @@
                           "explanation":  "Gap Analysis is defined as: assessment identifying differences between current and target readiness."
                       },
                       {
-                          "id":  182,
+                          "id":  147,
                           "question":  "What is the most accurate description of \u0027Gap Analysis\u0027?",
                           "options":  [
                                           "categorization of data based on sensitivity and criticality",
@@ -2185,7 +1765,7 @@
                           "explanation":  "Gap Analysis refers to: assessment identifying differences between current and target readiness."
                       },
                       {
-                          "id":  183,
+                          "id":  148,
                           "question":  "\u0027Gap Analysis\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Validation and Testing",
@@ -2197,19 +1777,7 @@
                           "explanation":  "Gap Analysis is mainly part of Validation and Testing."
                       },
                       {
-                          "id":  184,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Gap Analysis -\u003e assessment identifying differences between current and target readiness",
-                                          "Synthetic Full Backup -\u003e assessment identifying differences between current and target readiness",
-                                          "Incident Escalation -\u003e assessment identifying differences between current and target readiness",
-                                          "Backup Policy -\u003e assessment identifying differences between current and target readiness"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Gap Analysis -\u003e assessment identifying differences between current and target readiness\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  185,
+                          "id":  149,
                           "question":  "A Bank SO IT resilience requirement states: assessment identifying differences between current and target readiness. Which concept should be selected?",
                           "options":  [
                                           "Synthetic Full Backup",
@@ -2221,7 +1789,7 @@
                           "explanation":  "The requirement directly points to Gap Analysis."
                       },
                       {
-                          "id":  186,
+                          "id":  150,
                           "question":  "Which backup/DR concept best matches: analysis of drill outcomes and improvement actions?",
                           "options":  [
                                           "Warm Site",
@@ -2233,7 +1801,7 @@
                           "explanation":  "Post Drill Review is defined as: analysis of drill outcomes and improvement actions."
                       },
                       {
-                          "id":  187,
+                          "id":  151,
                           "question":  "What is the most accurate description of \u0027Post Drill Review\u0027?",
                           "options":  [
                                           "analysis of drill outcomes and improvement actions",
@@ -2245,7 +1813,7 @@
                           "explanation":  "Post Drill Review refers to: analysis of drill outcomes and improvement actions."
                       },
                       {
-                          "id":  188,
+                          "id":  152,
                           "question":  "\u0027Post Drill Review\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Recovery Objectives",
@@ -2257,19 +1825,7 @@
                           "explanation":  "Post Drill Review is mainly part of Validation and Testing."
                       },
                       {
-                          "id":  189,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Hot Site -\u003e analysis of drill outcomes and improvement actions",
-                                          "Snapshot -\u003e analysis of drill outcomes and improvement actions",
-                                          "Post Drill Review -\u003e analysis of drill outcomes and improvement actions",
-                                          "Differential Backup -\u003e analysis of drill outcomes and improvement actions"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Post Drill Review -\u003e analysis of drill outcomes and improvement actions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  190,
+                          "id":  153,
                           "question":  "A Bank SO IT resilience requirement states: analysis of drill outcomes and improvement actions. Which concept should be selected?",
                           "options":  [
                                           "Data Sovereignty",
@@ -2281,7 +1837,7 @@
                           "explanation":  "The requirement directly points to Post Drill Review."
                       },
                       {
-                          "id":  191,
+                          "id":  154,
                           "question":  "Which backup/DR concept best matches: documented proof of backup and recovery control execution?",
                           "options":  [
                                           "Access Control",
@@ -2293,7 +1849,7 @@
                           "explanation":  "Audit Evidence is defined as: documented proof of backup and recovery control execution."
                       },
                       {
-                          "id":  192,
+                          "id":  155,
                           "question":  "What is the most accurate description of \u0027Audit Evidence\u0027?",
                           "options":  [
                                           "documented proof of backup and recovery control execution",
@@ -2305,7 +1861,7 @@
                           "explanation":  "Audit Evidence refers to: documented proof of backup and recovery control execution."
                       },
                       {
-                          "id":  193,
+                          "id":  156,
                           "question":  "\u0027Audit Evidence\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Recovery Objectives",
@@ -2317,19 +1873,7 @@
                           "explanation":  "Audit Evidence is mainly part of Validation and Testing."
                       },
                       {
-                          "id":  194,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Hot Site -\u003e documented proof of backup and recovery control execution",
-                                          "Warm Site -\u003e documented proof of backup and recovery control execution",
-                                          "Tabletop Exercise -\u003e documented proof of backup and recovery control execution",
-                                          "Audit Evidence -\u003e documented proof of backup and recovery control execution"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Audit Evidence -\u003e documented proof of backup and recovery control execution\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  195,
+                          "id":  157,
                           "question":  "A Bank SO IT resilience requirement states: documented proof of backup and recovery control execution. Which concept should be selected?",
                           "options":  [
                                           "Backup Window",
@@ -2341,7 +1885,7 @@
                           "explanation":  "The requirement directly points to Audit Evidence."
                       },
                       {
-                          "id":  196,
+                          "id":  158,
                           "question":  "Which backup/DR concept best matches: degree to which backup controls are formalized and effective?",
                           "options":  [
                                           "Regulatory Compliance",
@@ -2353,7 +1897,7 @@
                           "explanation":  "Control Maturity is defined as: degree to which backup controls are formalized and effective."
                       },
                       {
-                          "id":  197,
+                          "id":  159,
                           "question":  "What is the most accurate description of \u0027Control Maturity\u0027?",
                           "options":  [
                                           "ability to maintain critical operations during disruption",
@@ -2365,7 +1909,7 @@
                           "explanation":  "Control Maturity refers to: degree to which backup controls are formalized and effective."
                       },
                       {
-                          "id":  198,
+                          "id":  160,
                           "question":  "\u0027Control Maturity\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Recovery Objectives",
@@ -2377,19 +1921,7 @@
                           "explanation":  "Control Maturity is mainly part of Validation and Testing."
                       },
                       {
-                          "id":  199,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "RTO -\u003e degree to which backup controls are formalized and effective",
-                                          "Backup Encryption -\u003e degree to which backup controls are formalized and effective",
-                                          "Control Maturity -\u003e degree to which backup controls are formalized and effective",
-                                          "Snapshot -\u003e degree to which backup controls are formalized and effective"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Control Maturity -\u003e degree to which backup controls are formalized and effective\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  200,
+                          "id":  161,
                           "question":  "A Bank SO IT resilience requirement states: degree to which backup controls are formalized and effective. Which concept should be selected?",
                           "options":  [
                                           "Regulatory Compliance",
@@ -2401,7 +1933,7 @@
                           "explanation":  "The requirement directly points to Control Maturity."
                       },
                       {
-                          "id":  201,
+                          "id":  162,
                           "question":  "Which backup/DR concept best matches: cryptographic protection of backup data at rest and transit?",
                           "options":  [
                                           "Ransomware Resilience",
@@ -2413,7 +1945,7 @@
                           "explanation":  "Backup Encryption is defined as: cryptographic protection of backup data at rest and transit."
                       },
                       {
-                          "id":  202,
+                          "id":  163,
                           "question":  "What is the most accurate description of \u0027Backup Encryption\u0027?",
                           "options":  [
                                           "cryptographic protection of backup data at rest and transit",
@@ -2425,7 +1957,7 @@
                           "explanation":  "Backup Encryption refers to: cryptographic protection of backup data at rest and transit."
                       },
                       {
-                          "id":  203,
+                          "id":  164,
                           "question":  "\u0027Backup Encryption\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Types and Strategies",
@@ -2437,19 +1969,7 @@
                           "explanation":  "Backup Encryption is mainly part of Security and Compliance."
                       },
                       {
-                          "id":  204,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Audit Evidence -\u003e cryptographic protection of backup data at rest and transit",
-                                          "Gap Analysis -\u003e cryptographic protection of backup data at rest and transit",
-                                          "Post Drill Review -\u003e cryptographic protection of backup data at rest and transit",
-                                          "Backup Encryption -\u003e cryptographic protection of backup data at rest and transit"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Backup Encryption -\u003e cryptographic protection of backup data at rest and transit\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  205,
+                          "id":  165,
                           "question":  "A Bank SO IT resilience requirement states: cryptographic protection of backup data at rest and transit. Which concept should be selected?",
                           "options":  [
                                           "Backup",
@@ -2461,7 +1981,7 @@
                           "explanation":  "The requirement directly points to Backup Encryption."
                       },
                       {
-                          "id":  206,
+                          "id":  166,
                           "question":  "Which backup/DR concept best matches: secure lifecycle handling of encryption keys?",
                           "options":  [
                                           "Data Classification",
@@ -2473,7 +1993,7 @@
                           "explanation":  "Key Management is defined as: secure lifecycle handling of encryption keys."
                       },
                       {
-                          "id":  207,
+                          "id":  167,
                           "question":  "What is the most accurate description of \u0027Key Management\u0027?",
                           "options":  [
                                           "scheduled time period allocated for backup operations",
@@ -2485,7 +2005,7 @@
                           "explanation":  "Key Management refers to: secure lifecycle handling of encryption keys."
                       },
                       {
-                          "id":  208,
+                          "id":  168,
                           "question":  "\u0027Key Management\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Fundamentals",
@@ -2497,19 +2017,7 @@
                           "explanation":  "Key Management is mainly part of Security and Compliance."
                       },
                       {
-                          "id":  209,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Key Management -\u003e secure lifecycle handling of encryption keys",
-                                          "Recovery Priority -\u003e secure lifecycle handling of encryption keys",
-                                          "Differential Backup -\u003e secure lifecycle handling of encryption keys",
-                                          "DR Drill -\u003e secure lifecycle handling of encryption keys"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Key Management -\u003e secure lifecycle handling of encryption keys\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  210,
+                          "id":  169,
                           "question":  "A Bank SO IT resilience requirement states: secure lifecycle handling of encryption keys. Which concept should be selected?",
                           "options":  [
                                           "Differential Backup",
@@ -2521,7 +2029,7 @@
                           "explanation":  "The requirement directly points to Key Management."
                       },
                       {
-                          "id":  211,
+                          "id":  170,
                           "question":  "Which backup/DR concept best matches: restriction of backup system access to authorized users?",
                           "options":  [
                                           "Critical System",
@@ -2533,7 +2041,7 @@
                           "explanation":  "Access Control is defined as: restriction of backup system access to authorized users."
                       },
                       {
-                          "id":  212,
+                          "id":  171,
                           "question":  "What is the most accurate description of \u0027Access Control\u0027?",
                           "options":  [
                                           "backup isolated from production network to resist compromise",
@@ -2545,7 +2053,7 @@
                           "explanation":  "Access Control refers to: restriction of backup system access to authorized users."
                       },
                       {
-                          "id":  213,
+                          "id":  172,
                           "question":  "\u0027Access Control\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Types and Strategies",
@@ -2557,19 +2065,7 @@
                           "explanation":  "Access Control is mainly part of Security and Compliance."
                       },
                       {
-                          "id":  214,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Retention Period -\u003e restriction of backup system access to authorized users",
-                                          "Data Classification -\u003e restriction of backup system access to authorized users",
-                                          "Access Control -\u003e restriction of backup system access to authorized users",
-                                          "Backup Encryption -\u003e restriction of backup system access to authorized users"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Access Control -\u003e restriction of backup system access to authorized users\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  215,
+                          "id":  173,
                           "question":  "A Bank SO IT resilience requirement states: restriction of backup system access to authorized users. Which concept should be selected?",
                           "options":  [
                                           "Critical System",
@@ -2581,7 +2077,7 @@
                           "explanation":  "The requirement directly points to Access Control."
                       },
                       {
-                          "id":  216,
+                          "id":  174,
                           "question":  "Which backup/DR concept best matches: separation of backup administration and approval roles?",
                           "options":  [
                                           "Backup",
@@ -2593,7 +2089,7 @@
                           "explanation":  "Segregation of Duties is defined as: separation of backup administration and approval roles."
                       },
                       {
-                          "id":  217,
+                          "id":  175,
                           "question":  "What is the most accurate description of \u0027Segregation of Duties\u0027?",
                           "options":  [
                                           "separation of backup administration and approval roles",
@@ -2605,7 +2101,7 @@
                           "explanation":  "Segregation of Duties refers to: separation of backup administration and approval roles."
                       },
                       {
-                          "id":  218,
+                          "id":  176,
                           "question":  "\u0027Segregation of Duties\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Validation and Testing",
@@ -2617,19 +2113,7 @@
                           "explanation":  "Segregation of Duties is mainly part of Security and Compliance."
                       },
                       {
-                          "id":  219,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Air-Gapped Backup -\u003e separation of backup administration and approval roles",
-                                          "Synthetic Full Backup -\u003e separation of backup administration and approval roles",
-                                          "Regulatory Compliance -\u003e separation of backup administration and approval roles",
-                                          "Segregation of Duties -\u003e separation of backup administration and approval roles"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Segregation of Duties -\u003e separation of backup administration and approval roles\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  220,
+                          "id":  177,
                           "question":  "A Bank SO IT resilience requirement states: separation of backup administration and approval roles. Which concept should be selected?",
                           "options":  [
                                           "Segregation of Duties",
@@ -2641,7 +2125,7 @@
                           "explanation":  "The requirement directly points to Segregation of Duties."
                       },
                       {
-                          "id":  221,
+                          "id":  178,
                           "question":  "Which backup/DR concept best matches: capability to recover safely from ransomware incidents?",
                           "options":  [
                                           "Tabletop Exercise",
@@ -2653,7 +2137,7 @@
                           "explanation":  "Ransomware Resilience is defined as: capability to recover safely from ransomware incidents."
                       },
                       {
-                          "id":  222,
+                          "id":  179,
                           "question":  "What is the most accurate description of \u0027Ransomware Resilience\u0027?",
                           "options":  [
                                           "capability to recover safely from ransomware incidents",
@@ -2665,7 +2149,7 @@
                           "explanation":  "Ransomware Resilience refers to: capability to recover safely from ransomware incidents."
                       },
                       {
-                          "id":  223,
+                          "id":  180,
                           "question":  "\u0027Ransomware Resilience\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Validation and Testing",
@@ -2677,19 +2161,7 @@
                           "explanation":  "Ransomware Resilience is mainly part of Security and Compliance."
                       },
                       {
-                          "id":  224,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Tabletop Exercise -\u003e capability to recover safely from ransomware incidents",
-                                          "Log Retention -\u003e capability to recover safely from ransomware incidents",
-                                          "Retention Period -\u003e capability to recover safely from ransomware incidents",
-                                          "Ransomware Resilience -\u003e capability to recover safely from ransomware incidents"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Ransomware Resilience -\u003e capability to recover safely from ransomware incidents\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  225,
+                          "id":  181,
                           "question":  "A Bank SO IT resilience requirement states: capability to recover safely from ransomware incidents. Which concept should be selected?",
                           "options":  [
                                           "Ransomware Resilience",
@@ -2701,7 +2173,7 @@
                           "explanation":  "The requirement directly points to Ransomware Resilience."
                       },
                       {
-                          "id":  226,
+                          "id":  182,
                           "question":  "Which backup/DR concept best matches: backup isolated from production network to resist compromise?",
                           "options":  [
                                           "Air-Gapped Backup",
@@ -2713,7 +2185,7 @@
                           "explanation":  "Air-Gapped Backup is defined as: backup isolated from production network to resist compromise."
                       },
                       {
-                          "id":  227,
+                          "id":  183,
                           "question":  "What is the most accurate description of \u0027Air-Gapped Backup\u0027?",
                           "options":  [
                                           "backup isolated from production network to resist compromise",
@@ -2725,7 +2197,7 @@
                           "explanation":  "Air-Gapped Backup refers to: backup isolated from production network to resist compromise."
                       },
                       {
-                          "id":  228,
+                          "id":  184,
                           "question":  "\u0027Air-Gapped Backup\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Recovery Objectives",
@@ -2737,19 +2209,7 @@
                           "explanation":  "Air-Gapped Backup is mainly part of Security and Compliance."
                       },
                       {
-                          "id":  229,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Air-Gapped Backup -\u003e backup isolated from production network to resist compromise",
-                                          "Differential Backup -\u003e backup isolated from production network to resist compromise",
-                                          "Failback -\u003e backup isolated from production network to resist compromise",
-                                          "Incremental Backup -\u003e backup isolated from production network to resist compromise"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Air-Gapped Backup -\u003e backup isolated from production network to resist compromise\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  230,
+                          "id":  185,
                           "question":  "A Bank SO IT resilience requirement states: backup isolated from production network to resist compromise. Which concept should be selected?",
                           "options":  [
                                           "Ransomware Resilience",
@@ -2761,7 +2221,7 @@
                           "explanation":  "The requirement directly points to Air-Gapped Backup."
                       },
                       {
-                          "id":  231,
+                          "id":  186,
                           "question":  "Which backup/DR concept best matches: requirement that data remains within specific legal jurisdictions?",
                           "options":  [
                                           "Backup",
@@ -2773,7 +2233,7 @@
                           "explanation":  "Data Sovereignty is defined as: requirement that data remains within specific legal jurisdictions."
                       },
                       {
-                          "id":  232,
+                          "id":  187,
                           "question":  "What is the most accurate description of \u0027Data Sovereignty\u0027?",
                           "options":  [
                                           "requirement that data remains within specific legal jurisdictions",
@@ -2785,7 +2245,7 @@
                           "explanation":  "Data Sovereignty refers to: requirement that data remains within specific legal jurisdictions."
                       },
                       {
-                          "id":  233,
+                          "id":  188,
                           "question":  "\u0027Data Sovereignty\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Security and Compliance",
@@ -2797,19 +2257,7 @@
                           "explanation":  "Data Sovereignty is mainly part of Security and Compliance."
                       },
                       {
-                          "id":  234,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "RTO -\u003e requirement that data remains within specific legal jurisdictions",
-                                          "Data Sovereignty -\u003e requirement that data remains within specific legal jurisdictions",
-                                          "Tabletop Exercise -\u003e requirement that data remains within specific legal jurisdictions",
-                                          "Backup Policy -\u003e requirement that data remains within specific legal jurisdictions"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Data Sovereignty -\u003e requirement that data remains within specific legal jurisdictions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  235,
+                          "id":  189,
                           "question":  "A Bank SO IT resilience requirement states: requirement that data remains within specific legal jurisdictions. Which concept should be selected?",
                           "options":  [
                                           "Disaster Recovery",
@@ -2821,7 +2269,7 @@
                           "explanation":  "The requirement directly points to Data Sovereignty."
                       },
                       {
-                          "id":  236,
+                          "id":  190,
                           "question":  "Which backup/DR concept best matches: adherence to applicable banking and security regulations?",
                           "options":  [
                                           "Cold Site",
@@ -2833,7 +2281,7 @@
                           "explanation":  "Regulatory Compliance is defined as: adherence to applicable banking and security regulations."
                       },
                       {
-                          "id":  237,
+                          "id":  191,
                           "question":  "What is the most accurate description of \u0027Regulatory Compliance\u0027?",
                           "options":  [
                                           "backup containing changes since last backup of any type",
@@ -2845,7 +2293,7 @@
                           "explanation":  "Regulatory Compliance refers to: adherence to applicable banking and security regulations."
                       },
                       {
-                          "id":  238,
+                          "id":  192,
                           "question":  "\u0027Regulatory Compliance\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Security and Compliance",
@@ -2857,19 +2305,7 @@
                           "explanation":  "Regulatory Compliance is mainly part of Security and Compliance."
                       },
                       {
-                          "id":  239,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Air-Gapped Backup -\u003e adherence to applicable banking and security regulations",
-                                          "Checksum Validation -\u003e adherence to applicable banking and security regulations",
-                                          "Regulatory Compliance -\u003e adherence to applicable banking and security regulations",
-                                          "Gap Analysis -\u003e adherence to applicable banking and security regulations"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Regulatory Compliance -\u003e adherence to applicable banking and security regulations\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  240,
+                          "id":  193,
                           "question":  "A Bank SO IT resilience requirement states: adherence to applicable banking and security regulations. Which concept should be selected?",
                           "options":  [
                                           "Cold Site",
@@ -2881,7 +2317,7 @@
                           "explanation":  "The requirement directly points to Regulatory Compliance."
                       },
                       {
-                          "id":  241,
+                          "id":  194,
                           "question":  "Which backup/DR concept best matches: preservation of backup operation logs for audit and investigation?",
                           "options":  [
                                           "Snapshot",
@@ -2893,7 +2329,7 @@
                           "explanation":  "Log Retention is defined as: preservation of backup operation logs for audit and investigation."
                       },
                       {
-                          "id":  242,
+                          "id":  195,
                           "question":  "What is the most accurate description of \u0027Log Retention\u0027?",
                           "options":  [
                                           "preservation of backup operation logs for audit and investigation",
@@ -2905,7 +2341,7 @@
                           "explanation":  "Log Retention refers to: preservation of backup operation logs for audit and investigation."
                       },
                       {
-                          "id":  243,
+                          "id":  196,
                           "question":  "\u0027Log Retention\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Recovery Objectives",
@@ -2917,19 +2353,7 @@
                           "explanation":  "Log Retention is mainly part of Security and Compliance."
                       },
                       {
-                          "id":  244,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Incremental Backup -\u003e preservation of backup operation logs for audit and investigation",
-                                          "Log Retention -\u003e preservation of backup operation logs for audit and investigation",
-                                          "Business Continuity -\u003e preservation of backup operation logs for audit and investigation",
-                                          "Retention Period -\u003e preservation of backup operation logs for audit and investigation"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Log Retention -\u003e preservation of backup operation logs for audit and investigation\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  245,
+                          "id":  197,
                           "question":  "A Bank SO IT resilience requirement states: preservation of backup operation logs for audit and investigation. Which concept should be selected?",
                           "options":  [
                                           "Log Retention",
@@ -2941,7 +2365,7 @@
                           "explanation":  "The requirement directly points to Log Retention."
                       },
                       {
-                          "id":  246,
+                          "id":  198,
                           "question":  "Which backup/DR concept best matches: timely notification path for backup/recovery failures?",
                           "options":  [
                                           "Incident Escalation",
@@ -2953,7 +2377,7 @@
                           "explanation":  "Incident Escalation is defined as: timely notification path for backup/recovery failures."
                       },
                       {
-                          "id":  247,
+                          "id":  199,
                           "question":  "What is the most accurate description of \u0027Incident Escalation\u0027?",
                           "options":  [
                                           "system whose unavailability causes significant business impact",
@@ -2965,7 +2389,7 @@
                           "explanation":  "Incident Escalation refers to: timely notification path for backup/recovery failures."
                       },
                       {
-                          "id":  248,
+                          "id":  200,
                           "question":  "\u0027Incident Escalation\u0027 belongs mainly to which backup/disaster recovery area?",
                           "options":  [
                                           "Backup Fundamentals",
@@ -2977,19 +2401,7 @@
                           "explanation":  "Incident Escalation is mainly part of Security and Compliance."
                       },
                       {
-                          "id":  249,
-                          "question":  "Identify the correct backup/DR term-definition mapping.",
-                          "options":  [
-                                          "Key Management -\u003e timely notification path for backup/recovery failures",
-                                          "Cold Site -\u003e timely notification path for backup/recovery failures",
-                                          "Incident Escalation -\u003e timely notification path for backup/recovery failures",
-                                          "Data Sovereignty -\u003e timely notification path for backup/recovery failures"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Incident Escalation -\u003e timely notification path for backup/recovery failures\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  250,
+                          "id":  201,
                           "question":  "A Bank SO IT resilience requirement states: timely notification path for backup/recovery failures. Which concept should be selected?",
                           "options":  [
                                           "Incident Escalation",

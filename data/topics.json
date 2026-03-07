@@ -1,156 +1,156 @@
-{
-  "topics": [
-    {
-      "id": "computer_networks_cyber_security",
-      "examId": "bank_so_it",
-      "name": "Computer Networks and Cyber Security",
-      "file": "computer_networks_cyber_security.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "operating_system",
-      "examId": "bank_so_it",
-      "name": "Operating System",
-      "file": "operating_system.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "database_management_system",
-      "examId": "bank_so_it",
-      "name": "Database Management System",
-      "file": "database_management_system.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "computer_architecture",
-      "examId": "bank_so_it",
-      "name": "Computer Architecture",
-      "file": "computer_architecture.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "software_engineering",
-      "examId": "bank_so_it",
-      "name": "Software Engineering",
-      "file": "software_engineering.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "cloud_devops",
-      "examId": "bank_so_it",
-      "name": "Cloud and DevOps",
-      "file": "cloud_devops.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "programming_software_development",
-      "examId": "bank_so_it",
-      "name": "Programming and Software Development",
-      "file": "programming_software_development.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "data_structure_algorithm",
-      "examId": "bank_so_it",
-      "name": "Data Structure and Algorithm",
-      "file": "data_structure_algorithm.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "web_app_development_fundamentals",
-      "examId": "bank_so_it",
-      "name": "Web and Application Development Fundamentals",
-      "file": "web_app_development_fundamentals.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "cryptography_digital_security",
-      "examId": "bank_so_it",
-      "name": "Cryptography and Digital Security",
-      "file": "cryptography_digital_security.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "secure_coding_web_security",
-      "examId": "bank_so_it",
-      "name": "Secure Coding and Web Security",
-      "file": "secure_coding_web_security.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "core_banking_digital_banking",
-      "examId": "bank_so_it",
-      "name": "Core Banking and Digital Banking",
-      "file": "core_banking_digital_banking.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "payment_systems_transaction_flow",
-      "examId": "bank_so_it",
-      "name": "Payment Systems and Transaction Flow",
-      "file": "payment_systems_transaction_flow.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "atm_card_technology",
-      "examId": "bank_so_it",
-      "name": "ATM and Card Technology",
-      "file": "atm_card_technology.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "it_operations_incident_management",
-      "examId": "bank_so_it",
-      "name": "IT Operations and Incident Management",
-      "file": "it_operations_incident_management.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "monitoring_logging",
-      "examId": "bank_so_it",
-      "name": "Monitoring and Logging",
-      "file": "monitoring_logging.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "banking_cyber_security",
-      "examId": "bank_so_it",
-      "name": "Banking Cyber Security",
-      "file": "banking_cyber_security.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "backup_disaster_recovery",
-      "examId": "bank_so_it",
-      "name": "Backup and Disaster Recovery",
-      "file": "backup_disaster_recovery.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    },
-    {
-      "id": "email_systems",
-      "examId": "bank_so_it",
-      "name": "Email Systems",
-      "file": "email_systems.json",
-      "questionCount": 250,
-      "durationMinutes": 180
-    }
-  ]
+﻿{
+    "topics":  [
+                   {
+                       "id":  "computer_networks_cyber_security",
+                       "examId":  "bank_so_it",
+                       "name":  "Computer Networks and Cyber Security",
+                       "file":  "computer_networks_cyber_security.json",
+                       "questionCount":  902,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "operating_system",
+                       "examId":  "bank_so_it",
+                       "name":  "Operating System",
+                       "file":  "operating_system.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "database_management_system",
+                       "examId":  "bank_so_it",
+                       "name":  "Database Management System",
+                       "file":  "database_management_system.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "computer_architecture",
+                       "examId":  "bank_so_it",
+                       "name":  "Computer Architecture",
+                       "file":  "computer_architecture.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "software_engineering",
+                       "examId":  "bank_so_it",
+                       "name":  "Software Engineering",
+                       "file":  "software_engineering.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "cloud_devops",
+                       "examId":  "bank_so_it",
+                       "name":  "Cloud and DevOps",
+                       "file":  "cloud_devops.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "programming_software_development",
+                       "examId":  "bank_so_it",
+                       "name":  "Programming and Software Development",
+                       "file":  "programming_software_development.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "data_structure_algorithm",
+                       "examId":  "bank_so_it",
+                       "name":  "Data Structure and Algorithm",
+                       "file":  "data_structure_algorithm.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "web_app_development_fundamentals",
+                       "examId":  "bank_so_it",
+                       "name":  "Web and Application Development Fundamentals",
+                       "file":  "web_app_development_fundamentals.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "cryptography_digital_security",
+                       "examId":  "bank_so_it",
+                       "name":  "Cryptography and Digital Security",
+                       "file":  "cryptography_digital_security.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "secure_coding_web_security",
+                       "examId":  "bank_so_it",
+                       "name":  "Secure Coding and Web Security",
+                       "file":  "secure_coding_web_security.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "core_banking_digital_banking",
+                       "examId":  "bank_so_it",
+                       "name":  "Core Banking and Digital Banking",
+                       "file":  "core_banking_digital_banking.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "payment_systems_transaction_flow",
+                       "examId":  "bank_so_it",
+                       "name":  "Payment Systems and Transaction Flow",
+                       "file":  "payment_systems_transaction_flow.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "atm_card_technology",
+                       "examId":  "bank_so_it",
+                       "name":  "ATM and Card Technology",
+                       "file":  "atm_card_technology.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "it_operations_incident_management",
+                       "examId":  "bank_so_it",
+                       "name":  "IT Operations and Incident Management",
+                       "file":  "it_operations_incident_management.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "monitoring_logging",
+                       "examId":  "bank_so_it",
+                       "name":  "Monitoring and Logging",
+                       "file":  "monitoring_logging.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "banking_cyber_security",
+                       "examId":  "bank_so_it",
+                       "name":  "Banking Cyber Security",
+                       "file":  "banking_cyber_security.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "backup_disaster_recovery",
+                       "examId":  "bank_so_it",
+                       "name":  "Backup and Disaster Recovery",
+                       "file":  "backup_disaster_recovery.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   },
+                   {
+                       "id":  "email_systems",
+                       "examId":  "bank_so_it",
+                       "name":  "Email Systems",
+                       "file":  "email_systems.json",
+                       "questionCount":  201,
+                       "durationMinutes":  180
+                   }
+               ]
 }

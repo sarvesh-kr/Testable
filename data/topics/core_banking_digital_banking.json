@@ -98,18 +98,6 @@
                       },
                       {
                           "id":  9,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "CBS Parameterization -\u003e configuring product, interest, and rule settings in core banking",
-                                          "Risk Rating -\u003e configuring product, interest, and rule settings in core banking",
-                                          "ISO 20022 -\u003e configuring product, interest, and rule settings in core banking",
-                                          "End of Day Processing -\u003e configuring product, interest, and rule settings in core banking"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027CBS Parameterization -\u003e configuring product, interest, and rule settings in core banking\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  10,
                           "question":  "A Bank SO IT requirement states: configuring product, interest, and rule settings in core banking. Which concept should be selected?",
                           "options":  [
                                           "Personalization",
@@ -121,7 +109,7 @@
                           "explanation":  "The requirement directly points to CBS Parameterization."
                       },
                       {
-                          "id":  11,
+                          "id":  10,
                           "question":  "Which core/digital banking concept best matches: unique customer master profile used across banking products?",
                           "options":  [
                                           "Customer Information File",
@@ -133,7 +121,7 @@
                           "explanation":  "Customer Information File is defined as: unique customer master profile used across banking products."
                       },
                       {
-                          "id":  12,
+                          "id":  11,
                           "question":  "What is the most accurate description of \u0027Customer Information File\u0027?",
                           "options":  [
                                           "regulated secure sharing of banking data via APIs",
@@ -145,7 +133,7 @@
                           "explanation":  "Customer Information File refers to: unique customer master profile used across banking products."
                       },
                       {
-                          "id":  13,
+                          "id":  12,
                           "question":  "\u0027Customer Information File\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Payments Integration",
@@ -157,19 +145,7 @@
                           "explanation":  "Customer Information File is mainly part of Core Banking Fundamentals."
                       },
                       {
-                          "id":  14,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Customer Information File -\u003e unique customer master profile used across banking products",
-                                          "Personalization -\u003e unique customer master profile used across banking products",
-                                          "Open Banking -\u003e unique customer master profile used across banking products",
-                                          "Multi-Factor Authentication -\u003e unique customer master profile used across banking products"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Customer Information File -\u003e unique customer master profile used across banking products\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  15,
+                          "id":  13,
                           "question":  "A Bank SO IT requirement states: unique customer master profile used across banking products. Which concept should be selected?",
                           "options":  [
                                           "NEFT Integration",
@@ -181,7 +157,7 @@
                           "explanation":  "The requirement directly points to Customer Information File."
                       },
                       {
-                          "id":  16,
+                          "id":  14,
                           "question":  "Which core/digital banking concept best matches: current and savings account product category?",
                           "options":  [
                                           "CASA",
@@ -193,7 +169,7 @@
                           "explanation":  "CASA is defined as: current and savings account product category."
                       },
                       {
-                          "id":  17,
+                          "id":  15,
                           "question":  "What is the most accurate description of \u0027CASA\u0027?",
                           "options":  [
                                           "access model assigning permissions according to roles",
@@ -205,7 +181,7 @@
                           "explanation":  "CASA refers to: current and savings account product category."
                       },
                       {
-                          "id":  18,
+                          "id":  16,
                           "question":  "\u0027CASA\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Core Banking Fundamentals",
@@ -217,19 +193,7 @@
                           "explanation":  "CASA is mainly part of Core Banking Fundamentals."
                       },
                       {
-                          "id":  19,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Personalization -\u003e current and savings account product category",
-                                          "CASA -\u003e current and savings account product category",
-                                          "Internet Banking -\u003e current and savings account product category",
-                                          "Audit Trail -\u003e current and savings account product category"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027CASA -\u003e current and savings account product category\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  20,
+                          "id":  17,
                           "question":  "A Bank SO IT requirement states: current and savings account product category. Which concept should be selected?",
                           "options":  [
                                           "Customer Journey",
@@ -241,7 +205,7 @@
                           "explanation":  "The requirement directly points to CASA."
                       },
                       {
-                          "id":  21,
+                          "id":  18,
                           "question":  "Which core/digital banking concept best matches: master accounting book recording all financial entries?",
                           "options":  [
                                           "CFT",
@@ -253,7 +217,7 @@
                           "explanation":  "General Ledger is defined as: master accounting book recording all financial entries."
                       },
                       {
-                          "id":  22,
+                          "id":  19,
                           "question":  "What is the most accurate description of \u0027General Ledger\u0027?",
                           "options":  [
                                           "regulated secure sharing of banking data via APIs",
@@ -265,7 +229,7 @@
                           "explanation":  "General Ledger refers to: master accounting book recording all financial entries."
                       },
                       {
-                          "id":  23,
+                          "id":  20,
                           "question":  "\u0027General Ledger\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Compliance and Risk",
@@ -277,19 +241,7 @@
                           "explanation":  "General Ledger is mainly part of Core Banking Fundamentals."
                       },
                       {
-                          "id":  24,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Internet Banking -\u003e master accounting book recording all financial entries",
-                                          "General Ledger -\u003e master accounting book recording all financial entries",
-                                          "API Banking -\u003e master accounting book recording all financial entries",
-                                          "Digital Onboarding -\u003e master accounting book recording all financial entries"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027General Ledger -\u003e master accounting book recording all financial entries\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  25,
+                          "id":  21,
                           "question":  "A Bank SO IT requirement states: master accounting book recording all financial entries. Which concept should be selected?",
                           "options":  [
                                           "SWIFT Messaging",
@@ -301,7 +253,7 @@
                           "explanation":  "The requirement directly points to General Ledger."
                       },
                       {
-                          "id":  26,
+                          "id":  22,
                           "question":  "Which core/digital banking concept best matches: daily batch operations for closure, interest, and reconciliation?",
                           "options":  [
                                           "Core Banking System",
@@ -313,7 +265,7 @@
                           "explanation":  "End of Day Processing is defined as: daily batch operations for closure, interest, and reconciliation."
                       },
                       {
-                          "id":  27,
+                          "id":  23,
                           "question":  "What is the most accurate description of \u0027End of Day Processing\u0027?",
                           "options":  [
                                           "opening day activities enabling transaction processing",
@@ -325,7 +277,7 @@
                           "explanation":  "End of Day Processing refers to: daily batch operations for closure, interest, and reconciliation."
                       },
                       {
-                          "id":  28,
+                          "id":  24,
                           "question":  "\u0027End of Day Processing\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Payments Integration",
@@ -337,19 +289,7 @@
                           "explanation":  "End of Day Processing is mainly part of Core Banking Fundamentals."
                       },
                       {
-                          "id":  29,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "SWIFT Messaging -\u003e daily batch operations for closure, interest, and reconciliation",
-                                          "End of Day Processing -\u003e daily batch operations for closure, interest, and reconciliation",
-                                          "NEFT Integration -\u003e daily batch operations for closure, interest, and reconciliation",
-                                          "API Banking -\u003e daily batch operations for closure, interest, and reconciliation"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027End of Day Processing -\u003e daily batch operations for closure, interest, and reconciliation\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  30,
+                          "id":  25,
                           "question":  "A Bank SO IT requirement states: daily batch operations for closure, interest, and reconciliation. Which concept should be selected?",
                           "options":  [
                                           "Core Banking System",
@@ -361,7 +301,7 @@
                           "explanation":  "The requirement directly points to End of Day Processing."
                       },
                       {
-                          "id":  31,
+                          "id":  26,
                           "question":  "Which core/digital banking concept best matches: opening day activities enabling transaction processing?",
                           "options":  [
                                           "RPO",
@@ -373,7 +313,7 @@
                           "explanation":  "Start of Day Processing is defined as: opening day activities enabling transaction processing."
                       },
                       {
-                          "id":  32,
+                          "id":  27,
                           "question":  "What is the most accurate description of \u0027Start of Day Processing\u0027?",
                           "options":  [
                                           "linking digital banking access to registered customer device",
@@ -385,7 +325,7 @@
                           "explanation":  "Start of Day Processing refers to: opening day activities enabling transaction processing."
                       },
                       {
-                          "id":  33,
+                          "id":  28,
                           "question":  "\u0027Start of Day Processing\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Security and Operations",
@@ -397,19 +337,7 @@
                           "explanation":  "Start of Day Processing is mainly part of Core Banking Fundamentals."
                       },
                       {
-                          "id":  34,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Open Banking -\u003e opening day activities enabling transaction processing",
-                                          "Start of Day Processing -\u003e opening day activities enabling transaction processing",
-                                          "Device Binding -\u003e opening day activities enabling transaction processing",
-                                          "Velocity Check -\u003e opening day activities enabling transaction processing"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Start of Day Processing -\u003e opening day activities enabling transaction processing\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  35,
+                          "id":  29,
                           "question":  "A Bank SO IT requirement states: opening day activities enabling transaction processing. Which concept should be selected?",
                           "options":  [
                                           "RPO",
@@ -421,7 +349,7 @@
                           "explanation":  "The requirement directly points to Start of Day Processing."
                       },
                       {
-                          "id":  36,
+                          "id":  30,
                           "question":  "Which core/digital banking concept best matches: dual-control workflow where one user creates and another authorizes?",
                           "options":  [
                                           "Maker Checker",
@@ -433,7 +361,7 @@
                           "explanation":  "Maker Checker is defined as: dual-control workflow where one user creates and another authorizes."
                       },
                       {
-                          "id":  37,
+                          "id":  31,
                           "question":  "What is the most accurate description of \u0027Maker Checker\u0027?",
                           "options":  [
                                           "dual-control workflow where one user creates and another authorizes",
@@ -445,7 +373,7 @@
                           "explanation":  "Maker Checker refers to: dual-control workflow where one user creates and another authorizes."
                       },
                       {
-                          "id":  38,
+                          "id":  32,
                           "question":  "\u0027Maker Checker\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Compliance and Risk",
@@ -457,19 +385,7 @@
                           "explanation":  "Maker Checker is mainly part of Core Banking Fundamentals."
                       },
                       {
-                          "id":  39,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Maker Checker -\u003e dual-control workflow where one user creates and another authorizes",
-                                          "API Banking -\u003e dual-control workflow where one user creates and another authorizes",
-                                          "AML -\u003e dual-control workflow where one user creates and another authorizes",
-                                          "NEFT Integration -\u003e dual-control workflow where one user creates and another authorizes"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Maker Checker -\u003e dual-control workflow where one user creates and another authorizes\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  40,
+                          "id":  33,
                           "question":  "A Bank SO IT requirement states: dual-control workflow where one user creates and another authorizes. Which concept should be selected?",
                           "options":  [
                                           "Start of Day Processing",
@@ -481,7 +397,7 @@
                           "explanation":  "The requirement directly points to Maker Checker."
                       },
                       {
-                          "id":  41,
+                          "id":  34,
                           "question":  "Which core/digital banking concept best matches: automated transaction flow without manual intervention?",
                           "options":  [
                                           "Velocity Check",
@@ -493,7 +409,7 @@
                           "explanation":  "Straight Through Processing is defined as: automated transaction flow without manual intervention."
                       },
                       {
-                          "id":  42,
+                          "id":  35,
                           "question":  "What is the most accurate description of \u0027Straight Through Processing\u0027?",
                           "options":  [
                                           "configuring permissible transfer and withdrawal thresholds",
@@ -505,7 +421,7 @@
                           "explanation":  "Straight Through Processing refers to: automated transaction flow without manual intervention."
                       },
                       {
-                          "id":  43,
+                          "id":  36,
                           "question":  "\u0027Straight Through Processing\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Payments Integration",
@@ -517,19 +433,7 @@
                           "explanation":  "Straight Through Processing is mainly part of Core Banking Fundamentals."
                       },
                       {
-                          "id":  44,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Disaster Recovery -\u003e automated transaction flow without manual intervention",
-                                          "Mobile Banking -\u003e automated transaction flow without manual intervention",
-                                          "Digital Onboarding -\u003e automated transaction flow without manual intervention",
-                                          "Straight Through Processing -\u003e automated transaction flow without manual intervention"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Straight Through Processing -\u003e automated transaction flow without manual intervention\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  45,
+                          "id":  37,
                           "question":  "A Bank SO IT requirement states: automated transaction flow without manual intervention. Which concept should be selected?",
                           "options":  [
                                           "Customer Journey",
@@ -541,7 +445,7 @@
                           "explanation":  "The requirement directly points to Straight Through Processing."
                       },
                       {
-                          "id":  46,
+                          "id":  38,
                           "question":  "Which core/digital banking concept best matches: matching records between systems to identify discrepancies?",
                           "options":  [
                                           "ISO 20022",
@@ -553,7 +457,7 @@
                           "explanation":  "Reconciliation is defined as: matching records between systems to identify discrepancies."
                       },
                       {
-                          "id":  47,
+                          "id":  39,
                           "question":  "What is the most accurate description of \u0027Reconciliation\u0027?",
                           "options":  [
                                           "configuring product, interest, and rule settings in core banking",
@@ -565,7 +469,7 @@
                           "explanation":  "Reconciliation refers to: matching records between systems to identify discrepancies."
                       },
                       {
-                          "id":  48,
+                          "id":  40,
                           "question":  "\u0027Reconciliation\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Core Banking Fundamentals",
@@ -577,19 +481,7 @@
                           "explanation":  "Reconciliation is mainly part of Core Banking Fundamentals."
                       },
                       {
-                          "id":  49,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "IMPS Integration -\u003e matching records between systems to identify discrepancies",
-                                          "Disaster Recovery -\u003e matching records between systems to identify discrepancies",
-                                          "Reconciliation -\u003e matching records between systems to identify discrepancies",
-                                          "RPO -\u003e matching records between systems to identify discrepancies"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Reconciliation -\u003e matching records between systems to identify discrepancies\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  50,
+                          "id":  41,
                           "question":  "A Bank SO IT requirement states: matching records between systems to identify discrepancies. Which concept should be selected?",
                           "options":  [
                                           "RPO",
@@ -601,7 +493,7 @@
                           "explanation":  "The requirement directly points to Reconciliation."
                       },
                       {
-                          "id":  51,
+                          "id":  42,
                           "question":  "Which core/digital banking concept best matches: customer due diligence process for identity and risk verification?",
                           "options":  [
                                           "NEFT Integration",
@@ -613,7 +505,7 @@
                           "explanation":  "KYC is defined as: customer due diligence process for identity and risk verification."
                       },
                       {
-                          "id":  52,
+                          "id":  43,
                           "question":  "What is the most accurate description of \u0027KYC\u0027?",
                           "options":  [
                                           "financial messaging standard for interoperable payments",
@@ -625,7 +517,7 @@
                           "explanation":  "KYC refers to: customer due diligence process for identity and risk verification."
                       },
                       {
-                          "id":  53,
+                          "id":  44,
                           "question":  "\u0027KYC\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Compliance and Risk",
@@ -637,19 +529,7 @@
                           "explanation":  "KYC is mainly part of Compliance and Risk."
                       },
                       {
-                          "id":  54,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "RTO -\u003e customer due diligence process for identity and risk verification",
-                                          "KYC -\u003e customer due diligence process for identity and risk verification",
-                                          "Nostro Reconciliation -\u003e customer due diligence process for identity and risk verification",
-                                          "Customer Information File -\u003e customer due diligence process for identity and risk verification"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027KYC -\u003e customer due diligence process for identity and risk verification\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  55,
+                          "id":  45,
                           "question":  "A Bank SO IT requirement states: customer due diligence process for identity and risk verification. Which concept should be selected?",
                           "options":  [
                                           "KYC",
@@ -661,7 +541,7 @@
                           "explanation":  "The requirement directly points to KYC."
                       },
                       {
-                          "id":  56,
+                          "id":  46,
                           "question":  "Which core/digital banking concept best matches: controls and monitoring to prevent money laundering?",
                           "options":  [
                                           "eKYC",
@@ -673,7 +553,7 @@
                           "explanation":  "AML is defined as: controls and monitoring to prevent money laundering."
                       },
                       {
-                          "id":  57,
+                          "id":  47,
                           "question":  "What is the most accurate description of \u0027AML\u0027?",
                           "options":  [
                                           "controls and monitoring to prevent money laundering",
@@ -685,7 +565,7 @@
                           "explanation":  "AML refers to: controls and monitoring to prevent money laundering."
                       },
                       {
-                          "id":  58,
+                          "id":  48,
                           "question":  "\u0027AML\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Security and Operations",
@@ -697,19 +577,7 @@
                           "explanation":  "AML is mainly part of Compliance and Risk."
                       },
                       {
-                          "id":  59,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Customer Journey -\u003e controls and monitoring to prevent money laundering",
-                                          "Reconciliation -\u003e controls and monitoring to prevent money laundering",
-                                          "Digital Onboarding -\u003e controls and monitoring to prevent money laundering",
-                                          "AML -\u003e controls and monitoring to prevent money laundering"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027AML -\u003e controls and monitoring to prevent money laundering\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  60,
+                          "id":  49,
                           "question":  "A Bank SO IT requirement states: controls and monitoring to prevent money laundering. Which concept should be selected?",
                           "options":  [
                                           "Fraud Detection Engine",
@@ -721,7 +589,7 @@
                           "explanation":  "The requirement directly points to AML."
                       },
                       {
-                          "id":  61,
+                          "id":  50,
                           "question":  "Which core/digital banking concept best matches: controls designed to prevent financing of terrorism?",
                           "options":  [
                                           "CFT",
@@ -733,7 +601,7 @@
                           "explanation":  "CFT is defined as: controls designed to prevent financing of terrorism."
                       },
                       {
-                          "id":  62,
+                          "id":  51,
                           "question":  "What is the most accurate description of \u0027CFT\u0027?",
                           "options":  [
                                           "linking digital banking access to registered customer device",
@@ -745,7 +613,7 @@
                           "explanation":  "CFT refers to: controls designed to prevent financing of terrorism."
                       },
                       {
-                          "id":  63,
+                          "id":  52,
                           "question":  "\u0027CFT\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Digital Banking Channels",
@@ -757,19 +625,7 @@
                           "explanation":  "CFT is mainly part of Compliance and Risk."
                       },
                       {
-                          "id":  64,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "RTO -\u003e controls designed to prevent financing of terrorism",
-                                          "CFT -\u003e controls designed to prevent financing of terrorism",
-                                          "Risk Rating -\u003e controls designed to prevent financing of terrorism",
-                                          "Business Continuity -\u003e controls designed to prevent financing of terrorism"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027CFT -\u003e controls designed to prevent financing of terrorism\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  65,
+                          "id":  53,
                           "question":  "A Bank SO IT requirement states: controls designed to prevent financing of terrorism. Which concept should be selected?",
                           "options":  [
                                           "CFT",
@@ -781,7 +637,7 @@
                           "explanation":  "The requirement directly points to CFT."
                       },
                       {
-                          "id":  66,
+                          "id":  54,
                           "question":  "Which core/digital banking concept best matches: checking customers and transactions against sanctions lists?",
                           "options":  [
                                           "IMPS Integration",
@@ -793,7 +649,7 @@
                           "explanation":  "Sanctions Screening is defined as: checking customers and transactions against sanctions lists."
                       },
                       {
-                          "id":  67,
+                          "id":  55,
                           "question":  "What is the most accurate description of \u0027Sanctions Screening\u0027?",
                           "options":  [
                                           "high-value real-time gross settlement integration",
@@ -805,7 +661,7 @@
                           "explanation":  "Sanctions Screening refers to: checking customers and transactions against sanctions lists."
                       },
                       {
-                          "id":  68,
+                          "id":  56,
                           "question":  "\u0027Sanctions Screening\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Core Banking Fundamentals",
@@ -817,19 +673,7 @@
                           "explanation":  "Sanctions Screening is mainly part of Compliance and Risk."
                       },
                       {
-                          "id":  69,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Customer Information File -\u003e checking customers and transactions against sanctions lists",
-                                          "Sanctions Screening -\u003e checking customers and transactions against sanctions lists",
-                                          "Transaction Monitoring -\u003e checking customers and transactions against sanctions lists",
-                                          "RPO -\u003e checking customers and transactions against sanctions lists"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Sanctions Screening -\u003e checking customers and transactions against sanctions lists\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  70,
+                          "id":  57,
                           "question":  "A Bank SO IT requirement states: checking customers and transactions against sanctions lists. Which concept should be selected?",
                           "options":  [
                                           "Transaction Limit Management",
@@ -841,7 +685,7 @@
                           "explanation":  "The requirement directly points to Sanctions Screening."
                       },
                       {
-                          "id":  71,
+                          "id":  58,
                           "question":  "Which core/digital banking concept best matches: identifying politically exposed persons for enhanced due diligence?",
                           "options":  [
                                           "Velocity Check",
@@ -853,7 +697,7 @@
                           "explanation":  "PEP Screening is defined as: identifying politically exposed persons for enhanced due diligence."
                       },
                       {
-                          "id":  72,
+                          "id":  59,
                           "question":  "What is the most accurate description of \u0027PEP Screening\u0027?",
                           "options":  [
                                           "matching entries in foreign currency correspondent accounts",
@@ -865,7 +709,7 @@
                           "explanation":  "PEP Screening refers to: identifying politically exposed persons for enhanced due diligence."
                       },
                       {
-                          "id":  73,
+                          "id":  60,
                           "question":  "\u0027PEP Screening\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Security and Operations",
@@ -877,19 +721,7 @@
                           "explanation":  "PEP Screening is mainly part of Compliance and Risk."
                       },
                       {
-                          "id":  74,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Nostro Reconciliation -\u003e identifying politically exposed persons for enhanced due diligence",
-                                          "Business Continuity -\u003e identifying politically exposed persons for enhanced due diligence",
-                                          "PEP Screening -\u003e identifying politically exposed persons for enhanced due diligence",
-                                          "UPI Integration -\u003e identifying politically exposed persons for enhanced due diligence"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027PEP Screening -\u003e identifying politically exposed persons for enhanced due diligence\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  75,
+                          "id":  61,
                           "question":  "A Bank SO IT requirement states: identifying politically exposed persons for enhanced due diligence. Which concept should be selected?",
                           "options":  [
                                           "Velocity Check",
@@ -901,7 +733,7 @@
                           "explanation":  "The requirement directly points to PEP Screening."
                       },
                       {
-                          "id":  76,
+                          "id":  62,
                           "question":  "Which core/digital banking concept best matches: surveillance of account activity for suspicious behavior?",
                           "options":  [
                                           "STR",
@@ -913,7 +745,7 @@
                           "explanation":  "Transaction Monitoring is defined as: surveillance of account activity for suspicious behavior."
                       },
                       {
-                          "id":  77,
+                          "id":  63,
                           "question":  "What is the most accurate description of \u0027Transaction Monitoring\u0027?",
                           "options":  [
                                           "surveillance of account activity for suspicious behavior",
@@ -925,7 +757,7 @@
                           "explanation":  "Transaction Monitoring refers to: surveillance of account activity for suspicious behavior."
                       },
                       {
-                          "id":  78,
+                          "id":  64,
                           "question":  "\u0027Transaction Monitoring\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Compliance and Risk",
@@ -937,19 +769,7 @@
                           "explanation":  "Transaction Monitoring is mainly part of Compliance and Risk."
                       },
                       {
-                          "id":  79,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "PEP Screening -\u003e surveillance of account activity for suspicious behavior",
-                                          "Video KYC -\u003e surveillance of account activity for suspicious behavior",
-                                          "Transaction Monitoring -\u003e surveillance of account activity for suspicious behavior",
-                                          "RPO -\u003e surveillance of account activity for suspicious behavior"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Transaction Monitoring -\u003e surveillance of account activity for suspicious behavior\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  80,
+                          "id":  65,
                           "question":  "A Bank SO IT requirement states: surveillance of account activity for suspicious behavior. Which concept should be selected?",
                           "options":  [
                                           "Personalization",
@@ -961,7 +781,7 @@
                           "explanation":  "The requirement directly points to Transaction Monitoring."
                       },
                       {
-                          "id":  81,
+                          "id":  66,
                           "question":  "Which core/digital banking concept best matches: report filed for suspicious transaction activity?",
                           "options":  [
                                           "Start of Day Processing",
@@ -973,7 +793,7 @@
                           "explanation":  "STR is defined as: report filed for suspicious transaction activity."
                       },
                       {
-                          "id":  82,
+                          "id":  67,
                           "question":  "What is the most accurate description of \u0027STR\u0027?",
                           "options":  [
                                           "report filed for suspicious transaction activity",
@@ -985,7 +805,7 @@
                           "explanation":  "STR refers to: report filed for suspicious transaction activity."
                       },
                       {
-                          "id":  83,
+                          "id":  68,
                           "question":  "\u0027STR\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Payments Integration",
@@ -997,19 +817,7 @@
                           "explanation":  "STR is mainly part of Compliance and Risk."
                       },
                       {
-                          "id":  84,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Disaster Recovery -\u003e report filed for suspicious transaction activity",
-                                          "Business Continuity -\u003e report filed for suspicious transaction activity",
-                                          "Video KYC -\u003e report filed for suspicious transaction activity",
-                                          "STR -\u003e report filed for suspicious transaction activity"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027STR -\u003e report filed for suspicious transaction activity\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  85,
+                          "id":  69,
                           "question":  "A Bank SO IT requirement states: report filed for suspicious transaction activity. Which concept should be selected?",
                           "options":  [
                                           "Video KYC",
@@ -1021,7 +829,7 @@
                           "explanation":  "The requirement directly points to STR."
                       },
                       {
-                          "id":  86,
+                          "id":  70,
                           "question":  "Which core/digital banking concept best matches: report filed for transactions above regulatory cash threshold?",
                           "options":  [
                                           "CTR",
@@ -1033,7 +841,7 @@
                           "explanation":  "CTR is defined as: report filed for transactions above regulatory cash threshold."
                       },
                       {
-                          "id":  87,
+                          "id":  71,
                           "question":  "What is the most accurate description of \u0027CTR\u0027?",
                           "options":  [
                                           "report filed for transactions above regulatory cash threshold",
@@ -1045,7 +853,7 @@
                           "explanation":  "CTR refers to: report filed for transactions above regulatory cash threshold."
                       },
                       {
-                          "id":  88,
+                          "id":  72,
                           "question":  "\u0027CTR\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Security and Operations",
@@ -1057,19 +865,7 @@
                           "explanation":  "CTR is mainly part of Compliance and Risk."
                       },
                       {
-                          "id":  89,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "CTR -\u003e report filed for transactions above regulatory cash threshold",
-                                          "CBS Parameterization -\u003e report filed for transactions above regulatory cash threshold",
-                                          "General Ledger -\u003e report filed for transactions above regulatory cash threshold",
-                                          "Internet Banking -\u003e report filed for transactions above regulatory cash threshold"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027CTR -\u003e report filed for transactions above regulatory cash threshold\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  90,
+                          "id":  73,
                           "question":  "A Bank SO IT requirement states: report filed for transactions above regulatory cash threshold. Which concept should be selected?",
                           "options":  [
                                           "Business Continuity",
@@ -1081,7 +877,7 @@
                           "explanation":  "The requirement directly points to CTR."
                       },
                       {
-                          "id":  91,
+                          "id":  74,
                           "question":  "Which core/digital banking concept best matches: classification of customer risk based on profile and behavior?",
                           "options":  [
                                           "CBS Parameterization",
@@ -1093,7 +889,7 @@
                           "explanation":  "Risk Rating is defined as: classification of customer risk based on profile and behavior."
                       },
                       {
-                          "id":  92,
+                          "id":  75,
                           "question":  "What is the most accurate description of \u0027Risk Rating\u0027?",
                           "options":  [
                                           "classification of customer risk based on profile and behavior",
@@ -1105,7 +901,7 @@
                           "explanation":  "Risk Rating refers to: classification of customer risk based on profile and behavior."
                       },
                       {
-                          "id":  93,
+                          "id":  76,
                           "question":  "\u0027Risk Rating\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Digital Banking Channels",
@@ -1117,19 +913,7 @@
                           "explanation":  "Risk Rating is mainly part of Compliance and Risk."
                       },
                       {
-                          "id":  94,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Disaster Recovery -\u003e classification of customer risk based on profile and behavior",
-                                          "Nostro Reconciliation -\u003e classification of customer risk based on profile and behavior",
-                                          "AML -\u003e classification of customer risk based on profile and behavior",
-                                          "Risk Rating -\u003e classification of customer risk based on profile and behavior"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Risk Rating -\u003e classification of customer risk based on profile and behavior\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  95,
+                          "id":  77,
                           "question":  "A Bank SO IT requirement states: classification of customer risk based on profile and behavior. Which concept should be selected?",
                           "options":  [
                                           "CBS Parameterization",
@@ -1141,7 +925,7 @@
                           "explanation":  "The requirement directly points to Risk Rating."
                       },
                       {
-                          "id":  96,
+                          "id":  78,
                           "question":  "Which core/digital banking concept best matches: tamper-evident log of user and system actions?",
                           "options":  [
                                           "USSD Banking",
@@ -1153,7 +937,7 @@
                           "explanation":  "Audit Trail is defined as: tamper-evident log of user and system actions."
                       },
                       {
-                          "id":  97,
+                          "id":  79,
                           "question":  "What is the most accurate description of \u0027Audit Trail\u0027?",
                           "options":  [
                                           "daily batch operations for closure, interest, and reconciliation",
@@ -1165,7 +949,7 @@
                           "explanation":  "Audit Trail refers to: tamper-evident log of user and system actions."
                       },
                       {
-                          "id":  98,
+                          "id":  80,
                           "question":  "\u0027Audit Trail\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Payments Integration",
@@ -1177,19 +961,7 @@
                           "explanation":  "Audit Trail is mainly part of Compliance and Risk."
                       },
                       {
-                          "id":  99,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Audit Trail -\u003e tamper-evident log of user and system actions",
-                                          "Disaster Recovery -\u003e tamper-evident log of user and system actions",
-                                          "ISO 20022 -\u003e tamper-evident log of user and system actions",
-                                          "Device Binding -\u003e tamper-evident log of user and system actions"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Audit Trail -\u003e tamper-evident log of user and system actions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  100,
+                          "id":  81,
                           "question":  "A Bank SO IT requirement states: tamper-evident log of user and system actions. Which concept should be selected?",
                           "options":  [
                                           "Audit Trail",
@@ -1201,7 +973,7 @@
                           "explanation":  "The requirement directly points to Audit Trail."
                       },
                       {
-                          "id":  101,
+                          "id":  82,
                           "question":  "Which core/digital banking concept best matches: banking services accessed via web browser?",
                           "options":  [
                                           "Nostro Reconciliation",
@@ -1213,7 +985,7 @@
                           "explanation":  "Internet Banking is defined as: banking services accessed via web browser."
                       },
                       {
-                          "id":  102,
+                          "id":  83,
                           "question":  "What is the most accurate description of \u0027Internet Banking\u0027?",
                           "options":  [
                                           "end-to-end sequence of customer interactions with bank",
@@ -1225,7 +997,7 @@
                           "explanation":  "Internet Banking refers to: banking services accessed via web browser."
                       },
                       {
-                          "id":  103,
+                          "id":  84,
                           "question":  "\u0027Internet Banking\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Payments Integration",
@@ -1237,19 +1009,7 @@
                           "explanation":  "Internet Banking is mainly part of Digital Banking Channels."
                       },
                       {
-                          "id":  104,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Open Banking -\u003e banking services accessed via web browser",
-                                          "IMPS Integration -\u003e banking services accessed via web browser",
-                                          "Internet Banking -\u003e banking services accessed via web browser",
-                                          "Multi-Factor Authentication -\u003e banking services accessed via web browser"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Internet Banking -\u003e banking services accessed via web browser\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  105,
+                          "id":  85,
                           "question":  "A Bank SO IT requirement states: banking services accessed via web browser. Which concept should be selected?",
                           "options":  [
                                           "Open Banking",
@@ -1261,7 +1021,7 @@
                           "explanation":  "The requirement directly points to Internet Banking."
                       },
                       {
-                          "id":  106,
+                          "id":  86,
                           "question":  "Which core/digital banking concept best matches: banking services delivered through smartphone application?",
                           "options":  [
                                           "Mobile Banking",
@@ -1273,7 +1033,7 @@
                           "explanation":  "Mobile Banking is defined as: banking services delivered through smartphone application."
                       },
                       {
-                          "id":  107,
+                          "id":  87,
                           "question":  "What is the most accurate description of \u0027Mobile Banking\u0027?",
                           "options":  [
                                           "end-to-end sequence of customer interactions with bank",
@@ -1285,7 +1045,7 @@
                           "explanation":  "Mobile Banking refers to: banking services delivered through smartphone application."
                       },
                       {
-                          "id":  108,
+                          "id":  88,
                           "question":  "\u0027Mobile Banking\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Compliance and Risk",
@@ -1297,19 +1057,7 @@
                           "explanation":  "Mobile Banking is mainly part of Digital Banking Channels."
                       },
                       {
-                          "id":  109,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "NEFT Integration -\u003e banking services delivered through smartphone application",
-                                          "Customer Journey -\u003e banking services delivered through smartphone application",
-                                          "Mobile Banking -\u003e banking services delivered through smartphone application",
-                                          "Core Banking System -\u003e banking services delivered through smartphone application"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Mobile Banking -\u003e banking services delivered through smartphone application\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  110,
+                          "id":  89,
                           "question":  "A Bank SO IT requirement states: banking services delivered through smartphone application. Which concept should be selected?",
                           "options":  [
                                           "End of Day Processing",
@@ -1321,7 +1069,7 @@
                           "explanation":  "The requirement directly points to Mobile Banking."
                       },
                       {
-                          "id":  111,
+                          "id":  90,
                           "question":  "Which core/digital banking concept best matches: banking alerts and commands via text messaging?",
                           "options":  [
                                           "eKYC",
@@ -1333,7 +1081,7 @@
                           "explanation":  "SMS Banking is defined as: banking alerts and commands via text messaging."
                       },
                       {
-                          "id":  112,
+                          "id":  91,
                           "question":  "What is the most accurate description of \u0027SMS Banking\u0027?",
                           "options":  [
                                           "banking alerts and commands via text messaging",
@@ -1345,7 +1093,7 @@
                           "explanation":  "SMS Banking refers to: banking alerts and commands via text messaging."
                       },
                       {
-                          "id":  113,
+                          "id":  92,
                           "question":  "\u0027SMS Banking\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Payments Integration",
@@ -1357,19 +1105,7 @@
                           "explanation":  "SMS Banking is mainly part of Digital Banking Channels."
                       },
                       {
-                          "id":  114,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Core Banking System -\u003e banking alerts and commands via text messaging",
-                                          "Payment Gateway -\u003e banking alerts and commands via text messaging",
-                                          "SMS Banking -\u003e banking alerts and commands via text messaging",
-                                          "Disaster Recovery -\u003e banking alerts and commands via text messaging"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027SMS Banking -\u003e banking alerts and commands via text messaging\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  115,
+                          "id":  93,
                           "question":  "A Bank SO IT requirement states: banking alerts and commands via text messaging. Which concept should be selected?",
                           "options":  [
                                           "UPI Integration",
@@ -1381,7 +1117,7 @@
                           "explanation":  "The requirement directly points to SMS Banking."
                       },
                       {
-                          "id":  116,
+                          "id":  94,
                           "question":  "Which core/digital banking concept best matches: session-based banking using telecom short codes?",
                           "options":  [
                                           "STR",
@@ -1393,7 +1129,7 @@
                           "explanation":  "USSD Banking is defined as: session-based banking using telecom short codes."
                       },
                       {
-                          "id":  117,
+                          "id":  95,
                           "question":  "What is the most accurate description of \u0027USSD Banking\u0027?",
                           "options":  [
                                           "real-time funds transfer integration through IMPS rail",
@@ -1405,7 +1141,7 @@
                           "explanation":  "USSD Banking refers to: session-based banking using telecom short codes."
                       },
                       {
-                          "id":  118,
+                          "id":  96,
                           "question":  "\u0027USSD Banking\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Core Banking Fundamentals",
@@ -1417,19 +1153,7 @@
                           "explanation":  "USSD Banking is mainly part of Digital Banking Channels."
                       },
                       {
-                          "id":  119,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Personalization -\u003e session-based banking using telecom short codes",
-                                          "eKYC -\u003e session-based banking using telecom short codes",
-                                          "Maker Checker -\u003e session-based banking using telecom short codes",
-                                          "USSD Banking -\u003e session-based banking using telecom short codes"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027USSD Banking -\u003e session-based banking using telecom short codes\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  120,
+                          "id":  97,
                           "question":  "A Bank SO IT requirement states: session-based banking using telecom short codes. Which concept should be selected?",
                           "options":  [
                                           "Payment Gateway",
@@ -1441,7 +1165,7 @@
                           "explanation":  "The requirement directly points to USSD Banking."
                       },
                       {
-                          "id":  121,
+                          "id":  98,
                           "question":  "Which core/digital banking concept best matches: unified customer experience across multiple service channels?",
                           "options":  [
                                           "Personalization",
@@ -1453,7 +1177,7 @@
                           "explanation":  "Omnichannel Banking is defined as: unified customer experience across multiple service channels."
                       },
                       {
-                          "id":  122,
+                          "id":  99,
                           "question":  "What is the most accurate description of \u0027Omnichannel Banking\u0027?",
                           "options":  [
                                           "tailoring digital experience based on customer behavior and profile",
@@ -1465,7 +1189,7 @@
                           "explanation":  "Omnichannel Banking refers to: unified customer experience across multiple service channels."
                       },
                       {
-                          "id":  123,
+                          "id":  100,
                           "question":  "\u0027Omnichannel Banking\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Digital Banking Channels",
@@ -1477,19 +1201,7 @@
                           "explanation":  "Omnichannel Banking is mainly part of Digital Banking Channels."
                       },
                       {
-                          "id":  124,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Omnichannel Banking -\u003e unified customer experience across multiple service channels",
-                                          "Open Banking -\u003e unified customer experience across multiple service channels",
-                                          "Transaction Limit Management -\u003e unified customer experience across multiple service channels",
-                                          "IMPS Integration -\u003e unified customer experience across multiple service channels"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Omnichannel Banking -\u003e unified customer experience across multiple service channels\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  125,
+                          "id":  101,
                           "question":  "A Bank SO IT requirement states: unified customer experience across multiple service channels. Which concept should be selected?",
                           "options":  [
                                           "Omnichannel Banking",
@@ -1501,7 +1213,7 @@
                           "explanation":  "The requirement directly points to Omnichannel Banking."
                       },
                       {
-                          "id":  126,
+                          "id":  102,
                           "question":  "Which core/digital banking concept best matches: remote account opening using digital verification workflows?",
                           "options":  [
                                           "Video KYC",
@@ -1513,7 +1225,7 @@
                           "explanation":  "Digital Onboarding is defined as: remote account opening using digital verification workflows."
                       },
                       {
-                          "id":  127,
+                          "id":  103,
                           "question":  "What is the most accurate description of \u0027Digital Onboarding\u0027?",
                           "options":  [
                                           "banking alerts and commands via text messaging",
@@ -1525,7 +1237,7 @@
                           "explanation":  "Digital Onboarding refers to: remote account opening using digital verification workflows."
                       },
                       {
-                          "id":  128,
+                          "id":  104,
                           "question":  "\u0027Digital Onboarding\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Core Banking Fundamentals",
@@ -1537,19 +1249,7 @@
                           "explanation":  "Digital Onboarding is mainly part of Digital Banking Channels."
                       },
                       {
-                          "id":  129,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Digital Onboarding -\u003e remote account opening using digital verification workflows",
-                                          "SMS Banking -\u003e remote account opening using digital verification workflows",
-                                          "Mobile Banking -\u003e remote account opening using digital verification workflows",
-                                          "RPO -\u003e remote account opening using digital verification workflows"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Digital Onboarding -\u003e remote account opening using digital verification workflows\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  130,
+                          "id":  105,
                           "question":  "A Bank SO IT requirement states: remote account opening using digital verification workflows. Which concept should be selected?",
                           "options":  [
                                           "Transaction Limit Management",
@@ -1561,7 +1261,7 @@
                           "explanation":  "The requirement directly points to Digital Onboarding."
                       },
                       {
-                          "id":  131,
+                          "id":  106,
                           "question":  "Which core/digital banking concept best matches: electronic KYC verification using digital identity sources?",
                           "options":  [
                                           "Start of Day Processing",
@@ -1573,7 +1273,7 @@
                           "explanation":  "eKYC is defined as: electronic KYC verification using digital identity sources."
                       },
                       {
-                          "id":  132,
+                          "id":  107,
                           "question":  "What is the most accurate description of \u0027eKYC\u0027?",
                           "options":  [
                                           "electronic KYC verification using digital identity sources",
@@ -1585,7 +1285,7 @@
                           "explanation":  "eKYC refers to: electronic KYC verification using digital identity sources."
                       },
                       {
-                          "id":  133,
+                          "id":  108,
                           "question":  "\u0027eKYC\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Security and Operations",
@@ -1597,19 +1297,7 @@
                           "explanation":  "eKYC is mainly part of Digital Banking Channels."
                       },
                       {
-                          "id":  134,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Straight Through Processing -\u003e electronic KYC verification using digital identity sources",
-                                          "AML -\u003e electronic KYC verification using digital identity sources",
-                                          "Start of Day Processing -\u003e electronic KYC verification using digital identity sources",
-                                          "eKYC -\u003e electronic KYC verification using digital identity sources"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027eKYC -\u003e electronic KYC verification using digital identity sources\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  135,
+                          "id":  109,
                           "question":  "A Bank SO IT requirement states: electronic KYC verification using digital identity sources. Which concept should be selected?",
                           "options":  [
                                           "eKYC",
@@ -1621,7 +1309,7 @@
                           "explanation":  "The requirement directly points to eKYC."
                       },
                       {
-                          "id":  136,
+                          "id":  110,
                           "question":  "Which core/digital banking concept best matches: live video-based customer due diligence process?",
                           "options":  [
                                           "AML",
@@ -1633,7 +1321,7 @@
                           "explanation":  "Video KYC is defined as: live video-based customer due diligence process."
                       },
                       {
-                          "id":  137,
+                          "id":  111,
                           "question":  "What is the most accurate description of \u0027Video KYC\u0027?",
                           "options":  [
                                           "live video-based customer due diligence process",
@@ -1645,7 +1333,7 @@
                           "explanation":  "Video KYC refers to: live video-based customer due diligence process."
                       },
                       {
-                          "id":  138,
+                          "id":  112,
                           "question":  "\u0027Video KYC\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Security and Operations",
@@ -1657,19 +1345,7 @@
                           "explanation":  "Video KYC is mainly part of Digital Banking Channels."
                       },
                       {
-                          "id":  139,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "CTR -\u003e live video-based customer due diligence process",
-                                          "Sanctions Screening -\u003e live video-based customer due diligence process",
-                                          "STR -\u003e live video-based customer due diligence process",
-                                          "Video KYC -\u003e live video-based customer due diligence process"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Video KYC -\u003e live video-based customer due diligence process\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  140,
+                          "id":  113,
                           "question":  "A Bank SO IT requirement states: live video-based customer due diligence process. Which concept should be selected?",
                           "options":  [
                                           "RTGS Integration",
@@ -1681,7 +1357,7 @@
                           "explanation":  "The requirement directly points to Video KYC."
                       },
                       {
-                          "id":  141,
+                          "id":  114,
                           "question":  "Which core/digital banking concept best matches: end-to-end sequence of customer interactions with bank?",
                           "options":  [
                                           "General Ledger",
@@ -1693,7 +1369,7 @@
                           "explanation":  "Customer Journey is defined as: end-to-end sequence of customer interactions with bank."
                       },
                       {
-                          "id":  142,
+                          "id":  115,
                           "question":  "What is the most accurate description of \u0027Customer Journey\u0027?",
                           "options":  [
                                           "capability to continue critical services during disruption",
@@ -1705,7 +1381,7 @@
                           "explanation":  "Customer Journey refers to: end-to-end sequence of customer interactions with bank."
                       },
                       {
-                          "id":  143,
+                          "id":  116,
                           "question":  "\u0027Customer Journey\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Digital Banking Channels",
@@ -1717,19 +1393,7 @@
                           "explanation":  "Customer Journey is mainly part of Digital Banking Channels."
                       },
                       {
-                          "id":  144,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Internet Banking -\u003e end-to-end sequence of customer interactions with bank",
-                                          "Payment Gateway -\u003e end-to-end sequence of customer interactions with bank",
-                                          "RTO -\u003e end-to-end sequence of customer interactions with bank",
-                                          "Customer Journey -\u003e end-to-end sequence of customer interactions with bank"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Customer Journey -\u003e end-to-end sequence of customer interactions with bank\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  145,
+                          "id":  117,
                           "question":  "A Bank SO IT requirement states: end-to-end sequence of customer interactions with bank. Which concept should be selected?",
                           "options":  [
                                           "Customer Journey",
@@ -1741,7 +1405,7 @@
                           "explanation":  "The requirement directly points to Customer Journey."
                       },
                       {
-                          "id":  146,
+                          "id":  118,
                           "question":  "Which core/digital banking concept best matches: tailoring digital experience based on customer behavior and profile?",
                           "options":  [
                                           "Audit Trail",
@@ -1753,7 +1417,7 @@
                           "explanation":  "Personalization is defined as: tailoring digital experience based on customer behavior and profile."
                       },
                       {
-                          "id":  147,
+                          "id":  119,
                           "question":  "What is the most accurate description of \u0027Personalization\u0027?",
                           "options":  [
                                           "tailoring digital experience based on customer behavior and profile",
@@ -1765,7 +1429,7 @@
                           "explanation":  "Personalization refers to: tailoring digital experience based on customer behavior and profile."
                       },
                       {
-                          "id":  148,
+                          "id":  120,
                           "question":  "\u0027Personalization\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Payments Integration",
@@ -1777,19 +1441,7 @@
                           "explanation":  "Personalization is mainly part of Digital Banking Channels."
                       },
                       {
-                          "id":  149,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Reconciliation -\u003e tailoring digital experience based on customer behavior and profile",
-                                          "Transaction Limit Management -\u003e tailoring digital experience based on customer behavior and profile",
-                                          "Personalization -\u003e tailoring digital experience based on customer behavior and profile",
-                                          "Velocity Check -\u003e tailoring digital experience based on customer behavior and profile"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Personalization -\u003e tailoring digital experience based on customer behavior and profile\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  150,
+                          "id":  121,
                           "question":  "A Bank SO IT requirement states: tailoring digital experience based on customer behavior and profile. Which concept should be selected?",
                           "options":  [
                                           "Personalization",
@@ -1801,7 +1453,7 @@
                           "explanation":  "The requirement directly points to Personalization."
                       },
                       {
-                          "id":  151,
+                          "id":  122,
                           "question":  "Which core/digital banking concept best matches: service authorizing and routing online payment transactions?",
                           "options":  [
                                           "ISO 20022",
@@ -1813,7 +1465,7 @@
                           "explanation":  "Payment Gateway is defined as: service authorizing and routing online payment transactions."
                       },
                       {
-                          "id":  152,
+                          "id":  123,
                           "question":  "What is the most accurate description of \u0027Payment Gateway\u0027?",
                           "options":  [
                                           "surveillance of account activity for suspicious behavior",
@@ -1825,7 +1477,7 @@
                           "explanation":  "Payment Gateway refers to: service authorizing and routing online payment transactions."
                       },
                       {
-                          "id":  153,
+                          "id":  124,
                           "question":  "\u0027Payment Gateway\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Digital Banking Channels",
@@ -1837,19 +1489,7 @@
                           "explanation":  "Payment Gateway is mainly part of Payments Integration."
                       },
                       {
-                          "id":  154,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Open Banking -\u003e service authorizing and routing online payment transactions",
-                                          "RTGS Integration -\u003e service authorizing and routing online payment transactions",
-                                          "Personalization -\u003e service authorizing and routing online payment transactions",
-                                          "Payment Gateway -\u003e service authorizing and routing online payment transactions"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Payment Gateway -\u003e service authorizing and routing online payment transactions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  155,
+                          "id":  125,
                           "question":  "A Bank SO IT requirement states: service authorizing and routing online payment transactions. Which concept should be selected?",
                           "options":  [
                                           "ISO 20022",
@@ -1861,7 +1501,7 @@
                           "explanation":  "The requirement directly points to Payment Gateway."
                       },
                       {
-                          "id":  156,
+                          "id":  126,
                           "question":  "Which core/digital banking concept best matches: connectivity enabling instant bank-to-bank transfers via UPI?",
                           "options":  [
                                           "Personalization",
@@ -1873,7 +1513,7 @@
                           "explanation":  "UPI Integration is defined as: connectivity enabling instant bank-to-bank transfers via UPI."
                       },
                       {
-                          "id":  157,
+                          "id":  127,
                           "question":  "What is the most accurate description of \u0027UPI Integration\u0027?",
                           "options":  [
                                           "access model assigning permissions according to roles",
@@ -1885,7 +1525,7 @@
                           "explanation":  "UPI Integration refers to: connectivity enabling instant bank-to-bank transfers via UPI."
                       },
                       {
-                          "id":  158,
+                          "id":  128,
                           "question":  "\u0027UPI Integration\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Security and Operations",
@@ -1897,19 +1537,7 @@
                           "explanation":  "UPI Integration is mainly part of Payments Integration."
                       },
                       {
-                          "id":  159,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "eKYC -\u003e connectivity enabling instant bank-to-bank transfers via UPI",
-                                          "Risk Rating -\u003e connectivity enabling instant bank-to-bank transfers via UPI",
-                                          "SMS Banking -\u003e connectivity enabling instant bank-to-bank transfers via UPI",
-                                          "UPI Integration -\u003e connectivity enabling instant bank-to-bank transfers via UPI"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027UPI Integration -\u003e connectivity enabling instant bank-to-bank transfers via UPI\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  160,
+                          "id":  129,
                           "question":  "A Bank SO IT requirement states: connectivity enabling instant bank-to-bank transfers via UPI. Which concept should be selected?",
                           "options":  [
                                           "ISO 20022",
@@ -1921,7 +1549,7 @@
                           "explanation":  "The requirement directly points to UPI Integration."
                       },
                       {
-                          "id":  161,
+                          "id":  130,
                           "question":  "Which core/digital banking concept best matches: real-time funds transfer integration through IMPS rail?",
                           "options":  [
                                           "NEFT Integration",
@@ -1933,7 +1561,7 @@
                           "explanation":  "IMPS Integration is defined as: real-time funds transfer integration through IMPS rail."
                       },
                       {
-                          "id":  162,
+                          "id":  131,
                           "question":  "What is the most accurate description of \u0027IMPS Integration\u0027?",
                           "options":  [
                                           "unified customer experience across multiple service channels",
@@ -1945,7 +1573,7 @@
                           "explanation":  "IMPS Integration refers to: real-time funds transfer integration through IMPS rail."
                       },
                       {
-                          "id":  163,
+                          "id":  132,
                           "question":  "\u0027IMPS Integration\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Compliance and Risk",
@@ -1957,19 +1585,7 @@
                           "explanation":  "IMPS Integration is mainly part of Payments Integration."
                       },
                       {
-                          "id":  164,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Transaction Limit Management -\u003e real-time funds transfer integration through IMPS rail",
-                                          "Transaction Monitoring -\u003e real-time funds transfer integration through IMPS rail",
-                                          "IMPS Integration -\u003e real-time funds transfer integration through IMPS rail",
-                                          "Core Banking System -\u003e real-time funds transfer integration through IMPS rail"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027IMPS Integration -\u003e real-time funds transfer integration through IMPS rail\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  165,
+                          "id":  133,
                           "question":  "A Bank SO IT requirement states: real-time funds transfer integration through IMPS rail. Which concept should be selected?",
                           "options":  [
                                           "NEFT Integration",
@@ -1981,7 +1597,7 @@
                           "explanation":  "The requirement directly points to IMPS Integration."
                       },
                       {
-                          "id":  166,
+                          "id":  134,
                           "question":  "Which core/digital banking concept best matches: batch-based electronic fund transfer integration?",
                           "options":  [
                                           "NEFT Integration",
@@ -1993,7 +1609,7 @@
                           "explanation":  "NEFT Integration is defined as: batch-based electronic fund transfer integration."
                       },
                       {
-                          "id":  167,
+                          "id":  135,
                           "question":  "What is the most accurate description of \u0027NEFT Integration\u0027?",
                           "options":  [
                                           "batch-based electronic fund transfer integration",
@@ -2005,7 +1621,7 @@
                           "explanation":  "NEFT Integration refers to: batch-based electronic fund transfer integration."
                       },
                       {
-                          "id":  168,
+                          "id":  136,
                           "question":  "\u0027NEFT Integration\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Compliance and Risk",
@@ -2017,19 +1633,7 @@
                           "explanation":  "NEFT Integration is mainly part of Payments Integration."
                       },
                       {
-                          "id":  169,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Business Continuity -\u003e batch-based electronic fund transfer integration",
-                                          "NEFT Integration -\u003e batch-based electronic fund transfer integration",
-                                          "Risk Rating -\u003e batch-based electronic fund transfer integration",
-                                          "Payment Gateway -\u003e batch-based electronic fund transfer integration"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027NEFT Integration -\u003e batch-based electronic fund transfer integration\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  170,
+                          "id":  137,
                           "question":  "A Bank SO IT requirement states: batch-based electronic fund transfer integration. Which concept should be selected?",
                           "options":  [
                                           "NEFT Integration",
@@ -2041,7 +1645,7 @@
                           "explanation":  "The requirement directly points to NEFT Integration."
                       },
                       {
-                          "id":  171,
+                          "id":  138,
                           "question":  "Which core/digital banking concept best matches: high-value real-time gross settlement integration?",
                           "options":  [
                                           "Device Binding",
@@ -2053,7 +1657,7 @@
                           "explanation":  "RTGS Integration is defined as: high-value real-time gross settlement integration."
                       },
                       {
-                          "id":  172,
+                          "id":  139,
                           "question":  "What is the most accurate description of \u0027RTGS Integration\u0027?",
                           "options":  [
                                           "rule and model-based system detecting suspicious activity",
@@ -2065,7 +1669,7 @@
                           "explanation":  "RTGS Integration refers to: high-value real-time gross settlement integration."
                       },
                       {
-                          "id":  173,
+                          "id":  140,
                           "question":  "\u0027RTGS Integration\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Digital Banking Channels",
@@ -2077,19 +1681,7 @@
                           "explanation":  "RTGS Integration is mainly part of Payments Integration."
                       },
                       {
-                          "id":  174,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Open Banking -\u003e high-value real-time gross settlement integration",
-                                          "KYC -\u003e high-value real-time gross settlement integration",
-                                          "RTGS Integration -\u003e high-value real-time gross settlement integration",
-                                          "eKYC -\u003e high-value real-time gross settlement integration"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027RTGS Integration -\u003e high-value real-time gross settlement integration\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  175,
+                          "id":  141,
                           "question":  "A Bank SO IT requirement states: high-value real-time gross settlement integration. Which concept should be selected?",
                           "options":  [
                                           "CBS Parameterization",
@@ -2101,7 +1693,7 @@
                           "explanation":  "The requirement directly points to RTGS Integration."
                       },
                       {
-                          "id":  176,
+                          "id":  142,
                           "question":  "Which core/digital banking concept best matches: exposing banking services securely through APIs?",
                           "options":  [
                                           "API Banking",
@@ -2113,7 +1705,7 @@
                           "explanation":  "API Banking is defined as: exposing banking services securely through APIs."
                       },
                       {
-                          "id":  177,
+                          "id":  143,
                           "question":  "What is the most accurate description of \u0027API Banking\u0027?",
                           "options":  [
                                           "current and savings account product category",
@@ -2125,7 +1717,7 @@
                           "explanation":  "API Banking refers to: exposing banking services securely through APIs."
                       },
                       {
-                          "id":  178,
+                          "id":  144,
                           "question":  "\u0027API Banking\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Compliance and Risk",
@@ -2137,19 +1729,7 @@
                           "explanation":  "API Banking is mainly part of Payments Integration."
                       },
                       {
-                          "id":  179,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Payment Gateway -\u003e exposing banking services securely through APIs",
-                                          "eKYC -\u003e exposing banking services securely through APIs",
-                                          "API Banking -\u003e exposing banking services securely through APIs",
-                                          "CASA -\u003e exposing banking services securely through APIs"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027API Banking -\u003e exposing banking services securely through APIs\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  180,
+                          "id":  145,
                           "question":  "A Bank SO IT requirement states: exposing banking services securely through APIs. Which concept should be selected?",
                           "options":  [
                                           "API Banking",
@@ -2161,7 +1741,7 @@
                           "explanation":  "The requirement directly points to API Banking."
                       },
                       {
-                          "id":  181,
+                          "id":  146,
                           "question":  "Which core/digital banking concept best matches: regulated secure sharing of banking data via APIs?",
                           "options":  [
                                           "Risk Rating",
@@ -2173,7 +1753,7 @@
                           "explanation":  "Open Banking is defined as: regulated secure sharing of banking data via APIs."
                       },
                       {
-                          "id":  182,
+                          "id":  147,
                           "question":  "What is the most accurate description of \u0027Open Banking\u0027?",
                           "options":  [
                                           "regulated secure sharing of banking data via APIs",
@@ -2185,7 +1765,7 @@
                           "explanation":  "Open Banking refers to: regulated secure sharing of banking data via APIs."
                       },
                       {
-                          "id":  183,
+                          "id":  148,
                           "question":  "\u0027Open Banking\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Payments Integration",
@@ -2197,19 +1777,7 @@
                           "explanation":  "Open Banking is mainly part of Payments Integration."
                       },
                       {
-                          "id":  184,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "API Banking -\u003e regulated secure sharing of banking data via APIs",
-                                          "KYC -\u003e regulated secure sharing of banking data via APIs",
-                                          "Open Banking -\u003e regulated secure sharing of banking data via APIs",
-                                          "Customer Information File -\u003e regulated secure sharing of banking data via APIs"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Open Banking -\u003e regulated secure sharing of banking data via APIs\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  185,
+                          "id":  149,
                           "question":  "A Bank SO IT requirement states: regulated secure sharing of banking data via APIs. Which concept should be selected?",
                           "options":  [
                                           "Risk Rating",
@@ -2221,7 +1789,7 @@
                           "explanation":  "The requirement directly points to Open Banking."
                       },
                       {
-                          "id":  186,
+                          "id":  150,
                           "question":  "Which core/digital banking concept best matches: financial messaging standard for interoperable payments?",
                           "options":  [
                                           "Customer Information File",
@@ -2233,7 +1801,7 @@
                           "explanation":  "ISO 20022 is defined as: financial messaging standard for interoperable payments."
                       },
                       {
-                          "id":  187,
+                          "id":  151,
                           "question":  "What is the most accurate description of \u0027ISO 20022\u0027?",
                           "options":  [
                                           "master accounting book recording all financial entries",
@@ -2245,7 +1813,7 @@
                           "explanation":  "ISO 20022 refers to: financial messaging standard for interoperable payments."
                       },
                       {
-                          "id":  188,
+                          "id":  152,
                           "question":  "\u0027ISO 20022\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Security and Operations",
@@ -2257,19 +1825,7 @@
                           "explanation":  "ISO 20022 is mainly part of Payments Integration."
                       },
                       {
-                          "id":  189,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Nostro Reconciliation -\u003e financial messaging standard for interoperable payments",
-                                          "ISO 20022 -\u003e financial messaging standard for interoperable payments",
-                                          "UPI Integration -\u003e financial messaging standard for interoperable payments",
-                                          "Multi-Factor Authentication -\u003e financial messaging standard for interoperable payments"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027ISO 20022 -\u003e financial messaging standard for interoperable payments\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  190,
+                          "id":  153,
                           "question":  "A Bank SO IT requirement states: financial messaging standard for interoperable payments. Which concept should be selected?",
                           "options":  [
                                           "RTO",
@@ -2281,7 +1837,7 @@
                           "explanation":  "The requirement directly points to ISO 20022."
                       },
                       {
-                          "id":  191,
+                          "id":  154,
                           "question":  "Which core/digital banking concept best matches: international secure financial messaging network?",
                           "options":  [
                                           "SWIFT Messaging",
@@ -2293,7 +1849,7 @@
                           "explanation":  "SWIFT Messaging is defined as: international secure financial messaging network."
                       },
                       {
-                          "id":  192,
+                          "id":  155,
                           "question":  "What is the most accurate description of \u0027SWIFT Messaging\u0027?",
                           "options":  [
                                           "real-time funds transfer integration through IMPS rail",
@@ -2305,7 +1861,7 @@
                           "explanation":  "SWIFT Messaging refers to: international secure financial messaging network."
                       },
                       {
-                          "id":  193,
+                          "id":  156,
                           "question":  "\u0027SWIFT Messaging\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Compliance and Risk",
@@ -2317,19 +1873,7 @@
                           "explanation":  "SWIFT Messaging is mainly part of Payments Integration."
                       },
                       {
-                          "id":  194,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Video KYC -\u003e international secure financial messaging network",
-                                          "Nostro Reconciliation -\u003e international secure financial messaging network",
-                                          "SWIFT Messaging -\u003e international secure financial messaging network",
-                                          "RTO -\u003e international secure financial messaging network"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027SWIFT Messaging -\u003e international secure financial messaging network\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  195,
+                          "id":  157,
                           "question":  "A Bank SO IT requirement states: international secure financial messaging network. Which concept should be selected?",
                           "options":  [
                                           "STR",
@@ -2341,7 +1885,7 @@
                           "explanation":  "The requirement directly points to SWIFT Messaging."
                       },
                       {
-                          "id":  196,
+                          "id":  158,
                           "question":  "Which core/digital banking concept best matches: matching entries in foreign currency correspondent accounts?",
                           "options":  [
                                           "PEP Screening",
@@ -2353,7 +1897,7 @@
                           "explanation":  "Nostro Reconciliation is defined as: matching entries in foreign currency correspondent accounts."
                       },
                       {
-                          "id":  197,
+                          "id":  159,
                           "question":  "What is the most accurate description of \u0027Nostro Reconciliation\u0027?",
                           "options":  [
                                           "identifying politically exposed persons for enhanced due diligence",
@@ -2365,7 +1909,7 @@
                           "explanation":  "Nostro Reconciliation refers to: matching entries in foreign currency correspondent accounts."
                       },
                       {
-                          "id":  198,
+                          "id":  160,
                           "question":  "\u0027Nostro Reconciliation\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Payments Integration",
@@ -2377,19 +1921,7 @@
                           "explanation":  "Nostro Reconciliation is mainly part of Payments Integration."
                       },
                       {
-                          "id":  199,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Nostro Reconciliation -\u003e matching entries in foreign currency correspondent accounts",
-                                          "Multi-Factor Authentication -\u003e matching entries in foreign currency correspondent accounts",
-                                          "Role-Based Access Control -\u003e matching entries in foreign currency correspondent accounts",
-                                          "CTR -\u003e matching entries in foreign currency correspondent accounts"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Nostro Reconciliation -\u003e matching entries in foreign currency correspondent accounts\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  200,
+                          "id":  161,
                           "question":  "A Bank SO IT requirement states: matching entries in foreign currency correspondent accounts. Which concept should be selected?",
                           "options":  [
                                           "Business Continuity",
@@ -2401,7 +1933,7 @@
                           "explanation":  "The requirement directly points to Nostro Reconciliation."
                       },
                       {
-                          "id":  201,
+                          "id":  162,
                           "question":  "Which core/digital banking concept best matches: authentication requiring more than one independent factor?",
                           "options":  [
                                           "Digital Onboarding",
@@ -2413,7 +1945,7 @@
                           "explanation":  "Multi-Factor Authentication is defined as: authentication requiring more than one independent factor."
                       },
                       {
-                          "id":  202,
+                          "id":  163,
                           "question":  "What is the most accurate description of \u0027Multi-Factor Authentication\u0027?",
                           "options":  [
                                           "classification of customer risk based on profile and behavior",
@@ -2425,7 +1957,7 @@
                           "explanation":  "Multi-Factor Authentication refers to: authentication requiring more than one independent factor."
                       },
                       {
-                          "id":  203,
+                          "id":  164,
                           "question":  "\u0027Multi-Factor Authentication\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Digital Banking Channels",
@@ -2437,19 +1969,7 @@
                           "explanation":  "Multi-Factor Authentication is mainly part of Security and Operations."
                       },
                       {
-                          "id":  204,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Multi-Factor Authentication -\u003e authentication requiring more than one independent factor",
-                                          "Start of Day Processing -\u003e authentication requiring more than one independent factor",
-                                          "CFT -\u003e authentication requiring more than one independent factor",
-                                          "General Ledger -\u003e authentication requiring more than one independent factor"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Multi-Factor Authentication -\u003e authentication requiring more than one independent factor\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  205,
+                          "id":  165,
                           "question":  "A Bank SO IT requirement states: authentication requiring more than one independent factor. Which concept should be selected?",
                           "options":  [
                                           "Digital Onboarding",
@@ -2461,7 +1981,7 @@
                           "explanation":  "The requirement directly points to Multi-Factor Authentication."
                       },
                       {
-                          "id":  206,
+                          "id":  166,
                           "question":  "Which core/digital banking concept best matches: linking digital banking access to registered customer device?",
                           "options":  [
                                           "Disaster Recovery",
@@ -2473,7 +1993,7 @@
                           "explanation":  "Device Binding is defined as: linking digital banking access to registered customer device."
                       },
                       {
-                          "id":  207,
+                          "id":  167,
                           "question":  "What is the most accurate description of \u0027Device Binding\u0027?",
                           "options":  [
                                           "identifying politically exposed persons for enhanced due diligence",
@@ -2485,7 +2005,7 @@
                           "explanation":  "Device Binding refers to: linking digital banking access to registered customer device."
                       },
                       {
-                          "id":  208,
+                          "id":  168,
                           "question":  "\u0027Device Binding\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Core Banking Fundamentals",
@@ -2497,19 +2017,7 @@
                           "explanation":  "Device Binding is mainly part of Security and Operations."
                       },
                       {
-                          "id":  209,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Nostro Reconciliation -\u003e linking digital banking access to registered customer device",
-                                          "RTO -\u003e linking digital banking access to registered customer device",
-                                          "Device Binding -\u003e linking digital banking access to registered customer device",
-                                          "Business Continuity -\u003e linking digital banking access to registered customer device"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Device Binding -\u003e linking digital banking access to registered customer device\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  210,
+                          "id":  169,
                           "question":  "A Bank SO IT requirement states: linking digital banking access to registered customer device. Which concept should be selected?",
                           "options":  [
                                           "Device Binding",
@@ -2521,7 +2029,7 @@
                           "explanation":  "The requirement directly points to Device Binding."
                       },
                       {
-                          "id":  211,
+                          "id":  170,
                           "question":  "Which core/digital banking concept best matches: rule and model-based system detecting suspicious activity?",
                           "options":  [
                                           "Reconciliation",
@@ -2533,7 +2041,7 @@
                           "explanation":  "Fraud Detection Engine is defined as: rule and model-based system detecting suspicious activity."
                       },
                       {
-                          "id":  212,
+                          "id":  171,
                           "question":  "What is the most accurate description of \u0027Fraud Detection Engine\u0027?",
                           "options":  [
                                           "configuring permissible transfer and withdrawal thresholds",
@@ -2545,7 +2053,7 @@
                           "explanation":  "Fraud Detection Engine refers to: rule and model-based system detecting suspicious activity."
                       },
                       {
-                          "id":  213,
+                          "id":  172,
                           "question":  "\u0027Fraud Detection Engine\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Payments Integration",
@@ -2557,19 +2065,7 @@
                           "explanation":  "Fraud Detection Engine is mainly part of Security and Operations."
                       },
                       {
-                          "id":  214,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "SMS Banking -\u003e rule and model-based system detecting suspicious activity",
-                                          "Maker Checker -\u003e rule and model-based system detecting suspicious activity",
-                                          "Mobile Banking -\u003e rule and model-based system detecting suspicious activity",
-                                          "Fraud Detection Engine -\u003e rule and model-based system detecting suspicious activity"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Fraud Detection Engine -\u003e rule and model-based system detecting suspicious activity\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  215,
+                          "id":  173,
                           "question":  "A Bank SO IT requirement states: rule and model-based system detecting suspicious activity. Which concept should be selected?",
                           "options":  [
                                           "Reconciliation",
@@ -2581,7 +2077,7 @@
                           "explanation":  "The requirement directly points to Fraud Detection Engine."
                       },
                       {
-                          "id":  216,
+                          "id":  174,
                           "question":  "Which core/digital banking concept best matches: control evaluating transaction frequency and amount patterns?",
                           "options":  [
                                           "Velocity Check",
@@ -2593,7 +2089,7 @@
                           "explanation":  "Velocity Check is defined as: control evaluating transaction frequency and amount patterns."
                       },
                       {
-                          "id":  217,
+                          "id":  175,
                           "question":  "What is the most accurate description of \u0027Velocity Check\u0027?",
                           "options":  [
                                           "rule and model-based system detecting suspicious activity",
@@ -2605,7 +2101,7 @@
                           "explanation":  "Velocity Check refers to: control evaluating transaction frequency and amount patterns."
                       },
                       {
-                          "id":  218,
+                          "id":  176,
                           "question":  "\u0027Velocity Check\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Payments Integration",
@@ -2617,19 +2113,7 @@
                           "explanation":  "Velocity Check is mainly part of Security and Operations."
                       },
                       {
-                          "id":  219,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Mobile Banking -\u003e control evaluating transaction frequency and amount patterns",
-                                          "Maker Checker -\u003e control evaluating transaction frequency and amount patterns",
-                                          "CFT -\u003e control evaluating transaction frequency and amount patterns",
-                                          "Velocity Check -\u003e control evaluating transaction frequency and amount patterns"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Velocity Check -\u003e control evaluating transaction frequency and amount patterns\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  220,
+                          "id":  177,
                           "question":  "A Bank SO IT requirement states: control evaluating transaction frequency and amount patterns. Which concept should be selected?",
                           "options":  [
                                           "Velocity Check",
@@ -2641,7 +2125,7 @@
                           "explanation":  "The requirement directly points to Velocity Check."
                       },
                       {
-                          "id":  221,
+                          "id":  178,
                           "question":  "Which core/digital banking concept best matches: configuring permissible transfer and withdrawal thresholds?",
                           "options":  [
                                           "Transaction Limit Management",
@@ -2653,7 +2137,7 @@
                           "explanation":  "Transaction Limit Management is defined as: configuring permissible transfer and withdrawal thresholds."
                       },
                       {
-                          "id":  222,
+                          "id":  179,
                           "question":  "What is the most accurate description of \u0027Transaction Limit Management\u0027?",
                           "options":  [
                                           "authentication requiring more than one independent factor",
@@ -2665,7 +2149,7 @@
                           "explanation":  "Transaction Limit Management refers to: configuring permissible transfer and withdrawal thresholds."
                       },
                       {
-                          "id":  223,
+                          "id":  180,
                           "question":  "\u0027Transaction Limit Management\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Compliance and Risk",
@@ -2677,19 +2161,7 @@
                           "explanation":  "Transaction Limit Management is mainly part of Security and Operations."
                       },
                       {
-                          "id":  224,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Transaction Limit Management -\u003e configuring permissible transfer and withdrawal thresholds",
-                                          "CTR -\u003e configuring permissible transfer and withdrawal thresholds",
-                                          "Velocity Check -\u003e configuring permissible transfer and withdrawal thresholds",
-                                          "Straight Through Processing -\u003e configuring permissible transfer and withdrawal thresholds"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Transaction Limit Management -\u003e configuring permissible transfer and withdrawal thresholds\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  225,
+                          "id":  181,
                           "question":  "A Bank SO IT requirement states: configuring permissible transfer and withdrawal thresholds. Which concept should be selected?",
                           "options":  [
                                           "Transaction Limit Management",
@@ -2701,7 +2173,7 @@
                           "explanation":  "The requirement directly points to Transaction Limit Management."
                       },
                       {
-                          "id":  226,
+                          "id":  182,
                           "question":  "Which core/digital banking concept best matches: access model assigning permissions according to roles?",
                           "options":  [
                                           "Fraud Detection Engine",
@@ -2713,7 +2185,7 @@
                           "explanation":  "Role-Based Access Control is defined as: access model assigning permissions according to roles."
                       },
                       {
-                          "id":  227,
+                          "id":  183,
                           "question":  "What is the most accurate description of \u0027Role-Based Access Control\u0027?",
                           "options":  [
                                           "dual-control workflow where one user creates and another authorizes",
@@ -2725,7 +2197,7 @@
                           "explanation":  "Role-Based Access Control refers to: access model assigning permissions according to roles."
                       },
                       {
-                          "id":  228,
+                          "id":  184,
                           "question":  "\u0027Role-Based Access Control\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Compliance and Risk",
@@ -2737,19 +2209,7 @@
                           "explanation":  "Role-Based Access Control is mainly part of Security and Operations."
                       },
                       {
-                          "id":  229,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "STR -\u003e access model assigning permissions according to roles",
-                                          "End of Day Processing -\u003e access model assigning permissions according to roles",
-                                          "Role-Based Access Control -\u003e access model assigning permissions according to roles",
-                                          "CTR -\u003e access model assigning permissions according to roles"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Role-Based Access Control -\u003e access model assigning permissions according to roles\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  230,
+                          "id":  185,
                           "question":  "A Bank SO IT requirement states: access model assigning permissions according to roles. Which concept should be selected?",
                           "options":  [
                                           "Fraud Detection Engine",
@@ -2761,7 +2221,7 @@
                           "explanation":  "The requirement directly points to Role-Based Access Control."
                       },
                       {
-                          "id":  231,
+                          "id":  186,
                           "question":  "Which core/digital banking concept best matches: capability to continue critical services during disruption?",
                           "options":  [
                                           "STR",
@@ -2773,7 +2233,7 @@
                           "explanation":  "Business Continuity is defined as: capability to continue critical services during disruption."
                       },
                       {
-                          "id":  232,
+                          "id":  187,
                           "question":  "What is the most accurate description of \u0027Business Continuity\u0027?",
                           "options":  [
                                           "report filed for transactions above regulatory cash threshold",
@@ -2785,7 +2245,7 @@
                           "explanation":  "Business Continuity refers to: capability to continue critical services during disruption."
                       },
                       {
-                          "id":  233,
+                          "id":  188,
                           "question":  "\u0027Business Continuity\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Digital Banking Channels",
@@ -2797,19 +2257,7 @@
                           "explanation":  "Business Continuity is mainly part of Security and Operations."
                       },
                       {
-                          "id":  234,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "PEP Screening -\u003e capability to continue critical services during disruption",
-                                          "SWIFT Messaging -\u003e capability to continue critical services during disruption",
-                                          "Business Continuity -\u003e capability to continue critical services during disruption",
-                                          "Core Banking System -\u003e capability to continue critical services during disruption"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Business Continuity -\u003e capability to continue critical services during disruption\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  235,
+                          "id":  189,
                           "question":  "A Bank SO IT requirement states: capability to continue critical services during disruption. Which concept should be selected?",
                           "options":  [
                                           "Business Continuity",
@@ -2821,7 +2269,7 @@
                           "explanation":  "The requirement directly points to Business Continuity."
                       },
                       {
-                          "id":  236,
+                          "id":  190,
                           "question":  "Which core/digital banking concept best matches: process and infrastructure for restoring systems after outage?",
                           "options":  [
                                           "CTR",
@@ -2833,7 +2281,7 @@
                           "explanation":  "Disaster Recovery is defined as: process and infrastructure for restoring systems after outage."
                       },
                       {
-                          "id":  237,
+                          "id":  191,
                           "question":  "What is the most accurate description of \u0027Disaster Recovery\u0027?",
                           "options":  [
                                           "unique customer master profile used across banking products",
@@ -2845,7 +2293,7 @@
                           "explanation":  "Disaster Recovery refers to: process and infrastructure for restoring systems after outage."
                       },
                       {
-                          "id":  238,
+                          "id":  192,
                           "question":  "\u0027Disaster Recovery\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Security and Operations",
@@ -2857,19 +2305,7 @@
                           "explanation":  "Disaster Recovery is mainly part of Security and Operations."
                       },
                       {
-                          "id":  239,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Disaster Recovery -\u003e process and infrastructure for restoring systems after outage",
-                                          "Nostro Reconciliation -\u003e process and infrastructure for restoring systems after outage",
-                                          "PEP Screening -\u003e process and infrastructure for restoring systems after outage",
-                                          "Sanctions Screening -\u003e process and infrastructure for restoring systems after outage"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Disaster Recovery -\u003e process and infrastructure for restoring systems after outage\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  240,
+                          "id":  193,
                           "question":  "A Bank SO IT requirement states: process and infrastructure for restoring systems after outage. Which concept should be selected?",
                           "options":  [
                                           "CTR",
@@ -2881,7 +2317,7 @@
                           "explanation":  "The requirement directly points to Disaster Recovery."
                       },
                       {
-                          "id":  241,
+                          "id":  194,
                           "question":  "Which core/digital banking concept best matches: maximum acceptable time to restore service after failure?",
                           "options":  [
                                           "AML",
@@ -2893,7 +2329,7 @@
                           "explanation":  "RTO is defined as: maximum acceptable time to restore service after failure."
                       },
                       {
-                          "id":  242,
+                          "id":  195,
                           "question":  "What is the most accurate description of \u0027RTO\u0027?",
                           "options":  [
                                           "current and savings account product category",
@@ -2905,7 +2341,7 @@
                           "explanation":  "RTO refers to: maximum acceptable time to restore service after failure."
                       },
                       {
-                          "id":  243,
+                          "id":  196,
                           "question":  "\u0027RTO\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Core Banking Fundamentals",
@@ -2917,19 +2353,7 @@
                           "explanation":  "RTO is mainly part of Security and Operations."
                       },
                       {
-                          "id":  244,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Transaction Monitoring -\u003e maximum acceptable time to restore service after failure",
-                                          "PEP Screening -\u003e maximum acceptable time to restore service after failure",
-                                          "General Ledger -\u003e maximum acceptable time to restore service after failure",
-                                          "RTO -\u003e maximum acceptable time to restore service after failure"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027RTO -\u003e maximum acceptable time to restore service after failure\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  245,
+                          "id":  197,
                           "question":  "A Bank SO IT requirement states: maximum acceptable time to restore service after failure. Which concept should be selected?",
                           "options":  [
                                           "RTO",
@@ -2941,7 +2365,7 @@
                           "explanation":  "The requirement directly points to RTO."
                       },
                       {
-                          "id":  246,
+                          "id":  198,
                           "question":  "Which core/digital banking concept best matches: maximum acceptable data loss interval during disruption?",
                           "options":  [
                                           "Sanctions Screening",
@@ -2953,7 +2377,7 @@
                           "explanation":  "RPO is defined as: maximum acceptable data loss interval during disruption."
                       },
                       {
-                          "id":  247,
+                          "id":  199,
                           "question":  "What is the most accurate description of \u0027RPO\u0027?",
                           "options":  [
                                           "controls designed to prevent financing of terrorism",
@@ -2965,7 +2389,7 @@
                           "explanation":  "RPO refers to: maximum acceptable data loss interval during disruption."
                       },
                       {
-                          "id":  248,
+                          "id":  200,
                           "question":  "\u0027RPO\u0027 belongs mainly to which core banking area?",
                           "options":  [
                                           "Digital Banking Channels",
@@ -2977,19 +2401,7 @@
                           "explanation":  "RPO is mainly part of Security and Operations."
                       },
                       {
-                          "id":  249,
-                          "question":  "Identify the correct core banking term-definition mapping.",
-                          "options":  [
-                                          "Risk Rating -\u003e maximum acceptable data loss interval during disruption",
-                                          "RPO -\u003e maximum acceptable data loss interval during disruption",
-                                          "AML -\u003e maximum acceptable data loss interval during disruption",
-                                          "CBS Parameterization -\u003e maximum acceptable data loss interval during disruption"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027RPO -\u003e maximum acceptable data loss interval during disruption\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  250,
+                          "id":  201,
                           "question":  "A Bank SO IT requirement states: maximum acceptable data loss interval during disruption. Which concept should be selected?",
                           "options":  [
                                           "Internet Banking",

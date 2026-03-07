@@ -98,18 +98,6 @@
                       },
                       {
                           "id":  9,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Handshake -\u003e original readable data before encryption",
-                                          "Key Management -\u003e original readable data before encryption",
-                                          "Perfect Forward Secrecy -\u003e original readable data before encryption",
-                                          "Plaintext -\u003e original readable data before encryption"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Plaintext -\u003e original readable data before encryption\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  10,
                           "question":  "A Bank SO IT security requirement states: original readable data before encryption. Which concept should be selected?",
                           "options":  [
                                           "Key Rotation",
@@ -121,7 +109,7 @@
                           "explanation":  "The requirement directly points to Plaintext."
                       },
                       {
-                          "id":  11,
+                          "id":  10,
                           "question":  "Which cryptography concept best matches: encrypted unreadable output produced by cryptographic algorithm?",
                           "options":  [
                                           "Ciphertext",
@@ -133,7 +121,7 @@
                           "explanation":  "Ciphertext is defined as: encrypted unreadable output produced by cryptographic algorithm."
                       },
                       {
-                          "id":  12,
+                          "id":  11,
                           "question":  "What is the most accurate description of \u0027Ciphertext\u0027?",
                           "options":  [
                                           "attack trying many key/password combinations exhaustively",
@@ -145,7 +133,7 @@
                           "explanation":  "Ciphertext refers to: encrypted unreadable output produced by cryptographic algorithm."
                       },
                       {
-                          "id":  13,
+                          "id":  12,
                           "question":  "\u0027Ciphertext\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Algorithms and Primitives",
@@ -157,19 +145,7 @@
                           "explanation":  "Ciphertext is mainly part of Security Fundamentals."
                       },
                       {
-                          "id":  14,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Non-Repudiation -\u003e encrypted unreadable output produced by cryptographic algorithm",
-                                          "Perfect Forward Secrecy -\u003e encrypted unreadable output produced by cryptographic algorithm",
-                                          "AES -\u003e encrypted unreadable output produced by cryptographic algorithm",
-                                          "Ciphertext -\u003e encrypted unreadable output produced by cryptographic algorithm"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Ciphertext -\u003e encrypted unreadable output produced by cryptographic algorithm\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  15,
+                          "id":  13,
                           "question":  "A Bank SO IT security requirement states: encrypted unreadable output produced by cryptographic algorithm. Which concept should be selected?",
                           "options":  [
                                           "MD5",
@@ -181,7 +157,7 @@
                           "explanation":  "The requirement directly points to Ciphertext."
                       },
                       {
-                          "id":  16,
+                          "id":  14,
                           "question":  "Which cryptography concept best matches: process of converting plaintext into ciphertext?",
                           "options":  [
                                           "Encryption",
@@ -193,7 +169,7 @@
                           "explanation":  "Encryption is defined as: process of converting plaintext into ciphertext."
                       },
                       {
-                          "id":  17,
+                          "id":  15,
                           "question":  "What is the most accurate description of \u0027Encryption\u0027?",
                           "options":  [
                                           "encrypted unreadable output produced by cryptographic algorithm",
@@ -205,7 +181,7 @@
                           "explanation":  "Encryption refers to: process of converting plaintext into ciphertext."
                       },
                       {
-                          "id":  18,
+                          "id":  16,
                           "question":  "\u0027Encryption\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Security Fundamentals",
@@ -217,19 +193,7 @@
                           "explanation":  "Encryption is mainly part of Security Fundamentals."
                       },
                       {
-                          "id":  19,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Hardware Security Module -\u003e process of converting plaintext into ciphertext",
-                                          "Plaintext -\u003e process of converting plaintext into ciphertext",
-                                          "Encryption -\u003e process of converting plaintext into ciphertext",
-                                          "DES -\u003e process of converting plaintext into ciphertext"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Encryption -\u003e process of converting plaintext into ciphertext\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  20,
+                          "id":  17,
                           "question":  "A Bank SO IT security requirement states: process of converting plaintext into ciphertext. Which concept should be selected?",
                           "options":  [
                                           "Encryption",
@@ -241,7 +205,7 @@
                           "explanation":  "The requirement directly points to Encryption."
                       },
                       {
-                          "id":  21,
+                          "id":  18,
                           "question":  "Which cryptography concept best matches: process of converting ciphertext back into plaintext?",
                           "options":  [
                                           "Decryption",
@@ -253,7 +217,7 @@
                           "explanation":  "Decryption is defined as: process of converting ciphertext back into plaintext."
                       },
                       {
-                          "id":  22,
+                          "id":  19,
                           "question":  "What is the most accurate description of \u0027Decryption\u0027?",
                           "options":  [
                                           "secure mechanism to share cryptographic keys between parties",
@@ -265,7 +229,7 @@
                           "explanation":  "Decryption refers to: process of converting ciphertext back into plaintext."
                       },
                       {
-                          "id":  23,
+                          "id":  20,
                           "question":  "\u0027Decryption\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Security Fundamentals",
@@ -277,19 +241,7 @@
                           "explanation":  "Decryption is mainly part of Security Fundamentals."
                       },
                       {
-                          "id":  24,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Certificate Authority -\u003e process of converting ciphertext back into plaintext",
-                                          "Decryption -\u003e process of converting ciphertext back into plaintext",
-                                          "Key Management -\u003e process of converting ciphertext back into plaintext",
-                                          "Key Exchange -\u003e process of converting ciphertext back into plaintext"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Decryption -\u003e process of converting ciphertext back into plaintext\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  25,
+                          "id":  21,
                           "question":  "A Bank SO IT security requirement states: process of converting ciphertext back into plaintext. Which concept should be selected?",
                           "options":  [
                                           "MACsec",
@@ -301,7 +253,7 @@
                           "explanation":  "The requirement directly points to Decryption."
                       },
                       {
-                          "id":  26,
+                          "id":  22,
                           "question":  "Which cryptography concept best matches: encryption model using same key for encryption and decryption?",
                           "options":  [
                                           "Brute Force Attack",
@@ -313,7 +265,7 @@
                           "explanation":  "Symmetric Encryption is defined as: encryption model using same key for encryption and decryption."
                       },
                       {
-                          "id":  27,
+                          "id":  23,
                           "question":  "What is the most accurate description of \u0027Symmetric Encryption\u0027?",
                           "options":  [
                                           "encryption model using same key for encryption and decryption",
@@ -325,7 +277,7 @@
                           "explanation":  "Symmetric Encryption refers to: encryption model using same key for encryption and decryption."
                       },
                       {
-                          "id":  28,
+                          "id":  24,
                           "question":  "\u0027Symmetric Encryption\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Algorithms and Primitives",
@@ -337,19 +289,7 @@
                           "explanation":  "Symmetric Encryption is mainly part of Cryptographic Models."
                       },
                       {
-                          "id":  29,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Ciphertext -\u003e encryption model using same key for encryption and decryption",
-                                          "Plaintext -\u003e encryption model using same key for encryption and decryption",
-                                          "Symmetric Encryption -\u003e encryption model using same key for encryption and decryption",
-                                          "Confidentiality -\u003e encryption model using same key for encryption and decryption"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Symmetric Encryption -\u003e encryption model using same key for encryption and decryption\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  30,
+                          "id":  25,
                           "question":  "A Bank SO IT security requirement states: encryption model using same key for encryption and decryption. Which concept should be selected?",
                           "options":  [
                                           "VPN",
@@ -361,7 +301,7 @@
                           "explanation":  "The requirement directly points to Symmetric Encryption."
                       },
                       {
-                          "id":  31,
+                          "id":  26,
                           "question":  "Which cryptography concept best matches: encryption model using public and private key pair?",
                           "options":  [
                                           "Perfect Forward Secrecy",
@@ -373,7 +313,7 @@
                           "explanation":  "Asymmetric Encryption is defined as: encryption model using public and private key pair."
                       },
                       {
-                          "id":  32,
+                          "id":  27,
                           "question":  "What is the most accurate description of \u0027Asymmetric Encryption\u0027?",
                           "options":  [
                                           "cryptographic mechanism proving message authenticity and integrity",
@@ -385,7 +325,7 @@
                           "explanation":  "Asymmetric Encryption refers to: encryption model using public and private key pair."
                       },
                       {
-                          "id":  33,
+                          "id":  28,
                           "question":  "\u0027Asymmetric Encryption\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Cryptographic Models",
@@ -397,19 +337,7 @@
                           "explanation":  "Asymmetric Encryption is mainly part of Cryptographic Models."
                       },
                       {
-                          "id":  34,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Asymmetric Encryption -\u003e encryption model using public and private key pair",
-                                          "Cryptography -\u003e encryption model using public and private key pair",
-                                          "AES -\u003e encryption model using public and private key pair",
-                                          "MD5 -\u003e encryption model using public and private key pair"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Asymmetric Encryption -\u003e encryption model using public and private key pair\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  35,
+                          "id":  29,
                           "question":  "A Bank SO IT security requirement states: encryption model using public and private key pair. Which concept should be selected?",
                           "options":  [
                                           "Man-in-the-Middle",
@@ -421,7 +349,7 @@
                           "explanation":  "The requirement directly points to Asymmetric Encryption."
                       },
                       {
-                          "id":  36,
+                          "id":  30,
                           "question":  "Which cryptography concept best matches: temporary key used for a single communication session?",
                           "options":  [
                                           "Authentication",
@@ -433,7 +361,7 @@
                           "explanation":  "Session Key is defined as: temporary key used for a single communication session."
                       },
                       {
-                          "id":  37,
+                          "id":  31,
                           "question":  "What is the most accurate description of \u0027Session Key\u0027?",
                           "options":  [
                                           "process of converting ciphertext back into plaintext",
@@ -445,7 +373,7 @@
                           "explanation":  "Session Key refers to: temporary key used for a single communication session."
                       },
                       {
-                          "id":  38,
+                          "id":  32,
                           "question":  "\u0027Session Key\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Secure Communication",
@@ -457,19 +385,7 @@
                           "explanation":  "Session Key is mainly part of Cryptographic Models."
                       },
                       {
-                          "id":  39,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Confidentiality -\u003e temporary key used for a single communication session",
-                                          "Session Key -\u003e temporary key used for a single communication session",
-                                          "Certificate Authority -\u003e temporary key used for a single communication session",
-                                          "Brute Force Attack -\u003e temporary key used for a single communication session"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Session Key -\u003e temporary key used for a single communication session\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  40,
+                          "id":  33,
                           "question":  "A Bank SO IT security requirement states: temporary key used for a single communication session. Which concept should be selected?",
                           "options":  [
                                           "Salt",
@@ -481,7 +397,7 @@
                           "explanation":  "The requirement directly points to Session Key."
                       },
                       {
-                          "id":  41,
+                          "id":  34,
                           "question":  "Which cryptography concept best matches: secure mechanism to share cryptographic keys between parties?",
                           "options":  [
                                           "Encryption",
@@ -493,7 +409,7 @@
                           "explanation":  "Key Exchange is defined as: secure mechanism to share cryptographic keys between parties."
                       },
                       {
-                          "id":  42,
+                          "id":  35,
                           "question":  "What is the most accurate description of \u0027Key Exchange\u0027?",
                           "options":  [
                                           "secure mechanism to share cryptographic keys between parties",
@@ -505,7 +421,7 @@
                           "explanation":  "Key Exchange refers to: secure mechanism to share cryptographic keys between parties."
                       },
                       {
-                          "id":  43,
+                          "id":  36,
                           "question":  "\u0027Key Exchange\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Cryptographic Models",
@@ -517,19 +433,7 @@
                           "explanation":  "Key Exchange is mainly part of Cryptographic Models."
                       },
                       {
-                          "id":  44,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Ciphertext -\u003e secure mechanism to share cryptographic keys between parties",
-                                          "Replay Attack -\u003e secure mechanism to share cryptographic keys between parties",
-                                          "Key Exchange -\u003e secure mechanism to share cryptographic keys between parties",
-                                          "ECC -\u003e secure mechanism to share cryptographic keys between parties"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Key Exchange -\u003e secure mechanism to share cryptographic keys between parties\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  45,
+                          "id":  37,
                           "question":  "A Bank SO IT security requirement states: secure mechanism to share cryptographic keys between parties. Which concept should be selected?",
                           "options":  [
                                           "Encryption",
@@ -541,7 +445,7 @@
                           "explanation":  "The requirement directly points to Key Exchange."
                       },
                       {
-                          "id":  46,
+                          "id":  38,
                           "question":  "Which cryptography concept best matches: lifecycle management of creation, storage, rotation, and revocation of keys?",
                           "options":  [
                                           "Authorization",
@@ -553,7 +457,7 @@
                           "explanation":  "Key Management is defined as: lifecycle management of creation, storage, rotation, and revocation of keys."
                       },
                       {
-                          "id":  47,
+                          "id":  39,
                           "question":  "What is the most accurate description of \u0027Key Management\u0027?",
                           "options":  [
                                           "security property preventing unauthorized data disclosure",
@@ -565,7 +469,7 @@
                           "explanation":  "Key Management refers to: lifecycle management of creation, storage, rotation, and revocation of keys."
                       },
                       {
-                          "id":  48,
+                          "id":  40,
                           "question":  "\u0027Key Management\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Threats and Defense",
@@ -577,19 +481,7 @@
                           "explanation":  "Key Management is mainly part of Cryptographic Models."
                       },
                       {
-                          "id":  49,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Key Management -\u003e lifecycle management of creation, storage, rotation, and revocation of keys",
-                                          "Salt -\u003e lifecycle management of creation, storage, rotation, and revocation of keys",
-                                          "Authorization -\u003e lifecycle management of creation, storage, rotation, and revocation of keys",
-                                          "MD5 -\u003e lifecycle management of creation, storage, rotation, and revocation of keys"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Key Management -\u003e lifecycle management of creation, storage, rotation, and revocation of keys\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  50,
+                          "id":  41,
                           "question":  "A Bank SO IT security requirement states: lifecycle management of creation, storage, rotation, and revocation of keys. Which concept should be selected?",
                           "options":  [
                                           "Authentication",
@@ -601,7 +493,7 @@
                           "explanation":  "The requirement directly points to Key Management."
                       },
                       {
-                          "id":  51,
+                          "id":  42,
                           "question":  "Which cryptography concept best matches: widely used symmetric block cipher standard?",
                           "options":  [
                                           "Symmetric Encryption",
@@ -613,7 +505,7 @@
                           "explanation":  "AES is defined as: widely used symmetric block cipher standard."
                       },
                       {
-                          "id":  52,
+                          "id":  43,
                           "question":  "What is the most accurate description of \u0027AES\u0027?",
                           "options":  [
                                           "process of converting plaintext into ciphertext",
@@ -625,7 +517,7 @@
                           "explanation":  "AES refers to: widely used symmetric block cipher standard."
                       },
                       {
-                          "id":  53,
+                          "id":  44,
                           "question":  "\u0027AES\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Digital Trust",
@@ -637,19 +529,7 @@
                           "explanation":  "AES is mainly part of Algorithms and Primitives."
                       },
                       {
-                          "id":  54,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "AES -\u003e widely used symmetric block cipher standard",
-                                          "IPsec -\u003e widely used symmetric block cipher standard",
-                                          "CSR -\u003e widely used symmetric block cipher standard",
-                                          "Key Rotation -\u003e widely used symmetric block cipher standard"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027AES -\u003e widely used symmetric block cipher standard\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  55,
+                          "id":  45,
                           "question":  "A Bank SO IT security requirement states: widely used symmetric block cipher standard. Which concept should be selected?",
                           "options":  [
                                           "Certificate Pinning",
@@ -661,7 +541,7 @@
                           "explanation":  "The requirement directly points to AES."
                       },
                       {
-                          "id":  56,
+                          "id":  46,
                           "question":  "Which cryptography concept best matches: legacy symmetric block cipher with 56-bit effective key?",
                           "options":  [
                                           "Replay Attack",
@@ -673,7 +553,7 @@
                           "explanation":  "DES is defined as: legacy symmetric block cipher with 56-bit effective key."
                       },
                       {
-                          "id":  57,
+                          "id":  47,
                           "question":  "What is the most accurate description of \u0027DES\u0027?",
                           "options":  [
                                           "older predecessor protocol to TLS now deprecated",
@@ -685,7 +565,7 @@
                           "explanation":  "DES refers to: legacy symmetric block cipher with 56-bit effective key."
                       },
                       {
-                          "id":  58,
+                          "id":  48,
                           "question":  "\u0027DES\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Algorithms and Primitives",
@@ -697,19 +577,7 @@
                           "explanation":  "DES is mainly part of Algorithms and Primitives."
                       },
                       {
-                          "id":  59,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "SSH -\u003e legacy symmetric block cipher with 56-bit effective key",
-                                          "Key Rotation -\u003e legacy symmetric block cipher with 56-bit effective key",
-                                          "Ciphertext -\u003e legacy symmetric block cipher with 56-bit effective key",
-                                          "DES -\u003e legacy symmetric block cipher with 56-bit effective key"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027DES -\u003e legacy symmetric block cipher with 56-bit effective key\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  60,
+                          "id":  49,
                           "question":  "A Bank SO IT security requirement states: legacy symmetric block cipher with 56-bit effective key. Which concept should be selected?",
                           "options":  [
                                           "DES",
@@ -721,7 +589,7 @@
                           "explanation":  "The requirement directly points to DES."
                       },
                       {
-                          "id":  61,
+                          "id":  50,
                           "question":  "Which cryptography concept best matches: cipher applying DES algorithm three times for stronger security?",
                           "options":  [
                                           "Plaintext",
@@ -733,7 +601,7 @@
                           "explanation":  "3DES is defined as: cipher applying DES algorithm three times for stronger security."
                       },
                       {
-                          "id":  62,
+                          "id":  51,
                           "question":  "What is the most accurate description of \u00273DES\u0027?",
                           "options":  [
                                           "tamper-resistant device for secure cryptographic key operations",
@@ -745,7 +613,7 @@
                           "explanation":  "3DES refers to: cipher applying DES algorithm three times for stronger security."
                       },
                       {
-                          "id":  63,
+                          "id":  52,
                           "question":  "\u00273DES\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Threats and Defense",
@@ -757,19 +625,7 @@
                           "explanation":  "3DES is mainly part of Algorithms and Primitives."
                       },
                       {
-                          "id":  64,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "3DES -\u003e cipher applying DES algorithm three times for stronger security",
-                                          "MACsec -\u003e cipher applying DES algorithm three times for stronger security",
-                                          "Encryption -\u003e cipher applying DES algorithm three times for stronger security",
-                                          "IPsec -\u003e cipher applying DES algorithm three times for stronger security"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u00273DES -\u003e cipher applying DES algorithm three times for stronger security\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  65,
+                          "id":  53,
                           "question":  "A Bank SO IT security requirement states: cipher applying DES algorithm three times for stronger security. Which concept should be selected?",
                           "options":  [
                                           "Encryption",
@@ -781,7 +637,7 @@
                           "explanation":  "The requirement directly points to 3DES."
                       },
                       {
-                          "id":  66,
+                          "id":  54,
                           "question":  "Which cryptography concept best matches: asymmetric algorithm used for encryption and digital signatures?",
                           "options":  [
                                           "RSA",
@@ -793,7 +649,7 @@
                           "explanation":  "RSA is defined as: asymmetric algorithm used for encryption and digital signatures."
                       },
                       {
-                          "id":  67,
+                          "id":  55,
                           "question":  "What is the most accurate description of \u0027RSA\u0027?",
                           "options":  [
                                           "asymmetric algorithm used for encryption and digital signatures",
@@ -805,7 +661,7 @@
                           "explanation":  "RSA refers to: asymmetric algorithm used for encryption and digital signatures."
                       },
                       {
-                          "id":  68,
+                          "id":  56,
                           "question":  "\u0027RSA\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Secure Communication",
@@ -817,19 +673,7 @@
                           "explanation":  "RSA is mainly part of Algorithms and Primitives."
                       },
                       {
-                          "id":  69,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Encryption -\u003e asymmetric algorithm used for encryption and digital signatures",
-                                          "RSA -\u003e asymmetric algorithm used for encryption and digital signatures",
-                                          "AES -\u003e asymmetric algorithm used for encryption and digital signatures",
-                                          "SSH -\u003e asymmetric algorithm used for encryption and digital signatures"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027RSA -\u003e asymmetric algorithm used for encryption and digital signatures\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  70,
+                          "id":  57,
                           "question":  "A Bank SO IT security requirement states: asymmetric algorithm used for encryption and digital signatures. Which concept should be selected?",
                           "options":  [
                                           "MD5",
@@ -841,7 +685,7 @@
                           "explanation":  "The requirement directly points to RSA."
                       },
                       {
-                          "id":  71,
+                          "id":  58,
                           "question":  "Which cryptography concept best matches: public-key cryptography based on elliptic curve mathematics?",
                           "options":  [
                                           "TLS",
@@ -853,7 +697,7 @@
                           "explanation":  "ECC is defined as: public-key cryptography based on elliptic curve mathematics."
                       },
                       {
-                          "id":  72,
+                          "id":  59,
                           "question":  "What is the most accurate description of \u0027ECC\u0027?",
                           "options":  [
                                           "public-key cryptography based on elliptic curve mathematics",
@@ -865,7 +709,7 @@
                           "explanation":  "ECC refers to: public-key cryptography based on elliptic curve mathematics."
                       },
                       {
-                          "id":  73,
+                          "id":  60,
                           "question":  "\u0027ECC\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Algorithms and Primitives",
@@ -877,19 +721,7 @@
                           "explanation":  "ECC is mainly part of Algorithms and Primitives."
                       },
                       {
-                          "id":  74,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "ECC -\u003e public-key cryptography based on elliptic curve mathematics",
-                                          "Integrity -\u003e public-key cryptography based on elliptic curve mathematics",
-                                          "Tokenization -\u003e public-key cryptography based on elliptic curve mathematics",
-                                          "Hardware Security Module -\u003e public-key cryptography based on elliptic curve mathematics"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027ECC -\u003e public-key cryptography based on elliptic curve mathematics\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  75,
+                          "id":  61,
                           "question":  "A Bank SO IT security requirement states: public-key cryptography based on elliptic curve mathematics. Which concept should be selected?",
                           "options":  [
                                           "ECC",
@@ -901,7 +733,7 @@
                           "explanation":  "The requirement directly points to ECC."
                       },
                       {
-                          "id":  76,
+                          "id":  62,
                           "question":  "Which cryptography concept best matches: algorithm enabling secure key exchange over insecure channel?",
                           "options":  [
                                           "Diffie-Hellman",
@@ -913,7 +745,7 @@
                           "explanation":  "Diffie-Hellman is defined as: algorithm enabling secure key exchange over insecure channel."
                       },
                       {
-                          "id":  77,
+                          "id":  63,
                           "question":  "What is the most accurate description of \u0027Diffie-Hellman\u0027?",
                           "options":  [
                                           "periodic replacement of cryptographic keys to reduce exposure",
@@ -925,7 +757,7 @@
                           "explanation":  "Diffie-Hellman refers to: algorithm enabling secure key exchange over insecure channel."
                       },
                       {
-                          "id":  78,
+                          "id":  64,
                           "question":  "\u0027Diffie-Hellman\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Security Fundamentals",
@@ -937,19 +769,7 @@
                           "explanation":  "Diffie-Hellman is mainly part of Algorithms and Primitives."
                       },
                       {
-                          "id":  79,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "SSH -\u003e algorithm enabling secure key exchange over insecure channel",
-                                          "Diffie-Hellman -\u003e algorithm enabling secure key exchange over insecure channel",
-                                          "Brute Force Attack -\u003e algorithm enabling secure key exchange over insecure channel",
-                                          "CSR -\u003e algorithm enabling secure key exchange over insecure channel"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Diffie-Hellman -\u003e algorithm enabling secure key exchange over insecure channel\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  80,
+                          "id":  65,
                           "question":  "A Bank SO IT security requirement states: algorithm enabling secure key exchange over insecure channel. Which concept should be selected?",
                           "options":  [
                                           "Diffie-Hellman",
@@ -961,7 +781,7 @@
                           "explanation":  "The requirement directly points to Diffie-Hellman."
                       },
                       {
-                          "id":  81,
+                          "id":  66,
                           "question":  "Which cryptography concept best matches: cryptographic hash function producing 256-bit digest?",
                           "options":  [
                                           "ECC",
@@ -973,7 +793,7 @@
                           "explanation":  "SHA-256 is defined as: cryptographic hash function producing 256-bit digest."
                       },
                       {
-                          "id":  82,
+                          "id":  67,
                           "question":  "What is the most accurate description of \u0027SHA-256\u0027?",
                           "options":  [
                                           "cryptographic hash function producing 256-bit digest",
@@ -985,7 +805,7 @@
                           "explanation":  "SHA-256 refers to: cryptographic hash function producing 256-bit digest."
                       },
                       {
-                          "id":  83,
+                          "id":  68,
                           "question":  "\u0027SHA-256\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Secure Communication",
@@ -997,19 +817,7 @@
                           "explanation":  "SHA-256 is mainly part of Algorithms and Primitives."
                       },
                       {
-                          "id":  84,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "AES -\u003e cryptographic hash function producing 256-bit digest",
-                                          "SHA-256 -\u003e cryptographic hash function producing 256-bit digest",
-                                          "Plaintext -\u003e cryptographic hash function producing 256-bit digest",
-                                          "Certificate Authority -\u003e cryptographic hash function producing 256-bit digest"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027SHA-256 -\u003e cryptographic hash function producing 256-bit digest\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  85,
+                          "id":  69,
                           "question":  "A Bank SO IT security requirement states: cryptographic hash function producing 256-bit digest. Which concept should be selected?",
                           "options":  [
                                           "Certificate Pinning",
@@ -1021,7 +829,7 @@
                           "explanation":  "The requirement directly points to SHA-256."
                       },
                       {
-                          "id":  86,
+                          "id":  70,
                           "question":  "Which cryptography concept best matches: obsolete hash function vulnerable to collision attacks?",
                           "options":  [
                                           "MD5",
@@ -1033,7 +841,7 @@
                           "explanation":  "MD5 is defined as: obsolete hash function vulnerable to collision attacks."
                       },
                       {
-                          "id":  87,
+                          "id":  71,
                           "question":  "What is the most accurate description of \u0027MD5\u0027?",
                           "options":  [
                                           "secure protocol for remote administration and tunneling",
@@ -1045,7 +853,7 @@
                           "explanation":  "MD5 refers to: obsolete hash function vulnerable to collision attacks."
                       },
                       {
-                          "id":  88,
+                          "id":  72,
                           "question":  "\u0027MD5\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Algorithms and Primitives",
@@ -1057,19 +865,7 @@
                           "explanation":  "MD5 is mainly part of Algorithms and Primitives."
                       },
                       {
-                          "id":  89,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Authorization -\u003e obsolete hash function vulnerable to collision attacks",
-                                          "Certificate Authority -\u003e obsolete hash function vulnerable to collision attacks",
-                                          "MD5 -\u003e obsolete hash function vulnerable to collision attacks",
-                                          "Hardware Security Module -\u003e obsolete hash function vulnerable to collision attacks"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027MD5 -\u003e obsolete hash function vulnerable to collision attacks\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  90,
+                          "id":  73,
                           "question":  "A Bank SO IT security requirement states: obsolete hash function vulnerable to collision attacks. Which concept should be selected?",
                           "options":  [
                                           "Tokenization",
@@ -1081,7 +877,7 @@
                           "explanation":  "The requirement directly points to MD5."
                       },
                       {
-                          "id":  91,
+                          "id":  74,
                           "question":  "Which cryptography concept best matches: message authentication code using hash function and secret key?",
                           "options":  [
                                           "Brute Force Attack",
@@ -1093,7 +889,7 @@
                           "explanation":  "HMAC is defined as: message authentication code using hash function and secret key."
                       },
                       {
-                          "id":  92,
+                          "id":  75,
                           "question":  "What is the most accurate description of \u0027HMAC\u0027?",
                           "options":  [
                                           "message authentication code using hash function and secret key",
@@ -1105,7 +901,7 @@
                           "explanation":  "HMAC refers to: message authentication code using hash function and secret key."
                       },
                       {
-                          "id":  93,
+                          "id":  76,
                           "question":  "\u0027HMAC\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Digital Trust",
@@ -1117,19 +913,7 @@
                           "explanation":  "HMAC is mainly part of Algorithms and Primitives."
                       },
                       {
-                          "id":  94,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "HMAC -\u003e message authentication code using hash function and secret key",
-                                          "X.509 Certificate -\u003e message authentication code using hash function and secret key",
-                                          "Cryptography -\u003e message authentication code using hash function and secret key",
-                                          "IKE -\u003e message authentication code using hash function and secret key"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027HMAC -\u003e message authentication code using hash function and secret key\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  95,
+                          "id":  77,
                           "question":  "A Bank SO IT security requirement states: message authentication code using hash function and secret key. Which concept should be selected?",
                           "options":  [
                                           "Non-Repudiation",
@@ -1141,7 +925,7 @@
                           "explanation":  "The requirement directly points to HMAC."
                       },
                       {
-                          "id":  96,
+                          "id":  78,
                           "question":  "Which cryptography concept best matches: random value added before hashing to resist precomputed attacks?",
                           "options":  [
                                           "Rainbow Table Attack",
@@ -1153,7 +937,7 @@
                           "explanation":  "Salt is defined as: random value added before hashing to resist precomputed attacks."
                       },
                       {
-                          "id":  97,
+                          "id":  79,
                           "question":  "What is the most accurate description of \u0027Salt\u0027?",
                           "options":  [
                                           "suite securing IP communications using authentication and encryption",
@@ -1165,7 +949,7 @@
                           "explanation":  "Salt refers to: random value added before hashing to resist precomputed attacks."
                       },
                       {
-                          "id":  98,
+                          "id":  80,
                           "question":  "\u0027Salt\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Secure Communication",
@@ -1177,19 +961,7 @@
                           "explanation":  "Salt is mainly part of Algorithms and Primitives."
                       },
                       {
-                          "id":  99,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "SHA-256 -\u003e random value added before hashing to resist precomputed attacks",
-                                          "Encryption -\u003e random value added before hashing to resist precomputed attacks",
-                                          "Salt -\u003e random value added before hashing to resist precomputed attacks",
-                                          "Tokenization -\u003e random value added before hashing to resist precomputed attacks"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Salt -\u003e random value added before hashing to resist precomputed attacks\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  100,
+                          "id":  81,
                           "question":  "A Bank SO IT security requirement states: random value added before hashing to resist precomputed attacks. Which concept should be selected?",
                           "options":  [
                                           "Asymmetric Encryption",
@@ -1201,7 +973,7 @@
                           "explanation":  "The requirement directly points to Salt."
                       },
                       {
-                          "id":  101,
+                          "id":  82,
                           "question":  "Which cryptography concept best matches: cryptographic mechanism proving message authenticity and integrity?",
                           "options":  [
                                           "Dictionary Attack",
@@ -1213,7 +985,7 @@
                           "explanation":  "Digital Signature is defined as: cryptographic mechanism proving message authenticity and integrity."
                       },
                       {
-                          "id":  102,
+                          "id":  83,
                           "question":  "What is the most accurate description of \u0027Digital Signature\u0027?",
                           "options":  [
                                           "cryptographic hash function producing 256-bit digest",
@@ -1225,7 +997,7 @@
                           "explanation":  "Digital Signature refers to: cryptographic mechanism proving message authenticity and integrity."
                       },
                       {
-                          "id":  103,
+                          "id":  84,
                           "question":  "\u0027Digital Signature\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Cryptographic Models",
@@ -1237,19 +1009,7 @@
                           "explanation":  "Digital Signature is mainly part of Digital Trust."
                       },
                       {
-                          "id":  104,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Digital Signature -\u003e cryptographic mechanism proving message authenticity and integrity",
-                                          "Integrity -\u003e cryptographic mechanism proving message authenticity and integrity",
-                                          "Certificate Authority -\u003e cryptographic mechanism proving message authenticity and integrity",
-                                          "Diffie-Hellman -\u003e cryptographic mechanism proving message authenticity and integrity"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Digital Signature -\u003e cryptographic mechanism proving message authenticity and integrity\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  105,
+                          "id":  85,
                           "question":  "A Bank SO IT security requirement states: cryptographic mechanism proving message authenticity and integrity. Which concept should be selected?",
                           "options":  [
                                           "Dictionary Attack",
@@ -1261,7 +1021,7 @@
                           "explanation":  "The requirement directly points to Digital Signature."
                       },
                       {
-                          "id":  106,
+                          "id":  86,
                           "question":  "Which cryptography concept best matches: assurance that sender cannot deny sent message?",
                           "options":  [
                                           "SSH",
@@ -1273,7 +1033,7 @@
                           "explanation":  "Non-Repudiation is defined as: assurance that sender cannot deny sent message."
                       },
                       {
-                          "id":  107,
+                          "id":  87,
                           "question":  "What is the most accurate description of \u0027Non-Repudiation\u0027?",
                           "options":  [
                                           "lifecycle management of creation, storage, rotation, and revocation of keys",
@@ -1285,7 +1045,7 @@
                           "explanation":  "Non-Repudiation refers to: assurance that sender cannot deny sent message."
                       },
                       {
-                          "id":  108,
+                          "id":  88,
                           "question":  "\u0027Non-Repudiation\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Security Fundamentals",
@@ -1297,19 +1057,7 @@
                           "explanation":  "Non-Repudiation is mainly part of Digital Trust."
                       },
                       {
-                          "id":  109,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Non-Repudiation -\u003e assurance that sender cannot deny sent message",
-                                          "Brute Force Attack -\u003e assurance that sender cannot deny sent message",
-                                          "Perfect Forward Secrecy -\u003e assurance that sender cannot deny sent message",
-                                          "Digital Signature -\u003e assurance that sender cannot deny sent message"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Non-Repudiation -\u003e assurance that sender cannot deny sent message\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  110,
+                          "id":  89,
                           "question":  "A Bank SO IT security requirement states: assurance that sender cannot deny sent message. Which concept should be selected?",
                           "options":  [
                                           "Salt",
@@ -1321,7 +1069,7 @@
                           "explanation":  "The requirement directly points to Non-Repudiation."
                       },
                       {
-                          "id":  111,
+                          "id":  90,
                           "question":  "Which cryptography concept best matches: security property ensuring data is not altered improperly?",
                           "options":  [
                                           "Key Exchange",
@@ -1333,7 +1081,7 @@
                           "explanation":  "Integrity is defined as: security property ensuring data is not altered improperly."
                       },
                       {
-                          "id":  112,
+                          "id":  91,
                           "question":  "What is the most accurate description of \u0027Integrity\u0027?",
                           "options":  [
                                           "random value added before hashing to resist precomputed attacks",
@@ -1345,7 +1093,7 @@
                           "explanation":  "Integrity refers to: security property ensuring data is not altered improperly."
                       },
                       {
-                          "id":  113,
+                          "id":  92,
                           "question":  "\u0027Integrity\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Secure Communication",
@@ -1357,19 +1105,7 @@
                           "explanation":  "Integrity is mainly part of Digital Trust."
                       },
                       {
-                          "id":  114,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Hardware Security Module -\u003e security property ensuring data is not altered improperly",
-                                          "X.509 Certificate -\u003e security property ensuring data is not altered improperly",
-                                          "Salt -\u003e security property ensuring data is not altered improperly",
-                                          "Integrity -\u003e security property ensuring data is not altered improperly"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Integrity -\u003e security property ensuring data is not altered improperly\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  115,
+                          "id":  93,
                           "question":  "A Bank SO IT security requirement states: security property ensuring data is not altered improperly. Which concept should be selected?",
                           "options":  [
                                           "Integrity",
@@ -1381,7 +1117,7 @@
                           "explanation":  "The requirement directly points to Integrity."
                       },
                       {
-                          "id":  116,
+                          "id":  94,
                           "question":  "Which cryptography concept best matches: security property preventing unauthorized data disclosure?",
                           "options":  [
                                           "Key Rotation",
@@ -1393,7 +1129,7 @@
                           "explanation":  "Confidentiality is defined as: security property preventing unauthorized data disclosure."
                       },
                       {
-                          "id":  117,
+                          "id":  95,
                           "question":  "What is the most accurate description of \u0027Confidentiality\u0027?",
                           "options":  [
                                           "public-key cryptography based on elliptic curve mathematics",
@@ -1405,7 +1141,7 @@
                           "explanation":  "Confidentiality refers to: security property preventing unauthorized data disclosure."
                       },
                       {
-                          "id":  118,
+                          "id":  96,
                           "question":  "\u0027Confidentiality\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Digital Trust",
@@ -1417,19 +1153,7 @@
                           "explanation":  "Confidentiality is mainly part of Digital Trust."
                       },
                       {
-                          "id":  119,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Certificate Pinning -\u003e security property preventing unauthorized data disclosure",
-                                          "Non-Repudiation -\u003e security property preventing unauthorized data disclosure",
-                                          "Handshake -\u003e security property preventing unauthorized data disclosure",
-                                          "Confidentiality -\u003e security property preventing unauthorized data disclosure"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Confidentiality -\u003e security property preventing unauthorized data disclosure\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  120,
+                          "id":  97,
                           "question":  "A Bank SO IT security requirement states: security property preventing unauthorized data disclosure. Which concept should be selected?",
                           "options":  [
                                           "SHA-256",
@@ -1441,7 +1165,7 @@
                           "explanation":  "The requirement directly points to Confidentiality."
                       },
                       {
-                          "id":  121,
+                          "id":  98,
                           "question":  "Which cryptography concept best matches: process of verifying identity of user or system?",
                           "options":  [
                                           "Authentication",
@@ -1453,7 +1177,7 @@
                           "explanation":  "Authentication is defined as: process of verifying identity of user or system."
                       },
                       {
-                          "id":  122,
+                          "id":  99,
                           "question":  "What is the most accurate description of \u0027Authentication\u0027?",
                           "options":  [
                                           "cryptographic hash function producing 256-bit digest",
@@ -1465,7 +1189,7 @@
                           "explanation":  "Authentication refers to: process of verifying identity of user or system."
                       },
                       {
-                          "id":  123,
+                          "id":  100,
                           "question":  "\u0027Authentication\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Digital Trust",
@@ -1477,19 +1201,7 @@
                           "explanation":  "Authentication is mainly part of Digital Trust."
                       },
                       {
-                          "id":  124,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Man-in-the-Middle -\u003e process of verifying identity of user or system",
-                                          "Authentication -\u003e process of verifying identity of user or system",
-                                          "Confidentiality -\u003e process of verifying identity of user or system",
-                                          "Hardware Security Module -\u003e process of verifying identity of user or system"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Authentication -\u003e process of verifying identity of user or system\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  125,
+                          "id":  101,
                           "question":  "A Bank SO IT security requirement states: process of verifying identity of user or system. Which concept should be selected?",
                           "options":  [
                                           "IPsec",
@@ -1501,7 +1213,7 @@
                           "explanation":  "The requirement directly points to Authentication."
                       },
                       {
-                          "id":  126,
+                          "id":  102,
                           "question":  "Which cryptography concept best matches: process of verifying allowed actions after authentication?",
                           "options":  [
                                           "Key Exchange",
@@ -1513,7 +1225,7 @@
                           "explanation":  "Authorization is defined as: process of verifying allowed actions after authentication."
                       },
                       {
-                          "id":  127,
+                          "id":  103,
                           "question":  "What is the most accurate description of \u0027Authorization\u0027?",
                           "options":  [
                                           "property where compromise of long-term key does not expose past sessions",
@@ -1525,7 +1237,7 @@
                           "explanation":  "Authorization refers to: process of verifying allowed actions after authentication."
                       },
                       {
-                          "id":  128,
+                          "id":  104,
                           "question":  "\u0027Authorization\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Secure Communication",
@@ -1537,19 +1249,7 @@
                           "explanation":  "Authorization is mainly part of Digital Trust."
                       },
                       {
-                          "id":  129,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "HMAC -\u003e process of verifying allowed actions after authentication",
-                                          "Authorization -\u003e process of verifying allowed actions after authentication",
-                                          "Key Rotation -\u003e process of verifying allowed actions after authentication",
-                                          "Brute Force Attack -\u003e process of verifying allowed actions after authentication"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Authorization -\u003e process of verifying allowed actions after authentication\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  130,
+                          "id":  105,
                           "question":  "A Bank SO IT security requirement states: process of verifying allowed actions after authentication. Which concept should be selected?",
                           "options":  [
                                           "Authorization",
@@ -1561,7 +1261,7 @@
                           "explanation":  "The requirement directly points to Authorization."
                       },
                       {
-                          "id":  131,
+                          "id":  106,
                           "question":  "Which cryptography concept best matches: framework managing digital certificates and trust chains?",
                           "options":  [
                                           "Replay Attack",
@@ -1573,7 +1273,7 @@
                           "explanation":  "PKI is defined as: framework managing digital certificates and trust chains."
                       },
                       {
-                          "id":  132,
+                          "id":  107,
                           "question":  "What is the most accurate description of \u0027PKI\u0027?",
                           "options":  [
                                           "framework managing digital certificates and trust chains",
@@ -1585,7 +1285,7 @@
                           "explanation":  "PKI refers to: framework managing digital certificates and trust chains."
                       },
                       {
-                          "id":  133,
+                          "id":  108,
                           "question":  "\u0027PKI\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Digital Trust",
@@ -1597,19 +1297,7 @@
                           "explanation":  "PKI is mainly part of Digital Trust."
                       },
                       {
-                          "id":  134,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "PKI -\u003e framework managing digital certificates and trust chains",
-                                          "MD5 -\u003e framework managing digital certificates and trust chains",
-                                          "Diffie-Hellman -\u003e framework managing digital certificates and trust chains",
-                                          "Certificate Pinning -\u003e framework managing digital certificates and trust chains"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027PKI -\u003e framework managing digital certificates and trust chains\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  135,
+                          "id":  109,
                           "question":  "A Bank SO IT security requirement states: framework managing digital certificates and trust chains. Which concept should be selected?",
                           "options":  [
                                           "Key Management",
@@ -1621,7 +1309,7 @@
                           "explanation":  "The requirement directly points to PKI."
                       },
                       {
-                          "id":  136,
+                          "id":  110,
                           "question":  "Which cryptography concept best matches: trusted entity issuing and signing digital certificates?",
                           "options":  [
                                           "CSR",
@@ -1633,7 +1321,7 @@
                           "explanation":  "Certificate Authority is defined as: trusted entity issuing and signing digital certificates."
                       },
                       {
-                          "id":  137,
+                          "id":  111,
                           "question":  "What is the most accurate description of \u0027Certificate Authority\u0027?",
                           "options":  [
                                           "process of verifying allowed actions after authentication",
@@ -1645,7 +1333,7 @@
                           "explanation":  "Certificate Authority refers to: trusted entity issuing and signing digital certificates."
                       },
                       {
-                          "id":  138,
+                          "id":  112,
                           "question":  "\u0027Certificate Authority\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Threats and Defense",
@@ -1657,19 +1345,7 @@
                           "explanation":  "Certificate Authority is mainly part of Digital Trust."
                       },
                       {
-                          "id":  139,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Confidentiality -\u003e trusted entity issuing and signing digital certificates",
-                                          "ECC -\u003e trusted entity issuing and signing digital certificates",
-                                          "Salt -\u003e trusted entity issuing and signing digital certificates",
-                                          "Certificate Authority -\u003e trusted entity issuing and signing digital certificates"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Certificate Authority -\u003e trusted entity issuing and signing digital certificates\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  140,
+                          "id":  113,
                           "question":  "A Bank SO IT security requirement states: trusted entity issuing and signing digital certificates. Which concept should be selected?",
                           "options":  [
                                           "Asymmetric Encryption",
@@ -1681,7 +1357,7 @@
                           "explanation":  "The requirement directly points to Certificate Authority."
                       },
                       {
-                          "id":  141,
+                          "id":  114,
                           "question":  "Which cryptography concept best matches: certificate signing request submitted to certificate authority?",
                           "options":  [
                                           "Session Key",
@@ -1693,7 +1369,7 @@
                           "explanation":  "CSR is defined as: certificate signing request submitted to certificate authority."
                       },
                       {
-                          "id":  142,
+                          "id":  115,
                           "question":  "What is the most accurate description of \u0027CSR\u0027?",
                           "options":  [
                                           "certificate signing request submitted to certificate authority",
@@ -1705,7 +1381,7 @@
                           "explanation":  "CSR refers to: certificate signing request submitted to certificate authority."
                       },
                       {
-                          "id":  143,
+                          "id":  116,
                           "question":  "\u0027CSR\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Digital Trust",
@@ -1717,19 +1393,7 @@
                           "explanation":  "CSR is mainly part of Digital Trust."
                       },
                       {
-                          "id":  144,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Key Rotation -\u003e certificate signing request submitted to certificate authority",
-                                          "Integrity -\u003e certificate signing request submitted to certificate authority",
-                                          "Dictionary Attack -\u003e certificate signing request submitted to certificate authority",
-                                          "CSR -\u003e certificate signing request submitted to certificate authority"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027CSR -\u003e certificate signing request submitted to certificate authority\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  145,
+                          "id":  117,
                           "question":  "A Bank SO IT security requirement states: certificate signing request submitted to certificate authority. Which concept should be selected?",
                           "options":  [
                                           "Digital Signature",
@@ -1741,7 +1405,7 @@
                           "explanation":  "The requirement directly points to CSR."
                       },
                       {
-                          "id":  146,
+                          "id":  118,
                           "question":  "Which cryptography concept best matches: standard format for public key digital certificates?",
                           "options":  [
                                           "Confidentiality",
@@ -1753,7 +1417,7 @@
                           "explanation":  "X.509 Certificate is defined as: standard format for public key digital certificates."
                       },
                       {
-                          "id":  147,
+                          "id":  119,
                           "question":  "What is the most accurate description of \u0027X.509 Certificate\u0027?",
                           "options":  [
                                           "encrypted tunnel for secure communication over public network",
@@ -1765,7 +1429,7 @@
                           "explanation":  "X.509 Certificate refers to: standard format for public key digital certificates."
                       },
                       {
-                          "id":  148,
+                          "id":  120,
                           "question":  "\u0027X.509 Certificate\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Secure Communication",
@@ -1777,19 +1441,7 @@
                           "explanation":  "X.509 Certificate is mainly part of Digital Trust."
                       },
                       {
-                          "id":  149,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Brute Force Attack -\u003e standard format for public key digital certificates",
-                                          "MD5 -\u003e standard format for public key digital certificates",
-                                          "X.509 Certificate -\u003e standard format for public key digital certificates",
-                                          "Dictionary Attack -\u003e standard format for public key digital certificates"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027X.509 Certificate -\u003e standard format for public key digital certificates\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  150,
+                          "id":  121,
                           "question":  "A Bank SO IT security requirement states: standard format for public key digital certificates. Which concept should be selected?",
                           "options":  [
                                           "Confidentiality",
@@ -1801,7 +1453,7 @@
                           "explanation":  "The requirement directly points to X.509 Certificate."
                       },
                       {
-                          "id":  151,
+                          "id":  122,
                           "question":  "Which cryptography concept best matches: protocol securing data in transit over networks?",
                           "options":  [
                                           "Certificate Authority",
@@ -1813,7 +1465,7 @@
                           "explanation":  "TLS is defined as: protocol securing data in transit over networks."
                       },
                       {
-                          "id":  152,
+                          "id":  123,
                           "question":  "What is the most accurate description of \u0027TLS\u0027?",
                           "options":  [
                                           "protocol securing data in transit over networks",
@@ -1825,7 +1477,7 @@
                           "explanation":  "TLS refers to: protocol securing data in transit over networks."
                       },
                       {
-                          "id":  153,
+                          "id":  124,
                           "question":  "\u0027TLS\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Cryptographic Models",
@@ -1837,19 +1489,7 @@
                           "explanation":  "TLS is mainly part of Secure Communication."
                       },
                       {
-                          "id":  154,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "AES -\u003e protocol securing data in transit over networks",
-                                          "IPsec -\u003e protocol securing data in transit over networks",
-                                          "TLS -\u003e protocol securing data in transit over networks",
-                                          "PKI -\u003e protocol securing data in transit over networks"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027TLS -\u003e protocol securing data in transit over networks\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  155,
+                          "id":  125,
                           "question":  "A Bank SO IT security requirement states: protocol securing data in transit over networks. Which concept should be selected?",
                           "options":  [
                                           "Key Management",
@@ -1861,7 +1501,7 @@
                           "explanation":  "The requirement directly points to TLS."
                       },
                       {
-                          "id":  156,
+                          "id":  126,
                           "question":  "Which cryptography concept best matches: older predecessor protocol to TLS now deprecated?",
                           "options":  [
                                           "RSA",
@@ -1873,7 +1513,7 @@
                           "explanation":  "SSL is defined as: older predecessor protocol to TLS now deprecated."
                       },
                       {
-                          "id":  157,
+                          "id":  127,
                           "question":  "What is the most accurate description of \u0027SSL\u0027?",
                           "options":  [
                                           "secure mechanism to share cryptographic keys between parties",
@@ -1885,7 +1525,7 @@
                           "explanation":  "SSL refers to: older predecessor protocol to TLS now deprecated."
                       },
                       {
-                          "id":  158,
+                          "id":  128,
                           "question":  "\u0027SSL\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Secure Communication",
@@ -1897,19 +1537,7 @@
                           "explanation":  "SSL is mainly part of Secure Communication."
                       },
                       {
-                          "id":  159,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Brute Force Attack -\u003e older predecessor protocol to TLS now deprecated",
-                                          "Encryption -\u003e older predecessor protocol to TLS now deprecated",
-                                          "Authorization -\u003e older predecessor protocol to TLS now deprecated",
-                                          "SSL -\u003e older predecessor protocol to TLS now deprecated"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027SSL -\u003e older predecessor protocol to TLS now deprecated\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  160,
+                          "id":  129,
                           "question":  "A Bank SO IT security requirement states: older predecessor protocol to TLS now deprecated. Which concept should be selected?",
                           "options":  [
                                           "Key Exchange",
@@ -1921,7 +1549,7 @@
                           "explanation":  "The requirement directly points to SSL."
                       },
                       {
-                          "id":  161,
+                          "id":  130,
                           "question":  "Which cryptography concept best matches: initial negotiation phase establishing secure session parameters?",
                           "options":  [
                                           "SHA-256",
@@ -1933,7 +1561,7 @@
                           "explanation":  "Handshake is defined as: initial negotiation phase establishing secure session parameters."
                       },
                       {
-                          "id":  162,
+                          "id":  131,
                           "question":  "What is the most accurate description of \u0027Handshake\u0027?",
                           "options":  [
                                           "message authentication code using hash function and secret key",
@@ -1945,7 +1573,7 @@
                           "explanation":  "Handshake refers to: initial negotiation phase establishing secure session parameters."
                       },
                       {
-                          "id":  163,
+                          "id":  132,
                           "question":  "\u0027Handshake\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Algorithms and Primitives",
@@ -1957,19 +1585,7 @@
                           "explanation":  "Handshake is mainly part of Secure Communication."
                       },
                       {
-                          "id":  164,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Handshake -\u003e initial negotiation phase establishing secure session parameters",
-                                          "SSL -\u003e initial negotiation phase establishing secure session parameters",
-                                          "Symmetric Encryption -\u003e initial negotiation phase establishing secure session parameters",
-                                          "Key Exchange -\u003e initial negotiation phase establishing secure session parameters"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Handshake -\u003e initial negotiation phase establishing secure session parameters\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  165,
+                          "id":  133,
                           "question":  "A Bank SO IT security requirement states: initial negotiation phase establishing secure session parameters. Which concept should be selected?",
                           "options":  [
                                           "Diffie-Hellman",
@@ -1981,7 +1597,7 @@
                           "explanation":  "The requirement directly points to Handshake."
                       },
                       {
-                          "id":  166,
+                          "id":  134,
                           "question":  "Which cryptography concept best matches: set of cryptographic algorithms used in secure connection?",
                           "options":  [
                                           "Hardware Security Module",
@@ -1993,7 +1609,7 @@
                           "explanation":  "Cipher Suite is defined as: set of cryptographic algorithms used in secure connection."
                       },
                       {
-                          "id":  167,
+                          "id":  135,
                           "question":  "What is the most accurate description of \u0027Cipher Suite\u0027?",
                           "options":  [
                                           "lifecycle management of creation, storage, rotation, and revocation of keys",
@@ -2005,7 +1621,7 @@
                           "explanation":  "Cipher Suite refers to: set of cryptographic algorithms used in secure connection."
                       },
                       {
-                          "id":  168,
+                          "id":  136,
                           "question":  "\u0027Cipher Suite\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Secure Communication",
@@ -2017,19 +1633,7 @@
                           "explanation":  "Cipher Suite is mainly part of Secure Communication."
                       },
                       {
-                          "id":  169,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Cryptography -\u003e set of cryptographic algorithms used in secure connection",
-                                          "Rainbow Table Attack -\u003e set of cryptographic algorithms used in secure connection",
-                                          "CSR -\u003e set of cryptographic algorithms used in secure connection",
-                                          "Cipher Suite -\u003e set of cryptographic algorithms used in secure connection"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Cipher Suite -\u003e set of cryptographic algorithms used in secure connection\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  170,
+                          "id":  137,
                           "question":  "A Bank SO IT security requirement states: set of cryptographic algorithms used in secure connection. Which concept should be selected?",
                           "options":  [
                                           "Authentication",
@@ -2041,7 +1645,7 @@
                           "explanation":  "The requirement directly points to Cipher Suite."
                       },
                       {
-                          "id":  171,
+                          "id":  138,
                           "question":  "Which cryptography concept best matches: property where compromise of long-term key does not expose past sessions?",
                           "options":  [
                                           "Rainbow Table Attack",
@@ -2053,7 +1657,7 @@
                           "explanation":  "Perfect Forward Secrecy is defined as: property where compromise of long-term key does not expose past sessions."
                       },
                       {
-                          "id":  172,
+                          "id":  139,
                           "question":  "What is the most accurate description of \u0027Perfect Forward Secrecy\u0027?",
                           "options":  [
                                           "temporary key used for a single communication session",
@@ -2065,7 +1669,7 @@
                           "explanation":  "Perfect Forward Secrecy refers to: property where compromise of long-term key does not expose past sessions."
                       },
                       {
-                          "id":  173,
+                          "id":  140,
                           "question":  "\u0027Perfect Forward Secrecy\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Algorithms and Primitives",
@@ -2077,19 +1681,7 @@
                           "explanation":  "Perfect Forward Secrecy is mainly part of Secure Communication."
                       },
                       {
-                          "id":  174,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "SSL -\u003e property where compromise of long-term key does not expose past sessions",
-                                          "SSH -\u003e property where compromise of long-term key does not expose past sessions",
-                                          "TLS -\u003e property where compromise of long-term key does not expose past sessions",
-                                          "Perfect Forward Secrecy -\u003e property where compromise of long-term key does not expose past sessions"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Perfect Forward Secrecy -\u003e property where compromise of long-term key does not expose past sessions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  175,
+                          "id":  141,
                           "question":  "A Bank SO IT security requirement states: property where compromise of long-term key does not expose past sessions. Which concept should be selected?",
                           "options":  [
                                           "Ciphertext",
@@ -2101,7 +1693,7 @@
                           "explanation":  "The requirement directly points to Perfect Forward Secrecy."
                       },
                       {
-                          "id":  176,
+                          "id":  142,
                           "question":  "Which cryptography concept best matches: encrypted tunnel for secure communication over public network?",
                           "options":  [
                                           "Encryption",
@@ -2113,7 +1705,7 @@
                           "explanation":  "VPN is defined as: encrypted tunnel for secure communication over public network."
                       },
                       {
-                          "id":  177,
+                          "id":  143,
                           "question":  "What is the most accurate description of \u0027VPN\u0027?",
                           "options":  [
                                           "assurance that sender cannot deny sent message",
@@ -2125,7 +1717,7 @@
                           "explanation":  "VPN refers to: encrypted tunnel for secure communication over public network."
                       },
                       {
-                          "id":  178,
+                          "id":  144,
                           "question":  "\u0027VPN\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Threats and Defense",
@@ -2137,19 +1729,7 @@
                           "explanation":  "VPN is mainly part of Secure Communication."
                       },
                       {
-                          "id":  179,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Dictionary Attack -\u003e encrypted tunnel for secure communication over public network",
-                                          "HMAC -\u003e encrypted tunnel for secure communication over public network",
-                                          "X.509 Certificate -\u003e encrypted tunnel for secure communication over public network",
-                                          "VPN -\u003e encrypted tunnel for secure communication over public network"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027VPN -\u003e encrypted tunnel for secure communication over public network\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  180,
+                          "id":  145,
                           "question":  "A Bank SO IT security requirement states: encrypted tunnel for secure communication over public network. Which concept should be selected?",
                           "options":  [
                                           "VPN",
@@ -2161,7 +1741,7 @@
                           "explanation":  "The requirement directly points to VPN."
                       },
                       {
-                          "id":  181,
+                          "id":  146,
                           "question":  "Which cryptography concept best matches: suite securing IP communications using authentication and encryption?",
                           "options":  [
                                           "3DES",
@@ -2173,7 +1753,7 @@
                           "explanation":  "IPsec is defined as: suite securing IP communications using authentication and encryption."
                       },
                       {
-                          "id":  182,
+                          "id":  147,
                           "question":  "What is the most accurate description of \u0027IPsec\u0027?",
                           "options":  [
                                           "attack trying many key/password combinations exhaustively",
@@ -2185,7 +1765,7 @@
                           "explanation":  "IPsec refers to: suite securing IP communications using authentication and encryption."
                       },
                       {
-                          "id":  183,
+                          "id":  148,
                           "question":  "\u0027IPsec\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Cryptographic Models",
@@ -2197,19 +1777,7 @@
                           "explanation":  "IPsec is mainly part of Secure Communication."
                       },
                       {
-                          "id":  184,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "IPsec -\u003e suite securing IP communications using authentication and encryption",
-                                          "3DES -\u003e suite securing IP communications using authentication and encryption",
-                                          "MACsec -\u003e suite securing IP communications using authentication and encryption",
-                                          "Salt -\u003e suite securing IP communications using authentication and encryption"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027IPsec -\u003e suite securing IP communications using authentication and encryption\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  185,
+                          "id":  149,
                           "question":  "A Bank SO IT security requirement states: suite securing IP communications using authentication and encryption. Which concept should be selected?",
                           "options":  [
                                           "IKE",
@@ -2221,7 +1789,7 @@
                           "explanation":  "The requirement directly points to IPsec."
                       },
                       {
-                          "id":  186,
+                          "id":  150,
                           "question":  "Which cryptography concept best matches: protocol for negotiating IPsec security associations?",
                           "options":  [
                                           "Diffie-Hellman",
@@ -2233,7 +1801,7 @@
                           "explanation":  "IKE is defined as: protocol for negotiating IPsec security associations."
                       },
                       {
-                          "id":  187,
+                          "id":  151,
                           "question":  "What is the most accurate description of \u0027IKE\u0027?",
                           "options":  [
                                           "encrypted unreadable output produced by cryptographic algorithm",
@@ -2245,7 +1813,7 @@
                           "explanation":  "IKE refers to: protocol for negotiating IPsec security associations."
                       },
                       {
-                          "id":  188,
+                          "id":  152,
                           "question":  "\u0027IKE\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Security Fundamentals",
@@ -2257,19 +1825,7 @@
                           "explanation":  "IKE is mainly part of Secure Communication."
                       },
                       {
-                          "id":  189,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Non-Repudiation -\u003e protocol for negotiating IPsec security associations",
-                                          "Key Management -\u003e protocol for negotiating IPsec security associations",
-                                          "Authorization -\u003e protocol for negotiating IPsec security associations",
-                                          "IKE -\u003e protocol for negotiating IPsec security associations"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027IKE -\u003e protocol for negotiating IPsec security associations\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  190,
+                          "id":  153,
                           "question":  "A Bank SO IT security requirement states: protocol for negotiating IPsec security associations. Which concept should be selected?",
                           "options":  [
                                           "Diffie-Hellman",
@@ -2281,7 +1837,7 @@
                           "explanation":  "The requirement directly points to IKE."
                       },
                       {
-                          "id":  191,
+                          "id":  154,
                           "question":  "Which cryptography concept best matches: layer-2 security protocol for Ethernet link encryption?",
                           "options":  [
                                           "Confidentiality",
@@ -2293,7 +1849,7 @@
                           "explanation":  "MACsec is defined as: layer-2 security protocol for Ethernet link encryption."
                       },
                       {
-                          "id":  192,
+                          "id":  155,
                           "question":  "What is the most accurate description of \u0027MACsec\u0027?",
                           "options":  [
                                           "layer-2 security protocol for Ethernet link encryption",
@@ -2305,7 +1861,7 @@
                           "explanation":  "MACsec refers to: layer-2 security protocol for Ethernet link encryption."
                       },
                       {
-                          "id":  193,
+                          "id":  156,
                           "question":  "\u0027MACsec\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Threats and Defense",
@@ -2317,19 +1873,7 @@
                           "explanation":  "MACsec is mainly part of Secure Communication."
                       },
                       {
-                          "id":  194,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "MACsec -\u003e layer-2 security protocol for Ethernet link encryption",
-                                          "TLS -\u003e layer-2 security protocol for Ethernet link encryption",
-                                          "SSH -\u003e layer-2 security protocol for Ethernet link encryption",
-                                          "Perfect Forward Secrecy -\u003e layer-2 security protocol for Ethernet link encryption"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027MACsec -\u003e layer-2 security protocol for Ethernet link encryption\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  195,
+                          "id":  157,
                           "question":  "A Bank SO IT security requirement states: layer-2 security protocol for Ethernet link encryption. Which concept should be selected?",
                           "options":  [
                                           "MACsec",
@@ -2341,7 +1885,7 @@
                           "explanation":  "The requirement directly points to MACsec."
                       },
                       {
-                          "id":  196,
+                          "id":  158,
                           "question":  "Which cryptography concept best matches: secure protocol for remote administration and tunneling?",
                           "options":  [
                                           "Authorization",
@@ -2353,7 +1897,7 @@
                           "explanation":  "SSH is defined as: secure protocol for remote administration and tunneling."
                       },
                       {
-                          "id":  197,
+                          "id":  159,
                           "question":  "What is the most accurate description of \u0027SSH\u0027?",
                           "options":  [
                                           "obsolete hash function vulnerable to collision attacks",
@@ -2365,7 +1909,7 @@
                           "explanation":  "SSH refers to: secure protocol for remote administration and tunneling."
                       },
                       {
-                          "id":  198,
+                          "id":  160,
                           "question":  "\u0027SSH\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Digital Trust",
@@ -2377,19 +1921,7 @@
                           "explanation":  "SSH is mainly part of Secure Communication."
                       },
                       {
-                          "id":  199,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "SSH -\u003e secure protocol for remote administration and tunneling",
-                                          "PKI -\u003e secure protocol for remote administration and tunneling",
-                                          "RSA -\u003e secure protocol for remote administration and tunneling",
-                                          "3DES -\u003e secure protocol for remote administration and tunneling"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027SSH -\u003e secure protocol for remote administration and tunneling\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  200,
+                          "id":  161,
                           "question":  "A Bank SO IT security requirement states: secure protocol for remote administration and tunneling. Which concept should be selected?",
                           "options":  [
                                           "Decryption",
@@ -2401,7 +1933,7 @@
                           "explanation":  "The requirement directly points to SSH."
                       },
                       {
-                          "id":  201,
+                          "id":  162,
                           "question":  "Which cryptography concept best matches: attack trying many key/password combinations exhaustively?",
                           "options":  [
                                           "Brute Force Attack",
@@ -2413,7 +1945,7 @@
                           "explanation":  "Brute Force Attack is defined as: attack trying many key/password combinations exhaustively."
                       },
                       {
-                          "id":  202,
+                          "id":  163,
                           "question":  "What is the most accurate description of \u0027Brute Force Attack\u0027?",
                           "options":  [
                                           "secure protocol for remote administration and tunneling",
@@ -2425,7 +1957,7 @@
                           "explanation":  "Brute Force Attack refers to: attack trying many key/password combinations exhaustively."
                       },
                       {
-                          "id":  203,
+                          "id":  164,
                           "question":  "\u0027Brute Force Attack\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Threats and Defense",
@@ -2437,19 +1969,7 @@
                           "explanation":  "Brute Force Attack is mainly part of Threats and Defense."
                       },
                       {
-                          "id":  204,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "IPsec -\u003e attack trying many key/password combinations exhaustively",
-                                          "Brute Force Attack -\u003e attack trying many key/password combinations exhaustively",
-                                          "VPN -\u003e attack trying many key/password combinations exhaustively",
-                                          "Dictionary Attack -\u003e attack trying many key/password combinations exhaustively"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Brute Force Attack -\u003e attack trying many key/password combinations exhaustively\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  205,
+                          "id":  165,
                           "question":  "A Bank SO IT security requirement states: attack trying many key/password combinations exhaustively. Which concept should be selected?",
                           "options":  [
                                           "SSH",
@@ -2461,7 +1981,7 @@
                           "explanation":  "The requirement directly points to Brute Force Attack."
                       },
                       {
-                          "id":  206,
+                          "id":  166,
                           "question":  "Which cryptography concept best matches: attack trying likely passwords from predefined word lists?",
                           "options":  [
                                           "Dictionary Attack",
@@ -2473,7 +1993,7 @@
                           "explanation":  "Dictionary Attack is defined as: attack trying likely passwords from predefined word lists."
                       },
                       {
-                          "id":  207,
+                          "id":  167,
                           "question":  "What is the most accurate description of \u0027Dictionary Attack\u0027?",
                           "options":  [
                                           "attack using precomputed hash lookup tables",
@@ -2485,7 +2005,7 @@
                           "explanation":  "Dictionary Attack refers to: attack trying likely passwords from predefined word lists."
                       },
                       {
-                          "id":  208,
+                          "id":  168,
                           "question":  "\u0027Dictionary Attack\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Algorithms and Primitives",
@@ -2497,19 +2017,7 @@
                           "explanation":  "Dictionary Attack is mainly part of Threats and Defense."
                       },
                       {
-                          "id":  209,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "IPsec -\u003e attack trying likely passwords from predefined word lists",
-                                          "Encryption -\u003e attack trying likely passwords from predefined word lists",
-                                          "CSR -\u003e attack trying likely passwords from predefined word lists",
-                                          "Dictionary Attack -\u003e attack trying likely passwords from predefined word lists"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Dictionary Attack -\u003e attack trying likely passwords from predefined word lists\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  210,
+                          "id":  169,
                           "question":  "A Bank SO IT security requirement states: attack trying likely passwords from predefined word lists. Which concept should be selected?",
                           "options":  [
                                           "X.509 Certificate",
@@ -2521,7 +2029,7 @@
                           "explanation":  "The requirement directly points to Dictionary Attack."
                       },
                       {
-                          "id":  211,
+                          "id":  170,
                           "question":  "Which cryptography concept best matches: attack using precomputed hash lookup tables?",
                           "options":  [
                                           "DES",
@@ -2533,7 +2041,7 @@
                           "explanation":  "Rainbow Table Attack is defined as: attack using precomputed hash lookup tables."
                       },
                       {
-                          "id":  212,
+                          "id":  171,
                           "question":  "What is the most accurate description of \u0027Rainbow Table Attack\u0027?",
                           "options":  [
                                           "encrypted tunnel for secure communication over public network",
@@ -2545,7 +2053,7 @@
                           "explanation":  "Rainbow Table Attack refers to: attack using precomputed hash lookup tables."
                       },
                       {
-                          "id":  213,
+                          "id":  172,
                           "question":  "\u0027Rainbow Table Attack\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Digital Trust",
@@ -2557,19 +2065,7 @@
                           "explanation":  "Rainbow Table Attack is mainly part of Threats and Defense."
                       },
                       {
-                          "id":  214,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Data at Rest Encryption -\u003e attack using precomputed hash lookup tables",
-                                          "Plaintext -\u003e attack using precomputed hash lookup tables",
-                                          "Certificate Pinning -\u003e attack using precomputed hash lookup tables",
-                                          "Rainbow Table Attack -\u003e attack using precomputed hash lookup tables"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Rainbow Table Attack -\u003e attack using precomputed hash lookup tables\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  215,
+                          "id":  173,
                           "question":  "A Bank SO IT security requirement states: attack using precomputed hash lookup tables. Which concept should be selected?",
                           "options":  [
                                           "Rainbow Table Attack",
@@ -2581,7 +2077,7 @@
                           "explanation":  "The requirement directly points to Rainbow Table Attack."
                       },
                       {
-                          "id":  216,
+                          "id":  174,
                           "question":  "Which cryptography concept best matches: attack intercepting and potentially altering communication?",
                           "options":  [
                                           "Man-in-the-Middle",
@@ -2593,7 +2089,7 @@
                           "explanation":  "Man-in-the-Middle is defined as: attack intercepting and potentially altering communication."
                       },
                       {
-                          "id":  217,
+                          "id":  175,
                           "question":  "What is the most accurate description of \u0027Man-in-the-Middle\u0027?",
                           "options":  [
                                           "asymmetric algorithm used for encryption and digital signatures",
@@ -2605,7 +2101,7 @@
                           "explanation":  "Man-in-the-Middle refers to: attack intercepting and potentially altering communication."
                       },
                       {
-                          "id":  218,
+                          "id":  176,
                           "question":  "\u0027Man-in-the-Middle\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Security Fundamentals",
@@ -2617,19 +2113,7 @@
                           "explanation":  "Man-in-the-Middle is mainly part of Threats and Defense."
                       },
                       {
-                          "id":  219,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "SSL -\u003e attack intercepting and potentially altering communication",
-                                          "Authorization -\u003e attack intercepting and potentially altering communication",
-                                          "Man-in-the-Middle -\u003e attack intercepting and potentially altering communication",
-                                          "Cipher Suite -\u003e attack intercepting and potentially altering communication"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Man-in-the-Middle -\u003e attack intercepting and potentially altering communication\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  220,
+                          "id":  177,
                           "question":  "A Bank SO IT security requirement states: attack intercepting and potentially altering communication. Which concept should be selected?",
                           "options":  [
                                           "X.509 Certificate",
@@ -2641,7 +2125,7 @@
                           "explanation":  "The requirement directly points to Man-in-the-Middle."
                       },
                       {
-                          "id":  221,
+                          "id":  178,
                           "question":  "Which cryptography concept best matches: attack reusing captured valid data transmission?",
                           "options":  [
                                           "Replay Attack",
@@ -2653,7 +2137,7 @@
                           "explanation":  "Replay Attack is defined as: attack reusing captured valid data transmission."
                       },
                       {
-                          "id":  222,
+                          "id":  179,
                           "question":  "What is the most accurate description of \u0027Replay Attack\u0027?",
                           "options":  [
                                           "widely used symmetric block cipher standard",
@@ -2665,7 +2149,7 @@
                           "explanation":  "Replay Attack refers to: attack reusing captured valid data transmission."
                       },
                       {
-                          "id":  223,
+                          "id":  180,
                           "question":  "\u0027Replay Attack\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Security Fundamentals",
@@ -2677,19 +2161,7 @@
                           "explanation":  "Replay Attack is mainly part of Threats and Defense."
                       },
                       {
-                          "id":  224,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Replay Attack -\u003e attack reusing captured valid data transmission",
-                                          "Authentication -\u003e attack reusing captured valid data transmission",
-                                          "Perfect Forward Secrecy -\u003e attack reusing captured valid data transmission",
-                                          "Certificate Authority -\u003e attack reusing captured valid data transmission"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Replay Attack -\u003e attack reusing captured valid data transmission\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  225,
+                          "id":  181,
                           "question":  "A Bank SO IT security requirement states: attack reusing captured valid data transmission. Which concept should be selected?",
                           "options":  [
                                           "Key Exchange",
@@ -2701,7 +2173,7 @@
                           "explanation":  "The requirement directly points to Replay Attack."
                       },
                       {
-                          "id":  226,
+                          "id":  182,
                           "question":  "Which cryptography concept best matches: security technique binding app to expected certificate/public key?",
                           "options":  [
                                           "Certificate Pinning",
@@ -2713,7 +2185,7 @@
                           "explanation":  "Certificate Pinning is defined as: security technique binding app to expected certificate/public key."
                       },
                       {
-                          "id":  227,
+                          "id":  183,
                           "question":  "What is the most accurate description of \u0027Certificate Pinning\u0027?",
                           "options":  [
                                           "property where compromise of long-term key does not expose past sessions",
@@ -2725,7 +2197,7 @@
                           "explanation":  "Certificate Pinning refers to: security technique binding app to expected certificate/public key."
                       },
                       {
-                          "id":  228,
+                          "id":  184,
                           "question":  "\u0027Certificate Pinning\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Cryptographic Models",
@@ -2737,19 +2209,7 @@
                           "explanation":  "Certificate Pinning is mainly part of Threats and Defense."
                       },
                       {
-                          "id":  229,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Diffie-Hellman -\u003e security technique binding app to expected certificate/public key",
-                                          "Digital Signature -\u003e security technique binding app to expected certificate/public key",
-                                          "Certificate Pinning -\u003e security technique binding app to expected certificate/public key",
-                                          "AES -\u003e security technique binding app to expected certificate/public key"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Certificate Pinning -\u003e security technique binding app to expected certificate/public key\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  230,
+                          "id":  185,
                           "question":  "A Bank SO IT security requirement states: security technique binding app to expected certificate/public key. Which concept should be selected?",
                           "options":  [
                                           "Encryption",
@@ -2761,7 +2221,7 @@
                           "explanation":  "The requirement directly points to Certificate Pinning."
                       },
                       {
-                          "id":  231,
+                          "id":  186,
                           "question":  "Which cryptography concept best matches: periodic replacement of cryptographic keys to reduce exposure?",
                           "options":  [
                                           "AES",
@@ -2773,7 +2233,7 @@
                           "explanation":  "Key Rotation is defined as: periodic replacement of cryptographic keys to reduce exposure."
                       },
                       {
-                          "id":  232,
+                          "id":  187,
                           "question":  "What is the most accurate description of \u0027Key Rotation\u0027?",
                           "options":  [
                                           "science of securing information using mathematical transformations",
@@ -2785,7 +2245,7 @@
                           "explanation":  "Key Rotation refers to: periodic replacement of cryptographic keys to reduce exposure."
                       },
                       {
-                          "id":  233,
+                          "id":  188,
                           "question":  "\u0027Key Rotation\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Threats and Defense",
@@ -2797,19 +2257,7 @@
                           "explanation":  "Key Rotation is mainly part of Threats and Defense."
                       },
                       {
-                          "id":  234,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Dictionary Attack -\u003e periodic replacement of cryptographic keys to reduce exposure",
-                                          "SSL -\u003e periodic replacement of cryptographic keys to reduce exposure",
-                                          "Key Rotation -\u003e periodic replacement of cryptographic keys to reduce exposure",
-                                          "Man-in-the-Middle -\u003e periodic replacement of cryptographic keys to reduce exposure"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Key Rotation -\u003e periodic replacement of cryptographic keys to reduce exposure\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  235,
+                          "id":  189,
                           "question":  "A Bank SO IT security requirement states: periodic replacement of cryptographic keys to reduce exposure. Which concept should be selected?",
                           "options":  [
                                           "SSL",
@@ -2821,7 +2269,7 @@
                           "explanation":  "The requirement directly points to Key Rotation."
                       },
                       {
-                          "id":  236,
+                          "id":  190,
                           "question":  "Which cryptography concept best matches: tamper-resistant device for secure cryptographic key operations?",
                           "options":  [
                                           "Certificate Pinning",
@@ -2833,7 +2281,7 @@
                           "explanation":  "Hardware Security Module is defined as: tamper-resistant device for secure cryptographic key operations."
                       },
                       {
-                          "id":  237,
+                          "id":  191,
                           "question":  "What is the most accurate description of \u0027Hardware Security Module\u0027?",
                           "options":  [
                                           "tamper-resistant device for secure cryptographic key operations",
@@ -2845,7 +2293,7 @@
                           "explanation":  "Hardware Security Module refers to: tamper-resistant device for secure cryptographic key operations."
                       },
                       {
-                          "id":  238,
+                          "id":  192,
                           "question":  "\u0027Hardware Security Module\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Algorithms and Primitives",
@@ -2857,19 +2305,7 @@
                           "explanation":  "Hardware Security Module is mainly part of Threats and Defense."
                       },
                       {
-                          "id":  239,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "Hardware Security Module -\u003e tamper-resistant device for secure cryptographic key operations",
-                                          "Rainbow Table Attack -\u003e tamper-resistant device for secure cryptographic key operations",
-                                          "Certificate Pinning -\u003e tamper-resistant device for secure cryptographic key operations",
-                                          "SSL -\u003e tamper-resistant device for secure cryptographic key operations"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Hardware Security Module -\u003e tamper-resistant device for secure cryptographic key operations\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  240,
+                          "id":  193,
                           "question":  "A Bank SO IT security requirement states: tamper-resistant device for secure cryptographic key operations. Which concept should be selected?",
                           "options":  [
                                           "Hardware Security Module",
@@ -2881,7 +2317,7 @@
                           "explanation":  "The requirement directly points to Hardware Security Module."
                       },
                       {
-                          "id":  241,
+                          "id":  194,
                           "question":  "Which cryptography concept best matches: replacing sensitive values with non-sensitive tokens?",
                           "options":  [
                                           "Cipher Suite",
@@ -2893,7 +2329,7 @@
                           "explanation":  "Tokenization is defined as: replacing sensitive values with non-sensitive tokens."
                       },
                       {
-                          "id":  242,
+                          "id":  195,
                           "question":  "What is the most accurate description of \u0027Tokenization\u0027?",
                           "options":  [
                                           "replacing sensitive values with non-sensitive tokens",
@@ -2905,7 +2341,7 @@
                           "explanation":  "Tokenization refers to: replacing sensitive values with non-sensitive tokens."
                       },
                       {
-                          "id":  243,
+                          "id":  196,
                           "question":  "\u0027Tokenization\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Algorithms and Primitives",
@@ -2917,19 +2353,7 @@
                           "explanation":  "Tokenization is mainly part of Threats and Defense."
                       },
                       {
-                          "id":  244,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "IKE -\u003e replacing sensitive values with non-sensitive tokens",
-                                          "MD5 -\u003e replacing sensitive values with non-sensitive tokens",
-                                          "Handshake -\u003e replacing sensitive values with non-sensitive tokens",
-                                          "Tokenization -\u003e replacing sensitive values with non-sensitive tokens"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Tokenization -\u003e replacing sensitive values with non-sensitive tokens\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  245,
+                          "id":  197,
                           "question":  "A Bank SO IT security requirement states: replacing sensitive values with non-sensitive tokens. Which concept should be selected?",
                           "options":  [
                                           "Tokenization",
@@ -2941,7 +2365,7 @@
                           "explanation":  "The requirement directly points to Tokenization."
                       },
                       {
-                          "id":  246,
+                          "id":  198,
                           "question":  "Which cryptography concept best matches: encryption applied to stored data to prevent unauthorized access?",
                           "options":  [
                                           "VPN",
@@ -2953,7 +2377,7 @@
                           "explanation":  "Data at Rest Encryption is defined as: encryption applied to stored data to prevent unauthorized access."
                       },
                       {
-                          "id":  247,
+                          "id":  199,
                           "question":  "What is the most accurate description of \u0027Data at Rest Encryption\u0027?",
                           "options":  [
                                           "cryptographic hash function producing 256-bit digest",
@@ -2965,7 +2389,7 @@
                           "explanation":  "Data at Rest Encryption refers to: encryption applied to stored data to prevent unauthorized access."
                       },
                       {
-                          "id":  248,
+                          "id":  200,
                           "question":  "\u0027Data at Rest Encryption\u0027 belongs mainly to which cryptography/security area?",
                           "options":  [
                                           "Security Fundamentals",
@@ -2977,19 +2401,7 @@
                           "explanation":  "Data at Rest Encryption is mainly part of Threats and Defense."
                       },
                       {
-                          "id":  249,
-                          "question":  "Identify the correct cryptography term-definition mapping.",
-                          "options":  [
-                                          "3DES -\u003e encryption applied to stored data to prevent unauthorized access",
-                                          "Key Rotation -\u003e encryption applied to stored data to prevent unauthorized access",
-                                          "IKE -\u003e encryption applied to stored data to prevent unauthorized access",
-                                          "Data at Rest Encryption -\u003e encryption applied to stored data to prevent unauthorized access"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Data at Rest Encryption -\u003e encryption applied to stored data to prevent unauthorized access\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  250,
+                          "id":  201,
                           "question":  "A Bank SO IT security requirement states: encryption applied to stored data to prevent unauthorized access. Which concept should be selected?",
                           "options":  [
                                           "Plaintext",

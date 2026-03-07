@@ -237,6 +237,31 @@ h3 {
   background: var(--surface-alt);
 }
 
+#question-text,
+.option span,
+.answer-feedback p,
+.review-item h3,
+.review-item p {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+.answer-feedback {
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 12px;
+  background: var(--surface-alt);
+  margin: 10px 0 14px;
+}
+
+.answer-feedback.correct {
+  border-left: 4px solid var(--success);
+}
+
+.answer-feedback.wrong {
+  border-left: 4px solid var(--danger);
+}
+
 .palette-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(44px, 1fr));
@@ -475,4 +500,13 @@ h3 {
   .row.spread {
     align-items: stretch;
   }
+}
+
+.input-text-answer {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface-alt);
+  color: var(--text);
 }

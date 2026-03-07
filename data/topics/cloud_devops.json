@@ -98,18 +98,6 @@
                       },
                       {
                           "id":  9,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Rollback -\u003e cloud model providing managed runtime and development platform",
-                                          "Ansible -\u003e cloud model providing managed runtime and development platform",
-                                          "IaaS -\u003e cloud model providing managed runtime and development platform",
-                                          "PaaS -\u003e cloud model providing managed runtime and development platform"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027PaaS -\u003e cloud model providing managed runtime and development platform\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  10,
                           "question":  "A Bank SO IT modernization requirement states: cloud model providing managed runtime and development platform. Which concept should be selected?",
                           "options":  [
                                           "Terraform",
@@ -121,7 +109,7 @@
                           "explanation":  "The requirement directly points to PaaS."
                       },
                       {
-                          "id":  11,
+                          "id":  10,
                           "question":  "Which Cloud/DevOps concept best matches: cloud model delivering complete software over internet?",
                           "options":  [
                                           "ReplicaSet",
@@ -133,7 +121,7 @@
                           "explanation":  "SaaS is defined as: cloud model delivering complete software over internet."
                       },
                       {
-                          "id":  12,
+                          "id":  11,
                           "question":  "What is the most accurate description of \u0027SaaS\u0027?",
                           "options":  [
                                           "quantitative measurement of service behavior",
@@ -145,7 +133,7 @@
                           "explanation":  "SaaS refers to: cloud model delivering complete software over internet."
                       },
                       {
-                          "id":  13,
+                          "id":  12,
                           "question":  "\u0027SaaS\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Service Models",
@@ -157,19 +145,7 @@
                           "explanation":  "SaaS is mainly part of Cloud Service Models."
                       },
                       {
-                          "id":  14,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Container -\u003e cloud model delivering complete software over internet",
-                                          "SaaS -\u003e cloud model delivering complete software over internet",
-                                          "Pipeline -\u003e cloud model delivering complete software over internet",
-                                          "Pod -\u003e cloud model delivering complete software over internet"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027SaaS -\u003e cloud model delivering complete software over internet\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  15,
+                          "id":  13,
                           "question":  "A Bank SO IT modernization requirement states: cloud model delivering complete software over internet. Which concept should be selected?",
                           "options":  [
                                           "Artifact Repository",
@@ -181,7 +157,7 @@
                           "explanation":  "The requirement directly points to SaaS."
                       },
                       {
-                          "id":  16,
+                          "id":  14,
                           "question":  "Which Cloud/DevOps concept best matches: cloud deployment shared across organizations via provider infrastructure?",
                           "options":  [
                                           "ConfigMap",
@@ -193,7 +169,7 @@
                           "explanation":  "Public Cloud is defined as: cloud deployment shared across organizations via provider infrastructure."
                       },
                       {
-                          "id":  17,
+                          "id":  15,
                           "question":  "What is the most accurate description of \u0027Public Cloud\u0027?",
                           "options":  [
                                           "cloud model delivering complete software over internet",
@@ -205,7 +181,7 @@
                           "explanation":  "Public Cloud refers to: cloud deployment shared across organizations via provider infrastructure."
                       },
                       {
-                          "id":  18,
+                          "id":  16,
                           "question":  "\u0027Public Cloud\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Infrastructure as Code",
@@ -217,19 +193,7 @@
                           "explanation":  "Public Cloud is mainly part of Cloud Deployment Models."
                       },
                       {
-                          "id":  19,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "DaemonSet -\u003e cloud deployment shared across organizations via provider infrastructure",
-                                          "Public Cloud -\u003e cloud deployment shared across organizations via provider infrastructure",
-                                          "Container -\u003e cloud deployment shared across organizations via provider infrastructure",
-                                          "Monitoring -\u003e cloud deployment shared across organizations via provider infrastructure"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Public Cloud -\u003e cloud deployment shared across organizations via provider infrastructure\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  20,
+                          "id":  17,
                           "question":  "A Bank SO IT modernization requirement states: cloud deployment shared across organizations via provider infrastructure. Which concept should be selected?",
                           "options":  [
                                           "Rollback",
@@ -241,7 +205,7 @@
                           "explanation":  "The requirement directly points to Public Cloud."
                       },
                       {
-                          "id":  21,
+                          "id":  18,
                           "question":  "Which Cloud/DevOps concept best matches: cloud deployment dedicated to one organization?",
                           "options":  [
                                           "Fault Tolerance",
@@ -253,7 +217,7 @@
                           "explanation":  "Private Cloud is defined as: cloud deployment dedicated to one organization."
                       },
                       {
-                          "id":  22,
+                          "id":  19,
                           "question":  "What is the most accurate description of \u0027Private Cloud\u0027?",
                           "options":  [
                                           "Kubernetes API object controlling external HTTP/S routing",
@@ -265,7 +229,7 @@
                           "explanation":  "Private Cloud refers to: cloud deployment dedicated to one organization."
                       },
                       {
-                          "id":  23,
+                          "id":  20,
                           "question":  "\u0027Private Cloud\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Fundamentals",
@@ -277,19 +241,7 @@
                           "explanation":  "Private Cloud is mainly part of Cloud Deployment Models."
                       },
                       {
-                          "id":  24,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Deployment -\u003e cloud deployment dedicated to one organization",
-                                          "Private Cloud -\u003e cloud deployment dedicated to one organization",
-                                          "GitLab CI -\u003e cloud deployment dedicated to one organization",
-                                          "Terraform -\u003e cloud deployment dedicated to one organization"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Private Cloud -\u003e cloud deployment dedicated to one organization\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  25,
+                          "id":  21,
                           "question":  "A Bank SO IT modernization requirement states: cloud deployment dedicated to one organization. Which concept should be selected?",
                           "options":  [
                                           "ConfigMap",
@@ -301,7 +253,7 @@
                           "explanation":  "The requirement directly points to Private Cloud."
                       },
                       {
-                          "id":  26,
+                          "id":  22,
                           "question":  "Which Cloud/DevOps concept best matches: combination of private and public cloud environments?",
                           "options":  [
                                           "Docker",
@@ -313,7 +265,7 @@
                           "explanation":  "Hybrid Cloud is defined as: combination of private and public cloud environments."
                       },
                       {
-                          "id":  27,
+                          "id":  23,
                           "question":  "What is the most accurate description of \u0027Hybrid Cloud\u0027?",
                           "options":  [
                                           "release strategy gradually exposing new version to users",
@@ -325,7 +277,7 @@
                           "explanation":  "Hybrid Cloud refers to: combination of private and public cloud environments."
                       },
                       {
-                          "id":  28,
+                          "id":  24,
                           "question":  "\u0027Hybrid Cloud\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Operations",
@@ -337,19 +289,7 @@
                           "explanation":  "Hybrid Cloud is mainly part of Cloud Deployment Models."
                       },
                       {
-                          "id":  29,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "DaemonSet -\u003e combination of private and public cloud environments",
-                                          "SaaS -\u003e combination of private and public cloud environments",
-                                          "Hybrid Cloud -\u003e combination of private and public cloud environments",
-                                          "Logging -\u003e combination of private and public cloud environments"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Hybrid Cloud -\u003e combination of private and public cloud environments\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  30,
+                          "id":  25,
                           "question":  "A Bank SO IT modernization requirement states: combination of private and public cloud environments. Which concept should be selected?",
                           "options":  [
                                           "Load Balancer",
@@ -361,7 +301,7 @@
                           "explanation":  "The requirement directly points to Hybrid Cloud."
                       },
                       {
-                          "id":  31,
+                          "id":  26,
                           "question":  "Which Cloud/DevOps concept best matches: use of services from more than one cloud provider?",
                           "options":  [
                                           "High Availability",
@@ -373,7 +313,7 @@
                           "explanation":  "Multi-Cloud is defined as: use of services from more than one cloud provider."
                       },
                       {
-                          "id":  32,
+                          "id":  27,
                           "question":  "What is the most accurate description of \u0027Multi-Cloud\u0027?",
                           "options":  [
                                           "use of services from more than one cloud provider",
@@ -385,7 +325,7 @@
                           "explanation":  "Multi-Cloud refers to: use of services from more than one cloud provider."
                       },
                       {
-                          "id":  33,
+                          "id":  28,
                           "question":  "\u0027Multi-Cloud\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Release Strategies",
@@ -397,19 +337,7 @@
                           "explanation":  "Multi-Cloud is mainly part of Cloud Deployment Models."
                       },
                       {
-                          "id":  34,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Multi-Cloud -\u003e use of services from more than one cloud provider",
-                                          "Hypervisor -\u003e use of services from more than one cloud provider",
-                                          "Deployment -\u003e use of services from more than one cloud provider",
-                                          "SLO -\u003e use of services from more than one cloud provider"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Multi-Cloud -\u003e use of services from more than one cloud provider\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  35,
+                          "id":  29,
                           "question":  "A Bank SO IT modernization requirement states: use of services from more than one cloud provider. Which concept should be selected?",
                           "options":  [
                                           "Multi-Cloud",
@@ -421,7 +349,7 @@
                           "explanation":  "The requirement directly points to Multi-Cloud."
                       },
                       {
-                          "id":  36,
+                          "id":  30,
                           "question":  "Which Cloud/DevOps concept best matches: abstraction of physical hardware into virtual resources?",
                           "options":  [
                                           "Virtualization",
@@ -433,7 +361,7 @@
                           "explanation":  "Virtualization is defined as: abstraction of physical hardware into virtual resources."
                       },
                       {
-                          "id":  37,
+                          "id":  31,
                           "question":  "What is the most accurate description of \u0027Virtualization\u0027?",
                           "options":  [
                                           "storage for build outputs and package artifacts",
@@ -445,7 +373,7 @@
                           "explanation":  "Virtualization refers to: abstraction of physical hardware into virtual resources."
                       },
                       {
-                          "id":  38,
+                          "id":  32,
                           "question":  "\u0027Virtualization\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Infrastructure as Code",
@@ -457,19 +385,7 @@
                           "explanation":  "Virtualization is mainly part of Cloud Fundamentals."
                       },
                       {
-                          "id":  39,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Virtualization -\u003e abstraction of physical hardware into virtual resources",
-                                          "Disaster Recovery -\u003e abstraction of physical hardware into virtual resources",
-                                          "Load Balancer -\u003e abstraction of physical hardware into virtual resources",
-                                          "Ingress -\u003e abstraction of physical hardware into virtual resources"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Virtualization -\u003e abstraction of physical hardware into virtual resources\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  40,
+                          "id":  33,
                           "question":  "A Bank SO IT modernization requirement states: abstraction of physical hardware into virtual resources. Which concept should be selected?",
                           "options":  [
                                           "DaemonSet",
@@ -481,7 +397,7 @@
                           "explanation":  "The requirement directly points to Virtualization."
                       },
                       {
-                          "id":  41,
+                          "id":  34,
                           "question":  "Which Cloud/DevOps concept best matches: software layer that creates and runs virtual machines?",
                           "options":  [
                                           "ReplicaSet",
@@ -493,7 +409,7 @@
                           "explanation":  "Hypervisor is defined as: software layer that creates and runs virtual machines."
                       },
                       {
-                          "id":  42,
+                          "id":  35,
                           "question":  "What is the most accurate description of \u0027Hypervisor\u0027?",
                           "options":  [
                                           "software layer that creates and runs virtual machines",
@@ -505,7 +421,7 @@
                           "explanation":  "Hypervisor refers to: software layer that creates and runs virtual machines."
                       },
                       {
-                          "id":  43,
+                          "id":  36,
                           "question":  "\u0027Hypervisor\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Infrastructure as Code",
@@ -517,19 +433,7 @@
                           "explanation":  "Hypervisor is mainly part of Cloud Fundamentals."
                       },
                       {
-                          "id":  44,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Load Balancer -\u003e software layer that creates and runs virtual machines",
-                                          "Virtualization -\u003e software layer that creates and runs virtual machines",
-                                          "Hypervisor -\u003e software layer that creates and runs virtual machines",
-                                          "SaaS -\u003e software layer that creates and runs virtual machines"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Hypervisor -\u003e software layer that creates and runs virtual machines\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  45,
+                          "id":  37,
                           "question":  "A Bank SO IT modernization requirement states: software layer that creates and runs virtual machines. Which concept should be selected?",
                           "options":  [
                                           "ReplicaSet",
@@ -541,7 +445,7 @@
                           "explanation":  "The requirement directly points to Hypervisor."
                       },
                       {
-                          "id":  46,
+                          "id":  38,
                           "question":  "Which Cloud/DevOps concept best matches: lightweight package containing app and dependencies?",
                           "options":  [
                                           "Monitoring",
@@ -553,7 +457,7 @@
                           "explanation":  "Container is defined as: lightweight package containing app and dependencies."
                       },
                       {
-                          "id":  47,
+                          "id":  39,
                           "question":  "What is the most accurate description of \u0027Container\u0027?",
                           "options":  [
                                           "tracking request path across distributed services",
@@ -565,7 +469,7 @@
                           "explanation":  "Container refers to: lightweight package containing app and dependencies."
                       },
                       {
-                          "id":  48,
+                          "id":  40,
                           "question":  "\u0027Container\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "DevOps Practices",
@@ -577,19 +481,7 @@
                           "explanation":  "Container is mainly part of Containerization."
                       },
                       {
-                          "id":  49,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Container -\u003e lightweight package containing app and dependencies",
-                                          "PaaS -\u003e lightweight package containing app and dependencies",
-                                          "Monitoring -\u003e lightweight package containing app and dependencies",
-                                          "Blue-Green Deployment -\u003e lightweight package containing app and dependencies"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Container -\u003e lightweight package containing app and dependencies\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  50,
+                          "id":  41,
                           "question":  "A Bank SO IT modernization requirement states: lightweight package containing app and dependencies. Which concept should be selected?",
                           "options":  [
                                           "Jenkins",
@@ -601,7 +493,7 @@
                           "explanation":  "The requirement directly points to Container."
                       },
                       {
-                          "id":  51,
+                          "id":  42,
                           "question":  "Which Cloud/DevOps concept best matches: platform to build and run containers?",
                           "options":  [
                                           "Docker",
@@ -613,7 +505,7 @@
                           "explanation":  "Docker is defined as: platform to build and run containers."
                       },
                       {
-                          "id":  52,
+                          "id":  43,
                           "question":  "What is the most accurate description of \u0027Docker\u0027?",
                           "options":  [
                                           "orchestration platform for managing containerized workloads",
@@ -625,7 +517,7 @@
                           "explanation":  "Docker refers to: platform to build and run containers."
                       },
                       {
-                          "id":  53,
+                          "id":  44,
                           "question":  "\u0027Docker\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Deployment Models",
@@ -637,19 +529,7 @@
                           "explanation":  "Docker is mainly part of Containerization."
                       },
                       {
-                          "id":  54,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "CD Deployment -\u003e platform to build and run containers",
-                                          "Immutable Infrastructure -\u003e platform to build and run containers",
-                                          "PaaS -\u003e platform to build and run containers",
-                                          "Docker -\u003e platform to build and run containers"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Docker -\u003e platform to build and run containers\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  55,
+                          "id":  45,
                           "question":  "A Bank SO IT modernization requirement states: platform to build and run containers. Which concept should be selected?",
                           "options":  [
                                           "CI",
@@ -661,7 +541,7 @@
                           "explanation":  "The requirement directly points to Docker."
                       },
                       {
-                          "id":  56,
+                          "id":  46,
                           "question":  "Which Cloud/DevOps concept best matches: orchestration platform for managing containerized workloads?",
                           "options":  [
                                           "SaaS",
@@ -673,7 +553,7 @@
                           "explanation":  "Kubernetes is defined as: orchestration platform for managing containerized workloads."
                       },
                       {
-                          "id":  57,
+                          "id":  47,
                           "question":  "What is the most accurate description of \u0027Kubernetes\u0027?",
                           "options":  [
                                           "release strategy using two environments for switching traffic",
@@ -685,7 +565,7 @@
                           "explanation":  "Kubernetes refers to: orchestration platform for managing containerized workloads."
                       },
                       {
-                          "id":  58,
+                          "id":  48,
                           "question":  "\u0027Kubernetes\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Containerization",
@@ -697,19 +577,7 @@
                           "explanation":  "Kubernetes is mainly part of Containerization."
                       },
                       {
-                          "id":  59,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "CD Deployment -\u003e orchestration platform for managing containerized workloads",
-                                          "Disaster Recovery -\u003e orchestration platform for managing containerized workloads",
-                                          "RPO -\u003e orchestration platform for managing containerized workloads",
-                                          "Kubernetes -\u003e orchestration platform for managing containerized workloads"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Kubernetes -\u003e orchestration platform for managing containerized workloads\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  60,
+                          "id":  49,
                           "question":  "A Bank SO IT modernization requirement states: orchestration platform for managing containerized workloads. Which concept should be selected?",
                           "options":  [
                                           "GitLab CI",
@@ -721,7 +589,7 @@
                           "explanation":  "The requirement directly points to Kubernetes."
                       },
                       {
-                          "id":  61,
+                          "id":  50,
                           "question":  "Which Cloud/DevOps concept best matches: smallest deployable unit in Kubernetes?",
                           "options":  [
                                           "Pod",
@@ -733,7 +601,7 @@
                           "explanation":  "Pod is defined as: smallest deployable unit in Kubernetes."
                       },
                       {
-                          "id":  62,
+                          "id":  51,
                           "question":  "What is the most accurate description of \u0027Pod\u0027?",
                           "options":  [
                                           "integrated CI/CD platform in GitLab ecosystem",
@@ -745,7 +613,7 @@
                           "explanation":  "Pod refers to: smallest deployable unit in Kubernetes."
                       },
                       {
-                          "id":  63,
+                          "id":  52,
                           "question":  "\u0027Pod\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Deployment Models",
@@ -757,19 +625,7 @@
                           "explanation":  "Pod is mainly part of Containerization."
                       },
                       {
-                          "id":  64,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Virtualization -\u003e smallest deployable unit in Kubernetes",
-                                          "Jenkins -\u003e smallest deployable unit in Kubernetes",
-                                          "Hybrid Cloud -\u003e smallest deployable unit in Kubernetes",
-                                          "Pod -\u003e smallest deployable unit in Kubernetes"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Pod -\u003e smallest deployable unit in Kubernetes\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  65,
+                          "id":  53,
                           "question":  "A Bank SO IT modernization requirement states: smallest deployable unit in Kubernetes. Which concept should be selected?",
                           "options":  [
                                           "Pod",
@@ -781,7 +637,7 @@
                           "explanation":  "The requirement directly points to Pod."
                       },
                       {
-                          "id":  66,
+                          "id":  54,
                           "question":  "Which Cloud/DevOps concept best matches: controller ensuring desired number of pod replicas?",
                           "options":  [
                                           "High Availability",
@@ -793,7 +649,7 @@
                           "explanation":  "ReplicaSet is defined as: controller ensuring desired number of pod replicas."
                       },
                       {
-                          "id":  67,
+                          "id":  55,
                           "question":  "What is the most accurate description of \u0027ReplicaSet\u0027?",
                           "options":  [
                                           "release strategy using two environments for switching traffic",
@@ -805,7 +661,7 @@
                           "explanation":  "ReplicaSet refers to: controller ensuring desired number of pod replicas."
                       },
                       {
-                          "id":  68,
+                          "id":  56,
                           "question":  "\u0027ReplicaSet\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Fundamentals",
@@ -817,19 +673,7 @@
                           "explanation":  "ReplicaSet is mainly part of Containerization."
                       },
                       {
-                          "id":  69,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "ReplicaSet -\u003e controller ensuring desired number of pod replicas",
-                                          "Rolling Deployment -\u003e controller ensuring desired number of pod replicas",
-                                          "Public Cloud -\u003e controller ensuring desired number of pod replicas",
-                                          "GitLab CI -\u003e controller ensuring desired number of pod replicas"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027ReplicaSet -\u003e controller ensuring desired number of pod replicas\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  70,
+                          "id":  57,
                           "question":  "A Bank SO IT modernization requirement states: controller ensuring desired number of pod replicas. Which concept should be selected?",
                           "options":  [
                                           "ReplicaSet",
@@ -841,7 +685,7 @@
                           "explanation":  "The requirement directly points to ReplicaSet."
                       },
                       {
-                          "id":  71,
+                          "id":  58,
                           "question":  "Which Cloud/DevOps concept best matches: Kubernetes object managing stateless application rollout?",
                           "options":  [
                                           "ReplicaSet",
@@ -853,7 +697,7 @@
                           "explanation":  "Deployment is defined as: Kubernetes object managing stateless application rollout."
                       },
                       {
-                          "id":  72,
+                          "id":  59,
                           "question":  "What is the most accurate description of \u0027Deployment\u0027?",
                           "options":  [
                                           "Kubernetes object storing sensitive configuration values",
@@ -865,7 +709,7 @@
                           "explanation":  "Deployment refers to: Kubernetes object managing stateless application rollout."
                       },
                       {
-                          "id":  73,
+                          "id":  60,
                           "question":  "\u0027Deployment\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Monitoring and Reliability",
@@ -877,19 +721,7 @@
                           "explanation":  "Deployment is mainly part of Containerization."
                       },
                       {
-                          "id":  74,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Jenkins -\u003e Kubernetes object managing stateless application rollout",
-                                          "Load Balancer -\u003e Kubernetes object managing stateless application rollout",
-                                          "Deployment -\u003e Kubernetes object managing stateless application rollout",
-                                          "Docker -\u003e Kubernetes object managing stateless application rollout"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Deployment -\u003e Kubernetes object managing stateless application rollout\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  75,
+                          "id":  61,
                           "question":  "A Bank SO IT modernization requirement states: Kubernetes object managing stateless application rollout. Which concept should be selected?",
                           "options":  [
                                           "Secret",
@@ -901,7 +733,7 @@
                           "explanation":  "The requirement directly points to Deployment."
                       },
                       {
-                          "id":  76,
+                          "id":  62,
                           "question":  "Which Cloud/DevOps concept best matches: Kubernetes workload object for stateful apps?",
                           "options":  [
                                           "StatefulSet",
@@ -913,7 +745,7 @@
                           "explanation":  "StatefulSet is defined as: Kubernetes workload object for stateful apps."
                       },
                       {
-                          "id":  77,
+                          "id":  63,
                           "question":  "What is the most accurate description of \u0027StatefulSet\u0027?",
                           "options":  [
                                           "AWS service for infrastructure provisioning from templates",
@@ -925,7 +757,7 @@
                           "explanation":  "StatefulSet refers to: Kubernetes workload object for stateful apps."
                       },
                       {
-                          "id":  78,
+                          "id":  64,
                           "question":  "\u0027StatefulSet\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Fundamentals",
@@ -937,19 +769,7 @@
                           "explanation":  "StatefulSet is mainly part of Containerization."
                       },
                       {
-                          "id":  79,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "StatefulSet -\u003e Kubernetes workload object for stateful apps",
-                                          "Rolling Deployment -\u003e Kubernetes workload object for stateful apps",
-                                          "CloudFormation -\u003e Kubernetes workload object for stateful apps",
-                                          "Docker -\u003e Kubernetes workload object for stateful apps"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027StatefulSet -\u003e Kubernetes workload object for stateful apps\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  80,
+                          "id":  65,
                           "question":  "A Bank SO IT modernization requirement states: Kubernetes workload object for stateful apps. Which concept should be selected?",
                           "options":  [
                                           "Fault Tolerance",
@@ -961,7 +781,7 @@
                           "explanation":  "The requirement directly points to StatefulSet."
                       },
                       {
-                          "id":  81,
+                          "id":  66,
                           "question":  "Which Cloud/DevOps concept best matches: Kubernetes object running one pod per node?",
                           "options":  [
                                           "Immutable Infrastructure",
@@ -973,7 +793,7 @@
                           "explanation":  "DaemonSet is defined as: Kubernetes object running one pod per node."
                       },
                       {
-                          "id":  82,
+                          "id":  67,
                           "question":  "What is the most accurate description of \u0027DaemonSet\u0027?",
                           "options":  [
                                           "Kubernetes object running one pod per node",
@@ -985,7 +805,7 @@
                           "explanation":  "DaemonSet refers to: Kubernetes object running one pod per node."
                       },
                       {
-                          "id":  83,
+                          "id":  68,
                           "question":  "\u0027DaemonSet\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Infrastructure as Code",
@@ -997,19 +817,7 @@
                           "explanation":  "DaemonSet is mainly part of Containerization."
                       },
                       {
-                          "id":  84,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "CD Delivery -\u003e Kubernetes object running one pod per node",
-                                          "Rolling Deployment -\u003e Kubernetes object running one pod per node",
-                                          "Virtualization -\u003e Kubernetes object running one pod per node",
-                                          "DaemonSet -\u003e Kubernetes object running one pod per node"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027DaemonSet -\u003e Kubernetes object running one pod per node\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  85,
+                          "id":  69,
                           "question":  "A Bank SO IT modernization requirement states: Kubernetes object running one pod per node. Which concept should be selected?",
                           "options":  [
                                           "Disaster Recovery",
@@ -1021,7 +829,7 @@
                           "explanation":  "The requirement directly points to DaemonSet."
                       },
                       {
-                          "id":  86,
+                          "id":  70,
                           "question":  "Which Cloud/DevOps concept best matches: Kubernetes object storing non-sensitive configuration?",
                           "options":  [
                                           "PaaS",
@@ -1033,7 +841,7 @@
                           "explanation":  "ConfigMap is defined as: Kubernetes object storing non-sensitive configuration."
                       },
                       {
-                          "id":  87,
+                          "id":  71,
                           "question":  "What is the most accurate description of \u0027ConfigMap\u0027?",
                           "options":  [
                                           "cloud model providing managed runtime and development platform",
@@ -1045,7 +853,7 @@
                           "explanation":  "ConfigMap refers to: Kubernetes object storing non-sensitive configuration."
                       },
                       {
-                          "id":  88,
+                          "id":  72,
                           "question":  "\u0027ConfigMap\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Service Models",
@@ -1057,19 +865,7 @@
                           "explanation":  "ConfigMap is mainly part of Containerization."
                       },
                       {
-                          "id":  89,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "ConfigMap -\u003e Kubernetes object storing non-sensitive configuration",
-                                          "Docker -\u003e Kubernetes object storing non-sensitive configuration",
-                                          "Blue-Green Deployment -\u003e Kubernetes object storing non-sensitive configuration",
-                                          "Fault Tolerance -\u003e Kubernetes object storing non-sensitive configuration"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027ConfigMap -\u003e Kubernetes object storing non-sensitive configuration\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  90,
+                          "id":  73,
                           "question":  "A Bank SO IT modernization requirement states: Kubernetes object storing non-sensitive configuration. Which concept should be selected?",
                           "options":  [
                                           "RPO",
@@ -1081,7 +877,7 @@
                           "explanation":  "The requirement directly points to ConfigMap."
                       },
                       {
-                          "id":  91,
+                          "id":  74,
                           "question":  "Which Cloud/DevOps concept best matches: Kubernetes object storing sensitive configuration values?",
                           "options":  [
                                           "ReplicaSet",
@@ -1093,7 +889,7 @@
                           "explanation":  "Secret is defined as: Kubernetes object storing sensitive configuration values."
                       },
                       {
-                          "id":  92,
+                          "id":  75,
                           "question":  "What is the most accurate description of \u0027Secret\u0027?",
                           "options":  [
                                           "Kubernetes object storing sensitive configuration values",
@@ -1105,7 +901,7 @@
                           "explanation":  "Secret refers to: Kubernetes object storing sensitive configuration values."
                       },
                       {
-                          "id":  93,
+                          "id":  76,
                           "question":  "\u0027Secret\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Monitoring and Reliability",
@@ -1117,19 +913,7 @@
                           "explanation":  "Secret is mainly part of Containerization."
                       },
                       {
-                          "id":  94,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Rolling Deployment -\u003e Kubernetes object storing sensitive configuration values",
-                                          "Terraform -\u003e Kubernetes object storing sensitive configuration values",
-                                          "Secret -\u003e Kubernetes object storing sensitive configuration values",
-                                          "Container -\u003e Kubernetes object storing sensitive configuration values"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Secret -\u003e Kubernetes object storing sensitive configuration values\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  95,
+                          "id":  77,
                           "question":  "A Bank SO IT modernization requirement states: Kubernetes object storing sensitive configuration values. Which concept should be selected?",
                           "options":  [
                                           "Secret",
@@ -1141,7 +925,7 @@
                           "explanation":  "The requirement directly points to Secret."
                       },
                       {
-                          "id":  96,
+                          "id":  78,
                           "question":  "Which Cloud/DevOps concept best matches: Kubernetes API object controlling external HTTP/S routing?",
                           "options":  [
                                           "Ingress",
@@ -1153,7 +937,7 @@
                           "explanation":  "Ingress is defined as: Kubernetes API object controlling external HTTP/S routing."
                       },
                       {
-                          "id":  97,
+                          "id":  79,
                           "question":  "What is the most accurate description of \u0027Ingress\u0027?",
                           "options":  [
                                           "storage for build outputs and package artifacts",
@@ -1165,7 +949,7 @@
                           "explanation":  "Ingress refers to: Kubernetes API object controlling external HTTP/S routing."
                       },
                       {
-                          "id":  98,
+                          "id":  80,
                           "question":  "\u0027Ingress\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Containerization",
@@ -1177,19 +961,7 @@
                           "explanation":  "Ingress is mainly part of Containerization."
                       },
                       {
-                          "id":  99,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Ingress -\u003e Kubernetes API object controlling external HTTP/S routing",
-                                          "GitLab CI -\u003e Kubernetes API object controlling external HTTP/S routing",
-                                          "Observability -\u003e Kubernetes API object controlling external HTTP/S routing",
-                                          "Blue-Green Deployment -\u003e Kubernetes API object controlling external HTTP/S routing"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Ingress -\u003e Kubernetes API object controlling external HTTP/S routing\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  100,
+                          "id":  81,
                           "question":  "A Bank SO IT modernization requirement states: Kubernetes API object controlling external HTTP/S routing. Which concept should be selected?",
                           "options":  [
                                           "Auto Scaling",
@@ -1201,7 +973,7 @@
                           "explanation":  "The requirement directly points to Ingress."
                       },
                       {
-                          "id":  101,
+                          "id":  82,
                           "question":  "Which Cloud/DevOps concept best matches: practice of frequent code integration with automated builds/tests?",
                           "options":  [
                                           "CI",
@@ -1213,7 +985,7 @@
                           "explanation":  "CI is defined as: practice of frequent code integration with automated builds/tests."
                       },
                       {
-                          "id":  102,
+                          "id":  83,
                           "question":  "What is the most accurate description of \u0027CI\u0027?",
                           "options":  [
                                           "practice of frequent code integration with automated builds/tests",
@@ -1225,7 +997,7 @@
                           "explanation":  "CI refers to: practice of frequent code integration with automated builds/tests."
                       },
                       {
-                          "id":  103,
+                          "id":  84,
                           "question":  "\u0027CI\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "DevOps Tooling",
@@ -1237,19 +1009,7 @@
                           "explanation":  "CI is mainly part of DevOps Practices."
                       },
                       {
-                          "id":  104,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "SaaS -\u003e practice of frequent code integration with automated builds/tests",
-                                          "High Availability -\u003e practice of frequent code integration with automated builds/tests",
-                                          "Tracing -\u003e practice of frequent code integration with automated builds/tests",
-                                          "CI -\u003e practice of frequent code integration with automated builds/tests"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027CI -\u003e practice of frequent code integration with automated builds/tests\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  105,
+                          "id":  85,
                           "question":  "A Bank SO IT modernization requirement states: practice of frequent code integration with automated builds/tests. Which concept should be selected?",
                           "options":  [
                                           "Secret",
@@ -1261,7 +1021,7 @@
                           "explanation":  "The requirement directly points to CI."
                       },
                       {
-                          "id":  106,
+                          "id":  86,
                           "question":  "Which Cloud/DevOps concept best matches: practice ensuring software is always releasable?",
                           "options":  [
                                           "Private Cloud",
@@ -1273,7 +1033,7 @@
                           "explanation":  "CD Delivery is defined as: practice ensuring software is always releasable."
                       },
                       {
-                          "id":  107,
+                          "id":  87,
                           "question":  "What is the most accurate description of \u0027CD Delivery\u0027?",
                           "options":  [
                                           "practice ensuring software is always releasable",
@@ -1285,7 +1045,7 @@
                           "explanation":  "CD Delivery refers to: practice ensuring software is always releasable."
                       },
                       {
-                          "id":  108,
+                          "id":  88,
                           "question":  "\u0027CD Delivery\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Infrastructure as Code",
@@ -1297,19 +1057,7 @@
                           "explanation":  "CD Delivery is mainly part of DevOps Practices."
                       },
                       {
-                          "id":  109,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Fault Tolerance -\u003e practice ensuring software is always releasable",
-                                          "CD Delivery -\u003e practice ensuring software is always releasable",
-                                          "Secret -\u003e practice ensuring software is always releasable",
-                                          "CD Deployment -\u003e practice ensuring software is always releasable"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027CD Delivery -\u003e practice ensuring software is always releasable\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  110,
+                          "id":  89,
                           "question":  "A Bank SO IT modernization requirement states: practice ensuring software is always releasable. Which concept should be selected?",
                           "options":  [
                                           "SaaS",
@@ -1321,7 +1069,7 @@
                           "explanation":  "The requirement directly points to CD Delivery."
                       },
                       {
-                          "id":  111,
+                          "id":  90,
                           "question":  "Which Cloud/DevOps concept best matches: automatic release to production after successful pipeline?",
                           "options":  [
                                           "CD Deployment",
@@ -1333,7 +1081,7 @@
                           "explanation":  "CD Deployment is defined as: automatic release to production after successful pipeline."
                       },
                       {
-                          "id":  112,
+                          "id":  91,
                           "question":  "What is the most accurate description of \u0027CD Deployment\u0027?",
                           "options":  [
                                           "ability to continue operation despite component failures",
@@ -1345,7 +1093,7 @@
                           "explanation":  "CD Deployment refers to: automatic release to production after successful pipeline."
                       },
                       {
-                          "id":  113,
+                          "id":  92,
                           "question":  "\u0027CD Deployment\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Service Models",
@@ -1357,19 +1105,7 @@
                           "explanation":  "CD Deployment is mainly part of DevOps Practices."
                       },
                       {
-                          "id":  114,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "CD Deployment -\u003e automatic release to production after successful pipeline",
-                                          "ReplicaSet -\u003e automatic release to production after successful pipeline",
-                                          "IaaS -\u003e automatic release to production after successful pipeline",
-                                          "Auto Scaling -\u003e automatic release to production after successful pipeline"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027CD Deployment -\u003e automatic release to production after successful pipeline\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  115,
+                          "id":  93,
                           "question":  "A Bank SO IT modernization requirement states: automatic release to production after successful pipeline. Which concept should be selected?",
                           "options":  [
                                           "Deployment",
@@ -1381,7 +1117,7 @@
                           "explanation":  "The requirement directly points to CD Deployment."
                       },
                       {
-                          "id":  116,
+                          "id":  94,
                           "question":  "Which Cloud/DevOps concept best matches: automated sequence of build, test, and release stages?",
                           "options":  [
                                           "StatefulSet",
@@ -1393,7 +1129,7 @@
                           "explanation":  "Pipeline is defined as: automated sequence of build, test, and release stages."
                       },
                       {
-                          "id":  117,
+                          "id":  95,
                           "question":  "What is the most accurate description of \u0027Pipeline\u0027?",
                           "options":  [
                                           "plans and processes to restore services after major outage",
@@ -1405,7 +1141,7 @@
                           "explanation":  "Pipeline refers to: automated sequence of build, test, and release stages."
                       },
                       {
-                          "id":  118,
+                          "id":  96,
                           "question":  "\u0027Pipeline\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Deployment Models",
@@ -1417,19 +1153,7 @@
                           "explanation":  "Pipeline is mainly part of DevOps Practices."
                       },
                       {
-                          "id":  119,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Ingress -\u003e automated sequence of build, test, and release stages",
-                                          "Pipeline -\u003e automated sequence of build, test, and release stages",
-                                          "Logging -\u003e automated sequence of build, test, and release stages",
-                                          "SaaS -\u003e automated sequence of build, test, and release stages"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Pipeline -\u003e automated sequence of build, test, and release stages\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  120,
+                          "id":  97,
                           "question":  "A Bank SO IT modernization requirement states: automated sequence of build, test, and release stages. Which concept should be selected?",
                           "options":  [
                                           "Pipeline",
@@ -1441,7 +1165,7 @@
                           "explanation":  "The requirement directly points to Pipeline."
                       },
                       {
-                          "id":  121,
+                          "id":  98,
                           "question":  "Which Cloud/DevOps concept best matches: popular automation server for CI/CD workflows?",
                           "options":  [
                                           "Monitoring",
@@ -1453,7 +1177,7 @@
                           "explanation":  "Jenkins is defined as: popular automation server for CI/CD workflows."
                       },
                       {
-                          "id":  122,
+                          "id":  99,
                           "question":  "What is the most accurate description of \u0027Jenkins\u0027?",
                           "options":  [
                                           "smallest deployable unit in Kubernetes",
@@ -1465,7 +1189,7 @@
                           "explanation":  "Jenkins refers to: popular automation server for CI/CD workflows."
                       },
                       {
-                          "id":  123,
+                          "id":  100,
                           "question":  "\u0027Jenkins\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "DevOps Tooling",
@@ -1477,19 +1201,7 @@
                           "explanation":  "Jenkins is mainly part of DevOps Tooling."
                       },
                       {
-                          "id":  124,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Jenkins -\u003e popular automation server for CI/CD workflows",
-                                          "Pipeline -\u003e popular automation server for CI/CD workflows",
-                                          "SLA -\u003e popular automation server for CI/CD workflows",
-                                          "Immutable Infrastructure -\u003e popular automation server for CI/CD workflows"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Jenkins -\u003e popular automation server for CI/CD workflows\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  125,
+                          "id":  101,
                           "question":  "A Bank SO IT modernization requirement states: popular automation server for CI/CD workflows. Which concept should be selected?",
                           "options":  [
                                           "Jenkins",
@@ -1501,7 +1213,7 @@
                           "explanation":  "The requirement directly points to Jenkins."
                       },
                       {
-                          "id":  126,
+                          "id":  102,
                           "question":  "Which Cloud/DevOps concept best matches: integrated CI/CD platform in GitLab ecosystem?",
                           "options":  [
                                           "SaaS",
@@ -1513,7 +1225,7 @@
                           "explanation":  "GitLab CI is defined as: integrated CI/CD platform in GitLab ecosystem."
                       },
                       {
-                          "id":  127,
+                          "id":  103,
                           "question":  "What is the most accurate description of \u0027GitLab CI\u0027?",
                           "options":  [
                                           "design for minimal downtime and continuous service",
@@ -1525,7 +1237,7 @@
                           "explanation":  "GitLab CI refers to: integrated CI/CD platform in GitLab ecosystem."
                       },
                       {
-                          "id":  128,
+                          "id":  104,
                           "question":  "\u0027GitLab CI\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Operations",
@@ -1537,19 +1249,7 @@
                           "explanation":  "GitLab CI is mainly part of DevOps Tooling."
                       },
                       {
-                          "id":  129,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "GitLab CI -\u003e integrated CI/CD platform in GitLab ecosystem",
-                                          "Blue-Green Deployment -\u003e integrated CI/CD platform in GitLab ecosystem",
-                                          "Disaster Recovery -\u003e integrated CI/CD platform in GitLab ecosystem",
-                                          "Alerting -\u003e integrated CI/CD platform in GitLab ecosystem"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027GitLab CI -\u003e integrated CI/CD platform in GitLab ecosystem\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  130,
+                          "id":  105,
                           "question":  "A Bank SO IT modernization requirement states: integrated CI/CD platform in GitLab ecosystem. Which concept should be selected?",
                           "options":  [
                                           "Docker",
@@ -1561,7 +1261,7 @@
                           "explanation":  "The requirement directly points to GitLab CI."
                       },
                       {
-                          "id":  131,
+                          "id":  106,
                           "question":  "Which Cloud/DevOps concept best matches: workflow automation platform integrated with GitHub?",
                           "options":  [
                                           "Disaster Recovery",
@@ -1573,7 +1273,7 @@
                           "explanation":  "GitHub Actions is defined as: workflow automation platform integrated with GitHub."
                       },
                       {
-                          "id":  132,
+                          "id":  107,
                           "question":  "What is the most accurate description of \u0027GitHub Actions\u0027?",
                           "options":  [
                                           "workflow automation platform integrated with GitHub",
@@ -1585,7 +1285,7 @@
                           "explanation":  "GitHub Actions refers to: workflow automation platform integrated with GitHub."
                       },
                       {
-                          "id":  133,
+                          "id":  108,
                           "question":  "\u0027GitHub Actions\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "DevOps Practices",
@@ -1597,19 +1297,7 @@
                           "explanation":  "GitHub Actions is mainly part of DevOps Tooling."
                       },
                       {
-                          "id":  134,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "GitHub Actions -\u003e workflow automation platform integrated with GitHub",
-                                          "Observability -\u003e workflow automation platform integrated with GitHub",
-                                          "Public Cloud -\u003e workflow automation platform integrated with GitHub",
-                                          "Private Cloud -\u003e workflow automation platform integrated with GitHub"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027GitHub Actions -\u003e workflow automation platform integrated with GitHub\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  135,
+                          "id":  109,
                           "question":  "A Bank SO IT modernization requirement states: workflow automation platform integrated with GitHub. Which concept should be selected?",
                           "options":  [
                                           "GitHub Actions",
@@ -1621,7 +1309,7 @@
                           "explanation":  "The requirement directly points to GitHub Actions."
                       },
                       {
-                          "id":  136,
+                          "id":  110,
                           "question":  "Which Cloud/DevOps concept best matches: storage for build outputs and package artifacts?",
                           "options":  [
                                           "Secret",
@@ -1633,7 +1321,7 @@
                           "explanation":  "Artifact Repository is defined as: storage for build outputs and package artifacts."
                       },
                       {
-                          "id":  137,
+                          "id":  111,
                           "question":  "What is the most accurate description of \u0027Artifact Repository\u0027?",
                           "options":  [
                                           "controller ensuring desired number of pod replicas",
@@ -1645,7 +1333,7 @@
                           "explanation":  "Artifact Repository refers to: storage for build outputs and package artifacts."
                       },
                       {
-                          "id":  138,
+                          "id":  112,
                           "question":  "\u0027Artifact Repository\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "DevOps Tooling",
@@ -1657,19 +1345,7 @@
                           "explanation":  "Artifact Repository is mainly part of DevOps Tooling."
                       },
                       {
-                          "id":  139,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Tracing -\u003e storage for build outputs and package artifacts",
-                                          "Ingress -\u003e storage for build outputs and package artifacts",
-                                          "Artifact Repository -\u003e storage for build outputs and package artifacts",
-                                          "Container -\u003e storage for build outputs and package artifacts"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Artifact Repository -\u003e storage for build outputs and package artifacts\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  140,
+                          "id":  113,
                           "question":  "A Bank SO IT modernization requirement states: storage for build outputs and package artifacts. Which concept should be selected?",
                           "options":  [
                                           "Public Cloud",
@@ -1681,7 +1357,7 @@
                           "explanation":  "The requirement directly points to Artifact Repository."
                       },
                       {
-                          "id":  141,
+                          "id":  114,
                           "question":  "Which Cloud/DevOps concept best matches: infrastructure as code tool using declarative configuration?",
                           "options":  [
                                           "Jenkins",
@@ -1693,7 +1369,7 @@
                           "explanation":  "Terraform is defined as: infrastructure as code tool using declarative configuration."
                       },
                       {
-                          "id":  142,
+                          "id":  115,
                           "question":  "What is the most accurate description of \u0027Terraform\u0027?",
                           "options":  [
                                           "Kubernetes object running one pod per node",
@@ -1705,7 +1381,7 @@
                           "explanation":  "Terraform refers to: infrastructure as code tool using declarative configuration."
                       },
                       {
-                          "id":  143,
+                          "id":  116,
                           "question":  "\u0027Terraform\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "DevOps Practices",
@@ -1717,19 +1393,7 @@
                           "explanation":  "Terraform is mainly part of Infrastructure as Code."
                       },
                       {
-                          "id":  144,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "SLA -\u003e infrastructure as code tool using declarative configuration",
-                                          "Docker -\u003e infrastructure as code tool using declarative configuration",
-                                          "Terraform -\u003e infrastructure as code tool using declarative configuration",
-                                          "Kubernetes -\u003e infrastructure as code tool using declarative configuration"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Terraform -\u003e infrastructure as code tool using declarative configuration\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  145,
+                          "id":  117,
                           "question":  "A Bank SO IT modernization requirement states: infrastructure as code tool using declarative configuration. Which concept should be selected?",
                           "options":  [
                                           "Deployment",
@@ -1741,7 +1405,7 @@
                           "explanation":  "The requirement directly points to Terraform."
                       },
                       {
-                          "id":  146,
+                          "id":  118,
                           "question":  "Which Cloud/DevOps concept best matches: automation tool for configuration management and orchestration?",
                           "options":  [
                                           "ReplicaSet",
@@ -1753,7 +1417,7 @@
                           "explanation":  "Ansible is defined as: automation tool for configuration management and orchestration."
                       },
                       {
-                          "id":  147,
+                          "id":  119,
                           "question":  "What is the most accurate description of \u0027Ansible\u0027?",
                           "options":  [
                                           "cloud model providing managed runtime and development platform",
@@ -1765,7 +1429,7 @@
                           "explanation":  "Ansible refers to: automation tool for configuration management and orchestration."
                       },
                       {
-                          "id":  148,
+                          "id":  120,
                           "question":  "\u0027Ansible\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Infrastructure as Code",
@@ -1777,19 +1441,7 @@
                           "explanation":  "Ansible is mainly part of Infrastructure as Code."
                       },
                       {
-                          "id":  149,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Fault Tolerance -\u003e automation tool for configuration management and orchestration",
-                                          "Ansible -\u003e automation tool for configuration management and orchestration",
-                                          "Kubernetes -\u003e automation tool for configuration management and orchestration",
-                                          "Pipeline -\u003e automation tool for configuration management and orchestration"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Ansible -\u003e automation tool for configuration management and orchestration\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  150,
+                          "id":  121,
                           "question":  "A Bank SO IT modernization requirement states: automation tool for configuration management and orchestration. Which concept should be selected?",
                           "options":  [
                                           "Logging",
@@ -1801,7 +1453,7 @@
                           "explanation":  "The requirement directly points to Ansible."
                       },
                       {
-                          "id":  151,
+                          "id":  122,
                           "question":  "Which Cloud/DevOps concept best matches: AWS service for infrastructure provisioning from templates?",
                           "options":  [
                                           "Deployment",
@@ -1813,7 +1465,7 @@
                           "explanation":  "CloudFormation is defined as: AWS service for infrastructure provisioning from templates."
                       },
                       {
-                          "id":  152,
+                          "id":  123,
                           "question":  "What is the most accurate description of \u0027CloudFormation\u0027?",
                           "options":  [
                                           "lightweight package containing app and dependencies",
@@ -1825,7 +1477,7 @@
                           "explanation":  "CloudFormation refers to: AWS service for infrastructure provisioning from templates."
                       },
                       {
-                          "id":  153,
+                          "id":  124,
                           "question":  "\u0027CloudFormation\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Infrastructure as Code",
@@ -1837,19 +1489,7 @@
                           "explanation":  "CloudFormation is mainly part of Infrastructure as Code."
                       },
                       {
-                          "id":  154,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Monitoring -\u003e AWS service for infrastructure provisioning from templates",
-                                          "PaaS -\u003e AWS service for infrastructure provisioning from templates",
-                                          "Artifact Repository -\u003e AWS service for infrastructure provisioning from templates",
-                                          "CloudFormation -\u003e AWS service for infrastructure provisioning from templates"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027CloudFormation -\u003e AWS service for infrastructure provisioning from templates\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  155,
+                          "id":  125,
                           "question":  "A Bank SO IT modernization requirement states: AWS service for infrastructure provisioning from templates. Which concept should be selected?",
                           "options":  [
                                           "Multi-Cloud",
@@ -1861,7 +1501,7 @@
                           "explanation":  "The requirement directly points to CloudFormation."
                       },
                       {
-                          "id":  156,
+                          "id":  126,
                           "question":  "Which Cloud/DevOps concept best matches: approach replacing servers instead of modifying them?",
                           "options":  [
                                           "Load Balancer",
@@ -1873,7 +1513,7 @@
                           "explanation":  "Immutable Infrastructure is defined as: approach replacing servers instead of modifying them."
                       },
                       {
-                          "id":  157,
+                          "id":  127,
                           "question":  "What is the most accurate description of \u0027Immutable Infrastructure\u0027?",
                           "options":  [
                                           "controller ensuring desired number of pod replicas",
@@ -1885,7 +1525,7 @@
                           "explanation":  "Immutable Infrastructure refers to: approach replacing servers instead of modifying them."
                       },
                       {
-                          "id":  158,
+                          "id":  128,
                           "question":  "\u0027Immutable Infrastructure\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "DevOps Practices",
@@ -1897,19 +1537,7 @@
                           "explanation":  "Immutable Infrastructure is mainly part of Infrastructure as Code."
                       },
                       {
-                          "id":  159,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "CD Delivery -\u003e approach replacing servers instead of modifying them",
-                                          "Rolling Deployment -\u003e approach replacing servers instead of modifying them",
-                                          "Auto Scaling -\u003e approach replacing servers instead of modifying them",
-                                          "Immutable Infrastructure -\u003e approach replacing servers instead of modifying them"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Immutable Infrastructure -\u003e approach replacing servers instead of modifying them\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  160,
+                          "id":  129,
                           "question":  "A Bank SO IT modernization requirement states: approach replacing servers instead of modifying them. Which concept should be selected?",
                           "options":  [
                                           "Disaster Recovery",
@@ -1921,7 +1549,7 @@
                           "explanation":  "The requirement directly points to Immutable Infrastructure."
                       },
                       {
-                          "id":  161,
+                          "id":  130,
                           "question":  "Which Cloud/DevOps concept best matches: release strategy using two environments for switching traffic?",
                           "options":  [
                                           "Hypervisor",
@@ -1933,7 +1561,7 @@
                           "explanation":  "Blue-Green Deployment is defined as: release strategy using two environments for switching traffic."
                       },
                       {
-                          "id":  162,
+                          "id":  131,
                           "question":  "What is the most accurate description of \u0027Blue-Green Deployment\u0027?",
                           "options":  [
                                           "automated sequence of build, test, and release stages",
@@ -1945,7 +1573,7 @@
                           "explanation":  "Blue-Green Deployment refers to: release strategy using two environments for switching traffic."
                       },
                       {
-                          "id":  163,
+                          "id":  132,
                           "question":  "\u0027Blue-Green Deployment\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Release Strategies",
@@ -1957,19 +1585,7 @@
                           "explanation":  "Blue-Green Deployment is mainly part of Release Strategies."
                       },
                       {
-                          "id":  164,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Blue-Green Deployment -\u003e release strategy using two environments for switching traffic",
-                                          "Deployment -\u003e release strategy using two environments for switching traffic",
-                                          "DaemonSet -\u003e release strategy using two environments for switching traffic",
-                                          "Rollback -\u003e release strategy using two environments for switching traffic"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Blue-Green Deployment -\u003e release strategy using two environments for switching traffic\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  165,
+                          "id":  133,
                           "question":  "A Bank SO IT modernization requirement states: release strategy using two environments for switching traffic. Which concept should be selected?",
                           "options":  [
                                           "Blue-Green Deployment",
@@ -1981,7 +1597,7 @@
                           "explanation":  "The requirement directly points to Blue-Green Deployment."
                       },
                       {
-                          "id":  166,
+                          "id":  134,
                           "question":  "Which Cloud/DevOps concept best matches: release strategy gradually exposing new version to users?",
                           "options":  [
                                           "ReplicaSet",
@@ -1993,7 +1609,7 @@
                           "explanation":  "Canary Deployment is defined as: release strategy gradually exposing new version to users."
                       },
                       {
-                          "id":  167,
+                          "id":  135,
                           "question":  "What is the most accurate description of \u0027Canary Deployment\u0027?",
                           "options":  [
                                           "lightweight package containing app and dependencies",
@@ -2005,7 +1621,7 @@
                           "explanation":  "Canary Deployment refers to: release strategy gradually exposing new version to users."
                       },
                       {
-                          "id":  168,
+                          "id":  136,
                           "question":  "\u0027Canary Deployment\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "DevOps Tooling",
@@ -2017,19 +1633,7 @@
                           "explanation":  "Canary Deployment is mainly part of Release Strategies."
                       },
                       {
-                          "id":  169,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "CI -\u003e release strategy gradually exposing new version to users",
-                                          "Canary Deployment -\u003e release strategy gradually exposing new version to users",
-                                          "Hybrid Cloud -\u003e release strategy gradually exposing new version to users",
-                                          "Docker -\u003e release strategy gradually exposing new version to users"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Canary Deployment -\u003e release strategy gradually exposing new version to users\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  170,
+                          "id":  137,
                           "question":  "A Bank SO IT modernization requirement states: release strategy gradually exposing new version to users. Which concept should be selected?",
                           "options":  [
                                           "Kubernetes",
@@ -2041,7 +1645,7 @@
                           "explanation":  "The requirement directly points to Canary Deployment."
                       },
                       {
-                          "id":  171,
+                          "id":  138,
                           "question":  "Which Cloud/DevOps concept best matches: release strategy updating instances incrementally?",
                           "options":  [
                                           "Virtualization",
@@ -2053,7 +1657,7 @@
                           "explanation":  "Rolling Deployment is defined as: release strategy updating instances incrementally."
                       },
                       {
-                          "id":  172,
+                          "id":  139,
                           "question":  "What is the most accurate description of \u0027Rolling Deployment\u0027?",
                           "options":  [
                                           "combination of private and public cloud environments",
@@ -2065,7 +1669,7 @@
                           "explanation":  "Rolling Deployment refers to: release strategy updating instances incrementally."
                       },
                       {
-                          "id":  173,
+                          "id":  140,
                           "question":  "\u0027Rolling Deployment\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Operations",
@@ -2077,19 +1681,7 @@
                           "explanation":  "Rolling Deployment is mainly part of Release Strategies."
                       },
                       {
-                          "id":  174,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "High Availability -\u003e release strategy updating instances incrementally",
-                                          "Rolling Deployment -\u003e release strategy updating instances incrementally",
-                                          "StatefulSet -\u003e release strategy updating instances incrementally",
-                                          "Pod -\u003e release strategy updating instances incrementally"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Rolling Deployment -\u003e release strategy updating instances incrementally\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  175,
+                          "id":  141,
                           "question":  "A Bank SO IT modernization requirement states: release strategy updating instances incrementally. Which concept should be selected?",
                           "options":  [
                                           "Rolling Deployment",
@@ -2101,7 +1693,7 @@
                           "explanation":  "The requirement directly points to Rolling Deployment."
                       },
                       {
-                          "id":  176,
+                          "id":  142,
                           "question":  "Which Cloud/DevOps concept best matches: reversion to previous stable version after failure?",
                           "options":  [
                                           "Container",
@@ -2113,7 +1705,7 @@
                           "explanation":  "Rollback is defined as: reversion to previous stable version after failure."
                       },
                       {
-                          "id":  177,
+                          "id":  143,
                           "question":  "What is the most accurate description of \u0027Rollback\u0027?",
                           "options":  [
                                           "software layer that creates and runs virtual machines",
@@ -2125,7 +1717,7 @@
                           "explanation":  "Rollback refers to: reversion to previous stable version after failure."
                       },
                       {
-                          "id":  178,
+                          "id":  144,
                           "question":  "\u0027Rollback\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "DevOps Tooling",
@@ -2137,19 +1729,7 @@
                           "explanation":  "Rollback is mainly part of Release Strategies."
                       },
                       {
-                          "id":  179,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Rollback -\u003e reversion to previous stable version after failure",
-                                          "Monitoring -\u003e reversion to previous stable version after failure",
-                                          "CI -\u003e reversion to previous stable version after failure",
-                                          "Hypervisor -\u003e reversion to previous stable version after failure"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Rollback -\u003e reversion to previous stable version after failure\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  180,
+                          "id":  145,
                           "question":  "A Bank SO IT modernization requirement states: reversion to previous stable version after failure. Which concept should be selected?",
                           "options":  [
                                           "Pod",
@@ -2161,7 +1741,7 @@
                           "explanation":  "The requirement directly points to Rollback."
                       },
                       {
-                          "id":  181,
+                          "id":  146,
                           "question":  "Which Cloud/DevOps concept best matches: ability to infer system state using telemetry data?",
                           "options":  [
                                           "Multi-Cloud",
@@ -2173,7 +1753,7 @@
                           "explanation":  "Observability is defined as: ability to infer system state using telemetry data."
                       },
                       {
-                          "id":  182,
+                          "id":  147,
                           "question":  "What is the most accurate description of \u0027Observability\u0027?",
                           "options":  [
                                           "cloud model providing virtualized compute, storage, networking",
@@ -2185,7 +1765,7 @@
                           "explanation":  "Observability refers to: ability to infer system state using telemetry data."
                       },
                       {
-                          "id":  183,
+                          "id":  148,
                           "question":  "\u0027Observability\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Monitoring and Reliability",
@@ -2197,19 +1777,7 @@
                           "explanation":  "Observability is mainly part of Monitoring and Reliability."
                       },
                       {
-                          "id":  184,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "DaemonSet -\u003e ability to infer system state using telemetry data",
-                                          "Immutable Infrastructure -\u003e ability to infer system state using telemetry data",
-                                          "Terraform -\u003e ability to infer system state using telemetry data",
-                                          "Observability -\u003e ability to infer system state using telemetry data"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Observability -\u003e ability to infer system state using telemetry data\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  185,
+                          "id":  149,
                           "question":  "A Bank SO IT modernization requirement states: ability to infer system state using telemetry data. Which concept should be selected?",
                           "options":  [
                                           "Kubernetes",
@@ -2221,7 +1789,7 @@
                           "explanation":  "The requirement directly points to Observability."
                       },
                       {
-                          "id":  186,
+                          "id":  150,
                           "question":  "Which Cloud/DevOps concept best matches: continuous tracking of system health and metrics?",
                           "options":  [
                                           "StatefulSet",
@@ -2233,7 +1801,7 @@
                           "explanation":  "Monitoring is defined as: continuous tracking of system health and metrics."
                       },
                       {
-                          "id":  187,
+                          "id":  151,
                           "question":  "What is the most accurate description of \u0027Monitoring\u0027?",
                           "options":  [
                                           "target reliability objective for service metrics",
@@ -2245,7 +1813,7 @@
                           "explanation":  "Monitoring refers to: continuous tracking of system health and metrics."
                       },
                       {
-                          "id":  188,
+                          "id":  152,
                           "question":  "\u0027Monitoring\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Infrastructure as Code",
@@ -2257,19 +1825,7 @@
                           "explanation":  "Monitoring is mainly part of Monitoring and Reliability."
                       },
                       {
-                          "id":  189,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Monitoring -\u003e continuous tracking of system health and metrics",
-                                          "Pod -\u003e continuous tracking of system health and metrics",
-                                          "Private Cloud -\u003e continuous tracking of system health and metrics",
-                                          "Hybrid Cloud -\u003e continuous tracking of system health and metrics"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Monitoring -\u003e continuous tracking of system health and metrics\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  190,
+                          "id":  153,
                           "question":  "A Bank SO IT modernization requirement states: continuous tracking of system health and metrics. Which concept should be selected?",
                           "options":  [
                                           "Pod",
@@ -2281,7 +1837,7 @@
                           "explanation":  "The requirement directly points to Monitoring."
                       },
                       {
-                          "id":  191,
+                          "id":  154,
                           "question":  "Which Cloud/DevOps concept best matches: recording timestamped system and application events?",
                           "options":  [
                                           "Terraform",
@@ -2293,7 +1849,7 @@
                           "explanation":  "Logging is defined as: recording timestamped system and application events."
                       },
                       {
-                          "id":  192,
+                          "id":  155,
                           "question":  "What is the most accurate description of \u0027Logging\u0027?",
                           "options":  [
                                           "release strategy using two environments for switching traffic",
@@ -2305,7 +1861,7 @@
                           "explanation":  "Logging refers to: recording timestamped system and application events."
                       },
                       {
-                          "id":  193,
+                          "id":  156,
                           "question":  "\u0027Logging\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Fundamentals",
@@ -2317,19 +1873,7 @@
                           "explanation":  "Logging is mainly part of Monitoring and Reliability."
                       },
                       {
-                          "id":  194,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "CloudFormation -\u003e recording timestamped system and application events",
-                                          "Logging -\u003e recording timestamped system and application events",
-                                          "Blue-Green Deployment -\u003e recording timestamped system and application events",
-                                          "Auto Scaling -\u003e recording timestamped system and application events"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Logging -\u003e recording timestamped system and application events\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  195,
+                          "id":  157,
                           "question":  "A Bank SO IT modernization requirement states: recording timestamped system and application events. Which concept should be selected?",
                           "options":  [
                                           "Alerting",
@@ -2341,7 +1885,7 @@
                           "explanation":  "The requirement directly points to Logging."
                       },
                       {
-                          "id":  196,
+                          "id":  158,
                           "question":  "Which Cloud/DevOps concept best matches: tracking request path across distributed services?",
                           "options":  [
                                           "Logging",
@@ -2353,7 +1897,7 @@
                           "explanation":  "Tracing is defined as: tracking request path across distributed services."
                       },
                       {
-                          "id":  197,
+                          "id":  159,
                           "question":  "What is the most accurate description of \u0027Tracing\u0027?",
                           "options":  [
                                           "practice of frequent code integration with automated builds/tests",
@@ -2365,7 +1909,7 @@
                           "explanation":  "Tracing refers to: tracking request path across distributed services."
                       },
                       {
-                          "id":  198,
+                          "id":  160,
                           "question":  "\u0027Tracing\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Service Models",
@@ -2377,19 +1921,7 @@
                           "explanation":  "Tracing is mainly part of Monitoring and Reliability."
                       },
                       {
-                          "id":  199,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Secret -\u003e tracking request path across distributed services",
-                                          "Terraform -\u003e tracking request path across distributed services",
-                                          "Tracing -\u003e tracking request path across distributed services",
-                                          "CD Deployment -\u003e tracking request path across distributed services"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Tracing -\u003e tracking request path across distributed services\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  200,
+                          "id":  161,
                           "question":  "A Bank SO IT modernization requirement states: tracking request path across distributed services. Which concept should be selected?",
                           "options":  [
                                           "Logging",
@@ -2401,7 +1933,7 @@
                           "explanation":  "The requirement directly points to Tracing."
                       },
                       {
-                          "id":  201,
+                          "id":  162,
                           "question":  "Which Cloud/DevOps concept best matches: notifying teams when metrics cross defined thresholds?",
                           "options":  [
                                           "Rollback",
@@ -2413,7 +1945,7 @@
                           "explanation":  "Alerting is defined as: notifying teams when metrics cross defined thresholds."
                       },
                       {
-                          "id":  202,
+                          "id":  163,
                           "question":  "What is the most accurate description of \u0027Alerting\u0027?",
                           "options":  [
                                           "Kubernetes object managing stateless application rollout",
@@ -2425,7 +1957,7 @@
                           "explanation":  "Alerting refers to: notifying teams when metrics cross defined thresholds."
                       },
                       {
-                          "id":  203,
+                          "id":  164,
                           "question":  "\u0027Alerting\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Monitoring and Reliability",
@@ -2437,19 +1969,7 @@
                           "explanation":  "Alerting is mainly part of Monitoring and Reliability."
                       },
                       {
-                          "id":  204,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "GitLab CI -\u003e notifying teams when metrics cross defined thresholds",
-                                          "SLI -\u003e notifying teams when metrics cross defined thresholds",
-                                          "Rolling Deployment -\u003e notifying teams when metrics cross defined thresholds",
-                                          "Alerting -\u003e notifying teams when metrics cross defined thresholds"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Alerting -\u003e notifying teams when metrics cross defined thresholds\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  205,
+                          "id":  165,
                           "question":  "A Bank SO IT modernization requirement states: notifying teams when metrics cross defined thresholds. Which concept should be selected?",
                           "options":  [
                                           "High Availability",
@@ -2461,7 +1981,7 @@
                           "explanation":  "The requirement directly points to Alerting."
                       },
                       {
-                          "id":  206,
+                          "id":  166,
                           "question":  "Which Cloud/DevOps concept best matches: agreed service commitments between provider and customer?",
                           "options":  [
                                           "SLA",
@@ -2473,7 +1993,7 @@
                           "explanation":  "SLA is defined as: agreed service commitments between provider and customer."
                       },
                       {
-                          "id":  207,
+                          "id":  167,
                           "question":  "What is the most accurate description of \u0027SLA\u0027?",
                           "options":  [
                                           "Kubernetes workload object for stateful apps",
@@ -2485,7 +2005,7 @@
                           "explanation":  "SLA refers to: agreed service commitments between provider and customer."
                       },
                       {
-                          "id":  208,
+                          "id":  168,
                           "question":  "\u0027SLA\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Monitoring and Reliability",
@@ -2497,19 +2017,7 @@
                           "explanation":  "SLA is mainly part of Monitoring and Reliability."
                       },
                       {
-                          "id":  209,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Canary Deployment -\u003e agreed service commitments between provider and customer",
-                                          "SLA -\u003e agreed service commitments between provider and customer",
-                                          "Kubernetes -\u003e agreed service commitments between provider and customer",
-                                          "Tracing -\u003e agreed service commitments between provider and customer"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027SLA -\u003e agreed service commitments between provider and customer\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  210,
+                          "id":  169,
                           "question":  "A Bank SO IT modernization requirement states: agreed service commitments between provider and customer. Which concept should be selected?",
                           "options":  [
                                           "Observability",
@@ -2521,7 +2029,7 @@
                           "explanation":  "The requirement directly points to SLA."
                       },
                       {
-                          "id":  211,
+                          "id":  170,
                           "question":  "Which Cloud/DevOps concept best matches: target reliability objective for service metrics?",
                           "options":  [
                                           "Ingress",
@@ -2533,7 +2041,7 @@
                           "explanation":  "SLO is defined as: target reliability objective for service metrics."
                       },
                       {
-                          "id":  212,
+                          "id":  171,
                           "question":  "What is the most accurate description of \u0027SLO\u0027?",
                           "options":  [
                                           "infrastructure as code tool using declarative configuration",
@@ -2545,7 +2053,7 @@
                           "explanation":  "SLO refers to: target reliability objective for service metrics."
                       },
                       {
-                          "id":  213,
+                          "id":  172,
                           "question":  "\u0027SLO\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Monitoring and Reliability",
@@ -2557,19 +2065,7 @@
                           "explanation":  "SLO is mainly part of Monitoring and Reliability."
                       },
                       {
-                          "id":  214,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Observability -\u003e target reliability objective for service metrics",
-                                          "GitHub Actions -\u003e target reliability objective for service metrics",
-                                          "Rollback -\u003e target reliability objective for service metrics",
-                                          "SLO -\u003e target reliability objective for service metrics"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027SLO -\u003e target reliability objective for service metrics\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  215,
+                          "id":  173,
                           "question":  "A Bank SO IT modernization requirement states: target reliability objective for service metrics. Which concept should be selected?",
                           "options":  [
                                           "SLO",
@@ -2581,7 +2077,7 @@
                           "explanation":  "The requirement directly points to SLO."
                       },
                       {
-                          "id":  216,
+                          "id":  174,
                           "question":  "Which Cloud/DevOps concept best matches: quantitative measurement of service behavior?",
                           "options":  [
                                           "Rolling Deployment",
@@ -2593,7 +2089,7 @@
                           "explanation":  "SLI is defined as: quantitative measurement of service behavior."
                       },
                       {
-                          "id":  217,
+                          "id":  175,
                           "question":  "What is the most accurate description of \u0027SLI\u0027?",
                           "options":  [
                                           "automation tool for configuration management and orchestration",
@@ -2605,7 +2101,7 @@
                           "explanation":  "SLI refers to: quantitative measurement of service behavior."
                       },
                       {
-                          "id":  218,
+                          "id":  176,
                           "question":  "\u0027SLI\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Fundamentals",
@@ -2617,19 +2113,7 @@
                           "explanation":  "SLI is mainly part of Monitoring and Reliability."
                       },
                       {
-                          "id":  219,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Monitoring -\u003e quantitative measurement of service behavior",
-                                          "SLI -\u003e quantitative measurement of service behavior",
-                                          "Multi-Cloud -\u003e quantitative measurement of service behavior",
-                                          "Artifact Repository -\u003e quantitative measurement of service behavior"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027SLI -\u003e quantitative measurement of service behavior\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  220,
+                          "id":  177,
                           "question":  "A Bank SO IT modernization requirement states: quantitative measurement of service behavior. Which concept should be selected?",
                           "options":  [
                                           "Rolling Deployment",
@@ -2641,7 +2125,7 @@
                           "explanation":  "The requirement directly points to SLI."
                       },
                       {
-                          "id":  221,
+                          "id":  178,
                           "question":  "Which Cloud/DevOps concept best matches: automatic adjustment of resources based on demand?",
                           "options":  [
                                           "Auto Scaling",
@@ -2653,7 +2137,7 @@
                           "explanation":  "Auto Scaling is defined as: automatic adjustment of resources based on demand."
                       },
                       {
-                          "id":  222,
+                          "id":  179,
                           "question":  "What is the most accurate description of \u0027Auto Scaling\u0027?",
                           "options":  [
                                           "automatic adjustment of resources based on demand",
@@ -2665,7 +2149,7 @@
                           "explanation":  "Auto Scaling refers to: automatic adjustment of resources based on demand."
                       },
                       {
-                          "id":  223,
+                          "id":  180,
                           "question":  "\u0027Auto Scaling\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Deployment Models",
@@ -2677,19 +2161,7 @@
                           "explanation":  "Auto Scaling is mainly part of Cloud Operations."
                       },
                       {
-                          "id":  224,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Auto Scaling -\u003e automatic adjustment of resources based on demand",
-                                          "SLI -\u003e automatic adjustment of resources based on demand",
-                                          "Ansible -\u003e automatic adjustment of resources based on demand",
-                                          "Alerting -\u003e automatic adjustment of resources based on demand"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Auto Scaling -\u003e automatic adjustment of resources based on demand\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  225,
+                          "id":  181,
                           "question":  "A Bank SO IT modernization requirement states: automatic adjustment of resources based on demand. Which concept should be selected?",
                           "options":  [
                                           "Auto Scaling",
@@ -2701,7 +2173,7 @@
                           "explanation":  "The requirement directly points to Auto Scaling."
                       },
                       {
-                          "id":  226,
+                          "id":  182,
                           "question":  "Which Cloud/DevOps concept best matches: component distributing traffic across multiple servers?",
                           "options":  [
                                           "Load Balancer",
@@ -2713,7 +2185,7 @@
                           "explanation":  "Load Balancer is defined as: component distributing traffic across multiple servers."
                       },
                       {
-                          "id":  227,
+                          "id":  183,
                           "question":  "What is the most accurate description of \u0027Load Balancer\u0027?",
                           "options":  [
                                           "component distributing traffic across multiple servers",
@@ -2725,7 +2197,7 @@
                           "explanation":  "Load Balancer refers to: component distributing traffic across multiple servers."
                       },
                       {
-                          "id":  228,
+                          "id":  184,
                           "question":  "\u0027Load Balancer\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Operations",
@@ -2737,19 +2209,7 @@
                           "explanation":  "Load Balancer is mainly part of Cloud Operations."
                       },
                       {
-                          "id":  229,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "CD Deployment -\u003e component distributing traffic across multiple servers",
-                                          "Artifact Repository -\u003e component distributing traffic across multiple servers",
-                                          "Load Balancer -\u003e component distributing traffic across multiple servers",
-                                          "Terraform -\u003e component distributing traffic across multiple servers"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Load Balancer -\u003e component distributing traffic across multiple servers\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  230,
+                          "id":  185,
                           "question":  "A Bank SO IT modernization requirement states: component distributing traffic across multiple servers. Which concept should be selected?",
                           "options":  [
                                           "ConfigMap",
@@ -2761,7 +2221,7 @@
                           "explanation":  "The requirement directly points to Load Balancer."
                       },
                       {
-                          "id":  231,
+                          "id":  186,
                           "question":  "Which Cloud/DevOps concept best matches: ability to continue operation despite component failures?",
                           "options":  [
                                           "Auto Scaling",
@@ -2773,7 +2233,7 @@
                           "explanation":  "Fault Tolerance is defined as: ability to continue operation despite component failures."
                       },
                       {
-                          "id":  232,
+                          "id":  187,
                           "question":  "What is the most accurate description of \u0027Fault Tolerance\u0027?",
                           "options":  [
                                           "release strategy gradually exposing new version to users",
@@ -2785,7 +2245,7 @@
                           "explanation":  "Fault Tolerance refers to: ability to continue operation despite component failures."
                       },
                       {
-                          "id":  233,
+                          "id":  188,
                           "question":  "\u0027Fault Tolerance\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Fundamentals",
@@ -2797,19 +2257,7 @@
                           "explanation":  "Fault Tolerance is mainly part of Cloud Operations."
                       },
                       {
-                          "id":  234,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "CloudFormation -\u003e ability to continue operation despite component failures",
-                                          "DaemonSet -\u003e ability to continue operation despite component failures",
-                                          "Fault Tolerance -\u003e ability to continue operation despite component failures",
-                                          "Private Cloud -\u003e ability to continue operation despite component failures"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Fault Tolerance -\u003e ability to continue operation despite component failures\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  235,
+                          "id":  189,
                           "question":  "A Bank SO IT modernization requirement states: ability to continue operation despite component failures. Which concept should be selected?",
                           "options":  [
                                           "Disaster Recovery",
@@ -2821,7 +2269,7 @@
                           "explanation":  "The requirement directly points to Fault Tolerance."
                       },
                       {
-                          "id":  236,
+                          "id":  190,
                           "question":  "Which Cloud/DevOps concept best matches: design for minimal downtime and continuous service?",
                           "options":  [
                                           "Pipeline",
@@ -2833,7 +2281,7 @@
                           "explanation":  "High Availability is defined as: design for minimal downtime and continuous service."
                       },
                       {
-                          "id":  237,
+                          "id":  191,
                           "question":  "What is the most accurate description of \u0027High Availability\u0027?",
                           "options":  [
                                           "combination of private and public cloud environments",
@@ -2845,7 +2293,7 @@
                           "explanation":  "High Availability refers to: design for minimal downtime and continuous service."
                       },
                       {
-                          "id":  238,
+                          "id":  192,
                           "question":  "\u0027High Availability\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "DevOps Tooling",
@@ -2857,19 +2305,7 @@
                           "explanation":  "High Availability is mainly part of Cloud Operations."
                       },
                       {
-                          "id":  239,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Disaster Recovery -\u003e design for minimal downtime and continuous service",
-                                          "SLA -\u003e design for minimal downtime and continuous service",
-                                          "High Availability -\u003e design for minimal downtime and continuous service",
-                                          "StatefulSet -\u003e design for minimal downtime and continuous service"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027High Availability -\u003e design for minimal downtime and continuous service\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  240,
+                          "id":  193,
                           "question":  "A Bank SO IT modernization requirement states: design for minimal downtime and continuous service. Which concept should be selected?",
                           "options":  [
                                           "Virtualization",
@@ -2881,7 +2317,7 @@
                           "explanation":  "The requirement directly points to High Availability."
                       },
                       {
-                          "id":  241,
+                          "id":  194,
                           "question":  "Which Cloud/DevOps concept best matches: plans and processes to restore services after major outage?",
                           "options":  [
                                           "GitHub Actions",
@@ -2893,7 +2329,7 @@
                           "explanation":  "Disaster Recovery is defined as: plans and processes to restore services after major outage."
                       },
                       {
-                          "id":  242,
+                          "id":  195,
                           "question":  "What is the most accurate description of \u0027Disaster Recovery\u0027?",
                           "options":  [
                                           "plans and processes to restore services after major outage",
@@ -2905,7 +2341,7 @@
                           "explanation":  "Disaster Recovery refers to: plans and processes to restore services after major outage."
                       },
                       {
-                          "id":  243,
+                          "id":  196,
                           "question":  "\u0027Disaster Recovery\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Release Strategies",
@@ -2917,19 +2353,7 @@
                           "explanation":  "Disaster Recovery is mainly part of Cloud Operations."
                       },
                       {
-                          "id":  244,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "Disaster Recovery -\u003e plans and processes to restore services after major outage",
-                                          "IaaS -\u003e plans and processes to restore services after major outage",
-                                          "SLI -\u003e plans and processes to restore services after major outage",
-                                          "Secret -\u003e plans and processes to restore services after major outage"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Disaster Recovery -\u003e plans and processes to restore services after major outage\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  245,
+                          "id":  197,
                           "question":  "A Bank SO IT modernization requirement states: plans and processes to restore services after major outage. Which concept should be selected?",
                           "options":  [
                                           "Rolling Deployment",
@@ -2941,7 +2365,7 @@
                           "explanation":  "The requirement directly points to Disaster Recovery."
                       },
                       {
-                          "id":  246,
+                          "id":  198,
                           "question":  "Which Cloud/DevOps concept best matches: maximum acceptable data loss window?",
                           "options":  [
                                           "GitLab CI",
@@ -2953,7 +2377,7 @@
                           "explanation":  "RPO is defined as: maximum acceptable data loss window."
                       },
                       {
-                          "id":  247,
+                          "id":  199,
                           "question":  "What is the most accurate description of \u0027RPO\u0027?",
                           "options":  [
                                           "smallest deployable unit in Kubernetes",
@@ -2965,7 +2389,7 @@
                           "explanation":  "RPO refers to: maximum acceptable data loss window."
                       },
                       {
-                          "id":  248,
+                          "id":  200,
                           "question":  "\u0027RPO\u0027 belongs mainly to which Cloud/DevOps area?",
                           "options":  [
                                           "Cloud Service Models",
@@ -2977,19 +2401,7 @@
                           "explanation":  "RPO is mainly part of Cloud Operations."
                       },
                       {
-                          "id":  249,
-                          "question":  "Identify the correct Cloud/DevOps term-definition mapping.",
-                          "options":  [
-                                          "SLI -\u003e maximum acceptable data loss window",
-                                          "RPO -\u003e maximum acceptable data loss window",
-                                          "Tracing -\u003e maximum acceptable data loss window",
-                                          "Deployment -\u003e maximum acceptable data loss window"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027RPO -\u003e maximum acceptable data loss window\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  250,
+                          "id":  201,
                           "question":  "A Bank SO IT modernization requirement states: maximum acceptable data loss window. Which concept should be selected?",
                           "options":  [
                                           "RPO",

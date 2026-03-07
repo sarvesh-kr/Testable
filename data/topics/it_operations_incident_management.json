@@ -98,18 +98,6 @@
                       },
                       {
                           "id":  9,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "RPO -\u003e unplanned interruption or degradation of IT service",
-                                          "On-Call Rotation -\u003e unplanned interruption or degradation of IT service",
-                                          "Incident -\u003e unplanned interruption or degradation of IT service",
-                                          "Alert -\u003e unplanned interruption or degradation of IT service"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Incident -\u003e unplanned interruption or degradation of IT service\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  10,
                           "question":  "A Bank SO IT operations requirement states: unplanned interruption or degradation of IT service. Which concept should be selected?",
                           "options":  [
                                           "Status Page",
@@ -121,7 +109,7 @@
                           "explanation":  "The requirement directly points to Incident."
                       },
                       {
-                          "id":  11,
+                          "id":  10,
                           "question":  "Which IT operations concept best matches: high-impact incident requiring urgent coordinated response?",
                           "options":  [
                                           "Log Aggregation",
@@ -133,7 +121,7 @@
                           "explanation":  "Major Incident is defined as: high-impact incident requiring urgent coordinated response."
                       },
                       {
-                          "id":  12,
+                          "id":  11,
                           "question":  "What is the most accurate description of \u0027Major Incident\u0027?",
                           "options":  [
                                           "high-impact incident requiring urgent coordinated response",
@@ -145,7 +133,7 @@
                           "explanation":  "Major Incident refers to: high-impact incident requiring urgent coordinated response."
                       },
                       {
-                          "id":  13,
+                          "id":  12,
                           "question":  "\u0027Major Incident\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operational Resilience",
@@ -157,19 +145,7 @@
                           "explanation":  "Major Incident is mainly part of Operations Fundamentals."
                       },
                       {
-                          "id":  14,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Configuration Management -\u003e high-impact incident requiring urgent coordinated response",
-                                          "Runbook -\u003e high-impact incident requiring urgent coordinated response",
-                                          "Business Continuity -\u003e high-impact incident requiring urgent coordinated response",
-                                          "Major Incident -\u003e high-impact incident requiring urgent coordinated response"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Major Incident -\u003e high-impact incident requiring urgent coordinated response\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  15,
+                          "id":  13,
                           "question":  "A Bank SO IT operations requirement states: high-impact incident requiring urgent coordinated response. Which concept should be selected?",
                           "options":  [
                                           "Disaster Recovery Drill",
@@ -181,7 +157,7 @@
                           "explanation":  "The requirement directly points to Major Incident."
                       },
                       {
-                          "id":  16,
+                          "id":  14,
                           "question":  "Which IT operations concept best matches: formal user request for standard service action?",
                           "options":  [
                                           "Priority Matrix",
@@ -193,7 +169,7 @@
                           "explanation":  "Service Request is defined as: formal user request for standard service action."
                       },
                       {
-                          "id":  17,
+                          "id":  15,
                           "question":  "What is the most accurate description of \u0027Service Request\u0027?",
                           "options":  [
                                           "operations center monitoring infrastructure and network health",
@@ -205,7 +181,7 @@
                           "explanation":  "Service Request refers to: formal user request for standard service action."
                       },
                       {
-                          "id":  18,
+                          "id":  16,
                           "question":  "\u0027Service Request\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Incident Analysis and Resolution",
@@ -217,19 +193,7 @@
                           "explanation":  "Service Request is mainly part of Operations Fundamentals."
                       },
                       {
-                          "id":  19,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Service Request -\u003e formal user request for standard service action",
-                                          "On-Call Rotation -\u003e formal user request for standard service action",
-                                          "Runbook -\u003e formal user request for standard service action",
-                                          "Alert -\u003e formal user request for standard service action"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Service Request -\u003e formal user request for standard service action\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  20,
+                          "id":  17,
                           "question":  "A Bank SO IT operations requirement states: formal user request for standard service action. Which concept should be selected?",
                           "options":  [
                                           "Priority Matrix",
@@ -241,7 +205,7 @@
                           "explanation":  "The requirement directly points to Service Request."
                       },
                       {
-                          "id":  21,
+                          "id":  18,
                           "question":  "Which IT operations concept best matches: detectable occurrence with significance for service management?",
                           "options":  [
                                           "Event",
@@ -253,7 +217,7 @@
                           "explanation":  "Event is defined as: detectable occurrence with significance for service management."
                       },
                       {
-                          "id":  22,
+                          "id":  19,
                           "question":  "What is the most accurate description of \u0027Event\u0027?",
                           "options":  [
                                           "detectable occurrence with significance for service management",
@@ -265,7 +229,7 @@
                           "explanation":  "Event refers to: detectable occurrence with significance for service management."
                       },
                       {
-                          "id":  23,
+                          "id":  20,
                           "question":  "\u0027Event\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Incident Analysis and Resolution",
@@ -277,19 +241,7 @@
                           "explanation":  "Event is mainly part of Operations Fundamentals."
                       },
                       {
-                          "id":  24,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Impact -\u003e detectable occurrence with significance for service management",
-                                          "Priority Matrix -\u003e detectable occurrence with significance for service management",
-                                          "Event -\u003e detectable occurrence with significance for service management",
-                                          "Business Continuity -\u003e detectable occurrence with significance for service management"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Event -\u003e detectable occurrence with significance for service management\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  25,
+                          "id":  21,
                           "question":  "A Bank SO IT operations requirement states: detectable occurrence with significance for service management. Which concept should be selected?",
                           "options":  [
                                           "Service Level Management",
@@ -301,7 +253,7 @@
                           "explanation":  "The requirement directly points to Event."
                       },
                       {
-                          "id":  26,
+                          "id":  22,
                           "question":  "Which IT operations concept best matches: notification indicating threshold breach or abnormal condition?",
                           "options":  [
                                           "Alert",
@@ -313,7 +265,7 @@
                           "explanation":  "Alert is defined as: notification indicating threshold breach or abnormal condition."
                       },
                       {
-                          "id":  27,
+                          "id":  23,
                           "question":  "What is the most accurate description of \u0027Alert\u0027?",
                           "options":  [
                                           "notification indicating threshold breach or abnormal condition",
@@ -325,7 +277,7 @@
                           "explanation":  "Alert refers to: notification indicating threshold breach or abnormal condition."
                       },
                       {
-                          "id":  28,
+                          "id":  24,
                           "question":  "\u0027Alert\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Incident Analysis and Resolution",
@@ -337,19 +289,7 @@
                           "explanation":  "Alert is mainly part of Operations Fundamentals."
                       },
                       {
-                          "id":  29,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Runbook -\u003e notification indicating threshold breach or abnormal condition",
-                                          "Alert -\u003e notification indicating threshold breach or abnormal condition",
-                                          "Patch Management -\u003e notification indicating threshold breach or abnormal condition",
-                                          "Urgency -\u003e notification indicating threshold breach or abnormal condition"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Alert -\u003e notification indicating threshold breach or abnormal condition\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  30,
+                          "id":  25,
                           "question":  "A Bank SO IT operations requirement states: notification indicating threshold breach or abnormal condition. Which concept should be selected?",
                           "options":  [
                                           "Escalation",
@@ -361,7 +301,7 @@
                           "explanation":  "The requirement directly points to Alert."
                       },
                       {
-                          "id":  31,
+                          "id":  26,
                           "question":  "Which IT operations concept best matches: record used to track issue lifecycle and actions?",
                           "options":  [
                                           "War Room",
@@ -373,7 +313,7 @@
                           "explanation":  "Ticket is defined as: record used to track issue lifecycle and actions."
                       },
                       {
-                          "id":  32,
+                          "id":  27,
                           "question":  "What is the most accurate description of \u0027Ticket\u0027?",
                           "options":  [
                                           "failure to meet agreed service target commitments",
@@ -385,7 +325,7 @@
                           "explanation":  "Ticket refers to: record used to track issue lifecycle and actions."
                       },
                       {
-                          "id":  33,
+                          "id":  28,
                           "question":  "\u0027Ticket\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operations Fundamentals",
@@ -397,19 +337,7 @@
                           "explanation":  "Ticket is mainly part of Operations Fundamentals."
                       },
                       {
-                          "id":  34,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Change Management -\u003e record used to track issue lifecycle and actions",
-                                          "Problem Management -\u003e record used to track issue lifecycle and actions",
-                                          "Escalation -\u003e record used to track issue lifecycle and actions",
-                                          "Ticket -\u003e record used to track issue lifecycle and actions"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Ticket -\u003e record used to track issue lifecycle and actions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  35,
+                          "id":  29,
                           "question":  "A Bank SO IT operations requirement states: record used to track issue lifecycle and actions. Which concept should be selected?",
                           "options":  [
                                           "Ticket",
@@ -421,7 +349,7 @@
                           "explanation":  "The requirement directly points to Ticket."
                       },
                       {
-                          "id":  36,
+                          "id":  30,
                           "question":  "Which IT operations concept best matches: routing issue to higher support level or management?",
                           "options":  [
                                           "Priority Matrix",
@@ -433,7 +361,7 @@
                           "explanation":  "Escalation is defined as: routing issue to higher support level or management."
                       },
                       {
-                          "id":  37,
+                          "id":  31,
                           "question":  "What is the most accurate description of \u0027Escalation\u0027?",
                           "options":  [
                                           "routing issue to higher support level or management",
@@ -445,7 +373,7 @@
                           "explanation":  "Escalation refers to: routing issue to higher support level or management."
                       },
                       {
-                          "id":  38,
+                          "id":  32,
                           "question":  "\u0027Escalation\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Monitoring and Response",
@@ -457,19 +385,7 @@
                           "explanation":  "Escalation is mainly part of Operations Fundamentals."
                       },
                       {
-                          "id":  39,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "NOC -\u003e routing issue to higher support level or management",
-                                          "Availability Management -\u003e routing issue to higher support level or management",
-                                          "Escalation -\u003e routing issue to higher support level or management",
-                                          "Status Page -\u003e routing issue to higher support level or management"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Escalation -\u003e routing issue to higher support level or management\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  40,
+                          "id":  33,
                           "question":  "A Bank SO IT operations requirement states: routing issue to higher support level or management. Which concept should be selected?",
                           "options":  [
                                           "Problem Management",
@@ -481,7 +397,7 @@
                           "explanation":  "The requirement directly points to Escalation."
                       },
                       {
-                          "id":  41,
+                          "id":  34,
                           "question":  "Which IT operations concept best matches: documented procedural steps for routine operational tasks?",
                           "options":  [
                                           "Availability Management",
@@ -493,7 +409,7 @@
                           "explanation":  "Runbook is defined as: documented procedural steps for routine operational tasks."
                       },
                       {
-                          "id":  42,
+                          "id":  35,
                           "question":  "What is the most accurate description of \u0027Runbook\u0027?",
                           "options":  [
                                           "process ensuring infrastructure meets current and future demand",
@@ -505,7 +421,7 @@
                           "explanation":  "Runbook refers to: documented procedural steps for routine operational tasks."
                       },
                       {
-                          "id":  43,
+                          "id":  36,
                           "question":  "\u0027Runbook\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "ITIL Processes",
@@ -517,19 +433,7 @@
                           "explanation":  "Runbook is mainly part of Operations Fundamentals."
                       },
                       {
-                          "id":  44,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Runbook -\u003e documented procedural steps for routine operational tasks",
-                                          "Capacity Management -\u003e documented procedural steps for routine operational tasks",
-                                          "Problem Management -\u003e documented procedural steps for routine operational tasks",
-                                          "Escalation -\u003e documented procedural steps for routine operational tasks"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Runbook -\u003e documented procedural steps for routine operational tasks\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  45,
+                          "id":  37,
                           "question":  "A Bank SO IT operations requirement states: documented procedural steps for routine operational tasks. Which concept should be selected?",
                           "options":  [
                                           "Capacity Management",
@@ -541,7 +445,7 @@
                           "explanation":  "The requirement directly points to Runbook."
                       },
                       {
-                          "id":  46,
+                          "id":  38,
                           "question":  "Which IT operations concept best matches: standard operating procedure for consistent execution of tasks?",
                           "options":  [
                                           "SLA Breach",
@@ -553,7 +457,7 @@
                           "explanation":  "SOP is defined as: standard operating procedure for consistent execution of tasks."
                       },
                       {
-                          "id":  47,
+                          "id":  39,
                           "question":  "What is the most accurate description of \u0027SOP\u0027?",
                           "options":  [
                                           "standard operating procedure for consistent execution of tasks",
@@ -565,7 +469,7 @@
                           "explanation":  "SOP refers to: standard operating procedure for consistent execution of tasks."
                       },
                       {
-                          "id":  48,
+                          "id":  40,
                           "question":  "\u0027SOP\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operations Fundamentals",
@@ -577,19 +481,7 @@
                           "explanation":  "SOP is mainly part of Operations Fundamentals."
                       },
                       {
-                          "id":  49,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "RTO -\u003e standard operating procedure for consistent execution of tasks",
-                                          "SOP -\u003e standard operating procedure for consistent execution of tasks",
-                                          "Event -\u003e standard operating procedure for consistent execution of tasks",
-                                          "Incident Management -\u003e standard operating procedure for consistent execution of tasks"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027SOP -\u003e standard operating procedure for consistent execution of tasks\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  50,
+                          "id":  41,
                           "question":  "A Bank SO IT operations requirement states: standard operating procedure for consistent execution of tasks. Which concept should be selected?",
                           "options":  [
                                           "Risk Register",
@@ -601,7 +493,7 @@
                           "explanation":  "The requirement directly points to SOP."
                       },
                       {
-                          "id":  51,
+                          "id":  42,
                           "question":  "Which IT operations concept best matches: process to restore normal service quickly after disruption?",
                           "options":  [
                                           "MTTR",
@@ -613,7 +505,7 @@
                           "explanation":  "Incident Management is defined as: process to restore normal service quickly after disruption."
                       },
                       {
-                          "id":  52,
+                          "id":  43,
                           "question":  "What is the most accurate description of \u0027Incident Management\u0027?",
                           "options":  [
                                           "centralized collection and indexing of log data",
@@ -625,7 +517,7 @@
                           "explanation":  "Incident Management refers to: process to restore normal service quickly after disruption."
                       },
                       {
-                          "id":  53,
+                          "id":  44,
                           "question":  "\u0027Incident Management\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "ITIL Processes",
@@ -637,19 +529,7 @@
                           "explanation":  "Incident Management is mainly part of ITIL Processes."
                       },
                       {
-                          "id":  54,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Runbook -\u003e process to restore normal service quickly after disruption",
-                                          "SOP -\u003e process to restore normal service quickly after disruption",
-                                          "Incident Management -\u003e process to restore normal service quickly after disruption",
-                                          "Configuration Management -\u003e process to restore normal service quickly after disruption"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Incident Management -\u003e process to restore normal service quickly after disruption\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  55,
+                          "id":  45,
                           "question":  "A Bank SO IT operations requirement states: process to restore normal service quickly after disruption. Which concept should be selected?",
                           "options":  [
                                           "Knowledge Management",
@@ -661,7 +541,7 @@
                           "explanation":  "The requirement directly points to Incident Management."
                       },
                       {
-                          "id":  56,
+                          "id":  46,
                           "question":  "Which IT operations concept best matches: process focused on identifying and removing root causes?",
                           "options":  [
                                           "Log Aggregation",
@@ -673,7 +553,7 @@
                           "explanation":  "Problem Management is defined as: process focused on identifying and removing root causes."
                       },
                       {
-                          "id":  57,
+                          "id":  47,
                           "question":  "What is the most accurate description of \u0027Problem Management\u0027?",
                           "options":  [
                                           "architecture minimizing downtime through redundancy and failover",
@@ -685,7 +565,7 @@
                           "explanation":  "Problem Management refers to: process focused on identifying and removing root causes."
                       },
                       {
-                          "id":  58,
+                          "id":  48,
                           "question":  "\u0027Problem Management\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "ITIL Processes",
@@ -697,19 +577,7 @@
                           "explanation":  "Problem Management is mainly part of ITIL Processes."
                       },
                       {
-                          "id":  59,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "RCA -\u003e process focused on identifying and removing root causes",
-                                          "MTTR -\u003e process focused on identifying and removing root causes",
-                                          "Event -\u003e process focused on identifying and removing root causes",
-                                          "Problem Management -\u003e process focused on identifying and removing root causes"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Problem Management -\u003e process focused on identifying and removing root causes\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  60,
+                          "id":  49,
                           "question":  "A Bank SO IT operations requirement states: process focused on identifying and removing root causes. Which concept should be selected?",
                           "options":  [
                                           "Log Aggregation",
@@ -721,7 +589,7 @@
                           "explanation":  "The requirement directly points to Problem Management."
                       },
                       {
-                          "id":  61,
+                          "id":  50,
                           "question":  "Which IT operations concept best matches: process controlling lifecycle of production changes?",
                           "options":  [
                                           "Workaround",
@@ -733,7 +601,7 @@
                           "explanation":  "Change Management is defined as: process controlling lifecycle of production changes."
                       },
                       {
-                          "id":  62,
+                          "id":  51,
                           "question":  "What is the most accurate description of \u0027Change Management\u0027?",
                           "options":  [
                                           "root cause analysis method to identify underlying issue reason",
@@ -745,7 +613,7 @@
                           "explanation":  "Change Management refers to: process controlling lifecycle of production changes."
                       },
                       {
-                          "id":  63,
+                          "id":  52,
                           "question":  "\u0027Change Management\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Monitoring and Response",
@@ -757,19 +625,7 @@
                           "explanation":  "Change Management is mainly part of ITIL Processes."
                       },
                       {
-                          "id":  64,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Change Management -\u003e process controlling lifecycle of production changes",
-                                          "APM -\u003e process controlling lifecycle of production changes",
-                                          "On-Call Rotation -\u003e process controlling lifecycle of production changes",
-                                          "Bridge Call -\u003e process controlling lifecycle of production changes"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Change Management -\u003e process controlling lifecycle of production changes\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  65,
+                          "id":  53,
                           "question":  "A Bank SO IT operations requirement states: process controlling lifecycle of production changes. Which concept should be selected?",
                           "options":  [
                                           "Workaround",
@@ -781,7 +637,7 @@
                           "explanation":  "The requirement directly points to Change Management."
                       },
                       {
-                          "id":  66,
+                          "id":  54,
                           "question":  "Which IT operations concept best matches: process planning and controlling software/service releases?",
                           "options":  [
                                           "Priority Matrix",
@@ -793,7 +649,7 @@
                           "explanation":  "Release Management is defined as: process planning and controlling software/service releases."
                       },
                       {
-                          "id":  67,
+                          "id":  55,
                           "question":  "What is the most accurate description of \u0027Release Management\u0027?",
                           "options":  [
                                           "high-impact incident requiring urgent coordinated response",
@@ -805,7 +661,7 @@
                           "explanation":  "Release Management refers to: process planning and controlling software/service releases."
                       },
                       {
-                          "id":  68,
+                          "id":  56,
                           "question":  "\u0027Release Management\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operational Resilience",
@@ -817,19 +673,7 @@
                           "explanation":  "Release Management is mainly part of ITIL Processes."
                       },
                       {
-                          "id":  69,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Log Aggregation -\u003e process planning and controlling software/service releases",
-                                          "Release Management -\u003e process planning and controlling software/service releases",
-                                          "RTO -\u003e process planning and controlling software/service releases",
-                                          "RCA -\u003e process planning and controlling software/service releases"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Release Management -\u003e process planning and controlling software/service releases\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  70,
+                          "id":  57,
                           "question":  "A Bank SO IT operations requirement states: process planning and controlling software/service releases. Which concept should be selected?",
                           "options":  [
                                           "Priority Matrix",
@@ -841,7 +685,7 @@
                           "explanation":  "The requirement directly points to Release Management."
                       },
                       {
-                          "id":  71,
+                          "id":  58,
                           "question":  "Which IT operations concept best matches: process maintaining accurate IT asset and relationship data?",
                           "options":  [
                                           "Configuration Management",
@@ -853,7 +697,7 @@
                           "explanation":  "Configuration Management is defined as: process maintaining accurate IT asset and relationship data."
                       },
                       {
-                          "id":  72,
+                          "id":  59,
                           "question":  "What is the most accurate description of \u0027Configuration Management\u0027?",
                           "options":  [
                                           "regular validation that backups are complete and restorable",
@@ -865,7 +709,7 @@
                           "explanation":  "Configuration Management refers to: process maintaining accurate IT asset and relationship data."
                       },
                       {
-                          "id":  73,
+                          "id":  60,
                           "question":  "\u0027Configuration Management\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Incident Analysis and Resolution",
@@ -877,19 +721,7 @@
                           "explanation":  "Configuration Management is mainly part of ITIL Processes."
                       },
                       {
-                          "id":  74,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Configuration Management -\u003e process maintaining accurate IT asset and relationship data",
-                                          "Business Continuity -\u003e process maintaining accurate IT asset and relationship data",
-                                          "Incident Management -\u003e process maintaining accurate IT asset and relationship data",
-                                          "Disaster Recovery Drill -\u003e process maintaining accurate IT asset and relationship data"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Configuration Management -\u003e process maintaining accurate IT asset and relationship data\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  75,
+                          "id":  61,
                           "question":  "A Bank SO IT operations requirement states: process maintaining accurate IT asset and relationship data. Which concept should be selected?",
                           "options":  [
                                           "Event",
@@ -901,7 +733,7 @@
                           "explanation":  "The requirement directly points to Configuration Management."
                       },
                       {
-                          "id":  76,
+                          "id":  62,
                           "question":  "Which IT operations concept best matches: process defining and monitoring service targets?",
                           "options":  [
                                           "Impact",
@@ -913,7 +745,7 @@
                           "explanation":  "Service Level Management is defined as: process defining and monitoring service targets."
                       },
                       {
-                          "id":  77,
+                          "id":  63,
                           "question":  "What is the most accurate description of \u0027Service Level Management\u0027?",
                           "options":  [
                                           "process defining and monitoring service targets",
@@ -925,7 +757,7 @@
                           "explanation":  "Service Level Management refers to: process defining and monitoring service targets."
                       },
                       {
-                          "id":  78,
+                          "id":  64,
                           "question":  "\u0027Service Level Management\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Incident Analysis and Resolution",
@@ -937,19 +769,7 @@
                           "explanation":  "Service Level Management is mainly part of ITIL Processes."
                       },
                       {
-                          "id":  79,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Service Level Management -\u003e process defining and monitoring service targets",
-                                          "Patch Management -\u003e process defining and monitoring service targets",
-                                          "Ticket -\u003e process defining and monitoring service targets",
-                                          "Post Incident Review -\u003e process defining and monitoring service targets"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Service Level Management -\u003e process defining and monitoring service targets\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  80,
+                          "id":  65,
                           "question":  "A Bank SO IT operations requirement states: process defining and monitoring service targets. Which concept should be selected?",
                           "options":  [
                                           "Impact",
@@ -961,7 +781,7 @@
                           "explanation":  "The requirement directly points to Service Level Management."
                       },
                       {
-                          "id":  81,
+                          "id":  66,
                           "question":  "Which IT operations concept best matches: process ensuring infrastructure meets current and future demand?",
                           "options":  [
                                           "Capacity Management",
@@ -973,7 +793,7 @@
                           "explanation":  "Capacity Management is defined as: process ensuring infrastructure meets current and future demand."
                       },
                       {
-                          "id":  82,
+                          "id":  67,
                           "question":  "What is the most accurate description of \u0027Capacity Management\u0027?",
                           "options":  [
                                           "activities that ensure stable and efficient IT service delivery",
@@ -985,7 +805,7 @@
                           "explanation":  "Capacity Management refers to: process ensuring infrastructure meets current and future demand."
                       },
                       {
-                          "id":  83,
+                          "id":  68,
                           "question":  "\u0027Capacity Management\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "ITIL Processes",
@@ -997,19 +817,7 @@
                           "explanation":  "Capacity Management is mainly part of ITIL Processes."
                       },
                       {
-                          "id":  84,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Workaround -\u003e process ensuring infrastructure meets current and future demand",
-                                          "Backup Verification -\u003e process ensuring infrastructure meets current and future demand",
-                                          "Capacity Management -\u003e process ensuring infrastructure meets current and future demand",
-                                          "Change Management -\u003e process ensuring infrastructure meets current and future demand"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Capacity Management -\u003e process ensuring infrastructure meets current and future demand\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  85,
+                          "id":  69,
                           "question":  "A Bank SO IT operations requirement states: process ensuring infrastructure meets current and future demand. Which concept should be selected?",
                           "options":  [
                                           "RTO",
@@ -1021,7 +829,7 @@
                           "explanation":  "The requirement directly points to Capacity Management."
                       },
                       {
-                          "id":  86,
+                          "id":  70,
                           "question":  "Which IT operations concept best matches: process maximizing service uptime and resilience?",
                           "options":  [
                                           "APM",
@@ -1033,7 +841,7 @@
                           "explanation":  "Availability Management is defined as: process maximizing service uptime and resilience."
                       },
                       {
-                          "id":  87,
+                          "id":  71,
                           "question":  "What is the most accurate description of \u0027Availability Management\u0027?",
                           "options":  [
                                           "detectable occurrence with significance for service management",
@@ -1045,7 +853,7 @@
                           "explanation":  "Availability Management refers to: process maximizing service uptime and resilience."
                       },
                       {
-                          "id":  88,
+                          "id":  72,
                           "question":  "\u0027Availability Management\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operations Fundamentals",
@@ -1057,19 +865,7 @@
                           "explanation":  "Availability Management is mainly part of ITIL Processes."
                       },
                       {
-                          "id":  89,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Backup Verification -\u003e process maximizing service uptime and resilience",
-                                          "Priority Matrix -\u003e process maximizing service uptime and resilience",
-                                          "Availability Management -\u003e process maximizing service uptime and resilience",
-                                          "Service Request -\u003e process maximizing service uptime and resilience"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Availability Management -\u003e process maximizing service uptime and resilience\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  90,
+                          "id":  73,
                           "question":  "A Bank SO IT operations requirement states: process maximizing service uptime and resilience. Which concept should be selected?",
                           "options":  [
                                           "On-Call Rotation",
@@ -1081,7 +877,7 @@
                           "explanation":  "The requirement directly points to Availability Management."
                       },
                       {
-                          "id":  91,
+                          "id":  74,
                           "question":  "Which IT operations concept best matches: process preparing services for disaster scenarios?",
                           "options":  [
                                           "Capacity Planning",
@@ -1093,7 +889,7 @@
                           "explanation":  "IT Service Continuity Management is defined as: process preparing services for disaster scenarios."
                       },
                       {
-                          "id":  92,
+                          "id":  75,
                           "question":  "What is the most accurate description of \u0027IT Service Continuity Management\u0027?",
                           "options":  [
                                           "maximum acceptable time to restore critical service",
@@ -1105,7 +901,7 @@
                           "explanation":  "IT Service Continuity Management refers to: process preparing services for disaster scenarios."
                       },
                       {
-                          "id":  93,
+                          "id":  76,
                           "question":  "\u0027IT Service Continuity Management\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operational Resilience",
@@ -1117,19 +913,7 @@
                           "explanation":  "IT Service Continuity Management is mainly part of ITIL Processes."
                       },
                       {
-                          "id":  94,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Capacity Planning -\u003e process preparing services for disaster scenarios",
-                                          "IT Service Continuity Management -\u003e process preparing services for disaster scenarios",
-                                          "SOP -\u003e process preparing services for disaster scenarios",
-                                          "IT Operations -\u003e process preparing services for disaster scenarios"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027IT Service Continuity Management -\u003e process preparing services for disaster scenarios\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  95,
+                          "id":  77,
                           "question":  "A Bank SO IT operations requirement states: process preparing services for disaster scenarios. Which concept should be selected?",
                           "options":  [
                                           "Capacity Planning",
@@ -1141,7 +925,7 @@
                           "explanation":  "The requirement directly points to IT Service Continuity Management."
                       },
                       {
-                          "id":  96,
+                          "id":  78,
                           "question":  "Which IT operations concept best matches: process capturing and reusing operational knowledge articles?",
                           "options":  [
                                           "MTTD",
@@ -1153,7 +937,7 @@
                           "explanation":  "Knowledge Management is defined as: process capturing and reusing operational knowledge articles."
                       },
                       {
-                          "id":  97,
+                          "id":  79,
                           "question":  "What is the most accurate description of \u0027Knowledge Management\u0027?",
                           "options":  [
                                           "real-time conference for incident troubleshooting coordination",
@@ -1165,7 +949,7 @@
                           "explanation":  "Knowledge Management refers to: process capturing and reusing operational knowledge articles."
                       },
                       {
-                          "id":  98,
+                          "id":  80,
                           "question":  "\u0027Knowledge Management\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "ITIL Processes",
@@ -1177,19 +961,7 @@
                           "explanation":  "Knowledge Management is mainly part of ITIL Processes."
                       },
                       {
-                          "id":  99,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Release Management -\u003e process capturing and reusing operational knowledge articles",
-                                          "Knowledge Management -\u003e process capturing and reusing operational knowledge articles",
-                                          "MTTD -\u003e process capturing and reusing operational knowledge articles",
-                                          "Priority Matrix -\u003e process capturing and reusing operational knowledge articles"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Knowledge Management -\u003e process capturing and reusing operational knowledge articles\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  100,
+                          "id":  81,
                           "question":  "A Bank SO IT operations requirement states: process capturing and reusing operational knowledge articles. Which concept should be selected?",
                           "options":  [
                                           "Post Incident Review",
@@ -1201,7 +973,7 @@
                           "explanation":  "The requirement directly points to Knowledge Management."
                       },
                       {
-                          "id":  101,
+                          "id":  82,
                           "question":  "Which IT operations concept best matches: root cause analysis method to identify underlying issue reason?",
                           "options":  [
                                           "Observability",
@@ -1213,7 +985,7 @@
                           "explanation":  "RCA is defined as: root cause analysis method to identify underlying issue reason."
                       },
                       {
-                          "id":  102,
+                          "id":  83,
                           "question":  "What is the most accurate description of \u0027RCA\u0027?",
                           "options":  [
                                           "activities that ensure stable and efficient IT service delivery",
@@ -1225,7 +997,7 @@
                           "explanation":  "RCA refers to: root cause analysis method to identify underlying issue reason."
                       },
                       {
-                          "id":  103,
+                          "id":  84,
                           "question":  "\u0027RCA\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "ITIL Processes",
@@ -1237,19 +1009,7 @@
                           "explanation":  "RCA is mainly part of Incident Analysis and Resolution."
                       },
                       {
-                          "id":  104,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "MTTR -\u003e root cause analysis method to identify underlying issue reason",
-                                          "On-Call Rotation -\u003e root cause analysis method to identify underlying issue reason",
-                                          "RCA -\u003e root cause analysis method to identify underlying issue reason",
-                                          "RTO -\u003e root cause analysis method to identify underlying issue reason"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027RCA -\u003e root cause analysis method to identify underlying issue reason\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  105,
+                          "id":  85,
                           "question":  "A Bank SO IT operations requirement states: root cause analysis method to identify underlying issue reason. Which concept should be selected?",
                           "options":  [
                                           "SLA Breach",
@@ -1261,7 +1021,7 @@
                           "explanation":  "The requirement directly points to RCA."
                       },
                       {
-                          "id":  106,
+                          "id":  86,
                           "question":  "Which IT operations concept best matches: documented problem with identified root cause and workaround?",
                           "options":  [
                                           "Disaster Recovery Drill",
@@ -1273,7 +1033,7 @@
                           "explanation":  "Known Error is defined as: documented problem with identified root cause and workaround."
                       },
                       {
-                          "id":  107,
+                          "id":  87,
                           "question":  "What is the most accurate description of \u0027Known Error\u0027?",
                           "options":  [
                                           "dedicated coordination channel during major incidents",
@@ -1285,7 +1045,7 @@
                           "explanation":  "Known Error refers to: documented problem with identified root cause and workaround."
                       },
                       {
-                          "id":  108,
+                          "id":  88,
                           "question":  "\u0027Known Error\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Incident Analysis and Resolution",
@@ -1297,19 +1057,7 @@
                           "explanation":  "Known Error is mainly part of Incident Analysis and Resolution."
                       },
                       {
-                          "id":  109,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Configuration Management -\u003e documented problem with identified root cause and workaround",
-                                          "Known Error -\u003e documented problem with identified root cause and workaround",
-                                          "Business Continuity -\u003e documented problem with identified root cause and workaround",
-                                          "SOP -\u003e documented problem with identified root cause and workaround"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Known Error -\u003e documented problem with identified root cause and workaround\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  110,
+                          "id":  89,
                           "question":  "A Bank SO IT operations requirement states: documented problem with identified root cause and workaround. Which concept should be selected?",
                           "options":  [
                                           "Event",
@@ -1321,7 +1069,7 @@
                           "explanation":  "The requirement directly points to Known Error."
                       },
                       {
-                          "id":  111,
+                          "id":  90,
                           "question":  "Which IT operations concept best matches: temporary measure reducing impact before permanent fix?",
                           "options":  [
                                           "Observability",
@@ -1333,7 +1081,7 @@
                           "explanation":  "Workaround is defined as: temporary measure reducing impact before permanent fix."
                       },
                       {
-                          "id":  112,
+                          "id":  91,
                           "question":  "What is the most accurate description of \u0027Workaround\u0027?",
                           "options":  [
                                           "temporary measure reducing impact before permanent fix",
@@ -1345,7 +1093,7 @@
                           "explanation":  "Workaround refers to: temporary measure reducing impact before permanent fix."
                       },
                       {
-                          "id":  113,
+                          "id":  92,
                           "question":  "\u0027Workaround\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operations Fundamentals",
@@ -1357,19 +1105,7 @@
                           "explanation":  "Workaround is mainly part of Incident Analysis and Resolution."
                       },
                       {
-                          "id":  114,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Status Page -\u003e temporary measure reducing impact before permanent fix",
-                                          "Workaround -\u003e temporary measure reducing impact before permanent fix",
-                                          "Log Aggregation -\u003e temporary measure reducing impact before permanent fix",
-                                          "IT Operations -\u003e temporary measure reducing impact before permanent fix"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Workaround -\u003e temporary measure reducing impact before permanent fix\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  115,
+                          "id":  93,
                           "question":  "A Bank SO IT operations requirement states: temporary measure reducing impact before permanent fix. Which concept should be selected?",
                           "options":  [
                                           "Workaround",
@@ -1381,7 +1117,7 @@
                           "explanation":  "The requirement directly points to Workaround."
                       },
                       {
-                          "id":  116,
+                          "id":  94,
                           "question":  "Which IT operations concept best matches: mean time to restore service after incident?",
                           "options":  [
                                           "Failover",
@@ -1393,7 +1129,7 @@
                           "explanation":  "MTTR is defined as: mean time to restore service after incident."
                       },
                       {
-                          "id":  117,
+                          "id":  95,
                           "question":  "What is the most accurate description of \u0027MTTR\u0027?",
                           "options":  [
                                           "ability to maintain critical operations during disruptions",
@@ -1405,7 +1141,7 @@
                           "explanation":  "MTTR refers to: mean time to restore service after incident."
                       },
                       {
-                          "id":  118,
+                          "id":  96,
                           "question":  "\u0027MTTR\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "ITIL Processes",
@@ -1417,19 +1153,7 @@
                           "explanation":  "MTTR is mainly part of Incident Analysis and Resolution."
                       },
                       {
-                          "id":  119,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Workaround -\u003e mean time to restore service after incident",
-                                          "SOC -\u003e mean time to restore service after incident",
-                                          "Release Management -\u003e mean time to restore service after incident",
-                                          "MTTR -\u003e mean time to restore service after incident"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027MTTR -\u003e mean time to restore service after incident\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  120,
+                          "id":  97,
                           "question":  "A Bank SO IT operations requirement states: mean time to restore service after incident. Which concept should be selected?",
                           "options":  [
                                           "Failover",
@@ -1441,7 +1165,7 @@
                           "explanation":  "The requirement directly points to MTTR."
                       },
                       {
-                          "id":  121,
+                          "id":  98,
                           "question":  "Which IT operations concept best matches: mean time to detect incident occurrence?",
                           "options":  [
                                           "MTTD",
@@ -1453,7 +1177,7 @@
                           "explanation":  "MTTD is defined as: mean time to detect incident occurrence."
                       },
                       {
-                          "id":  122,
+                          "id":  99,
                           "question":  "What is the most accurate description of \u0027MTTD\u0027?",
                           "options":  [
                                           "mean time to detect incident occurrence",
@@ -1465,7 +1189,7 @@
                           "explanation":  "MTTD refers to: mean time to detect incident occurrence."
                       },
                       {
-                          "id":  123,
+                          "id":  100,
                           "question":  "\u0027MTTD\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operational Resilience",
@@ -1477,19 +1201,7 @@
                           "explanation":  "MTTD is mainly part of Incident Analysis and Resolution."
                       },
                       {
-                          "id":  124,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Synthetic Monitoring -\u003e mean time to detect incident occurrence",
-                                          "SOC -\u003e mean time to detect incident occurrence",
-                                          "RTO -\u003e mean time to detect incident occurrence",
-                                          "MTTD -\u003e mean time to detect incident occurrence"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027MTTD -\u003e mean time to detect incident occurrence\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  125,
+                          "id":  101,
                           "question":  "A Bank SO IT operations requirement states: mean time to detect incident occurrence. Which concept should be selected?",
                           "options":  [
                                           "MTTD",
@@ -1501,7 +1213,7 @@
                           "explanation":  "The requirement directly points to MTTD."
                       },
                       {
-                          "id":  126,
+                          "id":  102,
                           "question":  "Which IT operations concept best matches: failure to meet agreed service target commitments?",
                           "options":  [
                                           "SLA Breach",
@@ -1513,7 +1225,7 @@
                           "explanation":  "SLA Breach is defined as: failure to meet agreed service target commitments."
                       },
                       {
-                          "id":  127,
+                          "id":  103,
                           "question":  "What is the most accurate description of \u0027SLA Breach\u0027?",
                           "options":  [
                                           "process ensuring infrastructure meets current and future demand",
@@ -1525,7 +1237,7 @@
                           "explanation":  "SLA Breach refers to: failure to meet agreed service target commitments."
                       },
                       {
-                          "id":  128,
+                          "id":  104,
                           "question":  "\u0027SLA Breach\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operational Resilience",
@@ -1537,19 +1249,7 @@
                           "explanation":  "SLA Breach is mainly part of Incident Analysis and Resolution."
                       },
                       {
-                          "id":  129,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "IT Operations -\u003e failure to meet agreed service target commitments",
-                                          "SLA Breach -\u003e failure to meet agreed service target commitments",
-                                          "Backup Verification -\u003e failure to meet agreed service target commitments",
-                                          "Knowledge Management -\u003e failure to meet agreed service target commitments"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027SLA Breach -\u003e failure to meet agreed service target commitments\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  130,
+                          "id":  105,
                           "question":  "A Bank SO IT operations requirement states: failure to meet agreed service target commitments. Which concept should be selected?",
                           "options":  [
                                           "High Availability",
@@ -1561,7 +1261,7 @@
                           "explanation":  "The requirement directly points to SLA Breach."
                       },
                       {
-                          "id":  131,
+                          "id":  106,
                           "question":  "Which IT operations concept best matches: extent of business effect caused by an incident?",
                           "options":  [
                                           "Impact",
@@ -1573,7 +1273,7 @@
                           "explanation":  "Impact is defined as: extent of business effect caused by an incident."
                       },
                       {
-                          "id":  132,
+                          "id":  107,
                           "question":  "What is the most accurate description of \u0027Impact\u0027?",
                           "options":  [
                                           "security operations center monitoring cyber threats and incidents",
@@ -1585,7 +1285,7 @@
                           "explanation":  "Impact refers to: extent of business effect caused by an incident."
                       },
                       {
-                          "id":  133,
+                          "id":  108,
                           "question":  "\u0027Impact\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "ITIL Processes",
@@ -1597,19 +1297,7 @@
                           "explanation":  "Impact is mainly part of Incident Analysis and Resolution."
                       },
                       {
-                          "id":  134,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Knowledge Management -\u003e extent of business effect caused by an incident",
-                                          "APM -\u003e extent of business effect caused by an incident",
-                                          "Impact -\u003e extent of business effect caused by an incident",
-                                          "Workaround -\u003e extent of business effect caused by an incident"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Impact -\u003e extent of business effect caused by an incident\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  135,
+                          "id":  109,
                           "question":  "A Bank SO IT operations requirement states: extent of business effect caused by an incident. Which concept should be selected?",
                           "options":  [
                                           "Impact",
@@ -1621,7 +1309,7 @@
                           "explanation":  "The requirement directly points to Impact."
                       },
                       {
-                          "id":  136,
+                          "id":  110,
                           "question":  "Which IT operations concept best matches: speed at which incident resolution is required?",
                           "options":  [
                                           "RCA",
@@ -1633,7 +1321,7 @@
                           "explanation":  "Urgency is defined as: speed at which incident resolution is required."
                       },
                       {
-                          "id":  137,
+                          "id":  111,
                           "question":  "What is the most accurate description of \u0027Urgency\u0027?",
                           "options":  [
                                           "failure to meet agreed service target commitments",
@@ -1645,7 +1333,7 @@
                           "explanation":  "Urgency refers to: speed at which incident resolution is required."
                       },
                       {
-                          "id":  138,
+                          "id":  112,
                           "question":  "\u0027Urgency\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "ITIL Processes",
@@ -1657,19 +1345,7 @@
                           "explanation":  "Urgency is mainly part of Incident Analysis and Resolution."
                       },
                       {
-                          "id":  139,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Urgency -\u003e speed at which incident resolution is required",
-                                          "Capacity Planning -\u003e speed at which incident resolution is required",
-                                          "NOC -\u003e speed at which incident resolution is required",
-                                          "Capacity Management -\u003e speed at which incident resolution is required"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Urgency -\u003e speed at which incident resolution is required\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  140,
+                          "id":  113,
                           "question":  "A Bank SO IT operations requirement states: speed at which incident resolution is required. Which concept should be selected?",
                           "options":  [
                                           "Urgency",
@@ -1681,7 +1357,7 @@
                           "explanation":  "The requirement directly points to Urgency."
                       },
                       {
-                          "id":  141,
+                          "id":  114,
                           "question":  "Which IT operations concept best matches: model deriving incident priority from impact and urgency?",
                           "options":  [
                                           "Disaster Recovery Drill",
@@ -1693,7 +1369,7 @@
                           "explanation":  "Priority Matrix is defined as: model deriving incident priority from impact and urgency."
                       },
                       {
-                          "id":  142,
+                          "id":  115,
                           "question":  "What is the most accurate description of \u0027Priority Matrix\u0027?",
                           "options":  [
                                           "maximum acceptable time to restore critical service",
@@ -1705,7 +1381,7 @@
                           "explanation":  "Priority Matrix refers to: model deriving incident priority from impact and urgency."
                       },
                       {
-                          "id":  143,
+                          "id":  116,
                           "question":  "\u0027Priority Matrix\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Incident Analysis and Resolution",
@@ -1717,19 +1393,7 @@
                           "explanation":  "Priority Matrix is mainly part of Incident Analysis and Resolution."
                       },
                       {
-                          "id":  144,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Capacity Planning -\u003e model deriving incident priority from impact and urgency",
-                                          "SOC -\u003e model deriving incident priority from impact and urgency",
-                                          "Incident -\u003e model deriving incident priority from impact and urgency",
-                                          "Priority Matrix -\u003e model deriving incident priority from impact and urgency"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Priority Matrix -\u003e model deriving incident priority from impact and urgency\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  145,
+                          "id":  117,
                           "question":  "A Bank SO IT operations requirement states: model deriving incident priority from impact and urgency. Which concept should be selected?",
                           "options":  [
                                           "Disaster Recovery Drill",
@@ -1741,7 +1405,7 @@
                           "explanation":  "The requirement directly points to Priority Matrix."
                       },
                       {
-                          "id":  146,
+                          "id":  118,
                           "question":  "Which IT operations concept best matches: structured review after closure to capture lessons learned?",
                           "options":  [
                                           "NOC",
@@ -1753,7 +1417,7 @@
                           "explanation":  "Post Incident Review is defined as: structured review after closure to capture lessons learned."
                       },
                       {
-                          "id":  147,
+                          "id":  119,
                           "question":  "What is the most accurate description of \u0027Post Incident Review\u0027?",
                           "options":  [
                                           "structured review after closure to capture lessons learned",
@@ -1765,7 +1429,7 @@
                           "explanation":  "Post Incident Review refers to: structured review after closure to capture lessons learned."
                       },
                       {
-                          "id":  148,
+                          "id":  120,
                           "question":  "\u0027Post Incident Review\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Incident Analysis and Resolution",
@@ -1777,19 +1441,7 @@
                           "explanation":  "Post Incident Review is mainly part of Incident Analysis and Resolution."
                       },
                       {
-                          "id":  149,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Release Management -\u003e structured review after closure to capture lessons learned",
-                                          "Availability Management -\u003e structured review after closure to capture lessons learned",
-                                          "Post Incident Review -\u003e structured review after closure to capture lessons learned",
-                                          "Event -\u003e structured review after closure to capture lessons learned"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Post Incident Review -\u003e structured review after closure to capture lessons learned\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  150,
+                          "id":  121,
                           "question":  "A Bank SO IT operations requirement states: structured review after closure to capture lessons learned. Which concept should be selected?",
                           "options":  [
                                           "Post Incident Review",
@@ -1801,7 +1453,7 @@
                           "explanation":  "The requirement directly points to Post Incident Review."
                       },
                       {
-                          "id":  151,
+                          "id":  122,
                           "question":  "Which IT operations concept best matches: operations center monitoring infrastructure and network health?",
                           "options":  [
                                           "Urgency",
@@ -1813,7 +1465,7 @@
                           "explanation":  "NOC is defined as: operations center monitoring infrastructure and network health."
                       },
                       {
-                          "id":  152,
+                          "id":  123,
                           "question":  "What is the most accurate description of \u0027NOC\u0027?",
                           "options":  [
                                           "routing issue to higher support level or management",
@@ -1825,7 +1477,7 @@
                           "explanation":  "NOC refers to: operations center monitoring infrastructure and network health."
                       },
                       {
-                          "id":  153,
+                          "id":  124,
                           "question":  "\u0027NOC\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operations Fundamentals",
@@ -1837,19 +1489,7 @@
                           "explanation":  "NOC is mainly part of Monitoring and Response."
                       },
                       {
-                          "id":  154,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "NOC -\u003e operations center monitoring infrastructure and network health",
-                                          "Post Incident Review -\u003e operations center monitoring infrastructure and network health",
-                                          "Incident Management -\u003e operations center monitoring infrastructure and network health",
-                                          "Change Management -\u003e operations center monitoring infrastructure and network health"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027NOC -\u003e operations center monitoring infrastructure and network health\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  155,
+                          "id":  125,
                           "question":  "A Bank SO IT operations requirement states: operations center monitoring infrastructure and network health. Which concept should be selected?",
                           "options":  [
                                           "IT Service Continuity Management",
@@ -1861,7 +1501,7 @@
                           "explanation":  "The requirement directly points to NOC."
                       },
                       {
-                          "id":  156,
+                          "id":  126,
                           "question":  "Which IT operations concept best matches: security operations center monitoring cyber threats and incidents?",
                           "options":  [
                                           "Service Request",
@@ -1873,7 +1513,7 @@
                           "explanation":  "SOC is defined as: security operations center monitoring cyber threats and incidents."
                       },
                       {
-                          "id":  157,
+                          "id":  127,
                           "question":  "What is the most accurate description of \u0027SOC\u0027?",
                           "options":  [
                                           "proactive scripted checks simulating user transactions",
@@ -1885,7 +1525,7 @@
                           "explanation":  "SOC refers to: security operations center monitoring cyber threats and incidents."
                       },
                       {
-                          "id":  158,
+                          "id":  128,
                           "question":  "\u0027SOC\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operational Resilience",
@@ -1897,19 +1537,7 @@
                           "explanation":  "SOC is mainly part of Monitoring and Response."
                       },
                       {
-                          "id":  159,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "SOC -\u003e security operations center monitoring cyber threats and incidents",
-                                          "RPO -\u003e security operations center monitoring cyber threats and incidents",
-                                          "Major Incident -\u003e security operations center monitoring cyber threats and incidents",
-                                          "RTO -\u003e security operations center monitoring cyber threats and incidents"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027SOC -\u003e security operations center monitoring cyber threats and incidents\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  160,
+                          "id":  129,
                           "question":  "A Bank SO IT operations requirement states: security operations center monitoring cyber threats and incidents. Which concept should be selected?",
                           "options":  [
                                           "Service Request",
@@ -1921,7 +1549,7 @@
                           "explanation":  "The requirement directly points to SOC."
                       },
                       {
-                          "id":  161,
+                          "id":  130,
                           "question":  "Which IT operations concept best matches: ability to infer system health from logs, metrics, and traces?",
                           "options":  [
                                           "Observability",
@@ -1933,7 +1561,7 @@
                           "explanation":  "Observability is defined as: ability to infer system health from logs, metrics, and traces."
                       },
                       {
-                          "id":  162,
+                          "id":  131,
                           "question":  "What is the most accurate description of \u0027Observability\u0027?",
                           "options":  [
                                           "standard operating procedure for consistent execution of tasks",
@@ -1945,7 +1573,7 @@
                           "explanation":  "Observability refers to: ability to infer system health from logs, metrics, and traces."
                       },
                       {
-                          "id":  163,
+                          "id":  132,
                           "question":  "\u0027Observability\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Monitoring and Response",
@@ -1957,19 +1585,7 @@
                           "explanation":  "Observability is mainly part of Monitoring and Response."
                       },
                       {
-                          "id":  164,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Priority Matrix -\u003e ability to infer system health from logs, metrics, and traces",
-                                          "Runbook -\u003e ability to infer system health from logs, metrics, and traces",
-                                          "Availability Management -\u003e ability to infer system health from logs, metrics, and traces",
-                                          "Observability -\u003e ability to infer system health from logs, metrics, and traces"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Observability -\u003e ability to infer system health from logs, metrics, and traces\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  165,
+                          "id":  133,
                           "question":  "A Bank SO IT operations requirement states: ability to infer system health from logs, metrics, and traces. Which concept should be selected?",
                           "options":  [
                                           "Major Incident",
@@ -1981,7 +1597,7 @@
                           "explanation":  "The requirement directly points to Observability."
                       },
                       {
-                          "id":  166,
+                          "id":  134,
                           "question":  "Which IT operations concept best matches: proactive scripted checks simulating user transactions?",
                           "options":  [
                                           "Known Error",
@@ -1993,7 +1609,7 @@
                           "explanation":  "Synthetic Monitoring is defined as: proactive scripted checks simulating user transactions."
                       },
                       {
-                          "id":  167,
+                          "id":  135,
                           "question":  "What is the most accurate description of \u0027Synthetic Monitoring\u0027?",
                           "options":  [
                                           "process to restore normal service quickly after disruption",
@@ -2005,7 +1621,7 @@
                           "explanation":  "Synthetic Monitoring refers to: proactive scripted checks simulating user transactions."
                       },
                       {
-                          "id":  168,
+                          "id":  136,
                           "question":  "\u0027Synthetic Monitoring\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Incident Analysis and Resolution",
@@ -2017,19 +1633,7 @@
                           "explanation":  "Synthetic Monitoring is mainly part of Monitoring and Response."
                       },
                       {
-                          "id":  169,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Synthetic Monitoring -\u003e proactive scripted checks simulating user transactions",
-                                          "RTO -\u003e proactive scripted checks simulating user transactions",
-                                          "MTTR -\u003e proactive scripted checks simulating user transactions",
-                                          "High Availability -\u003e proactive scripted checks simulating user transactions"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Synthetic Monitoring -\u003e proactive scripted checks simulating user transactions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  170,
+                          "id":  137,
                           "question":  "A Bank SO IT operations requirement states: proactive scripted checks simulating user transactions. Which concept should be selected?",
                           "options":  [
                                           "SLA Breach",
@@ -2041,7 +1645,7 @@
                           "explanation":  "The requirement directly points to Synthetic Monitoring."
                       },
                       {
-                          "id":  171,
+                          "id":  138,
                           "question":  "Which IT operations concept best matches: application performance monitoring for latency and error visibility?",
                           "options":  [
                                           "Impact",
@@ -2053,7 +1657,7 @@
                           "explanation":  "APM is defined as: application performance monitoring for latency and error visibility."
                       },
                       {
-                          "id":  172,
+                          "id":  139,
                           "question":  "What is the most accurate description of \u0027APM\u0027?",
                           "options":  [
                                           "application performance monitoring for latency and error visibility",
@@ -2065,7 +1669,7 @@
                           "explanation":  "APM refers to: application performance monitoring for latency and error visibility."
                       },
                       {
-                          "id":  173,
+                          "id":  140,
                           "question":  "\u0027APM\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Monitoring and Response",
@@ -2077,19 +1681,7 @@
                           "explanation":  "APM is mainly part of Monitoring and Response."
                       },
                       {
-                          "id":  174,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "High Availability -\u003e application performance monitoring for latency and error visibility",
-                                          "SOP -\u003e application performance monitoring for latency and error visibility",
-                                          "APM -\u003e application performance monitoring for latency and error visibility",
-                                          "Impact -\u003e application performance monitoring for latency and error visibility"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027APM -\u003e application performance monitoring for latency and error visibility\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  175,
+                          "id":  141,
                           "question":  "A Bank SO IT operations requirement states: application performance monitoring for latency and error visibility. Which concept should be selected?",
                           "options":  [
                                           "Impact",
@@ -2101,7 +1693,7 @@
                           "explanation":  "The requirement directly points to APM."
                       },
                       {
-                          "id":  176,
+                          "id":  142,
                           "question":  "Which IT operations concept best matches: centralized collection and indexing of log data?",
                           "options":  [
                                           "Log Aggregation",
@@ -2113,7 +1705,7 @@
                           "explanation":  "Log Aggregation is defined as: centralized collection and indexing of log data."
                       },
                       {
-                          "id":  177,
+                          "id":  143,
                           "question":  "What is the most accurate description of \u0027Log Aggregation\u0027?",
                           "options":  [
                                           "centralized collection and indexing of log data",
@@ -2125,7 +1717,7 @@
                           "explanation":  "Log Aggregation refers to: centralized collection and indexing of log data."
                       },
                       {
-                          "id":  178,
+                          "id":  144,
                           "question":  "\u0027Log Aggregation\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operations Fundamentals",
@@ -2137,19 +1729,7 @@
                           "explanation":  "Log Aggregation is mainly part of Monitoring and Response."
                       },
                       {
-                          "id":  179,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Urgency -\u003e centralized collection and indexing of log data",
-                                          "SOP -\u003e centralized collection and indexing of log data",
-                                          "Log Aggregation -\u003e centralized collection and indexing of log data",
-                                          "Observability -\u003e centralized collection and indexing of log data"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Log Aggregation -\u003e centralized collection and indexing of log data\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  180,
+                          "id":  145,
                           "question":  "A Bank SO IT operations requirement states: centralized collection and indexing of log data. Which concept should be selected?",
                           "options":  [
                                           "Escalation",
@@ -2161,7 +1741,7 @@
                           "explanation":  "The requirement directly points to Log Aggregation."
                       },
                       {
-                          "id":  181,
+                          "id":  146,
                           "question":  "Which IT operations concept best matches: scheduled support duty for after-hours incident handling?",
                           "options":  [
                                           "Alert",
@@ -2173,7 +1753,7 @@
                           "explanation":  "On-Call Rotation is defined as: scheduled support duty for after-hours incident handling."
                       },
                       {
-                          "id":  182,
+                          "id":  147,
                           "question":  "What is the most accurate description of \u0027On-Call Rotation\u0027?",
                           "options":  [
                                           "formal user request for standard service action",
@@ -2185,7 +1765,7 @@
                           "explanation":  "On-Call Rotation refers to: scheduled support duty for after-hours incident handling."
                       },
                       {
-                          "id":  183,
+                          "id":  148,
                           "question":  "\u0027On-Call Rotation\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Monitoring and Response",
@@ -2197,19 +1777,7 @@
                           "explanation":  "On-Call Rotation is mainly part of Monitoring and Response."
                       },
                       {
-                          "id":  184,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "War Room -\u003e scheduled support duty for after-hours incident handling",
-                                          "RCA -\u003e scheduled support duty for after-hours incident handling",
-                                          "Ticket -\u003e scheduled support duty for after-hours incident handling",
-                                          "On-Call Rotation -\u003e scheduled support duty for after-hours incident handling"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027On-Call Rotation -\u003e scheduled support duty for after-hours incident handling\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  185,
+                          "id":  149,
                           "question":  "A Bank SO IT operations requirement states: scheduled support duty for after-hours incident handling. Which concept should be selected?",
                           "options":  [
                                           "Backup Verification",
@@ -2221,7 +1789,7 @@
                           "explanation":  "The requirement directly points to On-Call Rotation."
                       },
                       {
-                          "id":  186,
+                          "id":  150,
                           "question":  "Which IT operations concept best matches: dedicated coordination channel during major incidents?",
                           "options":  [
                                           "Release Management",
@@ -2233,7 +1801,7 @@
                           "explanation":  "War Room is defined as: dedicated coordination channel during major incidents."
                       },
                       {
-                          "id":  187,
+                          "id":  151,
                           "question":  "What is the most accurate description of \u0027War Room\u0027?",
                           "options":  [
                                           "record used to track issue lifecycle and actions",
@@ -2245,7 +1813,7 @@
                           "explanation":  "War Room refers to: dedicated coordination channel during major incidents."
                       },
                       {
-                          "id":  188,
+                          "id":  152,
                           "question":  "\u0027War Room\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Incident Analysis and Resolution",
@@ -2257,19 +1825,7 @@
                           "explanation":  "War Room is mainly part of Monitoring and Response."
                       },
                       {
-                          "id":  189,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Ticket -\u003e dedicated coordination channel during major incidents",
-                                          "War Room -\u003e dedicated coordination channel during major incidents",
-                                          "Business Continuity -\u003e dedicated coordination channel during major incidents",
-                                          "Availability Management -\u003e dedicated coordination channel during major incidents"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027War Room -\u003e dedicated coordination channel during major incidents\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  190,
+                          "id":  153,
                           "question":  "A Bank SO IT operations requirement states: dedicated coordination channel during major incidents. Which concept should be selected?",
                           "options":  [
                                           "Release Management",
@@ -2281,7 +1837,7 @@
                           "explanation":  "The requirement directly points to War Room."
                       },
                       {
-                          "id":  191,
+                          "id":  154,
                           "question":  "Which IT operations concept best matches: real-time conference for incident troubleshooting coordination?",
                           "options":  [
                                           "Log Aggregation",
@@ -2293,7 +1849,7 @@
                           "explanation":  "Bridge Call is defined as: real-time conference for incident troubleshooting coordination."
                       },
                       {
-                          "id":  192,
+                          "id":  155,
                           "question":  "What is the most accurate description of \u0027Bridge Call\u0027?",
                           "options":  [
                                           "failure to meet agreed service target commitments",
@@ -2305,7 +1861,7 @@
                           "explanation":  "Bridge Call refers to: real-time conference for incident troubleshooting coordination."
                       },
                       {
-                          "id":  193,
+                          "id":  156,
                           "question":  "\u0027Bridge Call\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Incident Analysis and Resolution",
@@ -2317,19 +1873,7 @@
                           "explanation":  "Bridge Call is mainly part of Monitoring and Response."
                       },
                       {
-                          "id":  194,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Bridge Call -\u003e real-time conference for incident troubleshooting coordination",
-                                          "Patch Management -\u003e real-time conference for incident troubleshooting coordination",
-                                          "Change Management -\u003e real-time conference for incident troubleshooting coordination",
-                                          "Capacity Planning -\u003e real-time conference for incident troubleshooting coordination"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Bridge Call -\u003e real-time conference for incident troubleshooting coordination\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  195,
+                          "id":  157,
                           "question":  "A Bank SO IT operations requirement states: real-time conference for incident troubleshooting coordination. Which concept should be selected?",
                           "options":  [
                                           "Bridge Call",
@@ -2341,7 +1885,7 @@
                           "explanation":  "The requirement directly points to Bridge Call."
                       },
                       {
-                          "id":  196,
+                          "id":  158,
                           "question":  "Which IT operations concept best matches: public/internal dashboard communicating service health states?",
                           "options":  [
                                           "Major Incident",
@@ -2353,7 +1897,7 @@
                           "explanation":  "Status Page is defined as: public/internal dashboard communicating service health states."
                       },
                       {
-                          "id":  197,
+                          "id":  159,
                           "question":  "What is the most accurate description of \u0027Status Page\u0027?",
                           "options":  [
                                           "public/internal dashboard communicating service health states",
@@ -2365,7 +1909,7 @@
                           "explanation":  "Status Page refers to: public/internal dashboard communicating service health states."
                       },
                       {
-                          "id":  198,
+                          "id":  160,
                           "question":  "\u0027Status Page\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Monitoring and Response",
@@ -2377,19 +1921,7 @@
                           "explanation":  "Status Page is mainly part of Monitoring and Response."
                       },
                       {
-                          "id":  199,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "APM -\u003e public/internal dashboard communicating service health states",
-                                          "Ticket -\u003e public/internal dashboard communicating service health states",
-                                          "Knowledge Management -\u003e public/internal dashboard communicating service health states",
-                                          "Status Page -\u003e public/internal dashboard communicating service health states"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Status Page -\u003e public/internal dashboard communicating service health states\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  200,
+                          "id":  161,
                           "question":  "A Bank SO IT operations requirement states: public/internal dashboard communicating service health states. Which concept should be selected?",
                           "options":  [
                                           "Status Page",
@@ -2401,7 +1933,7 @@
                           "explanation":  "The requirement directly points to Status Page."
                       },
                       {
-                          "id":  201,
+                          "id":  162,
                           "question":  "Which IT operations concept best matches: controlled deployment of updates to remediate vulnerabilities and defects?",
                           "options":  [
                                           "Known Error",
@@ -2413,7 +1945,7 @@
                           "explanation":  "Patch Management is defined as: controlled deployment of updates to remediate vulnerabilities and defects."
                       },
                       {
-                          "id":  202,
+                          "id":  163,
                           "question":  "What is the most accurate description of \u0027Patch Management\u0027?",
                           "options":  [
                                           "controlled deployment of updates to remediate vulnerabilities and defects",
@@ -2425,7 +1957,7 @@
                           "explanation":  "Patch Management refers to: controlled deployment of updates to remediate vulnerabilities and defects."
                       },
                       {
-                          "id":  203,
+                          "id":  164,
                           "question":  "\u0027Patch Management\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "ITIL Processes",
@@ -2437,19 +1969,7 @@
                           "explanation":  "Patch Management is mainly part of Operational Resilience."
                       },
                       {
-                          "id":  204,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Ticket -\u003e controlled deployment of updates to remediate vulnerabilities and defects",
-                                          "Impact -\u003e controlled deployment of updates to remediate vulnerabilities and defects",
-                                          "Synthetic Monitoring -\u003e controlled deployment of updates to remediate vulnerabilities and defects",
-                                          "Patch Management -\u003e controlled deployment of updates to remediate vulnerabilities and defects"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Patch Management -\u003e controlled deployment of updates to remediate vulnerabilities and defects\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  205,
+                          "id":  165,
                           "question":  "A Bank SO IT operations requirement states: controlled deployment of updates to remediate vulnerabilities and defects. Which concept should be selected?",
                           "options":  [
                                           "Patch Management",
@@ -2461,7 +1981,7 @@
                           "explanation":  "The requirement directly points to Patch Management."
                       },
                       {
-                          "id":  206,
+                          "id":  166,
                           "question":  "Which IT operations concept best matches: regular validation that backups are complete and restorable?",
                           "options":  [
                                           "Backup Verification",
@@ -2473,7 +1993,7 @@
                           "explanation":  "Backup Verification is defined as: regular validation that backups are complete and restorable."
                       },
                       {
-                          "id":  207,
+                          "id":  167,
                           "question":  "What is the most accurate description of \u0027Backup Verification\u0027?",
                           "options":  [
                                           "unplanned interruption or degradation of IT service",
@@ -2485,7 +2005,7 @@
                           "explanation":  "Backup Verification refers to: regular validation that backups are complete and restorable."
                       },
                       {
-                          "id":  208,
+                          "id":  168,
                           "question":  "\u0027Backup Verification\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operational Resilience",
@@ -2497,19 +2017,7 @@
                           "explanation":  "Backup Verification is mainly part of Operational Resilience."
                       },
                       {
-                          "id":  209,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Backup Verification -\u003e regular validation that backups are complete and restorable",
-                                          "Disaster Recovery Drill -\u003e regular validation that backups are complete and restorable",
-                                          "Incident Management -\u003e regular validation that backups are complete and restorable",
-                                          "Log Aggregation -\u003e regular validation that backups are complete and restorable"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Backup Verification -\u003e regular validation that backups are complete and restorable\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  210,
+                          "id":  169,
                           "question":  "A Bank SO IT operations requirement states: regular validation that backups are complete and restorable. Which concept should be selected?",
                           "options":  [
                                           "SOC",
@@ -2521,7 +2029,7 @@
                           "explanation":  "The requirement directly points to Backup Verification."
                       },
                       {
-                          "id":  211,
+                          "id":  170,
                           "question":  "Which IT operations concept best matches: simulated failover exercise validating recovery readiness?",
                           "options":  [
                                           "Event",
@@ -2533,7 +2041,7 @@
                           "explanation":  "Disaster Recovery Drill is defined as: simulated failover exercise validating recovery readiness."
                       },
                       {
-                          "id":  212,
+                          "id":  171,
                           "question":  "What is the most accurate description of \u0027Disaster Recovery Drill\u0027?",
                           "options":  [
                                           "simulated failover exercise validating recovery readiness",
@@ -2545,7 +2053,7 @@
                           "explanation":  "Disaster Recovery Drill refers to: simulated failover exercise validating recovery readiness."
                       },
                       {
-                          "id":  213,
+                          "id":  172,
                           "question":  "\u0027Disaster Recovery Drill\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Incident Analysis and Resolution",
@@ -2557,19 +2065,7 @@
                           "explanation":  "Disaster Recovery Drill is mainly part of Operational Resilience."
                       },
                       {
-                          "id":  214,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Disaster Recovery Drill -\u003e simulated failover exercise validating recovery readiness",
-                                          "Failover -\u003e simulated failover exercise validating recovery readiness",
-                                          "NOC -\u003e simulated failover exercise validating recovery readiness",
-                                          "Urgency -\u003e simulated failover exercise validating recovery readiness"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Disaster Recovery Drill -\u003e simulated failover exercise validating recovery readiness\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  215,
+                          "id":  173,
                           "question":  "A Bank SO IT operations requirement states: simulated failover exercise validating recovery readiness. Which concept should be selected?",
                           "options":  [
                                           "On-Call Rotation",
@@ -2581,7 +2077,7 @@
                           "explanation":  "The requirement directly points to Disaster Recovery Drill."
                       },
                       {
-                          "id":  216,
+                          "id":  174,
                           "question":  "Which IT operations concept best matches: maximum acceptable time to restore critical service?",
                           "options":  [
                                           "RTO",
@@ -2593,7 +2089,7 @@
                           "explanation":  "RTO is defined as: maximum acceptable time to restore critical service."
                       },
                       {
-                          "id":  217,
+                          "id":  175,
                           "question":  "What is the most accurate description of \u0027RTO\u0027?",
                           "options":  [
                                           "maximum acceptable time to restore critical service",
@@ -2605,7 +2101,7 @@
                           "explanation":  "RTO refers to: maximum acceptable time to restore critical service."
                       },
                       {
-                          "id":  218,
+                          "id":  176,
                           "question":  "\u0027RTO\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operations Fundamentals",
@@ -2617,19 +2113,7 @@
                           "explanation":  "RTO is mainly part of Operational Resilience."
                       },
                       {
-                          "id":  219,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "RTO -\u003e maximum acceptable time to restore critical service",
-                                          "Impact -\u003e maximum acceptable time to restore critical service",
-                                          "Runbook -\u003e maximum acceptable time to restore critical service",
-                                          "Urgency -\u003e maximum acceptable time to restore critical service"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027RTO -\u003e maximum acceptable time to restore critical service\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  220,
+                          "id":  177,
                           "question":  "A Bank SO IT operations requirement states: maximum acceptable time to restore critical service. Which concept should be selected?",
                           "options":  [
                                           "Service Request",
@@ -2641,7 +2125,7 @@
                           "explanation":  "The requirement directly points to RTO."
                       },
                       {
-                          "id":  221,
+                          "id":  178,
                           "question":  "Which IT operations concept best matches: maximum acceptable data loss interval?",
                           "options":  [
                                           "Observability",
@@ -2653,7 +2137,7 @@
                           "explanation":  "RPO is defined as: maximum acceptable data loss interval."
                       },
                       {
-                          "id":  222,
+                          "id":  179,
                           "question":  "What is the most accurate description of \u0027RPO\u0027?",
                           "options":  [
                                           "process planning and controlling software/service releases",
@@ -2665,7 +2149,7 @@
                           "explanation":  "RPO refers to: maximum acceptable data loss interval."
                       },
                       {
-                          "id":  223,
+                          "id":  180,
                           "question":  "\u0027RPO\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operations Fundamentals",
@@ -2677,19 +2161,7 @@
                           "explanation":  "RPO is mainly part of Operational Resilience."
                       },
                       {
-                          "id":  224,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Service Level Management -\u003e maximum acceptable data loss interval",
-                                          "RPO -\u003e maximum acceptable data loss interval",
-                                          "Release Management -\u003e maximum acceptable data loss interval",
-                                          "Change Management -\u003e maximum acceptable data loss interval"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027RPO -\u003e maximum acceptable data loss interval\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  225,
+                          "id":  181,
                           "question":  "A Bank SO IT operations requirement states: maximum acceptable data loss interval. Which concept should be selected?",
                           "options":  [
                                           "Observability",
@@ -2701,7 +2173,7 @@
                           "explanation":  "The requirement directly points to RPO."
                       },
                       {
-                          "id":  226,
+                          "id":  182,
                           "question":  "Which IT operations concept best matches: architecture minimizing downtime through redundancy and failover?",
                           "options":  [
                                           "Incident Management",
@@ -2713,7 +2185,7 @@
                           "explanation":  "High Availability is defined as: architecture minimizing downtime through redundancy and failover."
                       },
                       {
-                          "id":  227,
+                          "id":  183,
                           "question":  "What is the most accurate description of \u0027High Availability\u0027?",
                           "options":  [
                                           "automatic or manual switch to standby system on failure",
@@ -2725,7 +2197,7 @@
                           "explanation":  "High Availability refers to: architecture minimizing downtime through redundancy and failover."
                       },
                       {
-                          "id":  228,
+                          "id":  184,
                           "question":  "\u0027High Availability\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Incident Analysis and Resolution",
@@ -2737,19 +2209,7 @@
                           "explanation":  "High Availability is mainly part of Operational Resilience."
                       },
                       {
-                          "id":  229,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "RPO -\u003e architecture minimizing downtime through redundancy and failover",
-                                          "Knowledge Management -\u003e architecture minimizing downtime through redundancy and failover",
-                                          "High Availability -\u003e architecture minimizing downtime through redundancy and failover",
-                                          "Release Management -\u003e architecture minimizing downtime through redundancy and failover"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027High Availability -\u003e architecture minimizing downtime through redundancy and failover\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  230,
+                          "id":  185,
                           "question":  "A Bank SO IT operations requirement states: architecture minimizing downtime through redundancy and failover. Which concept should be selected?",
                           "options":  [
                                           "NOC",
@@ -2761,7 +2221,7 @@
                           "explanation":  "The requirement directly points to High Availability."
                       },
                       {
-                          "id":  231,
+                          "id":  186,
                           "question":  "Which IT operations concept best matches: automatic or manual switch to standby system on failure?",
                           "options":  [
                                           "Failover",
@@ -2773,7 +2233,7 @@
                           "explanation":  "Failover is defined as: automatic or manual switch to standby system on failure."
                       },
                       {
-                          "id":  232,
+                          "id":  187,
                           "question":  "What is the most accurate description of \u0027Failover\u0027?",
                           "options":  [
                                           "automatic or manual switch to standby system on failure",
@@ -2785,7 +2245,7 @@
                           "explanation":  "Failover refers to: automatic or manual switch to standby system on failure."
                       },
                       {
-                          "id":  233,
+                          "id":  188,
                           "question":  "\u0027Failover\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Monitoring and Response",
@@ -2797,19 +2257,7 @@
                           "explanation":  "Failover is mainly part of Operational Resilience."
                       },
                       {
-                          "id":  234,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Availability Management -\u003e automatic or manual switch to standby system on failure",
-                                          "Capacity Management -\u003e automatic or manual switch to standby system on failure",
-                                          "Failover -\u003e automatic or manual switch to standby system on failure",
-                                          "Runbook -\u003e automatic or manual switch to standby system on failure"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Failover -\u003e automatic or manual switch to standby system on failure\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  235,
+                          "id":  189,
                           "question":  "A Bank SO IT operations requirement states: automatic or manual switch to standby system on failure. Which concept should be selected?",
                           "options":  [
                                           "SOC",
@@ -2821,7 +2269,7 @@
                           "explanation":  "The requirement directly points to Failover."
                       },
                       {
-                          "id":  236,
+                          "id":  190,
                           "question":  "Which IT operations concept best matches: forecasting and provisioning resources for expected workloads?",
                           "options":  [
                                           "Runbook",
@@ -2833,7 +2281,7 @@
                           "explanation":  "Capacity Planning is defined as: forecasting and provisioning resources for expected workloads."
                       },
                       {
-                          "id":  237,
+                          "id":  191,
                           "question":  "What is the most accurate description of \u0027Capacity Planning\u0027?",
                           "options":  [
                                           "proactive scripted checks simulating user transactions",
@@ -2845,7 +2293,7 @@
                           "explanation":  "Capacity Planning refers to: forecasting and provisioning resources for expected workloads."
                       },
                       {
-                          "id":  238,
+                          "id":  192,
                           "question":  "\u0027Capacity Planning\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operational Resilience",
@@ -2857,19 +2305,7 @@
                           "explanation":  "Capacity Planning is mainly part of Operational Resilience."
                       },
                       {
-                          "id":  239,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Status Page -\u003e forecasting and provisioning resources for expected workloads",
-                                          "MTTD -\u003e forecasting and provisioning resources for expected workloads",
-                                          "Capacity Planning -\u003e forecasting and provisioning resources for expected workloads",
-                                          "IT Service Continuity Management -\u003e forecasting and provisioning resources for expected workloads"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Capacity Planning -\u003e forecasting and provisioning resources for expected workloads\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  240,
+                          "id":  193,
                           "question":  "A Bank SO IT operations requirement states: forecasting and provisioning resources for expected workloads. Which concept should be selected?",
                           "options":  [
                                           "Capacity Planning",
@@ -2881,7 +2317,7 @@
                           "explanation":  "The requirement directly points to Capacity Planning."
                       },
                       {
-                          "id":  241,
+                          "id":  194,
                           "question":  "Which IT operations concept best matches: tracked log of operational risks and mitigation plans?",
                           "options":  [
                                           "Failover",
@@ -2893,7 +2329,7 @@
                           "explanation":  "Risk Register is defined as: tracked log of operational risks and mitigation plans."
                       },
                       {
-                          "id":  242,
+                          "id":  195,
                           "question":  "What is the most accurate description of \u0027Risk Register\u0027?",
                           "options":  [
                                           "process preparing services for disaster scenarios",
@@ -2905,7 +2341,7 @@
                           "explanation":  "Risk Register refers to: tracked log of operational risks and mitigation plans."
                       },
                       {
-                          "id":  243,
+                          "id":  196,
                           "question":  "\u0027Risk Register\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Operational Resilience",
@@ -2917,19 +2353,7 @@
                           "explanation":  "Risk Register is mainly part of Operational Resilience."
                       },
                       {
-                          "id":  244,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "NOC -\u003e tracked log of operational risks and mitigation plans",
-                                          "Risk Register -\u003e tracked log of operational risks and mitigation plans",
-                                          "Workaround -\u003e tracked log of operational risks and mitigation plans",
-                                          "Bridge Call -\u003e tracked log of operational risks and mitigation plans"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Risk Register -\u003e tracked log of operational risks and mitigation plans\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  245,
+                          "id":  197,
                           "question":  "A Bank SO IT operations requirement states: tracked log of operational risks and mitigation plans. Which concept should be selected?",
                           "options":  [
                                           "Alert",
@@ -2941,7 +2365,7 @@
                           "explanation":  "The requirement directly points to Risk Register."
                       },
                       {
-                          "id":  246,
+                          "id":  198,
                           "question":  "Which IT operations concept best matches: ability to maintain critical operations during disruptions?",
                           "options":  [
                                           "Alert",
@@ -2953,7 +2377,7 @@
                           "explanation":  "Business Continuity is defined as: ability to maintain critical operations during disruptions."
                       },
                       {
-                          "id":  247,
+                          "id":  199,
                           "question":  "What is the most accurate description of \u0027Business Continuity\u0027?",
                           "options":  [
                                           "routing issue to higher support level or management",
@@ -2965,7 +2389,7 @@
                           "explanation":  "Business Continuity refers to: ability to maintain critical operations during disruptions."
                       },
                       {
-                          "id":  248,
+                          "id":  200,
                           "question":  "\u0027Business Continuity\u0027 belongs mainly to which IT operations area?",
                           "options":  [
                                           "Monitoring and Response",
@@ -2977,19 +2401,7 @@
                           "explanation":  "Business Continuity is mainly part of Operational Resilience."
                       },
                       {
-                          "id":  249,
-                          "question":  "Identify the correct IT operations term-definition mapping.",
-                          "options":  [
-                                          "Business Continuity -\u003e ability to maintain critical operations during disruptions",
-                                          "War Room -\u003e ability to maintain critical operations during disruptions",
-                                          "RTO -\u003e ability to maintain critical operations during disruptions",
-                                          "Log Aggregation -\u003e ability to maintain critical operations during disruptions"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Business Continuity -\u003e ability to maintain critical operations during disruptions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  250,
+                          "id":  201,
                           "question":  "A Bank SO IT operations requirement states: ability to maintain critical operations during disruptions. Which concept should be selected?",
                           "options":  [
                                           "Alert",

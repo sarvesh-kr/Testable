@@ -98,18 +98,6 @@
                       },
                       {
                           "id":  9,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Switch -\u003e bank that issues debit or credit card to customer",
-                                          "Dispute -\u003e bank that issues debit or credit card to customer",
-                                          "Card Issuer -\u003e bank that issues debit or credit card to customer",
-                                          "Contactless Card -\u003e bank that issues debit or credit card to customer"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Card Issuer -\u003e bank that issues debit or credit card to customer\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  10,
                           "question":  "A Bank SO IT ATM operations requirement states: bank that issues debit or credit card to customer. Which concept should be selected?",
                           "options":  [
                                           "Reconciliation",
@@ -121,7 +109,7 @@
                           "explanation":  "The requirement directly points to Card Issuer."
                       },
                       {
-                          "id":  11,
+                          "id":  10,
                           "question":  "Which ATM/Card concept best matches: institution that owns or manages ATM/merchant terminal?",
                           "options":  [
                                           "Shoulder Surfing",
@@ -133,7 +121,7 @@
                           "explanation":  "Acquirer is defined as: institution that owns or manages ATM/merchant terminal."
                       },
                       {
-                          "id":  12,
+                          "id":  11,
                           "question":  "What is the most accurate description of \u0027Acquirer\u0027?",
                           "options":  [
                                           "ATM transaction where customer receives cash amount",
@@ -145,7 +133,7 @@
                           "explanation":  "Acquirer refers to: institution that owns or manages ATM/merchant terminal."
                       },
                       {
-                          "id":  13,
+                          "id":  12,
                           "question":  "\u0027Acquirer\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Card Technologies",
@@ -157,19 +145,7 @@
                           "explanation":  "Acquirer is mainly part of ATM Fundamentals."
                       },
                       {
-                          "id":  14,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Dynamic CVV -\u003e institution that owns or manages ATM/merchant terminal",
-                                          "Balance Enquiry -\u003e institution that owns or manages ATM/merchant terminal",
-                                          "Acquirer -\u003e institution that owns or manages ATM/merchant terminal",
-                                          "CVV -\u003e institution that owns or manages ATM/merchant terminal"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Acquirer -\u003e institution that owns or manages ATM/merchant terminal\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  15,
+                          "id":  13,
                           "question":  "A Bank SO IT ATM operations requirement states: institution that owns or manages ATM/merchant terminal. Which concept should be selected?",
                           "options":  [
                                           "Dispute",
@@ -181,7 +157,7 @@
                           "explanation":  "The requirement directly points to Acquirer."
                       },
                       {
-                          "id":  16,
+                          "id":  14,
                           "question":  "Which ATM/Card concept best matches: network component routing ATM/card transaction messages?",
                           "options":  [
                                           "Switch",
@@ -193,7 +169,7 @@
                           "explanation":  "Switch is defined as: network component routing ATM/card transaction messages."
                       },
                       {
-                          "id":  17,
+                          "id":  15,
                           "question":  "What is the most accurate description of \u0027Switch\u0027?",
                           "options":  [
                                           "issuer approval step for ATM/card transaction",
@@ -205,7 +181,7 @@
                           "explanation":  "Switch refers to: network component routing ATM/card transaction messages."
                       },
                       {
-                          "id":  18,
+                          "id":  16,
                           "question":  "\u0027Switch\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -217,19 +193,7 @@
                           "explanation":  "Switch is mainly part of ATM Fundamentals."
                       },
                       {
-                          "id":  19,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Cash Deposit -\u003e network component routing ATM/card transaction messages",
-                                          "ATM -\u003e network component routing ATM/card transaction messages",
-                                          "Switch -\u003e network component routing ATM/card transaction messages",
-                                          "Key Management -\u003e network component routing ATM/card transaction messages"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Switch -\u003e network component routing ATM/card transaction messages\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  20,
+                          "id":  17,
                           "question":  "A Bank SO IT ATM operations requirement states: network component routing ATM/card transaction messages. Which concept should be selected?",
                           "options":  [
                                           "Card BIN",
@@ -241,7 +205,7 @@
                           "explanation":  "The requirement directly points to Switch."
                       },
                       {
-                          "id":  21,
+                          "id":  18,
                           "question":  "Which ATM/Card concept best matches: first digits identifying issuing institution and card type?",
                           "options":  [
                                           "Card BIN",
@@ -253,7 +217,7 @@
                           "explanation":  "Card BIN is defined as: first digits identifying issuing institution and card type."
                       },
                       {
-                          "id":  22,
+                          "id":  19,
                           "question":  "What is the most accurate description of \u0027Card BIN\u0027?",
                           "options":  [
                                           "matching ATM journal, switch, and core banking records",
@@ -265,7 +229,7 @@
                           "explanation":  "Card BIN refers to: first digits identifying issuing institution and card type."
                       },
                       {
-                          "id":  23,
+                          "id":  20,
                           "question":  "\u0027Card BIN\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Card Technologies",
@@ -277,19 +241,7 @@
                           "explanation":  "Card BIN is mainly part of ATM Fundamentals."
                       },
                       {
-                          "id":  24,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "First Line Maintenance -\u003e first digits identifying issuing institution and card type",
-                                          "Card BIN -\u003e first digits identifying issuing institution and card type",
-                                          "Balance Enquiry -\u003e first digits identifying issuing institution and card type",
-                                          "Track Data -\u003e first digits identifying issuing institution and card type"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Card BIN -\u003e first digits identifying issuing institution and card type\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  25,
+                          "id":  21,
                           "question":  "A Bank SO IT ATM operations requirement states: first digits identifying issuing institution and card type. Which concept should be selected?",
                           "options":  [
                                           "Card BIN",
@@ -301,7 +253,7 @@
                           "explanation":  "The requirement directly points to Card BIN."
                       },
                       {
-                          "id":  26,
+                          "id":  22,
                           "question":  "Which ATM/Card concept best matches: magnetic stripe data used for card transaction processing?",
                           "options":  [
                                           "PAN",
@@ -313,7 +265,7 @@
                           "explanation":  "Track Data is defined as: magnetic stripe data used for card transaction processing."
                       },
                       {
-                          "id":  27,
+                          "id":  23,
                           "question":  "What is the most accurate description of \u0027Track Data\u0027?",
                           "options":  [
                                           "magnetic stripe data used for card transaction processing",
@@ -325,7 +277,7 @@
                           "explanation":  "Track Data refers to: magnetic stripe data used for card transaction processing."
                       },
                       {
-                          "id":  28,
+                          "id":  24,
                           "question":  "\u0027Track Data\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Card Technologies",
@@ -337,19 +289,7 @@
                           "explanation":  "Track Data is mainly part of ATM Fundamentals."
                       },
                       {
-                          "id":  29,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Mini Statement -\u003e magnetic stripe data used for card transaction processing",
-                                          "Remote Key Loading -\u003e magnetic stripe data used for card transaction processing",
-                                          "Track Data -\u003e magnetic stripe data used for card transaction processing",
-                                          "PIN -\u003e magnetic stripe data used for card transaction processing"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Track Data -\u003e magnetic stripe data used for card transaction processing\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  30,
+                          "id":  25,
                           "question":  "A Bank SO IT ATM operations requirement states: magnetic stripe data used for card transaction processing. Which concept should be selected?",
                           "options":  [
                                           "Switch",
@@ -361,7 +301,7 @@
                           "explanation":  "The requirement directly points to Track Data."
                       },
                       {
-                          "id":  31,
+                          "id":  26,
                           "question":  "Which ATM/Card concept best matches: personal identification number used for cardholder verification?",
                           "options":  [
                                           "PIN",
@@ -373,7 +313,7 @@
                           "explanation":  "PIN is defined as: personal identification number used for cardholder verification."
                       },
                       {
-                          "id":  32,
+                          "id":  27,
                           "question":  "What is the most accurate description of \u0027PIN\u0027?",
                           "options":  [
                                           "personal identification number used for cardholder verification",
@@ -385,7 +325,7 @@
                           "explanation":  "PIN refers to: personal identification number used for cardholder verification."
                       },
                       {
-                          "id":  33,
+                          "id":  28,
                           "question":  "\u0027PIN\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Operations and Compliance",
@@ -397,19 +337,7 @@
                           "explanation":  "PIN is mainly part of ATM Fundamentals."
                       },
                       {
-                          "id":  34,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "PIN -\u003e personal identification number used for cardholder verification",
-                                          "Expiry Date -\u003e personal identification number used for cardholder verification",
-                                          "Cash Deposit -\u003e personal identification number used for cardholder verification",
-                                          "Key Management -\u003e personal identification number used for cardholder verification"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027PIN -\u003e personal identification number used for cardholder verification\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  35,
+                          "id":  29,
                           "question":  "A Bank SO IT ATM operations requirement states: personal identification number used for cardholder verification. Which concept should be selected?",
                           "options":  [
                                           "PIN",
@@ -421,7 +349,7 @@
                           "explanation":  "The requirement directly points to PIN."
                       },
                       {
-                          "id":  36,
+                          "id":  30,
                           "question":  "Which ATM/Card concept best matches: encrypted format carrying PIN for secure transmission?",
                           "options":  [
                                           "Cash Deposit",
@@ -433,7 +361,7 @@
                           "explanation":  "PIN Block is defined as: encrypted format carrying PIN for secure transmission."
                       },
                       {
-                          "id":  37,
+                          "id":  31,
                           "question":  "What is the most accurate description of \u0027PIN Block\u0027?",
                           "options":  [
                                           "fraud method where card is retained by manipulated ATM slot",
@@ -445,7 +373,7 @@
                           "explanation":  "PIN Block refers to: encrypted format carrying PIN for secure transmission."
                       },
                       {
-                          "id":  38,
+                          "id":  32,
                           "question":  "\u0027PIN Block\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -457,19 +385,7 @@
                           "explanation":  "PIN Block is mainly part of ATM Fundamentals."
                       },
                       {
-                          "id":  39,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Anti-Skimming Device -\u003e encrypted format carrying PIN for secure transmission",
-                                          "PIN Block -\u003e encrypted format carrying PIN for secure transmission",
-                                          "Offline PIN -\u003e encrypted format carrying PIN for secure transmission",
-                                          "Cash Deposit -\u003e encrypted format carrying PIN for secure transmission"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027PIN Block -\u003e encrypted format carrying PIN for secure transmission\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  40,
+                          "id":  33,
                           "question":  "A Bank SO IT ATM operations requirement states: encrypted format carrying PIN for secure transmission. Which concept should be selected?",
                           "options":  [
                                           "Acquirer",
@@ -481,7 +397,7 @@
                           "explanation":  "The requirement directly points to PIN Block."
                       },
                       {
-                          "id":  41,
+                          "id":  34,
                           "question":  "Which ATM/Card concept best matches: issuer approval step for ATM/card transaction?",
                           "options":  [
                                           "ATM Monitoring",
@@ -493,7 +409,7 @@
                           "explanation":  "Authorization is defined as: issuer approval step for ATM/card transaction."
                       },
                       {
-                          "id":  42,
+                          "id":  35,
                           "question":  "What is the most accurate description of \u0027Authorization\u0027?",
                           "options":  [
                                           "personal identification number used for cardholder verification",
@@ -505,7 +421,7 @@
                           "explanation":  "Authorization refers to: issuer approval step for ATM/card transaction."
                       },
                       {
-                          "id":  43,
+                          "id":  36,
                           "question":  "\u0027Authorization\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Transactions",
@@ -517,19 +433,7 @@
                           "explanation":  "Authorization is mainly part of ATM Fundamentals."
                       },
                       {
-                          "id":  44,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Authorization -\u003e issuer approval step for ATM/card transaction",
-                                          "Card Issuer -\u003e issuer approval step for ATM/card transaction",
-                                          "Reversal -\u003e issuer approval step for ATM/card transaction",
-                                          "Timeout -\u003e issuer approval step for ATM/card transaction"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Authorization -\u003e issuer approval step for ATM/card transaction\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  45,
+                          "id":  37,
                           "question":  "A Bank SO IT ATM operations requirement states: issuer approval step for ATM/card transaction. Which concept should be selected?",
                           "options":  [
                                           "Authorization",
@@ -541,7 +445,7 @@
                           "explanation":  "The requirement directly points to Authorization."
                       },
                       {
-                          "id":  46,
+                          "id":  38,
                           "question":  "Which ATM/Card concept best matches: message undoing previous failed or incomplete transaction?",
                           "options":  [
                                           "Reversal",
@@ -553,7 +457,7 @@
                           "explanation":  "Reversal is defined as: message undoing previous failed or incomplete transaction."
                       },
                       {
-                          "id":  47,
+                          "id":  39,
                           "question":  "What is the most accurate description of \u0027Reversal\u0027?",
                           "options":  [
                                           "network component routing ATM/card transaction messages",
@@ -565,7 +469,7 @@
                           "explanation":  "Reversal refers to: message undoing previous failed or incomplete transaction."
                       },
                       {
-                          "id":  48,
+                          "id":  40,
                           "question":  "\u0027Reversal\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Fundamentals",
@@ -577,19 +481,7 @@
                           "explanation":  "Reversal is mainly part of ATM Fundamentals."
                       },
                       {
-                          "id":  49,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Remote Key Loading -\u003e message undoing previous failed or incomplete transaction",
-                                          "Reversal -\u003e message undoing previous failed or incomplete transaction",
-                                          "Switch -\u003e message undoing previous failed or incomplete transaction",
-                                          "Card BIN -\u003e message undoing previous failed or incomplete transaction"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Reversal -\u003e message undoing previous failed or incomplete transaction\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  50,
+                          "id":  41,
                           "question":  "A Bank SO IT ATM operations requirement states: message undoing previous failed or incomplete transaction. Which concept should be selected?",
                           "options":  [
                                           "Switch",
@@ -601,7 +493,7 @@
                           "explanation":  "The requirement directly points to Reversal."
                       },
                       {
-                          "id":  51,
+                          "id":  42,
                           "question":  "Which ATM/Card concept best matches: card storing data in magnetic stripe tracks?",
                           "options":  [
                                           "Skimming",
@@ -613,7 +505,7 @@
                           "explanation":  "Magnetic Stripe Card is defined as: card storing data in magnetic stripe tracks."
                       },
                       {
-                          "id":  52,
+                          "id":  43,
                           "question":  "What is the most accurate description of \u0027Magnetic Stripe Card\u0027?",
                           "options":  [
                                           "process of refilling ATM with cash cassettes",
@@ -625,7 +517,7 @@
                           "explanation":  "Magnetic Stripe Card refers to: card storing data in magnetic stripe tracks."
                       },
                       {
-                          "id":  53,
+                          "id":  44,
                           "question":  "\u0027Magnetic Stripe Card\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -637,19 +529,7 @@
                           "explanation":  "Magnetic Stripe Card is mainly part of Card Technologies."
                       },
                       {
-                          "id":  54,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Magnetic Stripe Card -\u003e card storing data in magnetic stripe tracks",
-                                          "Geolocation Check -\u003e card storing data in magnetic stripe tracks",
-                                          "Key Management -\u003e card storing data in magnetic stripe tracks",
-                                          "Track Data -\u003e card storing data in magnetic stripe tracks"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Magnetic Stripe Card -\u003e card storing data in magnetic stripe tracks\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  55,
+                          "id":  45,
                           "question":  "A Bank SO IT ATM operations requirement states: card storing data in magnetic stripe tracks. Which concept should be selected?",
                           "options":  [
                                           "Skimming",
@@ -661,7 +541,7 @@
                           "explanation":  "The requirement directly points to Magnetic Stripe Card."
                       },
                       {
-                          "id":  56,
+                          "id":  46,
                           "question":  "Which ATM/Card concept best matches: card with integrated chip for cryptographic transaction security?",
                           "options":  [
                                           "EMV Chip Card",
@@ -673,7 +553,7 @@
                           "explanation":  "EMV Chip Card is defined as: card with integrated chip for cryptographic transaction security."
                       },
                       {
-                          "id":  57,
+                          "id":  47,
                           "question":  "What is the most accurate description of \u0027EMV Chip Card\u0027?",
                           "options":  [
                                           "secure lifecycle management of cryptographic keys",
@@ -685,7 +565,7 @@
                           "explanation":  "EMV Chip Card refers to: card with integrated chip for cryptographic transaction security."
                       },
                       {
-                          "id":  58,
+                          "id":  48,
                           "question":  "\u0027EMV Chip Card\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -697,19 +577,7 @@
                           "explanation":  "EMV Chip Card is mainly part of Card Technologies."
                       },
                       {
-                          "id":  59,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Shoulder Surfing -\u003e card with integrated chip for cryptographic transaction security",
-                                          "EMV Chip Card -\u003e card with integrated chip for cryptographic transaction security",
-                                          "HSM -\u003e card with integrated chip for cryptographic transaction security",
-                                          "Authorization -\u003e card with integrated chip for cryptographic transaction security"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027EMV Chip Card -\u003e card with integrated chip for cryptographic transaction security\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  60,
+                          "id":  49,
                           "question":  "A Bank SO IT ATM operations requirement states: card with integrated chip for cryptographic transaction security. Which concept should be selected?",
                           "options":  [
                                           "Reversal",
@@ -721,7 +589,7 @@
                           "explanation":  "The requirement directly points to EMV Chip Card."
                       },
                       {
-                          "id":  61,
+                          "id":  50,
                           "question":  "Which ATM/Card concept best matches: card enabling tap transactions via NFC interface?",
                           "options":  [
                                           "PIN Shield",
@@ -733,7 +601,7 @@
                           "explanation":  "Contactless Card is defined as: card enabling tap transactions via NFC interface."
                       },
                       {
-                          "id":  62,
+                          "id":  51,
                           "question":  "What is the most accurate description of \u0027Contactless Card\u0027?",
                           "options":  [
                                           "matching ATM journal, switch, and core banking records",
@@ -745,7 +613,7 @@
                           "explanation":  "Contactless Card refers to: card enabling tap transactions via NFC interface."
                       },
                       {
-                          "id":  63,
+                          "id":  52,
                           "question":  "\u0027Contactless Card\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -757,19 +625,7 @@
                           "explanation":  "Contactless Card is mainly part of Card Technologies."
                       },
                       {
-                          "id":  64,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Switch -\u003e card enabling tap transactions via NFC interface",
-                                          "Skimming -\u003e card enabling tap transactions via NFC interface",
-                                          "Contactless Card -\u003e card enabling tap transactions via NFC interface",
-                                          "PAN -\u003e card enabling tap transactions via NFC interface"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Contactless Card -\u003e card enabling tap transactions via NFC interface\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  65,
+                          "id":  53,
                           "question":  "A Bank SO IT ATM operations requirement states: card enabling tap transactions via NFC interface. Which concept should be selected?",
                           "options":  [
                                           "EMV Chip Card",
@@ -781,7 +637,7 @@
                           "explanation":  "The requirement directly points to Contactless Card."
                       },
                       {
-                          "id":  66,
+                          "id":  54,
                           "question":  "Which ATM/Card concept best matches: card verification value printed for card-not-present checks?",
                           "options":  [
                                           "Cash Deposit",
@@ -793,7 +649,7 @@
                           "explanation":  "CVV is defined as: card verification value printed for card-not-present checks."
                       },
                       {
-                          "id":  67,
+                          "id":  55,
                           "question":  "What is the most accurate description of \u0027CVV\u0027?",
                           "options":  [
                                           "card verification value printed for card-not-present checks",
@@ -805,7 +661,7 @@
                           "explanation":  "CVV refers to: card verification value printed for card-not-present checks."
                       },
                       {
-                          "id":  68,
+                          "id":  56,
                           "question":  "\u0027CVV\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Transactions",
@@ -817,19 +673,7 @@
                           "explanation":  "CVV is mainly part of Card Technologies."
                       },
                       {
-                          "id":  69,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "CVV -\u003e card verification value printed for card-not-present checks",
-                                          "HSM -\u003e card verification value printed for card-not-present checks",
-                                          "Acquirer -\u003e card verification value printed for card-not-present checks",
-                                          "Dynamic CVV -\u003e card verification value printed for card-not-present checks"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027CVV -\u003e card verification value printed for card-not-present checks\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  70,
+                          "id":  57,
                           "question":  "A Bank SO IT ATM operations requirement states: card verification value printed for card-not-present checks. Which concept should be selected?",
                           "options":  [
                                           "CVV",
@@ -841,7 +685,7 @@
                           "explanation":  "The requirement directly points to CVV."
                       },
                       {
-                          "id":  71,
+                          "id":  58,
                           "question":  "Which ATM/Card concept best matches: date after which card is no longer valid?",
                           "options":  [
                                           "Card BIN",
@@ -853,7 +697,7 @@
                           "explanation":  "Expiry Date is defined as: date after which card is no longer valid."
                       },
                       {
-                          "id":  72,
+                          "id":  59,
                           "question":  "What is the most accurate description of \u0027Expiry Date\u0027?",
                           "options":  [
                                           "advanced technical repair and hardware replacement support",
@@ -865,7 +709,7 @@
                           "explanation":  "Expiry Date refers to: date after which card is no longer valid."
                       },
                       {
-                          "id":  73,
+                          "id":  60,
                           "question":  "\u0027Expiry Date\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Fundamentals",
@@ -877,19 +721,7 @@
                           "explanation":  "Expiry Date is mainly part of Card Technologies."
                       },
                       {
-                          "id":  74,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Card Issuer -\u003e date after which card is no longer valid",
-                                          "HSM -\u003e date after which card is no longer valid",
-                                          "Expiry Date -\u003e date after which card is no longer valid",
-                                          "Decline -\u003e date after which card is no longer valid"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Expiry Date -\u003e date after which card is no longer valid\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  75,
+                          "id":  61,
                           "question":  "A Bank SO IT ATM operations requirement states: date after which card is no longer valid. Which concept should be selected?",
                           "options":  [
                                           "Geolocation Check",
@@ -901,7 +733,7 @@
                           "explanation":  "The requirement directly points to Expiry Date."
                       },
                       {
-                          "id":  76,
+                          "id":  62,
                           "question":  "Which ATM/Card concept best matches: replacement of PAN with surrogate token for safety?",
                           "options":  [
                                           "Velocity Check",
@@ -913,7 +745,7 @@
                           "explanation":  "Card Tokenization is defined as: replacement of PAN with surrogate token for safety."
                       },
                       {
-                          "id":  77,
+                          "id":  63,
                           "question":  "What is the most accurate description of \u0027Card Tokenization\u0027?",
                           "options":  [
                                           "bank that issues debit or credit card to customer",
@@ -925,7 +757,7 @@
                           "explanation":  "Card Tokenization refers to: replacement of PAN with surrogate token for safety."
                       },
                       {
-                          "id":  78,
+                          "id":  64,
                           "question":  "\u0027Card Tokenization\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -937,19 +769,7 @@
                           "explanation":  "Card Tokenization is mainly part of Card Technologies."
                       },
                       {
-                          "id":  79,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Card Tokenization -\u003e replacement of PAN with surrogate token for safety",
-                                          "Card Hotlisting -\u003e replacement of PAN with surrogate token for safety",
-                                          "Timeout -\u003e replacement of PAN with surrogate token for safety",
-                                          "PIN Change -\u003e replacement of PAN with surrogate token for safety"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Card Tokenization -\u003e replacement of PAN with surrogate token for safety\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  80,
+                          "id":  65,
                           "question":  "A Bank SO IT ATM operations requirement states: replacement of PAN with surrogate token for safety. Which concept should be selected?",
                           "options":  [
                                           "Magnetic Stripe Card",
@@ -961,7 +781,7 @@
                           "explanation":  "The requirement directly points to Card Tokenization."
                       },
                       {
-                          "id":  81,
+                          "id":  66,
                           "question":  "Which ATM/Card concept best matches: primary account number uniquely identifying card account?",
                           "options":  [
                                           "PAN",
@@ -973,7 +793,7 @@
                           "explanation":  "PAN is defined as: primary account number uniquely identifying card account."
                       },
                       {
-                          "id":  82,
+                          "id":  67,
                           "question":  "What is the most accurate description of \u0027PAN\u0027?",
                           "options":  [
                                           "issuer approval step for ATM/card transaction",
@@ -985,7 +805,7 @@
                           "explanation":  "PAN refers to: primary account number uniquely identifying card account."
                       },
                       {
-                          "id":  83,
+                          "id":  68,
                           "question":  "\u0027PAN\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Fundamentals",
@@ -997,19 +817,7 @@
                           "explanation":  "PAN is mainly part of Card Technologies."
                       },
                       {
-                          "id":  84,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Timeout -\u003e primary account number uniquely identifying card account",
-                                          "PAN -\u003e primary account number uniquely identifying card account",
-                                          "Downtime Management -\u003e primary account number uniquely identifying card account",
-                                          "Switch -\u003e primary account number uniquely identifying card account"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027PAN -\u003e primary account number uniquely identifying card account\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  85,
+                          "id":  69,
                           "question":  "A Bank SO IT ATM operations requirement states: primary account number uniquely identifying card account. Which concept should be selected?",
                           "options":  [
                                           "Contactless Card",
@@ -1021,7 +829,7 @@
                           "explanation":  "The requirement directly points to PAN."
                       },
                       {
-                          "id":  86,
+                          "id":  70,
                           "question":  "Which ATM/Card concept best matches: PIN verification performed by card/chip without host call?",
                           "options":  [
                                           "Offline PIN",
@@ -1033,7 +841,7 @@
                           "explanation":  "Offline PIN is defined as: PIN verification performed by card/chip without host call."
                       },
                       {
-                          "id":  87,
+                          "id":  71,
                           "question":  "What is the most accurate description of \u0027Offline PIN\u0027?",
                           "options":  [
                                           "ATM transaction printing recent account entries",
@@ -1045,7 +853,7 @@
                           "explanation":  "Offline PIN refers to: PIN verification performed by card/chip without host call."
                       },
                       {
-                          "id":  88,
+                          "id":  72,
                           "question":  "\u0027Offline PIN\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Fundamentals",
@@ -1057,19 +865,7 @@
                           "explanation":  "Offline PIN is mainly part of Card Technologies."
                       },
                       {
-                          "id":  89,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Offline PIN -\u003e PIN verification performed by card/chip without host call",
-                                          "ATM -\u003e PIN verification performed by card/chip without host call",
-                                          "EMV Chip Card -\u003e PIN verification performed by card/chip without host call",
-                                          "PCI DSS -\u003e PIN verification performed by card/chip without host call"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Offline PIN -\u003e PIN verification performed by card/chip without host call\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  90,
+                          "id":  73,
                           "question":  "A Bank SO IT ATM operations requirement states: PIN verification performed by card/chip without host call. Which concept should be selected?",
                           "options":  [
                                           "Expiry Date",
@@ -1081,7 +877,7 @@
                           "explanation":  "The requirement directly points to Offline PIN."
                       },
                       {
-                          "id":  91,
+                          "id":  74,
                           "question":  "Which ATM/Card concept best matches: PIN verification performed by issuer host system?",
                           "options":  [
                                           "Contactless Card",
@@ -1093,7 +889,7 @@
                           "explanation":  "Online PIN is defined as: PIN verification performed by issuer host system."
                       },
                       {
-                          "id":  92,
+                          "id":  75,
                           "question":  "What is the most accurate description of \u0027Online PIN\u0027?",
                           "options":  [
                                           "fraud method where card is retained by manipulated ATM slot",
@@ -1105,7 +901,7 @@
                           "explanation":  "Online PIN refers to: PIN verification performed by issuer host system."
                       },
                       {
-                          "id":  93,
+                          "id":  76,
                           "question":  "\u0027Online PIN\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -1117,19 +913,7 @@
                           "explanation":  "Online PIN is mainly part of Card Technologies."
                       },
                       {
-                          "id":  94,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Online PIN -\u003e PIN verification performed by issuer host system",
-                                          "Fund Transfer -\u003e PIN verification performed by issuer host system",
-                                          "ATM -\u003e PIN verification performed by issuer host system",
-                                          "Cash Deposit -\u003e PIN verification performed by issuer host system"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Online PIN -\u003e PIN verification performed by issuer host system\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  95,
+                          "id":  77,
                           "question":  "A Bank SO IT ATM operations requirement states: PIN verification performed by issuer host system. Which concept should be selected?",
                           "options":  [
                                           "Online PIN",
@@ -1141,7 +925,7 @@
                           "explanation":  "The requirement directly points to Online PIN."
                       },
                       {
-                          "id":  96,
+                          "id":  78,
                           "question":  "Which ATM/Card concept best matches: time-varying CVV generated to reduce card fraud?",
                           "options":  [
                                           "Dynamic CVV",
@@ -1153,7 +937,7 @@
                           "explanation":  "Dynamic CVV is defined as: time-varying CVV generated to reduce card fraud."
                       },
                       {
-                          "id":  97,
+                          "id":  79,
                           "question":  "What is the most accurate description of \u0027Dynamic CVV\u0027?",
                           "options":  [
                                           "fraud control detecting unusual transaction frequency/pattern",
@@ -1165,7 +949,7 @@
                           "explanation":  "Dynamic CVV refers to: time-varying CVV generated to reduce card fraud."
                       },
                       {
-                          "id":  98,
+                          "id":  80,
                           "question":  "\u0027Dynamic CVV\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Transactions",
@@ -1177,19 +961,7 @@
                           "explanation":  "Dynamic CVV is mainly part of Card Technologies."
                       },
                       {
-                          "id":  99,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Dynamic CVV -\u003e time-varying CVV generated to reduce card fraud",
-                                          "PIN Block -\u003e time-varying CVV generated to reduce card fraud",
-                                          "Key Management -\u003e time-varying CVV generated to reduce card fraud",
-                                          "PIN -\u003e time-varying CVV generated to reduce card fraud"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Dynamic CVV -\u003e time-varying CVV generated to reduce card fraud\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  100,
+                          "id":  81,
                           "question":  "A Bank SO IT ATM operations requirement states: time-varying CVV generated to reduce card fraud. Which concept should be selected?",
                           "options":  [
                                           "Track Data",
@@ -1201,7 +973,7 @@
                           "explanation":  "The requirement directly points to Dynamic CVV."
                       },
                       {
-                          "id":  101,
+                          "id":  82,
                           "question":  "Which ATM/Card concept best matches: ATM transaction where customer receives cash amount?",
                           "options":  [
                                           "PIN Change",
@@ -1213,7 +985,7 @@
                           "explanation":  "Cash Withdrawal is defined as: ATM transaction where customer receives cash amount."
                       },
                       {
-                          "id":  102,
+                          "id":  83,
                           "question":  "What is the most accurate description of \u0027Cash Withdrawal\u0027?",
                           "options":  [
                                           "magnetic stripe data used for card transaction processing",
@@ -1225,7 +997,7 @@
                           "explanation":  "Cash Withdrawal refers to: ATM transaction where customer receives cash amount."
                       },
                       {
-                          "id":  103,
+                          "id":  84,
                           "question":  "\u0027Cash Withdrawal\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -1237,19 +1009,7 @@
                           "explanation":  "Cash Withdrawal is mainly part of ATM Transactions."
                       },
                       {
-                          "id":  104,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "ATM Monitoring -\u003e ATM transaction where customer receives cash amount",
-                                          "PCI DSS -\u003e ATM transaction where customer receives cash amount",
-                                          "Contactless Card -\u003e ATM transaction where customer receives cash amount",
-                                          "Cash Withdrawal -\u003e ATM transaction where customer receives cash amount"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Cash Withdrawal -\u003e ATM transaction where customer receives cash amount\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  105,
+                          "id":  85,
                           "question":  "A Bank SO IT ATM operations requirement states: ATM transaction where customer receives cash amount. Which concept should be selected?",
                           "options":  [
                                           "PIN Change",
@@ -1261,7 +1021,7 @@
                           "explanation":  "The requirement directly points to Cash Withdrawal."
                       },
                       {
-                          "id":  106,
+                          "id":  86,
                           "question":  "Which ATM/Card concept best matches: ATM transaction retrieving account available balance?",
                           "options":  [
                                           "Card Trapping",
@@ -1273,7 +1033,7 @@
                           "explanation":  "Balance Enquiry is defined as: ATM transaction retrieving account available balance."
                       },
                       {
-                          "id":  107,
+                          "id":  87,
                           "question":  "What is the most accurate description of \u0027Balance Enquiry\u0027?",
                           "options":  [
                                           "message undoing previous failed or incomplete transaction",
@@ -1285,7 +1045,7 @@
                           "explanation":  "Balance Enquiry refers to: ATM transaction retrieving account available balance."
                       },
                       {
-                          "id":  108,
+                          "id":  88,
                           "question":  "\u0027Balance Enquiry\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -1297,19 +1057,7 @@
                           "explanation":  "Balance Enquiry is mainly part of ATM Transactions."
                       },
                       {
-                          "id":  109,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Geolocation Check -\u003e ATM transaction retrieving account available balance",
-                                          "CVV -\u003e ATM transaction retrieving account available balance",
-                                          "Dispute -\u003e ATM transaction retrieving account available balance",
-                                          "Balance Enquiry -\u003e ATM transaction retrieving account available balance"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Balance Enquiry -\u003e ATM transaction retrieving account available balance\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  110,
+                          "id":  89,
                           "question":  "A Bank SO IT ATM operations requirement states: ATM transaction retrieving account available balance. Which concept should be selected?",
                           "options":  [
                                           "First Line Maintenance",
@@ -1321,7 +1069,7 @@
                           "explanation":  "The requirement directly points to Balance Enquiry."
                       },
                       {
-                          "id":  111,
+                          "id":  90,
                           "question":  "Which ATM/Card concept best matches: ATM transaction printing recent account entries?",
                           "options":  [
                                           "Card BIN",
@@ -1333,7 +1081,7 @@
                           "explanation":  "Mini Statement is defined as: ATM transaction printing recent account entries."
                       },
                       {
-                          "id":  112,
+                          "id":  91,
                           "question":  "What is the most accurate description of \u0027Mini Statement\u0027?",
                           "options":  [
                                           "bank that issues debit or credit card to customer",
@@ -1345,7 +1093,7 @@
                           "explanation":  "Mini Statement refers to: ATM transaction printing recent account entries."
                       },
                       {
-                          "id":  113,
+                          "id":  92,
                           "question":  "\u0027Mini Statement\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Transactions",
@@ -1357,19 +1105,7 @@
                           "explanation":  "Mini Statement is mainly part of ATM Transactions."
                       },
                       {
-                          "id":  114,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Mini Statement -\u003e ATM transaction printing recent account entries",
-                                          "First Line Maintenance -\u003e ATM transaction printing recent account entries",
-                                          "Contactless Card -\u003e ATM transaction printing recent account entries",
-                                          "Downtime Management -\u003e ATM transaction printing recent account entries"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Mini Statement -\u003e ATM transaction printing recent account entries\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  115,
+                          "id":  93,
                           "question":  "A Bank SO IT ATM operations requirement states: ATM transaction printing recent account entries. Which concept should be selected?",
                           "options":  [
                                           "Mini Statement",
@@ -1381,7 +1117,7 @@
                           "explanation":  "The requirement directly points to Mini Statement."
                       },
                       {
-                          "id":  116,
+                          "id":  94,
                           "question":  "Which ATM/Card concept best matches: ATM feature allowing customer to reset card PIN?",
                           "options":  [
                                           "Velocity Check",
@@ -1393,7 +1129,7 @@
                           "explanation":  "PIN Change is defined as: ATM feature allowing customer to reset card PIN."
                       },
                       {
-                          "id":  117,
+                          "id":  95,
                           "question":  "What is the most accurate description of \u0027PIN Change\u0027?",
                           "options":  [
                                           "ATM transaction printing recent account entries",
@@ -1405,7 +1141,7 @@
                           "explanation":  "PIN Change refers to: ATM feature allowing customer to reset card PIN."
                       },
                       {
-                          "id":  118,
+                          "id":  96,
                           "question":  "\u0027PIN Change\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Card Technologies",
@@ -1417,19 +1153,7 @@
                           "explanation":  "PIN Change is mainly part of ATM Transactions."
                       },
                       {
-                          "id":  119,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "PIN -\u003e ATM feature allowing customer to reset card PIN",
-                                          "PIN Change -\u003e ATM feature allowing customer to reset card PIN",
-                                          "ATM Monitoring -\u003e ATM feature allowing customer to reset card PIN",
-                                          "Second Line Maintenance -\u003e ATM feature allowing customer to reset card PIN"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027PIN Change -\u003e ATM feature allowing customer to reset card PIN\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  120,
+                          "id":  97,
                           "question":  "A Bank SO IT ATM operations requirement states: ATM feature allowing customer to reset card PIN. Which concept should be selected?",
                           "options":  [
                                           "Acquirer",
@@ -1441,7 +1165,7 @@
                           "explanation":  "The requirement directly points to PIN Change."
                       },
                       {
-                          "id":  121,
+                          "id":  98,
                           "question":  "Which ATM/Card concept best matches: ATM transaction crediting account with deposited cash?",
                           "options":  [
                                           "Cash Deposit",
@@ -1453,7 +1177,7 @@
                           "explanation":  "Cash Deposit is defined as: ATM transaction crediting account with deposited cash."
                       },
                       {
-                          "id":  122,
+                          "id":  99,
                           "question":  "What is the most accurate description of \u0027Cash Deposit\u0027?",
                           "options":  [
                                           "physical cover helping secure PIN entry privacy",
@@ -1465,7 +1189,7 @@
                           "explanation":  "Cash Deposit refers to: ATM transaction crediting account with deposited cash."
                       },
                       {
-                          "id":  123,
+                          "id":  100,
                           "question":  "\u0027Cash Deposit\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Transactions",
@@ -1477,19 +1201,7 @@
                           "explanation":  "Cash Deposit is mainly part of ATM Transactions."
                       },
                       {
-                          "id":  124,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Contactless Card -\u003e ATM transaction crediting account with deposited cash",
-                                          "Cash Deposit -\u003e ATM transaction crediting account with deposited cash",
-                                          "Card Trapping -\u003e ATM transaction crediting account with deposited cash",
-                                          "Mini Statement -\u003e ATM transaction crediting account with deposited cash"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Cash Deposit -\u003e ATM transaction crediting account with deposited cash\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  125,
+                          "id":  101,
                           "question":  "A Bank SO IT ATM operations requirement states: ATM transaction crediting account with deposited cash. Which concept should be selected?",
                           "options":  [
                                           "Velocity Check",
@@ -1501,7 +1213,7 @@
                           "explanation":  "The requirement directly points to Cash Deposit."
                       },
                       {
-                          "id":  126,
+                          "id":  102,
                           "question":  "Which ATM/Card concept best matches: ATM transaction transferring amount between accounts?",
                           "options":  [
                                           "Fund Transfer",
@@ -1513,7 +1225,7 @@
                           "explanation":  "Fund Transfer is defined as: ATM transaction transferring amount between accounts."
                       },
                       {
-                          "id":  127,
+                          "id":  103,
                           "question":  "What is the most accurate description of \u0027Fund Transfer\u0027?",
                           "options":  [
                                           "ATM transaction transferring amount between accounts",
@@ -1525,7 +1237,7 @@
                           "explanation":  "Fund Transfer refers to: ATM transaction transferring amount between accounts."
                       },
                       {
-                          "id":  128,
+                          "id":  104,
                           "question":  "\u0027Fund Transfer\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Fundamentals",
@@ -1537,19 +1249,7 @@
                           "explanation":  "Fund Transfer is mainly part of ATM Transactions."
                       },
                       {
-                          "id":  129,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Card Issuer -\u003e ATM transaction transferring amount between accounts",
-                                          "Fund Transfer -\u003e ATM transaction transferring amount between accounts",
-                                          "Card Trapping -\u003e ATM transaction transferring amount between accounts",
-                                          "Second Line Maintenance -\u003e ATM transaction transferring amount between accounts"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Fund Transfer -\u003e ATM transaction transferring amount between accounts\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  130,
+                          "id":  105,
                           "question":  "A Bank SO IT ATM operations requirement states: ATM transaction transferring amount between accounts. Which concept should be selected?",
                           "options":  [
                                           "Card BIN",
@@ -1561,7 +1261,7 @@
                           "explanation":  "The requirement directly points to Fund Transfer."
                       },
                       {
-                          "id":  131,
+                          "id":  106,
                           "question":  "Which ATM/Card concept best matches: transaction response indicating authorization failure?",
                           "options":  [
                                           "PCI DSS",
@@ -1573,7 +1273,7 @@
                           "explanation":  "Decline is defined as: transaction response indicating authorization failure."
                       },
                       {
-                          "id":  132,
+                          "id":  107,
                           "question":  "What is the most accurate description of \u0027Decline\u0027?",
                           "options":  [
                                           "ATM transaction where customer receives cash amount",
@@ -1585,7 +1285,7 @@
                           "explanation":  "Decline refers to: transaction response indicating authorization failure."
                       },
                       {
-                          "id":  133,
+                          "id":  108,
                           "question":  "\u0027Decline\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Transactions",
@@ -1597,19 +1297,7 @@
                           "explanation":  "Decline is mainly part of ATM Transactions."
                       },
                       {
-                          "id":  134,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Remote Key Loading -\u003e transaction response indicating authorization failure",
-                                          "Dispute -\u003e transaction response indicating authorization failure",
-                                          "Decline -\u003e transaction response indicating authorization failure",
-                                          "Key Management -\u003e transaction response indicating authorization failure"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Decline -\u003e transaction response indicating authorization failure\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  135,
+                          "id":  109,
                           "question":  "A Bank SO IT ATM operations requirement states: transaction response indicating authorization failure. Which concept should be selected?",
                           "options":  [
                                           "Decline",
@@ -1621,7 +1309,7 @@
                           "explanation":  "The requirement directly points to Decline."
                       },
                       {
-                          "id":  136,
+                          "id":  110,
                           "question":  "Which ATM/Card concept best matches: transaction failure due to delayed or missing response?",
                           "options":  [
                                           "Fund Transfer",
@@ -1633,7 +1321,7 @@
                           "explanation":  "Timeout is defined as: transaction failure due to delayed or missing response."
                       },
                       {
-                          "id":  137,
+                          "id":  111,
                           "question":  "What is the most accurate description of \u0027Timeout\u0027?",
                           "options":  [
                                           "secure lifecycle management of cryptographic keys",
@@ -1645,7 +1333,7 @@
                           "explanation":  "Timeout refers to: transaction failure due to delayed or missing response."
                       },
                       {
-                          "id":  138,
+                          "id":  112,
                           "question":  "\u0027Timeout\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Fundamentals",
@@ -1657,19 +1345,7 @@
                           "explanation":  "Timeout is mainly part of ATM Transactions."
                       },
                       {
-                          "id":  139,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Track Data -\u003e transaction failure due to delayed or missing response",
-                                          "Reconciliation -\u003e transaction failure due to delayed or missing response",
-                                          "Timeout -\u003e transaction failure due to delayed or missing response",
-                                          "Velocity Check -\u003e transaction failure due to delayed or missing response"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Timeout -\u003e transaction failure due to delayed or missing response\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  140,
+                          "id":  113,
                           "question":  "A Bank SO IT ATM operations requirement states: transaction failure due to delayed or missing response. Which concept should be selected?",
                           "options":  [
                                           "ATM Jackpotting",
@@ -1681,7 +1357,7 @@
                           "explanation":  "The requirement directly points to Timeout."
                       },
                       {
-                          "id":  141,
+                          "id":  114,
                           "question":  "Which ATM/Card concept best matches: ATM cash payout issue where full amount not dispensed?",
                           "options":  [
                                           "Online PIN",
@@ -1693,7 +1369,7 @@
                           "explanation":  "Partial Dispense is defined as: ATM cash payout issue where full amount not dispensed."
                       },
                       {
-                          "id":  142,
+                          "id":  115,
                           "question":  "What is the most accurate description of \u0027Partial Dispense\u0027?",
                           "options":  [
                                           "physical cover helping secure PIN entry privacy",
@@ -1705,7 +1381,7 @@
                           "explanation":  "Partial Dispense refers to: ATM cash payout issue where full amount not dispensed."
                       },
                       {
-                          "id":  143,
+                          "id":  116,
                           "question":  "\u0027Partial Dispense\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Operations and Compliance",
@@ -1717,19 +1393,7 @@
                           "explanation":  "Partial Dispense is mainly part of ATM Transactions."
                       },
                       {
-                          "id":  144,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Partial Dispense -\u003e ATM cash payout issue where full amount not dispensed",
-                                          "Shoulder Surfing -\u003e ATM cash payout issue where full amount not dispensed",
-                                          "EMV Chip Card -\u003e ATM cash payout issue where full amount not dispensed",
-                                          "Switch -\u003e ATM cash payout issue where full amount not dispensed"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Partial Dispense -\u003e ATM cash payout issue where full amount not dispensed\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  145,
+                          "id":  117,
                           "question":  "A Bank SO IT ATM operations requirement states: ATM cash payout issue where full amount not dispensed. Which concept should be selected?",
                           "options":  [
                                           "ATM Jackpotting",
@@ -1741,7 +1405,7 @@
                           "explanation":  "The requirement directly points to Partial Dispense."
                       },
                       {
-                          "id":  146,
+                          "id":  118,
                           "question":  "Which ATM/Card concept best matches: customer complaint for mismatched or failed ATM/card transaction?",
                           "options":  [
                                           "Cash Deposit",
@@ -1753,7 +1417,7 @@
                           "explanation":  "Dispute is defined as: customer complaint for mismatched or failed ATM/card transaction."
                       },
                       {
-                          "id":  147,
+                          "id":  119,
                           "question":  "What is the most accurate description of \u0027Dispute\u0027?",
                           "options":  [
                                           "secure lifecycle management of cryptographic keys",
@@ -1765,7 +1429,7 @@
                           "explanation":  "Dispute refers to: customer complaint for mismatched or failed ATM/card transaction."
                       },
                       {
-                          "id":  148,
+                          "id":  120,
                           "question":  "\u0027Dispute\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Operations and Compliance",
@@ -1777,19 +1441,7 @@
                           "explanation":  "Dispute is mainly part of ATM Transactions."
                       },
                       {
-                          "id":  149,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Dispute -\u003e customer complaint for mismatched or failed ATM/card transaction",
-                                          "First Line Maintenance -\u003e customer complaint for mismatched or failed ATM/card transaction",
-                                          "Expiry Date -\u003e customer complaint for mismatched or failed ATM/card transaction",
-                                          "Decline -\u003e customer complaint for mismatched or failed ATM/card transaction"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Dispute -\u003e customer complaint for mismatched or failed ATM/card transaction\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  150,
+                          "id":  121,
                           "question":  "A Bank SO IT ATM operations requirement states: customer complaint for mismatched or failed ATM/card transaction. Which concept should be selected?",
                           "options":  [
                                           "ATM Monitoring",
@@ -1801,7 +1453,7 @@
                           "explanation":  "The requirement directly points to Dispute."
                       },
                       {
-                          "id":  151,
+                          "id":  122,
                           "question":  "Which ATM/Card concept best matches: fraud technique stealing card stripe data using hidden device?",
                           "options":  [
                                           "PIN",
@@ -1813,7 +1465,7 @@
                           "explanation":  "Skimming is defined as: fraud technique stealing card stripe data using hidden device."
                       },
                       {
-                          "id":  152,
+                          "id":  123,
                           "question":  "What is the most accurate description of \u0027Skimming\u0027?",
                           "options":  [
                                           "secure lifecycle management of cryptographic keys",
@@ -1825,7 +1477,7 @@
                           "explanation":  "Skimming refers to: fraud technique stealing card stripe data using hidden device."
                       },
                       {
-                          "id":  153,
+                          "id":  124,
                           "question":  "\u0027Skimming\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -1837,19 +1489,7 @@
                           "explanation":  "Skimming is mainly part of Security and Fraud."
                       },
                       {
-                          "id":  154,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Partial Dispense -\u003e fraud technique stealing card stripe data using hidden device",
-                                          "Second Line Maintenance -\u003e fraud technique stealing card stripe data using hidden device",
-                                          "Fund Transfer -\u003e fraud technique stealing card stripe data using hidden device",
-                                          "Skimming -\u003e fraud technique stealing card stripe data using hidden device"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Skimming -\u003e fraud technique stealing card stripe data using hidden device\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  155,
+                          "id":  125,
                           "question":  "A Bank SO IT ATM operations requirement states: fraud technique stealing card stripe data using hidden device. Which concept should be selected?",
                           "options":  [
                                           "PIN",
@@ -1861,7 +1501,7 @@
                           "explanation":  "The requirement directly points to Skimming."
                       },
                       {
-                          "id":  156,
+                          "id":  126,
                           "question":  "Which ATM/Card concept best matches: fraud method where card is retained by manipulated ATM slot?",
                           "options":  [
                                           "Card Trapping",
@@ -1873,7 +1513,7 @@
                           "explanation":  "Card Trapping is defined as: fraud method where card is retained by manipulated ATM slot."
                       },
                       {
-                          "id":  157,
+                          "id":  127,
                           "question":  "What is the most accurate description of \u0027Card Trapping\u0027?",
                           "options":  [
                                           "fraud method where card is retained by manipulated ATM slot",
@@ -1885,7 +1525,7 @@
                           "explanation":  "Card Trapping refers to: fraud method where card is retained by manipulated ATM slot."
                       },
                       {
-                          "id":  158,
+                          "id":  128,
                           "question":  "\u0027Card Trapping\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Card Technologies",
@@ -1897,19 +1537,7 @@
                           "explanation":  "Card Trapping is mainly part of Security and Fraud."
                       },
                       {
-                          "id":  159,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Card Trapping -\u003e fraud method where card is retained by manipulated ATM slot",
-                                          "PIN Change -\u003e fraud method where card is retained by manipulated ATM slot",
-                                          "Reconciliation -\u003e fraud method where card is retained by manipulated ATM slot",
-                                          "Cash Trapping -\u003e fraud method where card is retained by manipulated ATM slot"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Card Trapping -\u003e fraud method where card is retained by manipulated ATM slot\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  160,
+                          "id":  129,
                           "question":  "A Bank SO IT ATM operations requirement states: fraud method where card is retained by manipulated ATM slot. Which concept should be selected?",
                           "options":  [
                                           "Card Trapping",
@@ -1921,7 +1549,7 @@
                           "explanation":  "The requirement directly points to Card Trapping."
                       },
                       {
-                          "id":  161,
+                          "id":  130,
                           "question":  "Which ATM/Card concept best matches: fraud method preventing dispensed cash from reaching customer?",
                           "options":  [
                                           "Dispute",
@@ -1933,7 +1561,7 @@
                           "explanation":  "Cash Trapping is defined as: fraud method preventing dispensed cash from reaching customer."
                       },
                       {
-                          "id":  162,
+                          "id":  131,
                           "question":  "What is the most accurate description of \u0027Cash Trapping\u0027?",
                           "options":  [
                                           "magnetic stripe data used for card transaction processing",
@@ -1945,7 +1573,7 @@
                           "explanation":  "Cash Trapping refers to: fraud method preventing dispensed cash from reaching customer."
                       },
                       {
-                          "id":  163,
+                          "id":  132,
                           "question":  "\u0027Cash Trapping\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -1957,19 +1585,7 @@
                           "explanation":  "Cash Trapping is mainly part of Security and Fraud."
                       },
                       {
-                          "id":  164,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Card BIN -\u003e fraud method preventing dispensed cash from reaching customer",
-                                          "Cash Trapping -\u003e fraud method preventing dispensed cash from reaching customer",
-                                          "Reconciliation -\u003e fraud method preventing dispensed cash from reaching customer",
-                                          "ATM Monitoring -\u003e fraud method preventing dispensed cash from reaching customer"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Cash Trapping -\u003e fraud method preventing dispensed cash from reaching customer\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  165,
+                          "id":  133,
                           "question":  "A Bank SO IT ATM operations requirement states: fraud method preventing dispensed cash from reaching customer. Which concept should be selected?",
                           "options":  [
                                           "Cash Trapping",
@@ -1981,7 +1597,7 @@
                           "explanation":  "The requirement directly points to Cash Trapping."
                       },
                       {
-                          "id":  166,
+                          "id":  134,
                           "question":  "Which ATM/Card concept best matches: observing cardholder PIN entry to steal credentials?",
                           "options":  [
                                           "Anti-Skimming Device",
@@ -1993,7 +1609,7 @@
                           "explanation":  "Shoulder Surfing is defined as: observing cardholder PIN entry to steal credentials."
                       },
                       {
-                          "id":  167,
+                          "id":  135,
                           "question":  "What is the most accurate description of \u0027Shoulder Surfing\u0027?",
                           "options":  [
                                           "observing cardholder PIN entry to steal credentials",
@@ -2005,7 +1621,7 @@
                           "explanation":  "Shoulder Surfing refers to: observing cardholder PIN entry to steal credentials."
                       },
                       {
-                          "id":  168,
+                          "id":  136,
                           "question":  "\u0027Shoulder Surfing\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Card Technologies",
@@ -2017,19 +1633,7 @@
                           "explanation":  "Shoulder Surfing is mainly part of Security and Fraud."
                       },
                       {
-                          "id":  169,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Magnetic Stripe Card -\u003e observing cardholder PIN entry to steal credentials",
-                                          "PIN Block -\u003e observing cardholder PIN entry to steal credentials",
-                                          "Shoulder Surfing -\u003e observing cardholder PIN entry to steal credentials",
-                                          "Card BIN -\u003e observing cardholder PIN entry to steal credentials"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Shoulder Surfing -\u003e observing cardholder PIN entry to steal credentials\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  170,
+                          "id":  137,
                           "question":  "A Bank SO IT ATM operations requirement states: observing cardholder PIN entry to steal credentials. Which concept should be selected?",
                           "options":  [
                                           "ATM",
@@ -2041,7 +1645,7 @@
                           "explanation":  "The requirement directly points to Shoulder Surfing."
                       },
                       {
-                          "id":  171,
+                          "id":  138,
                           "question":  "Which ATM/Card concept best matches: malware-based unauthorized forced cash dispensing attack?",
                           "options":  [
                                           "Card Trapping",
@@ -2053,7 +1657,7 @@
                           "explanation":  "ATM Jackpotting is defined as: malware-based unauthorized forced cash dispensing attack."
                       },
                       {
-                          "id":  172,
+                          "id":  139,
                           "question":  "What is the most accurate description of \u0027ATM Jackpotting\u0027?",
                           "options":  [
                                           "physical cover helping secure PIN entry privacy",
@@ -2065,7 +1669,7 @@
                           "explanation":  "ATM Jackpotting refers to: malware-based unauthorized forced cash dispensing attack."
                       },
                       {
-                          "id":  173,
+                          "id":  140,
                           "question":  "\u0027ATM Jackpotting\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Fundamentals",
@@ -2077,19 +1681,7 @@
                           "explanation":  "ATM Jackpotting is mainly part of Security and Fraud."
                       },
                       {
-                          "id":  174,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Fund Transfer -\u003e malware-based unauthorized forced cash dispensing attack",
-                                          "ATM Jackpotting -\u003e malware-based unauthorized forced cash dispensing attack",
-                                          "Track Data -\u003e malware-based unauthorized forced cash dispensing attack",
-                                          "Card Issuer -\u003e malware-based unauthorized forced cash dispensing attack"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027ATM Jackpotting -\u003e malware-based unauthorized forced cash dispensing attack\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  175,
+                          "id":  141,
                           "question":  "A Bank SO IT ATM operations requirement states: malware-based unauthorized forced cash dispensing attack. Which concept should be selected?",
                           "options":  [
                                           "Decline",
@@ -2101,7 +1693,7 @@
                           "explanation":  "The requirement directly points to ATM Jackpotting."
                       },
                       {
-                          "id":  176,
+                          "id":  142,
                           "question":  "Which ATM/Card concept best matches: ATM hardware protection against card skimming attempts?",
                           "options":  [
                                           "PIN Block",
@@ -2113,7 +1705,7 @@
                           "explanation":  "Anti-Skimming Device is defined as: ATM hardware protection against card skimming attempts."
                       },
                       {
-                          "id":  177,
+                          "id":  143,
                           "question":  "What is the most accurate description of \u0027Anti-Skimming Device\u0027?",
                           "options":  [
                                           "matching ATM journal, switch, and core banking records",
@@ -2125,7 +1717,7 @@
                           "explanation":  "Anti-Skimming Device refers to: ATM hardware protection against card skimming attempts."
                       },
                       {
-                          "id":  178,
+                          "id":  144,
                           "question":  "\u0027Anti-Skimming Device\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Fundamentals",
@@ -2137,19 +1729,7 @@
                           "explanation":  "Anti-Skimming Device is mainly part of Security and Fraud."
                       },
                       {
-                          "id":  179,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Key Management -\u003e ATM hardware protection against card skimming attempts",
-                                          "Anti-Skimming Device -\u003e ATM hardware protection against card skimming attempts",
-                                          "Second Line Maintenance -\u003e ATM hardware protection against card skimming attempts",
-                                          "PIN Change -\u003e ATM hardware protection against card skimming attempts"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Anti-Skimming Device -\u003e ATM hardware protection against card skimming attempts\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  180,
+                          "id":  145,
                           "question":  "A Bank SO IT ATM operations requirement states: ATM hardware protection against card skimming attempts. Which concept should be selected?",
                           "options":  [
                                           "Skimming",
@@ -2161,7 +1741,7 @@
                           "explanation":  "The requirement directly points to Anti-Skimming Device."
                       },
                       {
-                          "id":  181,
+                          "id":  146,
                           "question":  "Which ATM/Card concept best matches: physical cover helping secure PIN entry privacy?",
                           "options":  [
                                           "PCI DSS",
@@ -2173,7 +1753,7 @@
                           "explanation":  "PIN Shield is defined as: physical cover helping secure PIN entry privacy."
                       },
                       {
-                          "id":  182,
+                          "id":  147,
                           "question":  "What is the most accurate description of \u0027PIN Shield\u0027?",
                           "options":  [
                                           "physical cover helping secure PIN entry privacy",
@@ -2185,7 +1765,7 @@
                           "explanation":  "PIN Shield refers to: physical cover helping secure PIN entry privacy."
                       },
                       {
-                          "id":  183,
+                          "id":  148,
                           "question":  "\u0027PIN Shield\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -2197,19 +1777,7 @@
                           "explanation":  "PIN Shield is mainly part of Security and Fraud."
                       },
                       {
-                          "id":  184,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Switch -\u003e physical cover helping secure PIN entry privacy",
-                                          "PIN Shield -\u003e physical cover helping secure PIN entry privacy",
-                                          "Expiry Date -\u003e physical cover helping secure PIN entry privacy",
-                                          "Acquirer -\u003e physical cover helping secure PIN entry privacy"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027PIN Shield -\u003e physical cover helping secure PIN entry privacy\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  185,
+                          "id":  149,
                           "question":  "A Bank SO IT ATM operations requirement states: physical cover helping secure PIN entry privacy. Which concept should be selected?",
                           "options":  [
                                           "Card Trapping",
@@ -2221,7 +1789,7 @@
                           "explanation":  "The requirement directly points to PIN Shield."
                       },
                       {
-                          "id":  186,
+                          "id":  150,
                           "question":  "Which ATM/Card concept best matches: fraud control detecting unusual transaction frequency/pattern?",
                           "options":  [
                                           "Velocity Check",
@@ -2233,7 +1801,7 @@
                           "explanation":  "Velocity Check is defined as: fraud control detecting unusual transaction frequency/pattern."
                       },
                       {
-                          "id":  187,
+                          "id":  151,
                           "question":  "What is the most accurate description of \u0027Velocity Check\u0027?",
                           "options":  [
                                           "observing cardholder PIN entry to steal credentials",
@@ -2245,7 +1813,7 @@
                           "explanation":  "Velocity Check refers to: fraud control detecting unusual transaction frequency/pattern."
                       },
                       {
-                          "id":  188,
+                          "id":  152,
                           "question":  "\u0027Velocity Check\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Fundamentals",
@@ -2257,19 +1825,7 @@
                           "explanation":  "Velocity Check is mainly part of Security and Fraud."
                       },
                       {
-                          "id":  189,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Velocity Check -\u003e fraud control detecting unusual transaction frequency/pattern",
-                                          "Key Management -\u003e fraud control detecting unusual transaction frequency/pattern",
-                                          "Skimming -\u003e fraud control detecting unusual transaction frequency/pattern",
-                                          "Reconciliation -\u003e fraud control detecting unusual transaction frequency/pattern"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Velocity Check -\u003e fraud control detecting unusual transaction frequency/pattern\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  190,
+                          "id":  153,
                           "question":  "A Bank SO IT ATM operations requirement states: fraud control detecting unusual transaction frequency/pattern. Which concept should be selected?",
                           "options":  [
                                           "Velocity Check",
@@ -2281,7 +1837,7 @@
                           "explanation":  "The requirement directly points to Velocity Check."
                       },
                       {
-                          "id":  191,
+                          "id":  154,
                           "question":  "Which ATM/Card concept best matches: fraud control comparing transaction location against expected profile?",
                           "options":  [
                                           "Decline",
@@ -2293,7 +1849,7 @@
                           "explanation":  "Geolocation Check is defined as: fraud control comparing transaction location against expected profile."
                       },
                       {
-                          "id":  192,
+                          "id":  155,
                           "question":  "What is the most accurate description of \u0027Geolocation Check\u0027?",
                           "options":  [
                                           "ATM hardware protection against card skimming attempts",
@@ -2305,7 +1861,7 @@
                           "explanation":  "Geolocation Check refers to: fraud control comparing transaction location against expected profile."
                       },
                       {
-                          "id":  193,
+                          "id":  156,
                           "question":  "\u0027Geolocation Check\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Fundamentals",
@@ -2317,19 +1873,7 @@
                           "explanation":  "Geolocation Check is mainly part of Security and Fraud."
                       },
                       {
-                          "id":  194,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Geolocation Check -\u003e fraud control comparing transaction location against expected profile",
-                                          "Reversal -\u003e fraud control comparing transaction location against expected profile",
-                                          "Authorization -\u003e fraud control comparing transaction location against expected profile",
-                                          "Downtime Management -\u003e fraud control comparing transaction location against expected profile"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Geolocation Check -\u003e fraud control comparing transaction location against expected profile\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  195,
+                          "id":  157,
                           "question":  "A Bank SO IT ATM operations requirement states: fraud control comparing transaction location against expected profile. Which concept should be selected?",
                           "options":  [
                                           "Decline",
@@ -2341,7 +1885,7 @@
                           "explanation":  "The requirement directly points to Geolocation Check."
                       },
                       {
-                          "id":  196,
+                          "id":  158,
                           "question":  "Which ATM/Card concept best matches: blocking compromised or lost cards from authorization?",
                           "options":  [
                                           "Card Hotlisting",
@@ -2353,7 +1897,7 @@
                           "explanation":  "Card Hotlisting is defined as: blocking compromised or lost cards from authorization."
                       },
                       {
-                          "id":  197,
+                          "id":  159,
                           "question":  "What is the most accurate description of \u0027Card Hotlisting\u0027?",
                           "options":  [
                                           "ATM feature allowing customer to reset card PIN",
@@ -2365,7 +1909,7 @@
                           "explanation":  "Card Hotlisting refers to: blocking compromised or lost cards from authorization."
                       },
                       {
-                          "id":  198,
+                          "id":  160,
                           "question":  "\u0027Card Hotlisting\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Card Technologies",
@@ -2377,19 +1921,7 @@
                           "explanation":  "Card Hotlisting is mainly part of Security and Fraud."
                       },
                       {
-                          "id":  199,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Card Hotlisting -\u003e blocking compromised or lost cards from authorization",
-                                          "Cash Deposit -\u003e blocking compromised or lost cards from authorization",
-                                          "Authorization -\u003e blocking compromised or lost cards from authorization",
-                                          "PIN Shield -\u003e blocking compromised or lost cards from authorization"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Card Hotlisting -\u003e blocking compromised or lost cards from authorization\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  200,
+                          "id":  161,
                           "question":  "A Bank SO IT ATM operations requirement states: blocking compromised or lost cards from authorization. Which concept should be selected?",
                           "options":  [
                                           "Card Hotlisting",
@@ -2401,7 +1933,7 @@
                           "explanation":  "The requirement directly points to Card Hotlisting."
                       },
                       {
-                          "id":  201,
+                          "id":  162,
                           "question":  "Which ATM/Card concept best matches: security standard for processing and storing cardholder data?",
                           "options":  [
                                           "PCI DSS",
@@ -2413,7 +1945,7 @@
                           "explanation":  "PCI DSS is defined as: security standard for processing and storing cardholder data."
                       },
                       {
-                          "id":  202,
+                          "id":  163,
                           "question":  "What is the most accurate description of \u0027PCI DSS\u0027?",
                           "options":  [
                                           "security standard for processing and storing cardholder data",
@@ -2425,7 +1957,7 @@
                           "explanation":  "PCI DSS refers to: security standard for processing and storing cardholder data."
                       },
                       {
-                          "id":  203,
+                          "id":  164,
                           "question":  "\u0027PCI DSS\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -2437,19 +1969,7 @@
                           "explanation":  "PCI DSS is mainly part of Operations and Compliance."
                       },
                       {
-                          "id":  204,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "PIN Change -\u003e security standard for processing and storing cardholder data",
-                                          "PCI DSS -\u003e security standard for processing and storing cardholder data",
-                                          "Cash Deposit -\u003e security standard for processing and storing cardholder data",
-                                          "ATM Monitoring -\u003e security standard for processing and storing cardholder data"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027PCI DSS -\u003e security standard for processing and storing cardholder data\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  205,
+                          "id":  165,
                           "question":  "A Bank SO IT ATM operations requirement states: security standard for processing and storing cardholder data. Which concept should be selected?",
                           "options":  [
                                           "Cash Trapping",
@@ -2461,7 +1981,7 @@
                           "explanation":  "The requirement directly points to PCI DSS."
                       },
                       {
-                          "id":  206,
+                          "id":  166,
                           "question":  "Which ATM/Card concept best matches: secure lifecycle management of cryptographic keys?",
                           "options":  [
                                           "Expiry Date",
@@ -2473,7 +1993,7 @@
                           "explanation":  "Key Management is defined as: secure lifecycle management of cryptographic keys."
                       },
                       {
-                          "id":  207,
+                          "id":  167,
                           "question":  "What is the most accurate description of \u0027Key Management\u0027?",
                           "options":  [
                                           "secure lifecycle management of cryptographic keys",
@@ -2485,7 +2005,7 @@
                           "explanation":  "Key Management refers to: secure lifecycle management of cryptographic keys."
                       },
                       {
-                          "id":  208,
+                          "id":  168,
                           "question":  "\u0027Key Management\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -2497,19 +2017,7 @@
                           "explanation":  "Key Management is mainly part of Operations and Compliance."
                       },
                       {
-                          "id":  209,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Track Data -\u003e secure lifecycle management of cryptographic keys",
-                                          "Key Management -\u003e secure lifecycle management of cryptographic keys",
-                                          "PIN -\u003e secure lifecycle management of cryptographic keys",
-                                          "Anti-Skimming Device -\u003e secure lifecycle management of cryptographic keys"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Key Management -\u003e secure lifecycle management of cryptographic keys\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  210,
+                          "id":  169,
                           "question":  "A Bank SO IT ATM operations requirement states: secure lifecycle management of cryptographic keys. Which concept should be selected?",
                           "options":  [
                                           "Key Management",
@@ -2521,7 +2029,7 @@
                           "explanation":  "The requirement directly points to Key Management."
                       },
                       {
-                          "id":  211,
+                          "id":  170,
                           "question":  "Which ATM/Card concept best matches: hardware module for protected cryptographic key operations?",
                           "options":  [
                                           "Shoulder Surfing",
@@ -2533,7 +2041,7 @@
                           "explanation":  "HSM is defined as: hardware module for protected cryptographic key operations."
                       },
                       {
-                          "id":  212,
+                          "id":  171,
                           "question":  "What is the most accurate description of \u0027HSM\u0027?",
                           "options":  [
                                           "hardware module for protected cryptographic key operations",
@@ -2545,7 +2053,7 @@
                           "explanation":  "HSM refers to: hardware module for protected cryptographic key operations."
                       },
                       {
-                          "id":  213,
+                          "id":  172,
                           "question":  "\u0027HSM\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -2557,19 +2065,7 @@
                           "explanation":  "HSM is mainly part of Operations and Compliance."
                       },
                       {
-                          "id":  214,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "EMV Chip Card -\u003e hardware module for protected cryptographic key operations",
-                                          "Card Hotlisting -\u003e hardware module for protected cryptographic key operations",
-                                          "Cash Trapping -\u003e hardware module for protected cryptographic key operations",
-                                          "HSM -\u003e hardware module for protected cryptographic key operations"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027HSM -\u003e hardware module for protected cryptographic key operations\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  215,
+                          "id":  173,
                           "question":  "A Bank SO IT ATM operations requirement states: hardware module for protected cryptographic key operations. Which concept should be selected?",
                           "options":  [
                                           "Card Trapping",
@@ -2581,7 +2077,7 @@
                           "explanation":  "The requirement directly points to HSM."
                       },
                       {
-                          "id":  216,
+                          "id":  174,
                           "question":  "Which ATM/Card concept best matches: secure remote distribution of encryption keys to terminals?",
                           "options":  [
                                           "Cash Replenishment",
@@ -2593,7 +2089,7 @@
                           "explanation":  "Remote Key Loading is defined as: secure remote distribution of encryption keys to terminals."
                       },
                       {
-                          "id":  217,
+                          "id":  175,
                           "question":  "What is the most accurate description of \u0027Remote Key Loading\u0027?",
                           "options":  [
                                           "basic onsite corrective actions for ATM issues",
@@ -2605,7 +2101,7 @@
                           "explanation":  "Remote Key Loading refers to: secure remote distribution of encryption keys to terminals."
                       },
                       {
-                          "id":  218,
+                          "id":  176,
                           "question":  "\u0027Remote Key Loading\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -2617,19 +2113,7 @@
                           "explanation":  "Remote Key Loading is mainly part of Operations and Compliance."
                       },
                       {
-                          "id":  219,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Dynamic CVV -\u003e secure remote distribution of encryption keys to terminals",
-                                          "Remote Key Loading -\u003e secure remote distribution of encryption keys to terminals",
-                                          "Magnetic Stripe Card -\u003e secure remote distribution of encryption keys to terminals",
-                                          "PIN -\u003e secure remote distribution of encryption keys to terminals"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Remote Key Loading -\u003e secure remote distribution of encryption keys to terminals\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  220,
+                          "id":  177,
                           "question":  "A Bank SO IT ATM operations requirement states: secure remote distribution of encryption keys to terminals. Which concept should be selected?",
                           "options":  [
                                           "Cash Replenishment",
@@ -2641,7 +2125,7 @@
                           "explanation":  "The requirement directly points to Remote Key Loading."
                       },
                       {
-                          "id":  221,
+                          "id":  178,
                           "question":  "Which ATM/Card concept best matches: continuous health and alert tracking of ATM terminals?",
                           "options":  [
                                           "Card BIN",
@@ -2653,7 +2137,7 @@
                           "explanation":  "ATM Monitoring is defined as: continuous health and alert tracking of ATM terminals."
                       },
                       {
-                          "id":  222,
+                          "id":  179,
                           "question":  "What is the most accurate description of \u0027ATM Monitoring\u0027?",
                           "options":  [
                                           "fraud control comparing transaction location against expected profile",
@@ -2665,7 +2149,7 @@
                           "explanation":  "ATM Monitoring refers to: continuous health and alert tracking of ATM terminals."
                       },
                       {
-                          "id":  223,
+                          "id":  180,
                           "question":  "\u0027ATM Monitoring\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Operations and Compliance",
@@ -2677,19 +2161,7 @@
                           "explanation":  "ATM Monitoring is mainly part of Operations and Compliance."
                       },
                       {
-                          "id":  224,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Reversal -\u003e continuous health and alert tracking of ATM terminals",
-                                          "Card Trapping -\u003e continuous health and alert tracking of ATM terminals",
-                                          "Magnetic Stripe Card -\u003e continuous health and alert tracking of ATM terminals",
-                                          "ATM Monitoring -\u003e continuous health and alert tracking of ATM terminals"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027ATM Monitoring -\u003e continuous health and alert tracking of ATM terminals\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  225,
+                          "id":  181,
                           "question":  "A Bank SO IT ATM operations requirement states: continuous health and alert tracking of ATM terminals. Which concept should be selected?",
                           "options":  [
                                           "Card BIN",
@@ -2701,7 +2173,7 @@
                           "explanation":  "The requirement directly points to ATM Monitoring."
                       },
                       {
-                          "id":  226,
+                          "id":  182,
                           "question":  "Which ATM/Card concept best matches: basic onsite corrective actions for ATM issues?",
                           "options":  [
                                           "ATM Jackpotting",
@@ -2713,7 +2185,7 @@
                           "explanation":  "First Line Maintenance is defined as: basic onsite corrective actions for ATM issues."
                       },
                       {
-                          "id":  227,
+                          "id":  183,
                           "question":  "What is the most accurate description of \u0027First Line Maintenance\u0027?",
                           "options":  [
                                           "basic onsite corrective actions for ATM issues",
@@ -2725,7 +2197,7 @@
                           "explanation":  "First Line Maintenance refers to: basic onsite corrective actions for ATM issues."
                       },
                       {
-                          "id":  228,
+                          "id":  184,
                           "question":  "\u0027First Line Maintenance\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Operations and Compliance",
@@ -2737,19 +2209,7 @@
                           "explanation":  "First Line Maintenance is mainly part of Operations and Compliance."
                       },
                       {
-                          "id":  229,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "First Line Maintenance -\u003e basic onsite corrective actions for ATM issues",
-                                          "Dispute -\u003e basic onsite corrective actions for ATM issues",
-                                          "Card Trapping -\u003e basic onsite corrective actions for ATM issues",
-                                          "Decline -\u003e basic onsite corrective actions for ATM issues"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027First Line Maintenance -\u003e basic onsite corrective actions for ATM issues\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  230,
+                          "id":  185,
                           "question":  "A Bank SO IT ATM operations requirement states: basic onsite corrective actions for ATM issues. Which concept should be selected?",
                           "options":  [
                                           "First Line Maintenance",
@@ -2761,7 +2221,7 @@
                           "explanation":  "The requirement directly points to First Line Maintenance."
                       },
                       {
-                          "id":  231,
+                          "id":  186,
                           "question":  "Which ATM/Card concept best matches: advanced technical repair and hardware replacement support?",
                           "options":  [
                                           "Second Line Maintenance",
@@ -2773,7 +2233,7 @@
                           "explanation":  "Second Line Maintenance is defined as: advanced technical repair and hardware replacement support."
                       },
                       {
-                          "id":  232,
+                          "id":  187,
                           "question":  "What is the most accurate description of \u0027Second Line Maintenance\u0027?",
                           "options":  [
                                           "advanced technical repair and hardware replacement support",
@@ -2785,7 +2245,7 @@
                           "explanation":  "Second Line Maintenance refers to: advanced technical repair and hardware replacement support."
                       },
                       {
-                          "id":  233,
+                          "id":  188,
                           "question":  "\u0027Second Line Maintenance\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "ATM Fundamentals",
@@ -2797,19 +2257,7 @@
                           "explanation":  "Second Line Maintenance is mainly part of Operations and Compliance."
                       },
                       {
-                          "id":  234,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Card Hotlisting -\u003e advanced technical repair and hardware replacement support",
-                                          "Second Line Maintenance -\u003e advanced technical repair and hardware replacement support",
-                                          "Anti-Skimming Device -\u003e advanced technical repair and hardware replacement support",
-                                          "PIN -\u003e advanced technical repair and hardware replacement support"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Second Line Maintenance -\u003e advanced technical repair and hardware replacement support\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  235,
+                          "id":  189,
                           "question":  "A Bank SO IT ATM operations requirement states: advanced technical repair and hardware replacement support. Which concept should be selected?",
                           "options":  [
                                           "PCI DSS",
@@ -2821,7 +2269,7 @@
                           "explanation":  "The requirement directly points to Second Line Maintenance."
                       },
                       {
-                          "id":  236,
+                          "id":  190,
                           "question":  "Which ATM/Card concept best matches: process of refilling ATM with cash cassettes?",
                           "options":  [
                                           "Cash Replenishment",
@@ -2833,7 +2281,7 @@
                           "explanation":  "Cash Replenishment is defined as: process of refilling ATM with cash cassettes."
                       },
                       {
-                          "id":  237,
+                          "id":  191,
                           "question":  "What is the most accurate description of \u0027Cash Replenishment\u0027?",
                           "options":  [
                                           "card enabling tap transactions via NFC interface",
@@ -2845,7 +2293,7 @@
                           "explanation":  "Cash Replenishment refers to: process of refilling ATM with cash cassettes."
                       },
                       {
-                          "id":  238,
+                          "id":  192,
                           "question":  "\u0027Cash Replenishment\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Security and Fraud",
@@ -2857,19 +2305,7 @@
                           "explanation":  "Cash Replenishment is mainly part of Operations and Compliance."
                       },
                       {
-                          "id":  239,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Card Issuer -\u003e process of refilling ATM with cash cassettes",
-                                          "ATM -\u003e process of refilling ATM with cash cassettes",
-                                          "PAN -\u003e process of refilling ATM with cash cassettes",
-                                          "Cash Replenishment -\u003e process of refilling ATM with cash cassettes"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Cash Replenishment -\u003e process of refilling ATM with cash cassettes\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  240,
+                          "id":  193,
                           "question":  "A Bank SO IT ATM operations requirement states: process of refilling ATM with cash cassettes. Which concept should be selected?",
                           "options":  [
                                           "PCI DSS",
@@ -2881,7 +2317,7 @@
                           "explanation":  "The requirement directly points to Cash Replenishment."
                       },
                       {
-                          "id":  241,
+                          "id":  194,
                           "question":  "Which ATM/Card concept best matches: matching ATM journal, switch, and core banking records?",
                           "options":  [
                                           "Card Issuer",
@@ -2893,7 +2329,7 @@
                           "explanation":  "Reconciliation is defined as: matching ATM journal, switch, and core banking records."
                       },
                       {
-                          "id":  242,
+                          "id":  195,
                           "question":  "What is the most accurate description of \u0027Reconciliation\u0027?",
                           "options":  [
                                           "matching ATM journal, switch, and core banking records",
@@ -2905,7 +2341,7 @@
                           "explanation":  "Reconciliation refers to: matching ATM journal, switch, and core banking records."
                       },
                       {
-                          "id":  243,
+                          "id":  196,
                           "question":  "\u0027Reconciliation\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Operations and Compliance",
@@ -2917,19 +2353,7 @@
                           "explanation":  "Reconciliation is mainly part of Operations and Compliance."
                       },
                       {
-                          "id":  244,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "First Line Maintenance -\u003e matching ATM journal, switch, and core banking records",
-                                          "Reconciliation -\u003e matching ATM journal, switch, and core banking records",
-                                          "HSM -\u003e matching ATM journal, switch, and core banking records",
-                                          "Track Data -\u003e matching ATM journal, switch, and core banking records"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Reconciliation -\u003e matching ATM journal, switch, and core banking records\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  245,
+                          "id":  197,
                           "question":  "A Bank SO IT ATM operations requirement states: matching ATM journal, switch, and core banking records. Which concept should be selected?",
                           "options":  [
                                           "Balance Enquiry",
@@ -2941,7 +2365,7 @@
                           "explanation":  "The requirement directly points to Reconciliation."
                       },
                       {
-                          "id":  246,
+                          "id":  198,
                           "question":  "Which ATM/Card concept best matches: tracking and reducing ATM service unavailability duration?",
                           "options":  [
                                           "PCI DSS",
@@ -2953,7 +2377,7 @@
                           "explanation":  "Downtime Management is defined as: tracking and reducing ATM service unavailability duration."
                       },
                       {
-                          "id":  247,
+                          "id":  199,
                           "question":  "What is the most accurate description of \u0027Downtime Management\u0027?",
                           "options":  [
                                           "tracking and reducing ATM service unavailability duration",
@@ -2965,7 +2389,7 @@
                           "explanation":  "Downtime Management refers to: tracking and reducing ATM service unavailability duration."
                       },
                       {
-                          "id":  248,
+                          "id":  200,
                           "question":  "\u0027Downtime Management\u0027 belongs mainly to which ATM/Card technology area?",
                           "options":  [
                                           "Operations and Compliance",
@@ -2977,19 +2401,7 @@
                           "explanation":  "Downtime Management is mainly part of Operations and Compliance."
                       },
                       {
-                          "id":  249,
-                          "question":  "Identify the correct ATM/Card term-definition mapping.",
-                          "options":  [
-                                          "Cash Withdrawal -\u003e tracking and reducing ATM service unavailability duration",
-                                          "Downtime Management -\u003e tracking and reducing ATM service unavailability duration",
-                                          "Cash Deposit -\u003e tracking and reducing ATM service unavailability duration",
-                                          "ATM Jackpotting -\u003e tracking and reducing ATM service unavailability duration"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Downtime Management -\u003e tracking and reducing ATM service unavailability duration\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  250,
+                          "id":  201,
                           "question":  "A Bank SO IT ATM operations requirement states: tracking and reducing ATM service unavailability duration. Which concept should be selected?",
                           "options":  [
                                           "Downtime Management",

@@ -98,18 +98,6 @@
                       },
                       {
                           "id":  9,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Switch -\u003e person or entity initiating payment transaction",
-                                          "Webhook Notification -\u003e person or entity initiating payment transaction",
-                                          "Payer -\u003e person or entity initiating payment transaction",
-                                          "UPI -\u003e person or entity initiating payment transaction"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Payer -\u003e person or entity initiating payment transaction\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  10,
                           "question":  "A Bank SO IT transaction requirement states: person or entity initiating payment transaction. Which concept should be selected?",
                           "options":  [
                                           "AML Screening",
@@ -121,7 +109,7 @@
                           "explanation":  "The requirement directly points to Payer."
                       },
                       {
-                          "id":  11,
+                          "id":  10,
                           "question":  "Which payment concept best matches: person or entity receiving payment funds?",
                           "options":  [
                                           "RuPay",
@@ -133,7 +121,7 @@
                           "explanation":  "Payee is defined as: person or entity receiving payment funds."
                       },
                       {
-                          "id":  12,
+                          "id":  11,
                           "question":  "What is the most accurate description of \u0027Payee\u0027?",
                           "options":  [
                                           "unique transaction reference for tracking payment",
@@ -145,7 +133,7 @@
                           "explanation":  "Payee refers to: person or entity receiving payment funds."
                       },
                       {
-                          "id":  13,
+                          "id":  12,
                           "question":  "\u0027Payee\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Payment Fundamentals",
@@ -157,19 +145,7 @@
                           "explanation":  "Payee is mainly part of Payment Fundamentals."
                       },
                       {
-                          "id":  14,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Acquirer Bank -\u003e person or entity receiving payment funds",
-                                          "Payee -\u003e person or entity receiving payment funds",
-                                          "Webhook Notification -\u003e person or entity receiving payment funds",
-                                          "Clearing -\u003e person or entity receiving payment funds"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Payee -\u003e person or entity receiving payment funds\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  15,
+                          "id":  13,
                           "question":  "A Bank SO IT transaction requirement states: person or entity receiving payment funds. Which concept should be selected?",
                           "options":  [
                                           "RuPay",
@@ -181,7 +157,7 @@
                           "explanation":  "The requirement directly points to Payee."
                       },
                       {
-                          "id":  16,
+                          "id":  14,
                           "question":  "Which payment concept best matches: bank that issues account/card used by payer?",
                           "options":  [
                                           "OTP",
@@ -193,7 +169,7 @@
                           "explanation":  "Issuer Bank is defined as: bank that issues account/card used by payer."
                       },
                       {
-                          "id":  17,
+                          "id":  15,
                           "question":  "What is the most accurate description of \u0027Issuer Bank\u0027?",
                           "options":  [
                                           "bank that issues account/card used by payer",
@@ -205,7 +181,7 @@
                           "explanation":  "Issuer Bank refers to: bank that issues account/card used by payer."
                       },
                       {
-                          "id":  18,
+                          "id":  16,
                           "question":  "\u0027Issuer Bank\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -217,19 +193,7 @@
                           "explanation":  "Issuer Bank is mainly part of Payment Fundamentals."
                       },
                       {
-                          "id":  19,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Issuer Bank -\u003e bank that issues account/card used by payer",
-                                          "BBPS -\u003e bank that issues account/card used by payer",
-                                          "Real-Time Processing -\u003e bank that issues account/card used by payer",
-                                          "MFA -\u003e bank that issues account/card used by payer"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Issuer Bank -\u003e bank that issues account/card used by payer\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  20,
+                          "id":  17,
                           "question":  "A Bank SO IT transaction requirement states: bank that issues account/card used by payer. Which concept should be selected?",
                           "options":  [
                                           "Issuer Bank",
@@ -241,7 +205,7 @@
                           "explanation":  "The requirement directly points to Issuer Bank."
                       },
                       {
-                          "id":  21,
+                          "id":  18,
                           "question":  "Which payment concept best matches: bank that services merchant and accepts payment requests?",
                           "options":  [
                                           "Chargeback",
@@ -253,7 +217,7 @@
                           "explanation":  "Acquirer Bank is defined as: bank that services merchant and accepts payment requests."
                       },
                       {
-                          "id":  22,
+                          "id":  19,
                           "question":  "What is the most accurate description of \u0027Acquirer Bank\u0027?",
                           "options":  [
                                           "retrieval reference number for card/payment tracking",
@@ -265,7 +229,7 @@
                           "explanation":  "Acquirer Bank refers to: bank that services merchant and accepts payment requests."
                       },
                       {
-                          "id":  23,
+                          "id":  20,
                           "question":  "\u0027Acquirer Bank\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Security and Risk Controls",
@@ -277,19 +241,7 @@
                           "explanation":  "Acquirer Bank is mainly part of Payment Fundamentals."
                       },
                       {
-                          "id":  24,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Tokenization -\u003e bank that services merchant and accepts payment requests",
-                                          "Acquirer Bank -\u003e bank that services merchant and accepts payment requests",
-                                          "Authorization -\u003e bank that services merchant and accepts payment requests",
-                                          "RTGS -\u003e bank that services merchant and accepts payment requests"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Acquirer Bank -\u003e bank that services merchant and accepts payment requests\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  25,
+                          "id":  21,
                           "question":  "A Bank SO IT transaction requirement states: bank that services merchant and accepts payment requests. Which concept should be selected?",
                           "options":  [
                                           "Acquirer Bank",
@@ -301,7 +253,7 @@
                           "explanation":  "The requirement directly points to Acquirer Bank."
                       },
                       {
-                          "id":  26,
+                          "id":  22,
                           "question":  "Which payment concept best matches: service that securely routes online payment details?",
                           "options":  [
                                           "Account Number",
@@ -313,7 +265,7 @@
                           "explanation":  "Payment Gateway is defined as: service that securely routes online payment details."
                       },
                       {
-                          "id":  27,
+                          "id":  23,
                           "question":  "What is the most accurate description of \u0027Payment Gateway\u0027?",
                           "options":  [
                                           "service that securely routes online payment details",
@@ -325,7 +277,7 @@
                           "explanation":  "Payment Gateway refers to: service that securely routes online payment details."
                       },
                       {
-                          "id":  28,
+                          "id":  24,
                           "question":  "\u0027Payment Gateway\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Identifiers and Messaging",
@@ -337,19 +289,7 @@
                           "explanation":  "Payment Gateway is mainly part of Payment Fundamentals."
                       },
                       {
-                          "id":  29,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "RuPay -\u003e service that securely routes online payment details",
-                                          "RTGS -\u003e service that securely routes online payment details",
-                                          "Payment Gateway -\u003e service that securely routes online payment details",
-                                          "Batch Processing -\u003e service that securely routes online payment details"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Payment Gateway -\u003e service that securely routes online payment details\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  30,
+                          "id":  25,
                           "question":  "A Bank SO IT transaction requirement states: service that securely routes online payment details. Which concept should be selected?",
                           "options":  [
                                           "Account Number",
@@ -361,7 +301,7 @@
                           "explanation":  "The requirement directly points to Payment Gateway."
                       },
                       {
-                          "id":  31,
+                          "id":  26,
                           "question":  "Which payment concept best matches: entity processing transaction authorization and routing?",
                           "options":  [
                                           "Webhook Notification",
@@ -373,7 +313,7 @@
                           "explanation":  "Payment Processor is defined as: entity processing transaction authorization and routing."
                       },
                       {
-                          "id":  32,
+                          "id":  27,
                           "question":  "What is the most accurate description of \u0027Payment Processor\u0027?",
                           "options":  [
                                           "stage where issuer validates and approves transaction",
@@ -385,7 +325,7 @@
                           "explanation":  "Payment Processor refers to: entity processing transaction authorization and routing."
                       },
                       {
-                          "id":  33,
+                          "id":  28,
                           "question":  "\u0027Payment Processor\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -397,19 +337,7 @@
                           "explanation":  "Payment Processor is mainly part of Payment Fundamentals."
                       },
                       {
-                          "id":  34,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Fraud Monitoring -\u003e entity processing transaction authorization and routing",
-                                          "UPI -\u003e entity processing transaction authorization and routing",
-                                          "Payment Processor -\u003e entity processing transaction authorization and routing",
-                                          "IMPS -\u003e entity processing transaction authorization and routing"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Payment Processor -\u003e entity processing transaction authorization and routing\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  35,
+                          "id":  29,
                           "question":  "A Bank SO IT transaction requirement states: entity processing transaction authorization and routing. Which concept should be selected?",
                           "options":  [
                                           "SWIFT MT",
@@ -421,7 +349,7 @@
                           "explanation":  "The requirement directly points to Payment Processor."
                       },
                       {
-                          "id":  36,
+                          "id":  30,
                           "question":  "Which payment concept best matches: network component routing transactions to destination institutions?",
                           "options":  [
                                           "Acquirer Bank",
@@ -433,7 +361,7 @@
                           "explanation":  "Switch is defined as: network component routing transactions to destination institutions."
                       },
                       {
-                          "id":  37,
+                          "id":  31,
                           "question":  "What is the most accurate description of \u0027Switch\u0027?",
                           "options":  [
                                           "processing grouped transactions at scheduled intervals",
@@ -445,7 +373,7 @@
                           "explanation":  "Switch refers to: network component routing transactions to destination institutions."
                       },
                       {
-                          "id":  38,
+                          "id":  32,
                           "question":  "\u0027Switch\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Payment Fundamentals",
@@ -457,19 +385,7 @@
                           "explanation":  "Switch is mainly part of Payment Fundamentals."
                       },
                       {
-                          "id":  39,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Issuer Bank -\u003e network component routing transactions to destination institutions",
-                                          "RTGS -\u003e network component routing transactions to destination institutions",
-                                          "Switch -\u003e network component routing transactions to destination institutions",
-                                          "Cut-off Time -\u003e network component routing transactions to destination institutions"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Switch -\u003e network component routing transactions to destination institutions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  40,
+                          "id":  33,
                           "question":  "A Bank SO IT transaction requirement states: network component routing transactions to destination institutions. Which concept should be selected?",
                           "options":  [
                                           "MFA",
@@ -481,7 +397,7 @@
                           "explanation":  "The requirement directly points to Switch."
                       },
                       {
-                          "id":  41,
+                          "id":  34,
                           "question":  "Which payment concept best matches: stage where issuer validates and approves transaction?",
                           "options":  [
                                           "Authorization",
@@ -493,7 +409,7 @@
                           "explanation":  "Authorization is defined as: stage where issuer validates and approves transaction."
                       },
                       {
-                          "id":  42,
+                          "id":  35,
                           "question":  "What is the most accurate description of \u0027Authorization\u0027?",
                           "options":  [
                                           "time limit after which transaction goes to next cycle",
@@ -505,7 +421,7 @@
                           "explanation":  "Authorization refers to: stage where issuer validates and approves transaction."
                       },
                       {
-                          "id":  43,
+                          "id":  36,
                           "question":  "\u0027Authorization\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -517,19 +433,7 @@
                           "explanation":  "Authorization is mainly part of Payment Fundamentals."
                       },
                       {
-                          "id":  44,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "IFSC -\u003e stage where issuer validates and approves transaction",
-                                          "Authorization -\u003e stage where issuer validates and approves transaction",
-                                          "Payment Processor -\u003e stage where issuer validates and approves transaction",
-                                          "Account Number -\u003e stage where issuer validates and approves transaction"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Authorization -\u003e stage where issuer validates and approves transaction\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  45,
+                          "id":  37,
                           "question":  "A Bank SO IT transaction requirement states: stage where issuer validates and approves transaction. Which concept should be selected?",
                           "options":  [
                                           "IFSC",
@@ -541,7 +445,7 @@
                           "explanation":  "The requirement directly points to Authorization."
                       },
                       {
-                          "id":  46,
+                          "id":  38,
                           "question":  "Which payment concept best matches: final transfer of funds between participating institutions?",
                           "options":  [
                                           "Settlement",
@@ -553,7 +457,7 @@
                           "explanation":  "Settlement is defined as: final transfer of funds between participating institutions."
                       },
                       {
-                          "id":  47,
+                          "id":  39,
                           "question":  "What is the most accurate description of \u0027Settlement\u0027?",
                           "options":  [
                                           "Aadhaar enabled payment system using biometric authentication",
@@ -565,7 +469,7 @@
                           "explanation":  "Settlement refers to: final transfer of funds between participating institutions."
                       },
                       {
-                          "id":  48,
+                          "id":  40,
                           "question":  "\u0027Settlement\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Security and Risk Controls",
@@ -577,19 +481,7 @@
                           "explanation":  "Settlement is mainly part of Payment Fundamentals."
                       },
                       {
-                          "id":  49,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "VPA -\u003e final transfer of funds between participating institutions",
-                                          "ISO 8583 -\u003e final transfer of funds between participating institutions",
-                                          "Settlement -\u003e final transfer of funds between participating institutions",
-                                          "Fraud Monitoring -\u003e final transfer of funds between participating institutions"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Settlement -\u003e final transfer of funds between participating institutions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  50,
+                          "id":  41,
                           "question":  "A Bank SO IT transaction requirement states: final transfer of funds between participating institutions. Which concept should be selected?",
                           "options":  [
                                           "Payer",
@@ -601,7 +493,7 @@
                           "explanation":  "The requirement directly points to Settlement."
                       },
                       {
-                          "id":  51,
+                          "id":  42,
                           "question":  "Which payment concept best matches: instant interbank transfer system using virtual payment identifiers?",
                           "options":  [
                                           "UPI",
@@ -613,7 +505,7 @@
                           "explanation":  "UPI is defined as: instant interbank transfer system using virtual payment identifiers."
                       },
                       {
-                          "id":  52,
+                          "id":  43,
                           "question":  "What is the most accurate description of \u0027UPI\u0027?",
                           "options":  [
                                           "instant interbank transfer system using virtual payment identifiers",
@@ -625,7 +517,7 @@
                           "explanation":  "UPI refers to: instant interbank transfer system using virtual payment identifiers."
                       },
                       {
-                          "id":  53,
+                          "id":  44,
                           "question":  "\u0027UPI\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -637,19 +529,7 @@
                           "explanation":  "UPI is mainly part of Indian Payment Rails."
                       },
                       {
-                          "id":  54,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Switch -\u003e instant interbank transfer system using virtual payment identifiers",
-                                          "BBPS -\u003e instant interbank transfer system using virtual payment identifiers",
-                                          "ISO 20022 -\u003e instant interbank transfer system using virtual payment identifiers",
-                                          "UPI -\u003e instant interbank transfer system using virtual payment identifiers"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027UPI -\u003e instant interbank transfer system using virtual payment identifiers\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  55,
+                          "id":  45,
                           "question":  "A Bank SO IT transaction requirement states: instant interbank transfer system using virtual payment identifiers. Which concept should be selected?",
                           "options":  [
                                           "Reversal",
@@ -661,7 +541,7 @@
                           "explanation":  "The requirement directly points to UPI."
                       },
                       {
-                          "id":  56,
+                          "id":  46,
                           "question":  "Which payment concept best matches: immediate funds transfer service available 24x7?",
                           "options":  [
                                           "SWIFT MT",
@@ -673,7 +553,7 @@
                           "explanation":  "IMPS is defined as: immediate funds transfer service available 24x7."
                       },
                       {
-                          "id":  57,
+                          "id":  47,
                           "question":  "What is the most accurate description of \u0027IMPS\u0027?",
                           "options":  [
                                           "immediate funds transfer service available 24x7",
@@ -685,7 +565,7 @@
                           "explanation":  "IMPS refers to: immediate funds transfer service available 24x7."
                       },
                       {
-                          "id":  58,
+                          "id":  48,
                           "question":  "\u0027IMPS\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Payment Fundamentals",
@@ -697,19 +577,7 @@
                           "explanation":  "IMPS is mainly part of Indian Payment Rails."
                       },
                       {
-                          "id":  59,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "IMPS -\u003e immediate funds transfer service available 24x7",
-                                          "PCI DSS -\u003e immediate funds transfer service available 24x7",
-                                          "RTGS -\u003e immediate funds transfer service available 24x7",
-                                          "IFSC -\u003e immediate funds transfer service available 24x7"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027IMPS -\u003e immediate funds transfer service available 24x7\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  60,
+                          "id":  49,
                           "question":  "A Bank SO IT transaction requirement states: immediate funds transfer service available 24x7. Which concept should be selected?",
                           "options":  [
                                           "RuPay",
@@ -721,7 +589,7 @@
                           "explanation":  "The requirement directly points to IMPS."
                       },
                       {
-                          "id":  61,
+                          "id":  50,
                           "question":  "Which payment concept best matches: electronic fund transfer processed in batches round the clock?",
                           "options":  [
                                           "Issuer Bank",
@@ -733,7 +601,7 @@
                           "explanation":  "NEFT is defined as: electronic fund transfer processed in batches round the clock."
                       },
                       {
-                          "id":  62,
+                          "id":  51,
                           "question":  "What is the most accurate description of \u0027NEFT\u0027?",
                           "options":  [
                                           "multi-factor authentication requirement for secure payment access",
@@ -745,7 +613,7 @@
                           "explanation":  "NEFT refers to: electronic fund transfer processed in batches round the clock."
                       },
                       {
-                          "id":  63,
+                          "id":  52,
                           "question":  "\u0027NEFT\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Payment Fundamentals",
@@ -757,19 +625,7 @@
                           "explanation":  "NEFT is mainly part of Indian Payment Rails."
                       },
                       {
-                          "id":  64,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Batch Processing -\u003e electronic fund transfer processed in batches round the clock",
-                                          "NEFT -\u003e electronic fund transfer processed in batches round the clock",
-                                          "Clearing -\u003e electronic fund transfer processed in batches round the clock",
-                                          "Reconciliation -\u003e electronic fund transfer processed in batches round the clock"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027NEFT -\u003e electronic fund transfer processed in batches round the clock\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  65,
+                          "id":  53,
                           "question":  "A Bank SO IT transaction requirement states: electronic fund transfer processed in batches round the clock. Which concept should be selected?",
                           "options":  [
                                           "Dispute Management",
@@ -781,7 +637,7 @@
                           "explanation":  "The requirement directly points to NEFT."
                       },
                       {
-                          "id":  66,
+                          "id":  54,
                           "question":  "Which payment concept best matches: real-time gross settlement for high-value transfers?",
                           "options":  [
                                           "PCI DSS",
@@ -793,7 +649,7 @@
                           "explanation":  "RTGS is defined as: real-time gross settlement for high-value transfers."
                       },
                       {
-                          "id":  67,
+                          "id":  55,
                           "question":  "What is the most accurate description of \u0027RTGS\u0027?",
                           "options":  [
                                           "merchant-initiated return of funds to customer",
@@ -805,7 +661,7 @@
                           "explanation":  "RTGS refers to: real-time gross settlement for high-value transfers."
                       },
                       {
-                          "id":  68,
+                          "id":  56,
                           "question":  "\u0027RTGS\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Indian Payment Rails",
@@ -817,19 +673,7 @@
                           "explanation":  "RTGS is mainly part of Indian Payment Rails."
                       },
                       {
-                          "id":  69,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Tokenization -\u003e real-time gross settlement for high-value transfers",
-                                          "Cut-off Time -\u003e real-time gross settlement for high-value transfers",
-                                          "AEPS -\u003e real-time gross settlement for high-value transfers",
-                                          "RTGS -\u003e real-time gross settlement for high-value transfers"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027RTGS -\u003e real-time gross settlement for high-value transfers\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  70,
+                          "id":  57,
                           "question":  "A Bank SO IT transaction requirement states: real-time gross settlement for high-value transfers. Which concept should be selected?",
                           "options":  [
                                           "Cut-off Time",
@@ -841,7 +685,7 @@
                           "explanation":  "The requirement directly points to RTGS."
                       },
                       {
-                          "id":  71,
+                          "id":  58,
                           "question":  "Which payment concept best matches: electronic clearing system for bulk recurring transactions?",
                           "options":  [
                                           "Payment System",
@@ -853,7 +697,7 @@
                           "explanation":  "NACH is defined as: electronic clearing system for bulk recurring transactions."
                       },
                       {
-                          "id":  72,
+                          "id":  59,
                           "question":  "What is the most accurate description of \u0027NACH\u0027?",
                           "options":  [
                                           "control limiting transaction count or amount in time window",
@@ -865,7 +709,7 @@
                           "explanation":  "NACH refers to: electronic clearing system for bulk recurring transactions."
                       },
                       {
-                          "id":  73,
+                          "id":  60,
                           "question":  "\u0027NACH\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Indian Payment Rails",
@@ -877,19 +721,7 @@
                           "explanation":  "NACH is mainly part of Indian Payment Rails."
                       },
                       {
-                          "id":  74,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "NPCI -\u003e electronic clearing system for bulk recurring transactions",
-                                          "NACH -\u003e electronic clearing system for bulk recurring transactions",
-                                          "Payment Processor -\u003e electronic clearing system for bulk recurring transactions",
-                                          "RuPay -\u003e electronic clearing system for bulk recurring transactions"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027NACH -\u003e electronic clearing system for bulk recurring transactions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  75,
+                          "id":  61,
                           "question":  "A Bank SO IT transaction requirement states: electronic clearing system for bulk recurring transactions. Which concept should be selected?",
                           "options":  [
                                           "UTR",
@@ -901,7 +733,7 @@
                           "explanation":  "The requirement directly points to NACH."
                       },
                       {
-                          "id":  76,
+                          "id":  62,
                           "question":  "Which payment concept best matches: Aadhaar enabled payment system using biometric authentication?",
                           "options":  [
                                           "STP",
@@ -913,7 +745,7 @@
                           "explanation":  "AEPS is defined as: Aadhaar enabled payment system using biometric authentication."
                       },
                       {
-                          "id":  77,
+                          "id":  63,
                           "question":  "What is the most accurate description of \u0027AEPS\u0027?",
                           "options":  [
                                           "ISO 20022 based SWIFT message format",
@@ -925,7 +757,7 @@
                           "explanation":  "AEPS refers to: Aadhaar enabled payment system using biometric authentication."
                       },
                       {
-                          "id":  78,
+                          "id":  64,
                           "question":  "\u0027AEPS\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Security and Risk Controls",
@@ -937,19 +769,7 @@
                           "explanation":  "AEPS is mainly part of Indian Payment Rails."
                       },
                       {
-                          "id":  79,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Chargeback -\u003e Aadhaar enabled payment system using biometric authentication",
-                                          "Payment System -\u003e Aadhaar enabled payment system using biometric authentication",
-                                          "IFSC -\u003e Aadhaar enabled payment system using biometric authentication",
-                                          "AEPS -\u003e Aadhaar enabled payment system using biometric authentication"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027AEPS -\u003e Aadhaar enabled payment system using biometric authentication\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  80,
+                          "id":  65,
                           "question":  "A Bank SO IT transaction requirement states: Aadhaar enabled payment system using biometric authentication. Which concept should be selected?",
                           "options":  [
                                           "Cut-off Time",
@@ -961,7 +781,7 @@
                           "explanation":  "The requirement directly points to AEPS."
                       },
                       {
-                          "id":  81,
+                          "id":  66,
                           "question":  "Which payment concept best matches: interoperable bill payment ecosystem under NPCI?",
                           "options":  [
                                           "Velocity Rule",
@@ -973,7 +793,7 @@
                           "explanation":  "BBPS is defined as: interoperable bill payment ecosystem under NPCI."
                       },
                       {
-                          "id":  82,
+                          "id":  67,
                           "question":  "What is the most accurate description of \u0027BBPS\u0027?",
                           "options":  [
                                           "electronic fund transfer processed in batches round the clock",
@@ -985,7 +805,7 @@
                           "explanation":  "BBPS refers to: interoperable bill payment ecosystem under NPCI."
                       },
                       {
-                          "id":  83,
+                          "id":  68,
                           "question":  "\u0027BBPS\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Indian Payment Rails",
@@ -997,19 +817,7 @@
                           "explanation":  "BBPS is mainly part of Indian Payment Rails."
                       },
                       {
-                          "id":  84,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "BBPS -\u003e interoperable bill payment ecosystem under NPCI",
-                                          "Tokenization -\u003e interoperable bill payment ecosystem under NPCI",
-                                          "ISO 8583 -\u003e interoperable bill payment ecosystem under NPCI",
-                                          "Batch Processing -\u003e interoperable bill payment ecosystem under NPCI"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027BBPS -\u003e interoperable bill payment ecosystem under NPCI\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  85,
+                          "id":  69,
                           "question":  "A Bank SO IT transaction requirement states: interoperable bill payment ecosystem under NPCI. Which concept should be selected?",
                           "options":  [
                                           "Velocity Rule",
@@ -1021,7 +829,7 @@
                           "explanation":  "The requirement directly points to BBPS."
                       },
                       {
-                          "id":  86,
+                          "id":  70,
                           "question":  "Which payment concept best matches: RFID-based electronic toll collection mechanism?",
                           "options":  [
                                           "NACH",
@@ -1033,7 +841,7 @@
                           "explanation":  "FASTag is defined as: RFID-based electronic toll collection mechanism."
                       },
                       {
-                          "id":  87,
+                          "id":  71,
                           "question":  "What is the most accurate description of \u0027FASTag\u0027?",
                           "options":  [
                                           "electronic clearing system for bulk recurring transactions",
@@ -1045,7 +853,7 @@
                           "explanation":  "FASTag refers to: RFID-based electronic toll collection mechanism."
                       },
                       {
-                          "id":  88,
+                          "id":  72,
                           "question":  "\u0027FASTag\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Identifiers and Messaging",
@@ -1057,19 +865,7 @@
                           "explanation":  "FASTag is mainly part of Indian Payment Rails."
                       },
                       {
-                          "id":  89,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "FASTag -\u003e RFID-based electronic toll collection mechanism",
-                                          "Issuer Bank -\u003e RFID-based electronic toll collection mechanism",
-                                          "Payee -\u003e RFID-based electronic toll collection mechanism",
-                                          "Payment System -\u003e RFID-based electronic toll collection mechanism"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027FASTag -\u003e RFID-based electronic toll collection mechanism\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  90,
+                          "id":  73,
                           "question":  "A Bank SO IT transaction requirement states: RFID-based electronic toll collection mechanism. Which concept should be selected?",
                           "options":  [
                                           "FASTag",
@@ -1081,7 +877,7 @@
                           "explanation":  "The requirement directly points to FASTag."
                       },
                       {
-                          "id":  91,
+                          "id":  74,
                           "question":  "Which payment concept best matches: domestic card payment network in India?",
                           "options":  [
                                           "AEPS",
@@ -1093,7 +889,7 @@
                           "explanation":  "RuPay is defined as: domestic card payment network in India."
                       },
                       {
-                          "id":  92,
+                          "id":  75,
                           "question":  "What is the most accurate description of \u0027RuPay\u0027?",
                           "options":  [
                                           "domestic card payment network in India",
@@ -1105,7 +901,7 @@
                           "explanation":  "RuPay refers to: domestic card payment network in India."
                       },
                       {
-                          "id":  93,
+                          "id":  76,
                           "question":  "\u0027RuPay\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -1117,19 +913,7 @@
                           "explanation":  "RuPay is mainly part of Indian Payment Rails."
                       },
                       {
-                          "id":  94,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Batch Processing -\u003e domestic card payment network in India",
-                                          "Sanctions Screening -\u003e domestic card payment network in India",
-                                          "RuPay -\u003e domestic card payment network in India",
-                                          "Reconciliation -\u003e domestic card payment network in India"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027RuPay -\u003e domestic card payment network in India\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  95,
+                          "id":  77,
                           "question":  "A Bank SO IT transaction requirement states: domestic card payment network in India. Which concept should be selected?",
                           "options":  [
                                           "AEPS",
@@ -1141,7 +925,7 @@
                           "explanation":  "The requirement directly points to RuPay."
                       },
                       {
-                          "id":  96,
+                          "id":  78,
                           "question":  "Which payment concept best matches: umbrella organization operating retail payment systems in India?",
                           "options":  [
                                           "FASTag",
@@ -1153,7 +937,7 @@
                           "explanation":  "NPCI is defined as: umbrella organization operating retail payment systems in India."
                       },
                       {
-                          "id":  97,
+                          "id":  79,
                           "question":  "What is the most accurate description of \u0027NPCI\u0027?",
                           "options":  [
                                           "umbrella organization operating retail payment systems in India",
@@ -1165,7 +949,7 @@
                           "explanation":  "NPCI refers to: umbrella organization operating retail payment systems in India."
                       },
                       {
-                          "id":  98,
+                          "id":  80,
                           "question":  "\u0027NPCI\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -1177,19 +961,7 @@
                           "explanation":  "NPCI is mainly part of Indian Payment Rails."
                       },
                       {
-                          "id":  99,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Reconciliation -\u003e umbrella organization operating retail payment systems in India",
-                                          "Clearing -\u003e umbrella organization operating retail payment systems in India",
-                                          "OTP -\u003e umbrella organization operating retail payment systems in India",
-                                          "NPCI -\u003e umbrella organization operating retail payment systems in India"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027NPCI -\u003e umbrella organization operating retail payment systems in India\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  100,
+                          "id":  81,
                           "question":  "A Bank SO IT transaction requirement states: umbrella organization operating retail payment systems in India. Which concept should be selected?",
                           "options":  [
                                           "NPCI",
@@ -1201,7 +973,7 @@
                           "explanation":  "The requirement directly points to NPCI."
                       },
                       {
-                          "id":  101,
+                          "id":  82,
                           "question":  "Which payment concept best matches: process of exchange and reconciliation of payment instructions?",
                           "options":  [
                                           "RTGS",
@@ -1213,7 +985,7 @@
                           "explanation":  "Clearing is defined as: process of exchange and reconciliation of payment instructions."
                       },
                       {
-                          "id":  102,
+                          "id":  83,
                           "question":  "What is the most accurate description of \u0027Clearing\u0027?",
                           "options":  [
                                           "unique number identifying customer account in bank",
@@ -1225,7 +997,7 @@
                           "explanation":  "Clearing refers to: process of exchange and reconciliation of payment instructions."
                       },
                       {
-                          "id":  103,
+                          "id":  84,
                           "question":  "\u0027Clearing\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -1237,19 +1009,7 @@
                           "explanation":  "Clearing is mainly part of Transaction Lifecycle."
                       },
                       {
-                          "id":  104,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Clearing -\u003e process of exchange and reconciliation of payment instructions",
-                                          "UPI -\u003e process of exchange and reconciliation of payment instructions",
-                                          "NPCI -\u003e process of exchange and reconciliation of payment instructions",
-                                          "Settlement -\u003e process of exchange and reconciliation of payment instructions"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Clearing -\u003e process of exchange and reconciliation of payment instructions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  105,
+                          "id":  85,
                           "question":  "A Bank SO IT transaction requirement states: process of exchange and reconciliation of payment instructions. Which concept should be selected?",
                           "options":  [
                                           "RTGS",
@@ -1261,7 +1021,7 @@
                           "explanation":  "The requirement directly points to Clearing."
                       },
                       {
-                          "id":  106,
+                          "id":  86,
                           "question":  "Which payment concept best matches: recording transaction entries in customer and GL accounts?",
                           "options":  [
                                           "ISO 8583",
@@ -1273,7 +1033,7 @@
                           "explanation":  "Posting is defined as: recording transaction entries in customer and GL accounts."
                       },
                       {
-                          "id":  107,
+                          "id":  87,
                           "question":  "What is the most accurate description of \u0027Posting\u0027?",
                           "options":  [
                                           "bank that issues account/card used by payer",
@@ -1285,7 +1045,7 @@
                           "explanation":  "Posting refers to: recording transaction entries in customer and GL accounts."
                       },
                       {
-                          "id":  108,
+                          "id":  88,
                           "question":  "\u0027Posting\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Indian Payment Rails",
@@ -1297,19 +1057,7 @@
                           "explanation":  "Posting is mainly part of Transaction Lifecycle."
                       },
                       {
-                          "id":  109,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Settlement -\u003e recording transaction entries in customer and GL accounts",
-                                          "Posting -\u003e recording transaction entries in customer and GL accounts",
-                                          "Issuer Bank -\u003e recording transaction entries in customer and GL accounts",
-                                          "RRN -\u003e recording transaction entries in customer and GL accounts"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Posting -\u003e recording transaction entries in customer and GL accounts\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  110,
+                          "id":  89,
                           "question":  "A Bank SO IT transaction requirement states: recording transaction entries in customer and GL accounts. Which concept should be selected?",
                           "options":  [
                                           "Velocity Rule",
@@ -1321,7 +1069,7 @@
                           "explanation":  "The requirement directly points to Posting."
                       },
                       {
-                          "id":  111,
+                          "id":  90,
                           "question":  "Which payment concept best matches: operation to negate a previously processed transaction?",
                           "options":  [
                                           "Reversal",
@@ -1333,7 +1081,7 @@
                           "explanation":  "Reversal is defined as: operation to negate a previously processed transaction."
                       },
                       {
-                          "id":  112,
+                          "id":  91,
                           "question":  "What is the most accurate description of \u0027Reversal\u0027?",
                           "options":  [
                                           "service that securely routes online payment details",
@@ -1345,7 +1093,7 @@
                           "explanation":  "Reversal refers to: operation to negate a previously processed transaction."
                       },
                       {
-                          "id":  113,
+                          "id":  92,
                           "question":  "\u0027Reversal\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -1357,19 +1105,7 @@
                           "explanation":  "Reversal is mainly part of Transaction Lifecycle."
                       },
                       {
-                          "id":  114,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Refund -\u003e operation to negate a previously processed transaction",
-                                          "Reversal -\u003e operation to negate a previously processed transaction",
-                                          "Payment System -\u003e operation to negate a previously processed transaction",
-                                          "ISO 20022 -\u003e operation to negate a previously processed transaction"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Reversal -\u003e operation to negate a previously processed transaction\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  115,
+                          "id":  93,
                           "question":  "A Bank SO IT transaction requirement states: operation to negate a previously processed transaction. Which concept should be selected?",
                           "options":  [
                                           "OTP",
@@ -1381,7 +1117,7 @@
                           "explanation":  "The requirement directly points to Reversal."
                       },
                       {
-                          "id":  116,
+                          "id":  94,
                           "question":  "Which payment concept best matches: card dispute process returning funds to customer?",
                           "options":  [
                                           "Fraud Monitoring",
@@ -1393,7 +1129,7 @@
                           "explanation":  "Chargeback is defined as: card dispute process returning funds to customer."
                       },
                       {
-                          "id":  117,
+                          "id":  95,
                           "question":  "What is the most accurate description of \u0027Chargeback\u0027?",
                           "options":  [
                                           "immediate processing and response for each transaction",
@@ -1405,7 +1141,7 @@
                           "explanation":  "Chargeback refers to: card dispute process returning funds to customer."
                       },
                       {
-                          "id":  118,
+                          "id":  96,
                           "question":  "\u0027Chargeback\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Identifiers and Messaging",
@@ -1417,19 +1153,7 @@
                           "explanation":  "Chargeback is mainly part of Transaction Lifecycle."
                       },
                       {
-                          "id":  119,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "UTR -\u003e card dispute process returning funds to customer",
-                                          "Payee -\u003e card dispute process returning funds to customer",
-                                          "Chargeback -\u003e card dispute process returning funds to customer",
-                                          "UPI -\u003e card dispute process returning funds to customer"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Chargeback -\u003e card dispute process returning funds to customer\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  120,
+                          "id":  97,
                           "question":  "A Bank SO IT transaction requirement states: card dispute process returning funds to customer. Which concept should be selected?",
                           "options":  [
                                           "Chargeback",
@@ -1441,7 +1165,7 @@
                           "explanation":  "The requirement directly points to Chargeback."
                       },
                       {
-                          "id":  121,
+                          "id":  98,
                           "question":  "Which payment concept best matches: merchant-initiated return of funds to customer?",
                           "options":  [
                                           "Refund",
@@ -1453,7 +1177,7 @@
                           "explanation":  "Refund is defined as: merchant-initiated return of funds to customer."
                       },
                       {
-                          "id":  122,
+                          "id":  99,
                           "question":  "What is the most accurate description of \u0027Refund\u0027?",
                           "options":  [
                                           "merchant-initiated return of funds to customer",
@@ -1465,7 +1189,7 @@
                           "explanation":  "Refund refers to: merchant-initiated return of funds to customer."
                       },
                       {
-                          "id":  123,
+                          "id":  100,
                           "question":  "\u0027Refund\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -1477,19 +1201,7 @@
                           "explanation":  "Refund is mainly part of Transaction Lifecycle."
                       },
                       {
-                          "id":  124,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Posting -\u003e merchant-initiated return of funds to customer",
-                                          "Account Number -\u003e merchant-initiated return of funds to customer",
-                                          "Payment Gateway -\u003e merchant-initiated return of funds to customer",
-                                          "Refund -\u003e merchant-initiated return of funds to customer"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Refund -\u003e merchant-initiated return of funds to customer\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  125,
+                          "id":  101,
                           "question":  "A Bank SO IT transaction requirement states: merchant-initiated return of funds to customer. Which concept should be selected?",
                           "options":  [
                                           "VPA",
@@ -1501,7 +1213,7 @@
                           "explanation":  "The requirement directly points to Refund."
                       },
                       {
-                          "id":  126,
+                          "id":  102,
                           "question":  "Which payment concept best matches: matching transaction records across systems for accuracy?",
                           "options":  [
                                           "PCI DSS",
@@ -1513,7 +1225,7 @@
                           "explanation":  "Reconciliation is defined as: matching transaction records across systems for accuracy."
                       },
                       {
-                          "id":  127,
+                          "id":  103,
                           "question":  "What is the most accurate description of \u0027Reconciliation\u0027?",
                           "options":  [
                                           "matching transaction records across systems for accuracy",
@@ -1525,7 +1237,7 @@
                           "explanation":  "Reconciliation refers to: matching transaction records across systems for accuracy."
                       },
                       {
-                          "id":  128,
+                          "id":  104,
                           "question":  "\u0027Reconciliation\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Indian Payment Rails",
@@ -1537,19 +1249,7 @@
                           "explanation":  "Reconciliation is mainly part of Transaction Lifecycle."
                       },
                       {
-                          "id":  129,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Reconciliation -\u003e matching transaction records across systems for accuracy",
-                                          "Refund -\u003e matching transaction records across systems for accuracy",
-                                          "Cut-off Time -\u003e matching transaction records across systems for accuracy",
-                                          "Account Number -\u003e matching transaction records across systems for accuracy"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Reconciliation -\u003e matching transaction records across systems for accuracy\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  130,
+                          "id":  105,
                           "question":  "A Bank SO IT transaction requirement states: matching transaction records across systems for accuracy. Which concept should be selected?",
                           "options":  [
                                           "Reconciliation",
@@ -1561,7 +1261,7 @@
                           "explanation":  "The requirement directly points to Reconciliation."
                       },
                       {
-                          "id":  131,
+                          "id":  106,
                           "question":  "Which payment concept best matches: straight through processing without manual intervention?",
                           "options":  [
                                           "PCI DSS",
@@ -1573,7 +1273,7 @@
                           "explanation":  "STP is defined as: straight through processing without manual intervention."
                       },
                       {
-                          "id":  132,
+                          "id":  107,
                           "question":  "What is the most accurate description of \u0027STP\u0027?",
                           "options":  [
                                           "straight through processing without manual intervention",
@@ -1585,7 +1285,7 @@
                           "explanation":  "STP refers to: straight through processing without manual intervention."
                       },
                       {
-                          "id":  133,
+                          "id":  108,
                           "question":  "\u0027STP\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Payment Fundamentals",
@@ -1597,19 +1297,7 @@
                           "explanation":  "STP is mainly part of Transaction Lifecycle."
                       },
                       {
-                          "id":  134,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Payment Processor -\u003e straight through processing without manual intervention",
-                                          "NEFT -\u003e straight through processing without manual intervention",
-                                          "STP -\u003e straight through processing without manual intervention",
-                                          "AEPS -\u003e straight through processing without manual intervention"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027STP -\u003e straight through processing without manual intervention\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  135,
+                          "id":  109,
                           "question":  "A Bank SO IT transaction requirement states: straight through processing without manual intervention. Which concept should be selected?",
                           "options":  [
                                           "PCI DSS",
@@ -1621,7 +1309,7 @@
                           "explanation":  "The requirement directly points to STP."
                       },
                       {
-                          "id":  136,
+                          "id":  110,
                           "question":  "Which payment concept best matches: processing grouped transactions at scheduled intervals?",
                           "options":  [
                                           "Batch Processing",
@@ -1633,7 +1321,7 @@
                           "explanation":  "Batch Processing is defined as: processing grouped transactions at scheduled intervals."
                       },
                       {
-                          "id":  137,
+                          "id":  111,
                           "question":  "What is the most accurate description of \u0027Batch Processing\u0027?",
                           "options":  [
                                           "workflow for handling transaction complaints and claims",
@@ -1645,7 +1333,7 @@
                           "explanation":  "Batch Processing refers to: processing grouped transactions at scheduled intervals."
                       },
                       {
-                          "id":  138,
+                          "id":  112,
                           "question":  "\u0027Batch Processing\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Payment Fundamentals",
@@ -1657,19 +1345,7 @@
                           "explanation":  "Batch Processing is mainly part of Transaction Lifecycle."
                       },
                       {
-                          "id":  139,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "ISO 20022 -\u003e processing grouped transactions at scheduled intervals",
-                                          "Sanctions Screening -\u003e processing grouped transactions at scheduled intervals",
-                                          "AEPS -\u003e processing grouped transactions at scheduled intervals",
-                                          "Batch Processing -\u003e processing grouped transactions at scheduled intervals"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Batch Processing -\u003e processing grouped transactions at scheduled intervals\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  140,
+                          "id":  113,
                           "question":  "A Bank SO IT transaction requirement states: processing grouped transactions at scheduled intervals. Which concept should be selected?",
                           "options":  [
                                           "Batch Processing",
@@ -1681,7 +1357,7 @@
                           "explanation":  "The requirement directly points to Batch Processing."
                       },
                       {
-                          "id":  141,
+                          "id":  114,
                           "question":  "Which payment concept best matches: immediate processing and response for each transaction?",
                           "options":  [
                                           "SWIFT MT",
@@ -1693,7 +1369,7 @@
                           "explanation":  "Real-Time Processing is defined as: immediate processing and response for each transaction."
                       },
                       {
-                          "id":  142,
+                          "id":  115,
                           "question":  "What is the most accurate description of \u0027Real-Time Processing\u0027?",
                           "options":  [
                                           "person or entity initiating payment transaction",
@@ -1705,7 +1381,7 @@
                           "explanation":  "Real-Time Processing refers to: immediate processing and response for each transaction."
                       },
                       {
-                          "id":  143,
+                          "id":  116,
                           "question":  "\u0027Real-Time Processing\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -1717,19 +1393,7 @@
                           "explanation":  "Real-Time Processing is mainly part of Transaction Lifecycle."
                       },
                       {
-                          "id":  144,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Switch -\u003e immediate processing and response for each transaction",
-                                          "RRN -\u003e immediate processing and response for each transaction",
-                                          "Real-Time Processing -\u003e immediate processing and response for each transaction",
-                                          "ISO 20022 -\u003e immediate processing and response for each transaction"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Real-Time Processing -\u003e immediate processing and response for each transaction\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  145,
+                          "id":  117,
                           "question":  "A Bank SO IT transaction requirement states: immediate processing and response for each transaction. Which concept should be selected?",
                           "options":  [
                                           "NPCI",
@@ -1741,7 +1405,7 @@
                           "explanation":  "The requirement directly points to Real-Time Processing."
                       },
                       {
-                          "id":  146,
+                          "id":  118,
                           "question":  "Which payment concept best matches: time limit after which transaction goes to next cycle?",
                           "options":  [
                                           "Cut-off Time",
@@ -1753,7 +1417,7 @@
                           "explanation":  "Cut-off Time is defined as: time limit after which transaction goes to next cycle."
                       },
                       {
-                          "id":  147,
+                          "id":  119,
                           "question":  "What is the most accurate description of \u0027Cut-off Time\u0027?",
                           "options":  [
                                           "person or entity receiving payment funds",
@@ -1765,7 +1429,7 @@
                           "explanation":  "Cut-off Time refers to: time limit after which transaction goes to next cycle."
                       },
                       {
-                          "id":  148,
+                          "id":  120,
                           "question":  "\u0027Cut-off Time\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -1777,19 +1441,7 @@
                           "explanation":  "Cut-off Time is mainly part of Transaction Lifecycle."
                       },
                       {
-                          "id":  149,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "SWIFT MX -\u003e time limit after which transaction goes to next cycle",
-                                          "UPI -\u003e time limit after which transaction goes to next cycle",
-                                          "Cut-off Time -\u003e time limit after which transaction goes to next cycle",
-                                          "Tokenization -\u003e time limit after which transaction goes to next cycle"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Cut-off Time -\u003e time limit after which transaction goes to next cycle\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  150,
+                          "id":  121,
                           "question":  "A Bank SO IT transaction requirement states: time limit after which transaction goes to next cycle. Which concept should be selected?",
                           "options":  [
                                           "Tokenization",
@@ -1801,7 +1453,7 @@
                           "explanation":  "The requirement directly points to Cut-off Time."
                       },
                       {
-                          "id":  151,
+                          "id":  122,
                           "question":  "Which payment concept best matches: bank branch code used for routing electronic transfers?",
                           "options":  [
                                           "RTGS",
@@ -1813,7 +1465,7 @@
                           "explanation":  "IFSC is defined as: bank branch code used for routing electronic transfers."
                       },
                       {
-                          "id":  152,
+                          "id":  123,
                           "question":  "What is the most accurate description of \u0027IFSC\u0027?",
                           "options":  [
                                           "straight through processing without manual intervention",
@@ -1825,7 +1477,7 @@
                           "explanation":  "IFSC refers to: bank branch code used for routing electronic transfers."
                       },
                       {
-                          "id":  153,
+                          "id":  124,
                           "question":  "\u0027IFSC\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Identifiers and Messaging",
@@ -1837,19 +1489,7 @@
                           "explanation":  "IFSC is mainly part of Identifiers and Messaging."
                       },
                       {
-                          "id":  154,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "STP -\u003e bank branch code used for routing electronic transfers",
-                                          "OTP -\u003e bank branch code used for routing electronic transfers",
-                                          "IFSC -\u003e bank branch code used for routing electronic transfers",
-                                          "Fraud Monitoring -\u003e bank branch code used for routing electronic transfers"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027IFSC -\u003e bank branch code used for routing electronic transfers\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  155,
+                          "id":  125,
                           "question":  "A Bank SO IT transaction requirement states: bank branch code used for routing electronic transfers. Which concept should be selected?",
                           "options":  [
                                           "IFSC",
@@ -1861,7 +1501,7 @@
                           "explanation":  "The requirement directly points to IFSC."
                       },
                       {
-                          "id":  156,
+                          "id":  126,
                           "question":  "Which payment concept best matches: unique number identifying customer account in bank?",
                           "options":  [
                                           "BBPS",
@@ -1873,7 +1513,7 @@
                           "explanation":  "Account Number is defined as: unique number identifying customer account in bank."
                       },
                       {
-                          "id":  157,
+                          "id":  127,
                           "question":  "What is the most accurate description of \u0027Account Number\u0027?",
                           "options":  [
                                           "validation against prohibited entities lists before processing",
@@ -1885,7 +1525,7 @@
                           "explanation":  "Account Number refers to: unique number identifying customer account in bank."
                       },
                       {
-                          "id":  158,
+                          "id":  128,
                           "question":  "\u0027Account Number\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Identifiers and Messaging",
@@ -1897,19 +1537,7 @@
                           "explanation":  "Account Number is mainly part of Identifiers and Messaging."
                       },
                       {
-                          "id":  159,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Account Number -\u003e unique number identifying customer account in bank",
-                                          "Fraud Monitoring -\u003e unique number identifying customer account in bank",
-                                          "UTR -\u003e unique number identifying customer account in bank",
-                                          "Velocity Rule -\u003e unique number identifying customer account in bank"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Account Number -\u003e unique number identifying customer account in bank\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  160,
+                          "id":  129,
                           "question":  "A Bank SO IT transaction requirement states: unique number identifying customer account in bank. Which concept should be selected?",
                           "options":  [
                                           "Fraud Monitoring",
@@ -1921,7 +1549,7 @@
                           "explanation":  "The requirement directly points to Account Number."
                       },
                       {
-                          "id":  161,
+                          "id":  130,
                           "question":  "Which payment concept best matches: virtual payment address used in UPI transactions?",
                           "options":  [
                                           "VPA",
@@ -1933,7 +1561,7 @@
                           "explanation":  "VPA is defined as: virtual payment address used in UPI transactions."
                       },
                       {
-                          "id":  162,
+                          "id":  131,
                           "question":  "What is the most accurate description of \u0027VPA\u0027?",
                           "options":  [
                                           "bank that issues account/card used by payer",
@@ -1945,7 +1573,7 @@
                           "explanation":  "VPA refers to: virtual payment address used in UPI transactions."
                       },
                       {
-                          "id":  163,
+                          "id":  132,
                           "question":  "\u0027VPA\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Identifiers and Messaging",
@@ -1957,19 +1585,7 @@
                           "explanation":  "VPA is mainly part of Identifiers and Messaging."
                       },
                       {
-                          "id":  164,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Authorization -\u003e virtual payment address used in UPI transactions",
-                                          "Fraud Monitoring -\u003e virtual payment address used in UPI transactions",
-                                          "VPA -\u003e virtual payment address used in UPI transactions",
-                                          "STP -\u003e virtual payment address used in UPI transactions"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027VPA -\u003e virtual payment address used in UPI transactions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  165,
+                          "id":  133,
                           "question":  "A Bank SO IT transaction requirement states: virtual payment address used in UPI transactions. Which concept should be selected?",
                           "options":  [
                                           "Reversal",
@@ -1981,7 +1597,7 @@
                           "explanation":  "The requirement directly points to VPA."
                       },
                       {
-                          "id":  166,
+                          "id":  134,
                           "question":  "Which payment concept best matches: unique transaction reference for tracking payment?",
                           "options":  [
                                           "Payee",
@@ -1993,7 +1609,7 @@
                           "explanation":  "UTR is defined as: unique transaction reference for tracking payment."
                       },
                       {
-                          "id":  167,
+                          "id":  135,
                           "question":  "What is the most accurate description of \u0027UTR\u0027?",
                           "options":  [
                                           "network component routing transactions to destination institutions",
@@ -2005,7 +1621,7 @@
                           "explanation":  "UTR refers to: unique transaction reference for tracking payment."
                       },
                       {
-                          "id":  168,
+                          "id":  136,
                           "question":  "\u0027UTR\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Security and Risk Controls",
@@ -2017,19 +1633,7 @@
                           "explanation":  "UTR is mainly part of Identifiers and Messaging."
                       },
                       {
-                          "id":  169,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Velocity Rule -\u003e unique transaction reference for tracking payment",
-                                          "SWIFT MX -\u003e unique transaction reference for tracking payment",
-                                          "Payment System -\u003e unique transaction reference for tracking payment",
-                                          "UTR -\u003e unique transaction reference for tracking payment"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027UTR -\u003e unique transaction reference for tracking payment\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  170,
+                          "id":  137,
                           "question":  "A Bank SO IT transaction requirement states: unique transaction reference for tracking payment. Which concept should be selected?",
                           "options":  [
                                           "Dispute Management",
@@ -2041,7 +1645,7 @@
                           "explanation":  "The requirement directly points to UTR."
                       },
                       {
-                          "id":  171,
+                          "id":  138,
                           "question":  "Which payment concept best matches: retrieval reference number for card/payment tracking?",
                           "options":  [
                                           "BBPS",
@@ -2053,7 +1657,7 @@
                           "explanation":  "RRN is defined as: retrieval reference number for card/payment tracking."
                       },
                       {
-                          "id":  172,
+                          "id":  139,
                           "question":  "What is the most accurate description of \u0027RRN\u0027?",
                           "options":  [
                                           "time limit after which transaction goes to next cycle",
@@ -2065,7 +1669,7 @@
                           "explanation":  "RRN refers to: retrieval reference number for card/payment tracking."
                       },
                       {
-                          "id":  173,
+                          "id":  140,
                           "question":  "\u0027RRN\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -2077,19 +1681,7 @@
                           "explanation":  "RRN is mainly part of Identifiers and Messaging."
                       },
                       {
-                          "id":  174,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "RRN -\u003e retrieval reference number for card/payment tracking",
-                                          "Payment Processor -\u003e retrieval reference number for card/payment tracking",
-                                          "UTR -\u003e retrieval reference number for card/payment tracking",
-                                          "Tokenization -\u003e retrieval reference number for card/payment tracking"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027RRN -\u003e retrieval reference number for card/payment tracking\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  175,
+                          "id":  141,
                           "question":  "A Bank SO IT transaction requirement states: retrieval reference number for card/payment tracking. Which concept should be selected?",
                           "options":  [
                                           "RRN",
@@ -2101,7 +1693,7 @@
                           "explanation":  "The requirement directly points to RRN."
                       },
                       {
-                          "id":  176,
+                          "id":  142,
                           "question":  "Which payment concept best matches: standard messaging format for card-based financial transactions?",
                           "options":  [
                                           "ISO 8583",
@@ -2113,7 +1705,7 @@
                           "explanation":  "ISO 8583 is defined as: standard messaging format for card-based financial transactions."
                       },
                       {
-                          "id":  177,
+                          "id":  143,
                           "question":  "What is the most accurate description of \u0027ISO 8583\u0027?",
                           "options":  [
                                           "interoperable bill payment ecosystem under NPCI",
@@ -2125,7 +1717,7 @@
                           "explanation":  "ISO 8583 refers to: standard messaging format for card-based financial transactions."
                       },
                       {
-                          "id":  178,
+                          "id":  144,
                           "question":  "\u0027ISO 8583\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Indian Payment Rails",
@@ -2137,19 +1729,7 @@
                           "explanation":  "ISO 8583 is mainly part of Identifiers and Messaging."
                       },
                       {
-                          "id":  179,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "OTP -\u003e standard messaging format for card-based financial transactions",
-                                          "Posting -\u003e standard messaging format for card-based financial transactions",
-                                          "Account Number -\u003e standard messaging format for card-based financial transactions",
-                                          "ISO 8583 -\u003e standard messaging format for card-based financial transactions"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027ISO 8583 -\u003e standard messaging format for card-based financial transactions\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  180,
+                          "id":  145,
                           "question":  "A Bank SO IT transaction requirement states: standard messaging format for card-based financial transactions. Which concept should be selected?",
                           "options":  [
                                           "UTR",
@@ -2161,7 +1741,7 @@
                           "explanation":  "The requirement directly points to ISO 8583."
                       },
                       {
-                          "id":  181,
+                          "id":  146,
                           "question":  "Which payment concept best matches: XML-based universal messaging standard for payments?",
                           "options":  [
                                           "Switch",
@@ -2173,7 +1753,7 @@
                           "explanation":  "ISO 20022 is defined as: XML-based universal messaging standard for payments."
                       },
                       {
-                          "id":  182,
+                          "id":  147,
                           "question":  "What is the most accurate description of \u0027ISO 20022\u0027?",
                           "options":  [
                                           "bank that services merchant and accepts payment requests",
@@ -2185,7 +1765,7 @@
                           "explanation":  "ISO 20022 refers to: XML-based universal messaging standard for payments."
                       },
                       {
-                          "id":  183,
+                          "id":  148,
                           "question":  "\u0027ISO 20022\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Identifiers and Messaging",
@@ -2197,19 +1777,7 @@
                           "explanation":  "ISO 20022 is mainly part of Identifiers and Messaging."
                       },
                       {
-                          "id":  184,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "NPCI -\u003e XML-based universal messaging standard for payments",
-                                          "ISO 20022 -\u003e XML-based universal messaging standard for payments",
-                                          "Tokenization -\u003e XML-based universal messaging standard for payments",
-                                          "Payment Processor -\u003e XML-based universal messaging standard for payments"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027ISO 20022 -\u003e XML-based universal messaging standard for payments\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  185,
+                          "id":  149,
                           "question":  "A Bank SO IT transaction requirement states: XML-based universal messaging standard for payments. Which concept should be selected?",
                           "options":  [
                                           "Authorization",
@@ -2221,7 +1789,7 @@
                           "explanation":  "The requirement directly points to ISO 20022."
                       },
                       {
-                          "id":  186,
+                          "id":  150,
                           "question":  "Which payment concept best matches: traditional SWIFT financial messaging format?",
                           "options":  [
                                           "MFA",
@@ -2233,7 +1801,7 @@
                           "explanation":  "SWIFT MT is defined as: traditional SWIFT financial messaging format."
                       },
                       {
-                          "id":  187,
+                          "id":  151,
                           "question":  "What is the most accurate description of \u0027SWIFT MT\u0027?",
                           "options":  [
                                           "traditional SWIFT financial messaging format",
@@ -2245,7 +1813,7 @@
                           "explanation":  "SWIFT MT refers to: traditional SWIFT financial messaging format."
                       },
                       {
-                          "id":  188,
+                          "id":  152,
                           "question":  "\u0027SWIFT MT\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -2257,19 +1825,7 @@
                           "explanation":  "SWIFT MT is mainly part of Identifiers and Messaging."
                       },
                       {
-                          "id":  189,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Cut-off Time -\u003e traditional SWIFT financial messaging format",
-                                          "Fraud Monitoring -\u003e traditional SWIFT financial messaging format",
-                                          "Sanctions Screening -\u003e traditional SWIFT financial messaging format",
-                                          "SWIFT MT -\u003e traditional SWIFT financial messaging format"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027SWIFT MT -\u003e traditional SWIFT financial messaging format\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  190,
+                          "id":  153,
                           "question":  "A Bank SO IT transaction requirement states: traditional SWIFT financial messaging format. Which concept should be selected?",
                           "options":  [
                                           "Payment Processor",
@@ -2281,7 +1837,7 @@
                           "explanation":  "The requirement directly points to SWIFT MT."
                       },
                       {
-                          "id":  191,
+                          "id":  154,
                           "question":  "Which payment concept best matches: ISO 20022 based SWIFT message format?",
                           "options":  [
                                           "Fraud Monitoring",
@@ -2293,7 +1849,7 @@
                           "explanation":  "SWIFT MX is defined as: ISO 20022 based SWIFT message format."
                       },
                       {
-                          "id":  192,
+                          "id":  155,
                           "question":  "What is the most accurate description of \u0027SWIFT MX\u0027?",
                           "options":  [
                                           "ISO 20022 based SWIFT message format",
@@ -2305,7 +1861,7 @@
                           "explanation":  "SWIFT MX refers to: ISO 20022 based SWIFT message format."
                       },
                       {
-                          "id":  193,
+                          "id":  156,
                           "question":  "\u0027SWIFT MX\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Identifiers and Messaging",
@@ -2317,19 +1873,7 @@
                           "explanation":  "SWIFT MX is mainly part of Identifiers and Messaging."
                       },
                       {
-                          "id":  194,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "NEFT -\u003e ISO 20022 based SWIFT message format",
-                                          "SWIFT MX -\u003e ISO 20022 based SWIFT message format",
-                                          "Reconciliation -\u003e ISO 20022 based SWIFT message format",
-                                          "Authorization -\u003e ISO 20022 based SWIFT message format"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027SWIFT MX -\u003e ISO 20022 based SWIFT message format\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  195,
+                          "id":  157,
                           "question":  "A Bank SO IT transaction requirement states: ISO 20022 based SWIFT message format. Which concept should be selected?",
                           "options":  [
                                           "Fraud Monitoring",
@@ -2341,7 +1885,7 @@
                           "explanation":  "The requirement directly points to SWIFT MX."
                       },
                       {
-                          "id":  196,
+                          "id":  158,
                           "question":  "Which payment concept best matches: event callback informing transaction status updates?",
                           "options":  [
                                           "NPCI",
@@ -2353,7 +1897,7 @@
                           "explanation":  "Webhook Notification is defined as: event callback informing transaction status updates."
                       },
                       {
-                          "id":  197,
+                          "id":  159,
                           "question":  "What is the most accurate description of \u0027Webhook Notification\u0027?",
                           "options":  [
                                           "event callback informing transaction status updates",
@@ -2365,7 +1909,7 @@
                           "explanation":  "Webhook Notification refers to: event callback informing transaction status updates."
                       },
                       {
-                          "id":  198,
+                          "id":  160,
                           "question":  "\u0027Webhook Notification\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Indian Payment Rails",
@@ -2377,19 +1921,7 @@
                           "explanation":  "Webhook Notification is mainly part of Identifiers and Messaging."
                       },
                       {
-                          "id":  199,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Payment Processor -\u003e event callback informing transaction status updates",
-                                          "UPI -\u003e event callback informing transaction status updates",
-                                          "Webhook Notification -\u003e event callback informing transaction status updates",
-                                          "IMPS -\u003e event callback informing transaction status updates"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Webhook Notification -\u003e event callback informing transaction status updates\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  200,
+                          "id":  161,
                           "question":  "A Bank SO IT transaction requirement states: event callback informing transaction status updates. Which concept should be selected?",
                           "options":  [
                                           "NPCI",
@@ -2401,7 +1933,7 @@
                           "explanation":  "The requirement directly points to Webhook Notification."
                       },
                       {
-                          "id":  201,
+                          "id":  162,
                           "question":  "Which payment concept best matches: multi-factor authentication requirement for secure payment access?",
                           "options":  [
                                           "BBPS",
@@ -2413,7 +1945,7 @@
                           "explanation":  "MFA is defined as: multi-factor authentication requirement for secure payment access."
                       },
                       {
-                          "id":  202,
+                          "id":  163,
                           "question":  "What is the most accurate description of \u0027MFA\u0027?",
                           "options":  [
                                           "processing grouped transactions at scheduled intervals",
@@ -2425,7 +1957,7 @@
                           "explanation":  "MFA refers to: multi-factor authentication requirement for secure payment access."
                       },
                       {
-                          "id":  203,
+                          "id":  164,
                           "question":  "\u0027MFA\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Security and Risk Controls",
@@ -2437,19 +1969,7 @@
                           "explanation":  "MFA is mainly part of Security and Risk Controls."
                       },
                       {
-                          "id":  204,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Chargeback -\u003e multi-factor authentication requirement for secure payment access",
-                                          "BBPS -\u003e multi-factor authentication requirement for secure payment access",
-                                          "Posting -\u003e multi-factor authentication requirement for secure payment access",
-                                          "MFA -\u003e multi-factor authentication requirement for secure payment access"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027MFA -\u003e multi-factor authentication requirement for secure payment access\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  205,
+                          "id":  165,
                           "question":  "A Bank SO IT transaction requirement states: multi-factor authentication requirement for secure payment access. Which concept should be selected?",
                           "options":  [
                                           "RuPay",
@@ -2461,7 +1981,7 @@
                           "explanation":  "The requirement directly points to MFA."
                       },
                       {
-                          "id":  206,
+                          "id":  166,
                           "question":  "Which payment concept best matches: one-time password used for transaction authentication?",
                           "options":  [
                                           "Cut-off Time",
@@ -2473,7 +1993,7 @@
                           "explanation":  "OTP is defined as: one-time password used for transaction authentication."
                       },
                       {
-                          "id":  207,
+                          "id":  167,
                           "question":  "What is the most accurate description of \u0027OTP\u0027?",
                           "options":  [
                                           "ISO 20022 based SWIFT message format",
@@ -2485,7 +2005,7 @@
                           "explanation":  "OTP refers to: one-time password used for transaction authentication."
                       },
                       {
-                          "id":  208,
+                          "id":  168,
                           "question":  "\u0027OTP\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Security and Risk Controls",
@@ -2497,19 +2017,7 @@
                           "explanation":  "OTP is mainly part of Security and Risk Controls."
                       },
                       {
-                          "id":  209,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "OTP -\u003e one-time password used for transaction authentication",
-                                          "Cut-off Time -\u003e one-time password used for transaction authentication",
-                                          "IFSC -\u003e one-time password used for transaction authentication",
-                                          "Payee -\u003e one-time password used for transaction authentication"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027OTP -\u003e one-time password used for transaction authentication\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  210,
+                          "id":  169,
                           "question":  "A Bank SO IT transaction requirement states: one-time password used for transaction authentication. Which concept should be selected?",
                           "options":  [
                                           "Issuer Bank",
@@ -2521,7 +2029,7 @@
                           "explanation":  "The requirement directly points to OTP."
                       },
                       {
-                          "id":  211,
+                          "id":  170,
                           "question":  "Which payment concept best matches: replacement of sensitive payment data with surrogate token?",
                           "options":  [
                                           "SWIFT MT",
@@ -2533,7 +2041,7 @@
                           "explanation":  "Tokenization is defined as: replacement of sensitive payment data with surrogate token."
                       },
                       {
-                          "id":  212,
+                          "id":  171,
                           "question":  "What is the most accurate description of \u0027Tokenization\u0027?",
                           "options":  [
                                           "ISO 20022 based SWIFT message format",
@@ -2545,7 +2053,7 @@
                           "explanation":  "Tokenization refers to: replacement of sensitive payment data with surrogate token."
                       },
                       {
-                          "id":  213,
+                          "id":  172,
                           "question":  "\u0027Tokenization\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Identifiers and Messaging",
@@ -2557,19 +2065,7 @@
                           "explanation":  "Tokenization is mainly part of Security and Risk Controls."
                       },
                       {
-                          "id":  214,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Refund -\u003e replacement of sensitive payment data with surrogate token",
-                                          "FASTag -\u003e replacement of sensitive payment data with surrogate token",
-                                          "Payment Gateway -\u003e replacement of sensitive payment data with surrogate token",
-                                          "Tokenization -\u003e replacement of sensitive payment data with surrogate token"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Tokenization -\u003e replacement of sensitive payment data with surrogate token\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  215,
+                          "id":  173,
                           "question":  "A Bank SO IT transaction requirement states: replacement of sensitive payment data with surrogate token. Which concept should be selected?",
                           "options":  [
                                           "Authorization",
@@ -2581,7 +2077,7 @@
                           "explanation":  "The requirement directly points to Tokenization."
                       },
                       {
-                          "id":  216,
+                          "id":  174,
                           "question":  "Which payment concept best matches: security standard for handling cardholder data?",
                           "options":  [
                                           "PCI DSS",
@@ -2593,7 +2089,7 @@
                           "explanation":  "PCI DSS is defined as: security standard for handling cardholder data."
                       },
                       {
-                          "id":  217,
+                          "id":  175,
                           "question":  "What is the most accurate description of \u0027PCI DSS\u0027?",
                           "options":  [
                                           "retrieval reference number for card/payment tracking",
@@ -2605,7 +2101,7 @@
                           "explanation":  "PCI DSS refers to: security standard for handling cardholder data."
                       },
                       {
-                          "id":  218,
+                          "id":  176,
                           "question":  "\u0027PCI DSS\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Payment Fundamentals",
@@ -2617,19 +2113,7 @@
                           "explanation":  "PCI DSS is mainly part of Security and Risk Controls."
                       },
                       {
-                          "id":  219,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "PCI DSS -\u003e security standard for handling cardholder data",
-                                          "RRN -\u003e security standard for handling cardholder data",
-                                          "Payer -\u003e security standard for handling cardholder data",
-                                          "NACH -\u003e security standard for handling cardholder data"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027PCI DSS -\u003e security standard for handling cardholder data\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  220,
+                          "id":  177,
                           "question":  "A Bank SO IT transaction requirement states: security standard for handling cardholder data. Which concept should be selected?",
                           "options":  [
                                           "BBPS",
@@ -2641,7 +2125,7 @@
                           "explanation":  "The requirement directly points to PCI DSS."
                       },
                       {
-                          "id":  221,
+                          "id":  178,
                           "question":  "Which payment concept best matches: continuous analysis to detect suspicious transaction behavior?",
                           "options":  [
                                           "Acquirer Bank",
@@ -2653,7 +2137,7 @@
                           "explanation":  "Fraud Monitoring is defined as: continuous analysis to detect suspicious transaction behavior."
                       },
                       {
-                          "id":  222,
+                          "id":  179,
                           "question":  "What is the most accurate description of \u0027Fraud Monitoring\u0027?",
                           "options":  [
                                           "continuous analysis to detect suspicious transaction behavior",
@@ -2665,7 +2149,7 @@
                           "explanation":  "Fraud Monitoring refers to: continuous analysis to detect suspicious transaction behavior."
                       },
                       {
-                          "id":  223,
+                          "id":  180,
                           "question":  "\u0027Fraud Monitoring\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Security and Risk Controls",
@@ -2677,19 +2161,7 @@
                           "explanation":  "Fraud Monitoring is mainly part of Security and Risk Controls."
                       },
                       {
-                          "id":  224,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "SWIFT MT -\u003e continuous analysis to detect suspicious transaction behavior",
-                                          "NEFT -\u003e continuous analysis to detect suspicious transaction behavior",
-                                          "UPI -\u003e continuous analysis to detect suspicious transaction behavior",
-                                          "Fraud Monitoring -\u003e continuous analysis to detect suspicious transaction behavior"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Fraud Monitoring -\u003e continuous analysis to detect suspicious transaction behavior\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  225,
+                          "id":  181,
                           "question":  "A Bank SO IT transaction requirement states: continuous analysis to detect suspicious transaction behavior. Which concept should be selected?",
                           "options":  [
                                           "Clearing",
@@ -2701,7 +2173,7 @@
                           "explanation":  "The requirement directly points to Fraud Monitoring."
                       },
                       {
-                          "id":  226,
+                          "id":  182,
                           "question":  "Which payment concept best matches: control limiting transaction count or amount in time window?",
                           "options":  [
                                           "STP",
@@ -2713,7 +2185,7 @@
                           "explanation":  "Velocity Rule is defined as: control limiting transaction count or amount in time window."
                       },
                       {
-                          "id":  227,
+                          "id":  183,
                           "question":  "What is the most accurate description of \u0027Velocity Rule\u0027?",
                           "options":  [
                                           "multi-factor authentication requirement for secure payment access",
@@ -2725,7 +2197,7 @@
                           "explanation":  "Velocity Rule refers to: control limiting transaction count or amount in time window."
                       },
                       {
-                          "id":  228,
+                          "id":  184,
                           "question":  "\u0027Velocity Rule\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Payment Fundamentals",
@@ -2737,19 +2209,7 @@
                           "explanation":  "Velocity Rule is mainly part of Security and Risk Controls."
                       },
                       {
-                          "id":  229,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Authorization -\u003e control limiting transaction count or amount in time window",
-                                          "Velocity Rule -\u003e control limiting transaction count or amount in time window",
-                                          "AEPS -\u003e control limiting transaction count or amount in time window",
-                                          "Payment Processor -\u003e control limiting transaction count or amount in time window"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Velocity Rule -\u003e control limiting transaction count or amount in time window\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  230,
+                          "id":  185,
                           "question":  "A Bank SO IT transaction requirement states: control limiting transaction count or amount in time window. Which concept should be selected?",
                           "options":  [
                                           "STP",
@@ -2761,7 +2221,7 @@
                           "explanation":  "The requirement directly points to Velocity Rule."
                       },
                       {
-                          "id":  231,
+                          "id":  186,
                           "question":  "Which payment concept best matches: checks to identify suspicious money laundering patterns?",
                           "options":  [
                                           "Posting",
@@ -2773,7 +2233,7 @@
                           "explanation":  "AML Screening is defined as: checks to identify suspicious money laundering patterns."
                       },
                       {
-                          "id":  232,
+                          "id":  187,
                           "question":  "What is the most accurate description of \u0027AML Screening\u0027?",
                           "options":  [
                                           "merchant-initiated return of funds to customer",
@@ -2785,7 +2245,7 @@
                           "explanation":  "AML Screening refers to: checks to identify suspicious money laundering patterns."
                       },
                       {
-                          "id":  233,
+                          "id":  188,
                           "question":  "\u0027AML Screening\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Security and Risk Controls",
@@ -2797,19 +2257,7 @@
                           "explanation":  "AML Screening is mainly part of Security and Risk Controls."
                       },
                       {
-                          "id":  234,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "ISO 8583 -\u003e checks to identify suspicious money laundering patterns",
-                                          "AML Screening -\u003e checks to identify suspicious money laundering patterns",
-                                          "NACH -\u003e checks to identify suspicious money laundering patterns",
-                                          "Refund -\u003e checks to identify suspicious money laundering patterns"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027AML Screening -\u003e checks to identify suspicious money laundering patterns\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  235,
+                          "id":  189,
                           "question":  "A Bank SO IT transaction requirement states: checks to identify suspicious money laundering patterns. Which concept should be selected?",
                           "options":  [
                                           "NEFT",
@@ -2821,7 +2269,7 @@
                           "explanation":  "The requirement directly points to AML Screening."
                       },
                       {
-                          "id":  236,
+                          "id":  190,
                           "question":  "Which payment concept best matches: validation against prohibited entities lists before processing?",
                           "options":  [
                                           "IMPS",
@@ -2833,7 +2281,7 @@
                           "explanation":  "Sanctions Screening is defined as: validation against prohibited entities lists before processing."
                       },
                       {
-                          "id":  237,
+                          "id":  191,
                           "question":  "What is the most accurate description of \u0027Sanctions Screening\u0027?",
                           "options":  [
                                           "XML-based universal messaging standard for payments",
@@ -2845,7 +2293,7 @@
                           "explanation":  "Sanctions Screening refers to: validation against prohibited entities lists before processing."
                       },
                       {
-                          "id":  238,
+                          "id":  192,
                           "question":  "\u0027Sanctions Screening\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Transaction Lifecycle",
@@ -2857,19 +2305,7 @@
                           "explanation":  "Sanctions Screening is mainly part of Security and Risk Controls."
                       },
                       {
-                          "id":  239,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "Dispute Management -\u003e validation against prohibited entities lists before processing",
-                                          "Sanctions Screening -\u003e validation against prohibited entities lists before processing",
-                                          "FASTag -\u003e validation against prohibited entities lists before processing",
-                                          "Payee -\u003e validation against prohibited entities lists before processing"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Sanctions Screening -\u003e validation against prohibited entities lists before processing\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  240,
+                          "id":  193,
                           "question":  "A Bank SO IT transaction requirement states: validation against prohibited entities lists before processing. Which concept should be selected?",
                           "options":  [
                                           "Payment Processor",
@@ -2881,7 +2317,7 @@
                           "explanation":  "The requirement directly points to Sanctions Screening."
                       },
                       {
-                          "id":  241,
+                          "id":  194,
                           "question":  "Which payment concept best matches: assigning risk value to transaction based on indicators?",
                           "options":  [
                                           "RRN",
@@ -2893,7 +2329,7 @@
                           "explanation":  "Risk Scoring is defined as: assigning risk value to transaction based on indicators."
                       },
                       {
-                          "id":  242,
+                          "id":  195,
                           "question":  "What is the most accurate description of \u0027Risk Scoring\u0027?",
                           "options":  [
                                           "security standard for handling cardholder data",
@@ -2905,7 +2341,7 @@
                           "explanation":  "Risk Scoring refers to: assigning risk value to transaction based on indicators."
                       },
                       {
-                          "id":  243,
+                          "id":  196,
                           "question":  "\u0027Risk Scoring\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Identifiers and Messaging",
@@ -2917,19 +2353,7 @@
                           "explanation":  "Risk Scoring is mainly part of Security and Risk Controls."
                       },
                       {
-                          "id":  244,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "NEFT -\u003e assigning risk value to transaction based on indicators",
-                                          "Webhook Notification -\u003e assigning risk value to transaction based on indicators",
-                                          "Risk Scoring -\u003e assigning risk value to transaction based on indicators",
-                                          "Clearing -\u003e assigning risk value to transaction based on indicators"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Risk Scoring -\u003e assigning risk value to transaction based on indicators\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  245,
+                          "id":  197,
                           "question":  "A Bank SO IT transaction requirement states: assigning risk value to transaction based on indicators. Which concept should be selected?",
                           "options":  [
                                           "Risk Scoring",
@@ -2941,7 +2365,7 @@
                           "explanation":  "The requirement directly points to Risk Scoring."
                       },
                       {
-                          "id":  246,
+                          "id":  198,
                           "question":  "Which payment concept best matches: workflow for handling transaction complaints and claims?",
                           "options":  [
                                           "ISO 8583",
@@ -2953,7 +2377,7 @@
                           "explanation":  "Dispute Management is defined as: workflow for handling transaction complaints and claims."
                       },
                       {
-                          "id":  247,
+                          "id":  199,
                           "question":  "What is the most accurate description of \u0027Dispute Management\u0027?",
                           "options":  [
                                           "umbrella organization operating retail payment systems in India",
@@ -2965,7 +2389,7 @@
                           "explanation":  "Dispute Management refers to: workflow for handling transaction complaints and claims."
                       },
                       {
-                          "id":  248,
+                          "id":  200,
                           "question":  "\u0027Dispute Management\u0027 belongs mainly to which payment systems area?",
                           "options":  [
                                           "Security and Risk Controls",
@@ -2977,19 +2401,7 @@
                           "explanation":  "Dispute Management is mainly part of Security and Risk Controls."
                       },
                       {
-                          "id":  249,
-                          "question":  "Identify the correct payment term-definition mapping.",
-                          "options":  [
-                                          "STP -\u003e workflow for handling transaction complaints and claims",
-                                          "Tokenization -\u003e workflow for handling transaction complaints and claims",
-                                          "Sanctions Screening -\u003e workflow for handling transaction complaints and claims",
-                                          "Dispute Management -\u003e workflow for handling transaction complaints and claims"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Dispute Management -\u003e workflow for handling transaction complaints and claims\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  250,
+                          "id":  201,
                           "question":  "A Bank SO IT transaction requirement states: workflow for handling transaction complaints and claims. Which concept should be selected?",
                           "options":  [
                                           "RuPay",

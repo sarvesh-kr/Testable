@@ -98,18 +98,6 @@
                       },
                       {
                           "id":  9,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Caching -\u003e smallest unit of CPU execution within a process",
-                                          "Inode -\u003e smallest unit of CPU execution within a process",
-                                          "Thread -\u003e smallest unit of CPU execution within a process",
-                                          "Journaling -\u003e smallest unit of CPU execution within a process"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Thread -\u003e smallest unit of CPU execution within a process\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  10,
                           "question":  "A system design requirement states: smallest unit of CPU execution within a process. Which concept should be selected?",
                           "options":  [
                                           "Context Switch",
@@ -121,7 +109,7 @@
                           "explanation":  "The requirement directly points to Thread."
                       },
                       {
-                          "id":  11,
+                          "id":  10,
                           "question":  "Which Operating System concept best matches: saving and restoring CPU state between tasks?",
                           "options":  [
                                           "Circular Wait",
@@ -133,7 +121,7 @@
                           "explanation":  "Context Switch is defined as: saving and restoring CPU state between tasks."
                       },
                       {
-                          "id":  12,
+                          "id":  11,
                           "question":  "What is the most accurate description of \u0027Context Switch\u0027 in OS context?",
                           "options":  [
                                           "saving and restoring CPU state between tasks",
@@ -145,7 +133,7 @@
                           "explanation":  "Context Switch refers to: saving and restoring CPU state between tasks."
                       },
                       {
-                          "id":  13,
+                          "id":  12,
                           "question":  "\u0027Context Switch\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Process Management",
@@ -157,19 +145,7 @@
                           "explanation":  "Context Switch is mainly part of Process Management in Operating Systems."
                       },
                       {
-                          "id":  14,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Race Condition -\u003e saving and restoring CPU state between tasks",
-                                          "Context Switch -\u003e saving and restoring CPU state between tasks",
-                                          "No Preemption -\u003e saving and restoring CPU state between tasks",
-                                          "Spooling -\u003e saving and restoring CPU state between tasks"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Context Switch -\u003e saving and restoring CPU state between tasks\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  15,
+                          "id":  13,
                           "question":  "A system design requirement states: saving and restoring CPU state between tasks. Which concept should be selected?",
                           "options":  [
                                           "Circular Wait",
@@ -181,7 +157,7 @@
                           "explanation":  "The requirement directly points to Context Switch."
                       },
                       {
-                          "id":  16,
+                          "id":  14,
                           "question":  "Which Operating System concept best matches: component that selects next process for CPU?",
                           "options":  [
                                           "Thread",
@@ -193,7 +169,7 @@
                           "explanation":  "Scheduler is defined as: component that selects next process for CPU."
                       },
                       {
-                          "id":  17,
+                          "id":  15,
                           "question":  "What is the most accurate description of \u0027Scheduler\u0027 in OS context?",
                           "options":  [
                                           "excessive paging that severely reduces CPU utilization",
@@ -205,7 +181,7 @@
                           "explanation":  "Scheduler refers to: component that selects next process for CPU."
                       },
                       {
-                          "id":  18,
+                          "id":  16,
                           "question":  "\u0027Scheduler\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "I/O Management",
@@ -217,19 +193,7 @@
                           "explanation":  "Scheduler is mainly part of Process Management in Operating Systems."
                       },
                       {
-                          "id":  19,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Aging -\u003e component that selects next process for CPU",
-                                          "Spooling -\u003e component that selects next process for CPU",
-                                          "System Call -\u003e component that selects next process for CPU",
-                                          "Scheduler -\u003e component that selects next process for CPU"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Scheduler -\u003e component that selects next process for CPU\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  20,
+                          "id":  17,
                           "question":  "A system design requirement states: component that selects next process for CPU. Which concept should be selected?",
                           "options":  [
                                           "Thread",
@@ -241,7 +205,7 @@
                           "explanation":  "The requirement directly points to Scheduler."
                       },
                       {
-                          "id":  21,
+                          "id":  18,
                           "question":  "Which Operating System concept best matches: module that gives CPU control to selected process?",
                           "options":  [
                                           "Mutex",
@@ -253,7 +217,7 @@
                           "explanation":  "Dispatcher is defined as: module that gives CPU control to selected process."
                       },
                       {
-                          "id":  22,
+                          "id":  19,
                           "question":  "What is the most accurate description of \u0027Dispatcher\u0027 in OS context?",
                           "options":  [
                                           "memory technique dividing address space into fixed-size pages",
@@ -265,7 +229,7 @@
                           "explanation":  "Dispatcher refers to: module that gives CPU control to selected process."
                       },
                       {
-                          "id":  23,
+                          "id":  20,
                           "question":  "\u0027Dispatcher\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Process Management",
@@ -277,19 +241,7 @@
                           "explanation":  "Dispatcher is mainly part of Process Management in Operating Systems."
                       },
                       {
-                          "id":  24,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Deadlock -\u003e module that gives CPU control to selected process",
-                                          "Dispatcher -\u003e module that gives CPU control to selected process",
-                                          "Buddy System -\u003e module that gives CPU control to selected process",
-                                          "Page Fault -\u003e module that gives CPU control to selected process"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Dispatcher -\u003e module that gives CPU control to selected process\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  25,
+                          "id":  21,
                           "question":  "A system design requirement states: module that gives CPU control to selected process. Which concept should be selected?",
                           "options":  [
                                           "Context Switch",
@@ -301,7 +253,7 @@
                           "explanation":  "The requirement directly points to Dispatcher."
                       },
                       {
-                          "id":  26,
+                          "id":  22,
                           "question":  "Which Operating System concept best matches: scheduling algorithm with fixed time quantum?",
                           "options":  [
                                           "Buffering",
@@ -313,7 +265,7 @@
                           "explanation":  "Round Robin is defined as: scheduling algorithm with fixed time quantum."
                       },
                       {
-                          "id":  27,
+                          "id":  23,
                           "question":  "What is the most accurate description of \u0027Round Robin\u0027 in OS context?",
                           "options":  [
                                           "scheduling algorithm with fixed time quantum",
@@ -325,7 +277,7 @@
                           "explanation":  "Round Robin refers to: scheduling algorithm with fixed time quantum."
                       },
                       {
-                          "id":  28,
+                          "id":  24,
                           "question":  "\u0027Round Robin\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "File Management",
@@ -337,19 +289,7 @@
                           "explanation":  "Round Robin is mainly part of CPU Scheduling in Operating Systems."
                       },
                       {
-                          "id":  29,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Thrashing -\u003e scheduling algorithm with fixed time quantum",
-                                          "Round Robin -\u003e scheduling algorithm with fixed time quantum",
-                                          "SJF -\u003e scheduling algorithm with fixed time quantum",
-                                          "Mutex -\u003e scheduling algorithm with fixed time quantum"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Round Robin -\u003e scheduling algorithm with fixed time quantum\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  30,
+                          "id":  25,
                           "question":  "A system design requirement states: scheduling algorithm with fixed time quantum. Which concept should be selected?",
                           "options":  [
                                           "Turnaround Time",
@@ -361,7 +301,7 @@
                           "explanation":  "The requirement directly points to Round Robin."
                       },
                       {
-                          "id":  31,
+                          "id":  26,
                           "question":  "Which Operating System concept best matches: scheduling policy that serves jobs by arrival order?",
                           "options":  [
                                           "Circular Wait",
@@ -373,7 +313,7 @@
                           "explanation":  "FCFS is defined as: scheduling policy that serves jobs by arrival order."
                       },
                       {
-                          "id":  32,
+                          "id":  27,
                           "question":  "What is the most accurate description of \u0027FCFS\u0027 in OS context?",
                           "options":  [
                                           "time spent in ready queue before execution",
@@ -385,7 +325,7 @@
                           "explanation":  "FCFS refers to: scheduling policy that serves jobs by arrival order."
                       },
                       {
-                          "id":  33,
+                          "id":  28,
                           "question":  "\u0027FCFS\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "I/O Management",
@@ -397,19 +337,7 @@
                           "explanation":  "FCFS is mainly part of CPU Scheduling in Operating Systems."
                       },
                       {
-                          "id":  34,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "System Call -\u003e scheduling policy that serves jobs by arrival order",
-                                          "FCFS -\u003e scheduling policy that serves jobs by arrival order",
-                                          "Inode -\u003e scheduling policy that serves jobs by arrival order",
-                                          "Monitor -\u003e scheduling policy that serves jobs by arrival order"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027FCFS -\u003e scheduling policy that serves jobs by arrival order\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  35,
+                          "id":  29,
                           "question":  "A system design requirement states: scheduling policy that serves jobs by arrival order. Which concept should be selected?",
                           "options":  [
                                           "Circular Wait",
@@ -421,7 +349,7 @@
                           "explanation":  "The requirement directly points to FCFS."
                       },
                       {
-                          "id":  36,
+                          "id":  30,
                           "question":  "Which Operating System concept best matches: scheduling algorithm choosing shortest burst first?",
                           "options":  [
                                           "Process",
@@ -433,7 +361,7 @@
                           "explanation":  "SJF is defined as: scheduling algorithm choosing shortest burst first."
                       },
                       {
-                          "id":  37,
+                          "id":  31,
                           "question":  "What is the most accurate description of \u0027SJF\u0027 in OS context?",
                           "options":  [
                                           "signal causing CPU to suspend current flow for service routine",
@@ -445,7 +373,7 @@
                           "explanation":  "SJF refers to: scheduling algorithm choosing shortest burst first."
                       },
                       {
-                          "id":  38,
+                          "id":  32,
                           "question":  "\u0027SJF\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "System Architecture",
@@ -457,19 +385,7 @@
                           "explanation":  "SJF is mainly part of CPU Scheduling in Operating Systems."
                       },
                       {
-                          "id":  39,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Starvation -\u003e scheduling algorithm choosing shortest burst first",
-                                          "Thrashing -\u003e scheduling algorithm choosing shortest burst first",
-                                          "FCFS -\u003e scheduling algorithm choosing shortest burst first",
-                                          "SJF -\u003e scheduling algorithm choosing shortest burst first"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027SJF -\u003e scheduling algorithm choosing shortest burst first\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  40,
+                          "id":  33,
                           "question":  "A system design requirement states: scheduling algorithm choosing shortest burst first. Which concept should be selected?",
                           "options":  [
                                           "Process",
@@ -481,7 +397,7 @@
                           "explanation":  "The requirement directly points to SJF."
                       },
                       {
-                          "id":  41,
+                          "id":  34,
                           "question":  "Which Operating System concept best matches: preemptive variant of shortest job scheduling?",
                           "options":  [
                                           "FCFS",
@@ -493,7 +409,7 @@
                           "explanation":  "SRTF is defined as: preemptive variant of shortest job scheduling."
                       },
                       {
-                          "id":  42,
+                          "id":  35,
                           "question":  "What is the most accurate description of \u0027SRTF\u0027 in OS context?",
                           "options":  [
                                           "special file that maps names to file metadata entries",
@@ -505,7 +421,7 @@
                           "explanation":  "SRTF refers to: preemptive variant of shortest job scheduling."
                       },
                       {
-                          "id":  43,
+                          "id":  36,
                           "question":  "\u0027SRTF\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "CPU Scheduling",
@@ -517,19 +433,7 @@
                           "explanation":  "SRTF is mainly part of CPU Scheduling in Operating Systems."
                       },
                       {
-                          "id":  44,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Segmentation -\u003e preemptive variant of shortest job scheduling",
-                                          "Page Fault -\u003e preemptive variant of shortest job scheduling",
-                                          "SRTF -\u003e preemptive variant of shortest job scheduling",
-                                          "Turnaround Time -\u003e preemptive variant of shortest job scheduling"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027SRTF -\u003e preemptive variant of shortest job scheduling\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  45,
+                          "id":  37,
                           "question":  "A system design requirement states: preemptive variant of shortest job scheduling. Which concept should be selected?",
                           "options":  [
                                           "Interrupt",
@@ -541,7 +445,7 @@
                           "explanation":  "The requirement directly points to SRTF."
                       },
                       {
-                          "id":  46,
+                          "id":  38,
                           "question":  "Which Operating System concept best matches: algorithm selecting highest priority process?",
                           "options":  [
                                           "Response Time",
@@ -553,7 +457,7 @@
                           "explanation":  "Priority Scheduling is defined as: algorithm selecting highest priority process."
                       },
                       {
-                          "id":  47,
+                          "id":  39,
                           "question":  "What is the most accurate description of \u0027Priority Scheduling\u0027 in OS context?",
                           "options":  [
                                           "memory technique dividing address space into fixed-size pages",
@@ -565,7 +469,7 @@
                           "explanation":  "Priority Scheduling refers to: algorithm selecting highest priority process."
                       },
                       {
-                          "id":  48,
+                          "id":  40,
                           "question":  "\u0027Priority Scheduling\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "I/O Management",
@@ -577,19 +481,7 @@
                           "explanation":  "Priority Scheduling is mainly part of CPU Scheduling in Operating Systems."
                       },
                       {
-                          "id":  49,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Boot Loader -\u003e algorithm selecting highest priority process",
-                                          "Hold and Wait -\u003e algorithm selecting highest priority process",
-                                          "Semaphore -\u003e algorithm selecting highest priority process",
-                                          "Priority Scheduling -\u003e algorithm selecting highest priority process"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Priority Scheduling -\u003e algorithm selecting highest priority process\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  50,
+                          "id":  41,
                           "question":  "A system design requirement states: algorithm selecting highest priority process. Which concept should be selected?",
                           "options":  [
                                           "Response Time",
@@ -601,7 +493,7 @@
                           "explanation":  "The requirement directly points to Priority Scheduling."
                       },
                       {
-                          "id":  51,
+                          "id":  42,
                           "question":  "Which Operating System concept best matches: indefinite waiting due to low scheduling priority?",
                           "options":  [
                                           "Mount",
@@ -613,7 +505,7 @@
                           "explanation":  "Starvation is defined as: indefinite waiting due to low scheduling priority."
                       },
                       {
-                          "id":  52,
+                          "id":  43,
                           "question":  "What is the most accurate description of \u0027Starvation\u0027 in OS context?",
                           "options":  [
                                           "memory technique dividing address space into fixed-size pages",
@@ -625,7 +517,7 @@
                           "explanation":  "Starvation refers to: indefinite waiting due to low scheduling priority."
                       },
                       {
-                          "id":  53,
+                          "id":  44,
                           "question":  "\u0027Starvation\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Memory Management",
@@ -637,19 +529,7 @@
                           "explanation":  "Starvation is mainly part of CPU Scheduling in Operating Systems."
                       },
                       {
-                          "id":  54,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "External Fragmentation -\u003e indefinite waiting due to low scheduling priority",
-                                          "Semaphore -\u003e indefinite waiting due to low scheduling priority",
-                                          "Inode -\u003e indefinite waiting due to low scheduling priority",
-                                          "Starvation -\u003e indefinite waiting due to low scheduling priority"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Starvation -\u003e indefinite waiting due to low scheduling priority\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  55,
+                          "id":  45,
                           "question":  "A system design requirement states: indefinite waiting due to low scheduling priority. Which concept should be selected?",
                           "options":  [
                                           "Starvation",
@@ -661,7 +541,7 @@
                           "explanation":  "The requirement directly points to Starvation."
                       },
                       {
-                          "id":  56,
+                          "id":  46,
                           "question":  "Which Operating System concept best matches: technique to prevent starvation by raising priority over time?",
                           "options":  [
                                           "Aging",
@@ -673,7 +553,7 @@
                           "explanation":  "Aging is defined as: technique to prevent starvation by raising priority over time."
                       },
                       {
-                          "id":  57,
+                          "id":  47,
                           "question":  "What is the most accurate description of \u0027Aging\u0027 in OS context?",
                           "options":  [
                                           "scheduling algorithm choosing shortest burst first",
@@ -685,7 +565,7 @@
                           "explanation":  "Aging refers to: technique to prevent starvation by raising priority over time."
                       },
                       {
-                          "id":  58,
+                          "id":  48,
                           "question":  "\u0027Aging\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "CPU Scheduling",
@@ -697,19 +577,7 @@
                           "explanation":  "Aging is mainly part of CPU Scheduling in Operating Systems."
                       },
                       {
-                          "id":  59,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "SRTF -\u003e technique to prevent starvation by raising priority over time",
-                                          "Internal Fragmentation -\u003e technique to prevent starvation by raising priority over time",
-                                          "Thread -\u003e technique to prevent starvation by raising priority over time",
-                                          "Aging -\u003e technique to prevent starvation by raising priority over time"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Aging -\u003e technique to prevent starvation by raising priority over time\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  60,
+                          "id":  49,
                           "question":  "A system design requirement states: technique to prevent starvation by raising priority over time. Which concept should be selected?",
                           "options":  [
                                           "Aging",
@@ -721,7 +589,7 @@
                           "explanation":  "The requirement directly points to Aging."
                       },
                       {
-                          "id":  61,
+                          "id":  50,
                           "question":  "Which Operating System concept best matches: total time from submission to completion?",
                           "options":  [
                                           "Hold and Wait",
@@ -733,7 +601,7 @@
                           "explanation":  "Turnaround Time is defined as: total time from submission to completion."
                       },
                       {
-                          "id":  62,
+                          "id":  51,
                           "question":  "What is the most accurate description of \u0027Turnaround Time\u0027 in OS context?",
                           "options":  [
                                           "total time from submission to completion",
@@ -745,7 +613,7 @@
                           "explanation":  "Turnaround Time refers to: total time from submission to completion."
                       },
                       {
-                          "id":  63,
+                          "id":  52,
                           "question":  "\u0027Turnaround Time\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "I/O Management",
@@ -757,19 +625,7 @@
                           "explanation":  "Turnaround Time is mainly part of CPU Scheduling in Operating Systems."
                       },
                       {
-                          "id":  64,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "System Call -\u003e total time from submission to completion",
-                                          "Journaling -\u003e total time from submission to completion",
-                                          "Turnaround Time -\u003e total time from submission to completion",
-                                          "Round Robin -\u003e total time from submission to completion"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Turnaround Time -\u003e total time from submission to completion\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  65,
+                          "id":  53,
                           "question":  "A system design requirement states: total time from submission to completion. Which concept should be selected?",
                           "options":  [
                                           "Hold and Wait",
@@ -781,7 +637,7 @@
                           "explanation":  "The requirement directly points to Turnaround Time."
                       },
                       {
-                          "id":  66,
+                          "id":  54,
                           "question":  "Which Operating System concept best matches: time spent in ready queue before execution?",
                           "options":  [
                                           "Waiting Time",
@@ -793,7 +649,7 @@
                           "explanation":  "Waiting Time is defined as: time spent in ready queue before execution."
                       },
                       {
-                          "id":  67,
+                          "id":  55,
                           "question":  "What is the most accurate description of \u0027Waiting Time\u0027 in OS context?",
                           "options":  [
                                           "time spent in ready queue before execution",
@@ -805,7 +661,7 @@
                           "explanation":  "Waiting Time refers to: time spent in ready queue before execution."
                       },
                       {
-                          "id":  68,
+                          "id":  56,
                           "question":  "\u0027Waiting Time\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Memory Management",
@@ -817,19 +673,7 @@
                           "explanation":  "Waiting Time is mainly part of CPU Scheduling in Operating Systems."
                       },
                       {
-                          "id":  69,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Paging -\u003e time spent in ready queue before execution",
-                                          "Waiting Time -\u003e time spent in ready queue before execution",
-                                          "Caching -\u003e time spent in ready queue before execution",
-                                          "Page Fault -\u003e time spent in ready queue before execution"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Waiting Time -\u003e time spent in ready queue before execution\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  70,
+                          "id":  57,
                           "question":  "A system design requirement states: time spent in ready queue before execution. Which concept should be selected?",
                           "options":  [
                                           "Mutual Exclusion",
@@ -841,7 +685,7 @@
                           "explanation":  "The requirement directly points to Waiting Time."
                       },
                       {
-                          "id":  71,
+                          "id":  58,
                           "question":  "Which Operating System concept best matches: time until first CPU response after request?",
                           "options":  [
                                           "Response Time",
@@ -853,7 +697,7 @@
                           "explanation":  "Response Time is defined as: time until first CPU response after request."
                       },
                       {
-                          "id":  72,
+                          "id":  59,
                           "question":  "What is the most accurate description of \u0027Response Time\u0027 in OS context?",
                           "options":  [
                                           "keeping frequently used data in faster storage for quick access",
@@ -865,7 +709,7 @@
                           "explanation":  "Response Time refers to: time until first CPU response after request."
                       },
                       {
-                          "id":  73,
+                          "id":  60,
                           "question":  "\u0027Response Time\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "CPU Scheduling",
@@ -877,19 +721,7 @@
                           "explanation":  "Response Time is mainly part of CPU Scheduling in Operating Systems."
                       },
                       {
-                          "id":  74,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Directory -\u003e time until first CPU response after request",
-                                          "Demand Paging -\u003e time until first CPU response after request",
-                                          "System Call -\u003e time until first CPU response after request",
-                                          "Response Time -\u003e time until first CPU response after request"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Response Time -\u003e time until first CPU response after request\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  75,
+                          "id":  61,
                           "question":  "A system design requirement states: time until first CPU response after request. Which concept should be selected?",
                           "options":  [
                                           "Buddy System",
@@ -901,7 +733,7 @@
                           "explanation":  "The requirement directly points to Response Time."
                       },
                       {
-                          "id":  76,
+                          "id":  62,
                           "question":  "Which Operating System concept best matches: state where processes wait forever for held resources?",
                           "options":  [
                                           "Deadlock",
@@ -913,7 +745,7 @@
                           "explanation":  "Deadlock is defined as: state where processes wait forever for held resources."
                       },
                       {
-                          "id":  77,
+                          "id":  63,
                           "question":  "What is the most accurate description of \u0027Deadlock\u0027 in OS context?",
                           "options":  [
                                           "operation attaching a file system to directory tree",
@@ -925,7 +757,7 @@
                           "explanation":  "Deadlock refers to: state where processes wait forever for held resources."
                       },
                       {
-                          "id":  78,
+                          "id":  64,
                           "question":  "\u0027Deadlock\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "I/O Management",
@@ -937,19 +769,7 @@
                           "explanation":  "Deadlock is mainly part of Concurrency in Operating Systems."
                       },
                       {
-                          "id":  79,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Mount -\u003e state where processes wait forever for held resources",
-                                          "Caching -\u003e state where processes wait forever for held resources",
-                                          "Deadlock -\u003e state where processes wait forever for held resources",
-                                          "Waiting Time -\u003e state where processes wait forever for held resources"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Deadlock -\u003e state where processes wait forever for held resources\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  80,
+                          "id":  65,
                           "question":  "A system design requirement states: state where processes wait forever for held resources. Which concept should be selected?",
                           "options":  [
                                           "Deadlock",
@@ -961,7 +781,7 @@
                           "explanation":  "The requirement directly points to Deadlock."
                       },
                       {
-                          "id":  81,
+                          "id":  66,
                           "question":  "Which Operating System concept best matches: condition where resource can be used by one process at a time?",
                           "options":  [
                                           "Semaphore",
@@ -973,7 +793,7 @@
                           "explanation":  "Mutual Exclusion is defined as: condition where resource can be used by one process at a time."
                       },
                       {
-                          "id":  82,
+                          "id":  67,
                           "question":  "What is the most accurate description of \u0027Mutual Exclusion\u0027 in OS context?",
                           "options":  [
                                           "deadlock condition where resources cannot be forcibly taken",
@@ -985,7 +805,7 @@
                           "explanation":  "Mutual Exclusion refers to: condition where resource can be used by one process at a time."
                       },
                       {
-                          "id":  83,
+                          "id":  68,
                           "question":  "\u0027Mutual Exclusion\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Memory Management",
@@ -997,19 +817,7 @@
                           "explanation":  "Mutual Exclusion is mainly part of Concurrency in Operating Systems."
                       },
                       {
-                          "id":  84,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Deadlock -\u003e condition where resource can be used by one process at a time",
-                                          "Kernel -\u003e condition where resource can be used by one process at a time",
-                                          "Device Driver -\u003e condition where resource can be used by one process at a time",
-                                          "Mutual Exclusion -\u003e condition where resource can be used by one process at a time"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Mutual Exclusion -\u003e condition where resource can be used by one process at a time\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  85,
+                          "id":  69,
                           "question":  "A system design requirement states: condition where resource can be used by one process at a time. Which concept should be selected?",
                           "options":  [
                                           "Directory",
@@ -1021,7 +829,7 @@
                           "explanation":  "The requirement directly points to Mutual Exclusion."
                       },
                       {
-                          "id":  86,
+                          "id":  70,
                           "question":  "Which Operating System concept best matches: deadlock condition of holding one resource while waiting another?",
                           "options":  [
                                           "FCFS",
@@ -1033,7 +841,7 @@
                           "explanation":  "Hold and Wait is defined as: deadlock condition of holding one resource while waiting another."
                       },
                       {
-                          "id":  87,
+                          "id":  71,
                           "question":  "What is the most accurate description of \u0027Hold and Wait\u0027 in OS context?",
                           "options":  [
                                           "deadlock condition of holding one resource while waiting another",
@@ -1045,7 +853,7 @@
                           "explanation":  "Hold and Wait refers to: deadlock condition of holding one resource while waiting another."
                       },
                       {
-                          "id":  88,
+                          "id":  72,
                           "question":  "\u0027Hold and Wait\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "I/O Management",
@@ -1057,19 +865,7 @@
                           "explanation":  "Hold and Wait is mainly part of Concurrency in Operating Systems."
                       },
                       {
-                          "id":  89,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Mutual Exclusion -\u003e deadlock condition of holding one resource while waiting another",
-                                          "SRTF -\u003e deadlock condition of holding one resource while waiting another",
-                                          "Interrupt -\u003e deadlock condition of holding one resource while waiting another",
-                                          "Hold and Wait -\u003e deadlock condition of holding one resource while waiting another"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Hold and Wait -\u003e deadlock condition of holding one resource while waiting another\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  90,
+                          "id":  73,
                           "question":  "A system design requirement states: deadlock condition of holding one resource while waiting another. Which concept should be selected?",
                           "options":  [
                                           "DMA",
@@ -1081,7 +877,7 @@
                           "explanation":  "The requirement directly points to Hold and Wait."
                       },
                       {
-                          "id":  91,
+                          "id":  74,
                           "question":  "Which Operating System concept best matches: deadlock condition where resources cannot be forcibly taken?",
                           "options":  [
                                           "No Preemption",
@@ -1093,7 +889,7 @@
                           "explanation":  "No Preemption is defined as: deadlock condition where resources cannot be forcibly taken."
                       },
                       {
-                          "id":  92,
+                          "id":  75,
                           "question":  "What is the most accurate description of \u0027No Preemption\u0027 in OS context?",
                           "options":  [
                                           "buffering technique queuing I/O jobs for shared device",
@@ -1105,7 +901,7 @@
                           "explanation":  "No Preemption refers to: deadlock condition where resources cannot be forcibly taken."
                       },
                       {
-                          "id":  93,
+                          "id":  76,
                           "question":  "\u0027No Preemption\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Memory Management",
@@ -1117,19 +913,7 @@
                           "explanation":  "No Preemption is mainly part of Concurrency in Operating Systems."
                       },
                       {
-                          "id":  94,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Buddy System -\u003e deadlock condition where resources cannot be forcibly taken",
-                                          "Monitor -\u003e deadlock condition where resources cannot be forcibly taken",
-                                          "SJF -\u003e deadlock condition where resources cannot be forcibly taken",
-                                          "No Preemption -\u003e deadlock condition where resources cannot be forcibly taken"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027No Preemption -\u003e deadlock condition where resources cannot be forcibly taken\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  95,
+                          "id":  77,
                           "question":  "A system design requirement states: deadlock condition where resources cannot be forcibly taken. Which concept should be selected?",
                           "options":  [
                                           "Segmentation",
@@ -1141,7 +925,7 @@
                           "explanation":  "The requirement directly points to No Preemption."
                       },
                       {
-                          "id":  96,
+                          "id":  78,
                           "question":  "Which Operating System concept best matches: deadlock condition where processes form waiting cycle?",
                           "options":  [
                                           "Circular Wait",
@@ -1153,7 +937,7 @@
                           "explanation":  "Circular Wait is defined as: deadlock condition where processes form waiting cycle."
                       },
                       {
-                          "id":  97,
+                          "id":  79,
                           "question":  "What is the most accurate description of \u0027Circular Wait\u0027 in OS context?",
                           "options":  [
                                           "deadlock condition where processes form waiting cycle",
@@ -1165,7 +949,7 @@
                           "explanation":  "Circular Wait refers to: deadlock condition where processes form waiting cycle."
                       },
                       {
-                          "id":  98,
+                          "id":  80,
                           "question":  "\u0027Circular Wait\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Concurrency",
@@ -1177,19 +961,7 @@
                           "explanation":  "Circular Wait is mainly part of Concurrency in Operating Systems."
                       },
                       {
-                          "id":  99,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Starvation -\u003e deadlock condition where processes form waiting cycle",
-                                          "Waiting Time -\u003e deadlock condition where processes form waiting cycle",
-                                          "Round Robin -\u003e deadlock condition where processes form waiting cycle",
-                                          "Circular Wait -\u003e deadlock condition where processes form waiting cycle"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Circular Wait -\u003e deadlock condition where processes form waiting cycle\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  100,
+                          "id":  81,
                           "question":  "A system design requirement states: deadlock condition where processes form waiting cycle. Which concept should be selected?",
                           "options":  [
                                           "DMA",
@@ -1201,7 +973,7 @@
                           "explanation":  "The requirement directly points to Circular Wait."
                       },
                       {
-                          "id":  101,
+                          "id":  82,
                           "question":  "Which Operating System concept best matches: integer-based synchronization primitive for shared resources?",
                           "options":  [
                                           "Inode",
@@ -1213,7 +985,7 @@
                           "explanation":  "Semaphore is defined as: integer-based synchronization primitive for shared resources."
                       },
                       {
-                          "id":  102,
+                          "id":  83,
                           "question":  "What is the most accurate description of \u0027Semaphore\u0027 in OS context?",
                           "options":  [
                                           "temporary storage used to handle speed mismatch in I/O",
@@ -1225,7 +997,7 @@
                           "explanation":  "Semaphore refers to: integer-based synchronization primitive for shared resources."
                       },
                       {
-                          "id":  103,
+                          "id":  84,
                           "question":  "\u0027Semaphore\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Concurrency",
@@ -1237,19 +1009,7 @@
                           "explanation":  "Semaphore is mainly part of Concurrency in Operating Systems."
                       },
                       {
-                          "id":  104,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Semaphore -\u003e integer-based synchronization primitive for shared resources",
-                                          "Device Driver -\u003e integer-based synchronization primitive for shared resources",
-                                          "No Preemption -\u003e integer-based synchronization primitive for shared resources",
-                                          "External Fragmentation -\u003e integer-based synchronization primitive for shared resources"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Semaphore -\u003e integer-based synchronization primitive for shared resources\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  105,
+                          "id":  85,
                           "question":  "A system design requirement states: integer-based synchronization primitive for shared resources. Which concept should be selected?",
                           "options":  [
                                           "Page Fault",
@@ -1261,7 +1021,7 @@
                           "explanation":  "The requirement directly points to Semaphore."
                       },
                       {
-                          "id":  106,
+                          "id":  86,
                           "question":  "Which Operating System concept best matches: locking mechanism allowing only one thread in critical section?",
                           "options":  [
                                           "Waiting Time",
@@ -1273,7 +1033,7 @@
                           "explanation":  "Mutex is defined as: locking mechanism allowing only one thread in critical section."
                       },
                       {
-                          "id":  107,
+                          "id":  87,
                           "question":  "What is the most accurate description of \u0027Mutex\u0027 in OS context?",
                           "options":  [
                                           "allocation scheme splitting memory into power-of-two blocks",
@@ -1285,7 +1045,7 @@
                           "explanation":  "Mutex refers to: locking mechanism allowing only one thread in critical section."
                       },
                       {
-                          "id":  108,
+                          "id":  88,
                           "question":  "\u0027Mutex\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "System Architecture",
@@ -1297,19 +1057,7 @@
                           "explanation":  "Mutex is mainly part of Concurrency in Operating Systems."
                       },
                       {
-                          "id":  109,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "External Fragmentation -\u003e locking mechanism allowing only one thread in critical section",
-                                          "Mutex -\u003e locking mechanism allowing only one thread in critical section",
-                                          "Buffering -\u003e locking mechanism allowing only one thread in critical section",
-                                          "Caching -\u003e locking mechanism allowing only one thread in critical section"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Mutex -\u003e locking mechanism allowing only one thread in critical section\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  110,
+                          "id":  89,
                           "question":  "A system design requirement states: locking mechanism allowing only one thread in critical section. Which concept should be selected?",
                           "options":  [
                                           "Kernel",
@@ -1321,7 +1069,7 @@
                           "explanation":  "The requirement directly points to Mutex."
                       },
                       {
-                          "id":  111,
+                          "id":  90,
                           "question":  "Which Operating System concept best matches: code segment accessing shared data needing synchronization?",
                           "options":  [
                                           "Race Condition",
@@ -1333,7 +1081,7 @@
                           "explanation":  "Critical Section is defined as: code segment accessing shared data needing synchronization."
                       },
                       {
-                          "id":  112,
+                          "id":  91,
                           "question":  "What is the most accurate description of \u0027Critical Section\u0027 in OS context?",
                           "options":  [
                                           "mechanism giving process illusion of large contiguous memory",
@@ -1345,7 +1093,7 @@
                           "explanation":  "Critical Section refers to: code segment accessing shared data needing synchronization."
                       },
                       {
-                          "id":  113,
+                          "id":  92,
                           "question":  "\u0027Critical Section\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "I/O Management",
@@ -1357,19 +1105,7 @@
                           "explanation":  "Critical Section is mainly part of Concurrency in Operating Systems."
                       },
                       {
-                          "id":  114,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Device Driver -\u003e code segment accessing shared data needing synchronization",
-                                          "Critical Section -\u003e code segment accessing shared data needing synchronization",
-                                          "Round Robin -\u003e code segment accessing shared data needing synchronization",
-                                          "Kernel -\u003e code segment accessing shared data needing synchronization"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Critical Section -\u003e code segment accessing shared data needing synchronization\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  115,
+                          "id":  93,
                           "question":  "A system design requirement states: code segment accessing shared data needing synchronization. Which concept should be selected?",
                           "options":  [
                                           "Paging",
@@ -1381,7 +1117,7 @@
                           "explanation":  "The requirement directly points to Critical Section."
                       },
                       {
-                          "id":  116,
+                          "id":  94,
                           "question":  "Which Operating System concept best matches: incorrect behavior caused by timing-dependent shared access?",
                           "options":  [
                                           "SJF",
@@ -1393,7 +1129,7 @@
                           "explanation":  "Race Condition is defined as: incorrect behavior caused by timing-dependent shared access."
                       },
                       {
-                          "id":  117,
+                          "id":  95,
                           "question":  "What is the most accurate description of \u0027Race Condition\u0027 in OS context?",
                           "options":  [
                                           "buffering technique queuing I/O jobs for shared device",
@@ -1405,7 +1141,7 @@
                           "explanation":  "Race Condition refers to: incorrect behavior caused by timing-dependent shared access."
                       },
                       {
-                          "id":  118,
+                          "id":  96,
                           "question":  "\u0027Race Condition\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "I/O Management",
@@ -1417,19 +1153,7 @@
                           "explanation":  "Race Condition is mainly part of Concurrency in Operating Systems."
                       },
                       {
-                          "id":  119,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Context Switch -\u003e incorrect behavior caused by timing-dependent shared access",
-                                          "Race Condition -\u003e incorrect behavior caused by timing-dependent shared access",
-                                          "Page Fault -\u003e incorrect behavior caused by timing-dependent shared access",
-                                          "SJF -\u003e incorrect behavior caused by timing-dependent shared access"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Race Condition -\u003e incorrect behavior caused by timing-dependent shared access\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  120,
+                          "id":  97,
                           "question":  "A system design requirement states: incorrect behavior caused by timing-dependent shared access. Which concept should be selected?",
                           "options":  [
                                           "Race Condition",
@@ -1441,7 +1165,7 @@
                           "explanation":  "The requirement directly points to Race Condition."
                       },
                       {
-                          "id":  121,
+                          "id":  98,
                           "question":  "Which Operating System concept best matches: high-level synchronization construct with implicit mutual exclusion?",
                           "options":  [
                                           "Deadlock",
@@ -1453,7 +1177,7 @@
                           "explanation":  "Monitor is defined as: high-level synchronization construct with implicit mutual exclusion."
                       },
                       {
-                          "id":  122,
+                          "id":  99,
                           "question":  "What is the most accurate description of \u0027Monitor\u0027 in OS context?",
                           "options":  [
                                           "high-level synchronization construct with implicit mutual exclusion",
@@ -1465,7 +1189,7 @@
                           "explanation":  "Monitor refers to: high-level synchronization construct with implicit mutual exclusion."
                       },
                       {
-                          "id":  123,
+                          "id":  100,
                           "question":  "\u0027Monitor\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Process Management",
@@ -1477,19 +1201,7 @@
                           "explanation":  "Monitor is mainly part of Concurrency in Operating Systems."
                       },
                       {
-                          "id":  124,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Starvation -\u003e high-level synchronization construct with implicit mutual exclusion",
-                                          "Deadlock -\u003e high-level synchronization construct with implicit mutual exclusion",
-                                          "Scheduler -\u003e high-level synchronization construct with implicit mutual exclusion",
-                                          "Monitor -\u003e high-level synchronization construct with implicit mutual exclusion"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Monitor -\u003e high-level synchronization construct with implicit mutual exclusion\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  125,
+                          "id":  101,
                           "question":  "A system design requirement states: high-level synchronization construct with implicit mutual exclusion. Which concept should be selected?",
                           "options":  [
                                           "Deadlock",
@@ -1501,7 +1213,7 @@
                           "explanation":  "The requirement directly points to Monitor."
                       },
                       {
-                          "id":  126,
+                          "id":  102,
                           "question":  "Which Operating System concept best matches: mechanism giving process illusion of large contiguous memory?",
                           "options":  [
                                           "Virtual Memory",
@@ -1513,7 +1225,7 @@
                           "explanation":  "Virtual Memory is defined as: mechanism giving process illusion of large contiguous memory."
                       },
                       {
-                          "id":  127,
+                          "id":  103,
                           "question":  "What is the most accurate description of \u0027Virtual Memory\u0027 in OS context?",
                           "options":  [
                                           "integer-based synchronization primitive for shared resources",
@@ -1525,7 +1237,7 @@
                           "explanation":  "Virtual Memory refers to: mechanism giving process illusion of large contiguous memory."
                       },
                       {
-                          "id":  128,
+                          "id":  104,
                           "question":  "\u0027Virtual Memory\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Process Management",
@@ -1537,19 +1249,7 @@
                           "explanation":  "Virtual Memory is mainly part of Memory Management in Operating Systems."
                       },
                       {
-                          "id":  129,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Virtual Memory -\u003e mechanism giving process illusion of large contiguous memory",
-                                          "Monitor -\u003e mechanism giving process illusion of large contiguous memory",
-                                          "Kernel -\u003e mechanism giving process illusion of large contiguous memory",
-                                          "Circular Wait -\u003e mechanism giving process illusion of large contiguous memory"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Virtual Memory -\u003e mechanism giving process illusion of large contiguous memory\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  130,
+                          "id":  105,
                           "question":  "A system design requirement states: mechanism giving process illusion of large contiguous memory. Which concept should be selected?",
                           "options":  [
                                           "Dispatcher",
@@ -1561,7 +1261,7 @@
                           "explanation":  "The requirement directly points to Virtual Memory."
                       },
                       {
-                          "id":  131,
+                          "id":  106,
                           "question":  "Which Operating System concept best matches: memory technique dividing address space into fixed-size pages?",
                           "options":  [
                                           "Thrashing",
@@ -1573,7 +1273,7 @@
                           "explanation":  "Paging is defined as: memory technique dividing address space into fixed-size pages."
                       },
                       {
-                          "id":  132,
+                          "id":  107,
                           "question":  "What is the most accurate description of \u0027Paging\u0027 in OS context?",
                           "options":  [
                                           "memory technique dividing address space into fixed-size pages",
@@ -1585,7 +1285,7 @@
                           "explanation":  "Paging refers to: memory technique dividing address space into fixed-size pages."
                       },
                       {
-                          "id":  133,
+                          "id":  108,
                           "question":  "\u0027Paging\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Memory Management",
@@ -1597,19 +1297,7 @@
                           "explanation":  "Paging is mainly part of Memory Management in Operating Systems."
                       },
                       {
-                          "id":  134,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Directory -\u003e memory technique dividing address space into fixed-size pages",
-                                          "Paging -\u003e memory technique dividing address space into fixed-size pages",
-                                          "Caching -\u003e memory technique dividing address space into fixed-size pages",
-                                          "Waiting Time -\u003e memory technique dividing address space into fixed-size pages"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Paging -\u003e memory technique dividing address space into fixed-size pages\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  135,
+                          "id":  109,
                           "question":  "A system design requirement states: memory technique dividing address space into fixed-size pages. Which concept should be selected?",
                           "options":  [
                                           "Thrashing",
@@ -1621,7 +1309,7 @@
                           "explanation":  "The requirement directly points to Paging."
                       },
                       {
-                          "id":  136,
+                          "id":  110,
                           "question":  "Which Operating System concept best matches: memory management using variable-sized logical segments?",
                           "options":  [
                                           "External Fragmentation",
@@ -1633,7 +1321,7 @@
                           "explanation":  "Segmentation is defined as: memory management using variable-sized logical segments."
                       },
                       {
-                          "id":  137,
+                          "id":  111,
                           "question":  "What is the most accurate description of \u0027Segmentation\u0027 in OS context?",
                           "options":  [
                                           "memory management using variable-sized logical segments",
@@ -1645,7 +1333,7 @@
                           "explanation":  "Segmentation refers to: memory management using variable-sized logical segments."
                       },
                       {
-                          "id":  138,
+                          "id":  112,
                           "question":  "\u0027Segmentation\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "File Management",
@@ -1657,19 +1345,7 @@
                           "explanation":  "Segmentation is mainly part of Memory Management in Operating Systems."
                       },
                       {
-                          "id":  139,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "File System -\u003e memory management using variable-sized logical segments",
-                                          "Spooling -\u003e memory management using variable-sized logical segments",
-                                          "Journaling -\u003e memory management using variable-sized logical segments",
-                                          "Segmentation -\u003e memory management using variable-sized logical segments"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Segmentation -\u003e memory management using variable-sized logical segments\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  140,
+                          "id":  113,
                           "question":  "A system design requirement states: memory management using variable-sized logical segments. Which concept should be selected?",
                           "options":  [
                                           "Segmentation",
@@ -1681,7 +1357,7 @@
                           "explanation":  "The requirement directly points to Segmentation."
                       },
                       {
-                          "id":  141,
+                          "id":  114,
                           "question":  "Which Operating System concept best matches: trap generated when referenced page is not in RAM?",
                           "options":  [
                                           "Demand Paging",
@@ -1693,7 +1369,7 @@
                           "explanation":  "Page Fault is defined as: trap generated when referenced page is not in RAM."
                       },
                       {
-                          "id":  142,
+                          "id":  115,
                           "question":  "What is the most accurate description of \u0027Page Fault\u0027 in OS context?",
                           "options":  [
                                           "deadlock condition where resources cannot be forcibly taken",
@@ -1705,7 +1381,7 @@
                           "explanation":  "Page Fault refers to: trap generated when referenced page is not in RAM."
                       },
                       {
-                          "id":  143,
+                          "id":  116,
                           "question":  "\u0027Page Fault\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "System Architecture",
@@ -1717,19 +1393,7 @@
                           "explanation":  "Page Fault is mainly part of Memory Management in Operating Systems."
                       },
                       {
-                          "id":  144,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Virtual Memory -\u003e trap generated when referenced page is not in RAM",
-                                          "Monitor -\u003e trap generated when referenced page is not in RAM",
-                                          "Interrupt -\u003e trap generated when referenced page is not in RAM",
-                                          "Page Fault -\u003e trap generated when referenced page is not in RAM"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Page Fault -\u003e trap generated when referenced page is not in RAM\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  145,
+                          "id":  117,
                           "question":  "A system design requirement states: trap generated when referenced page is not in RAM. Which concept should be selected?",
                           "options":  [
                                           "Page Fault",
@@ -1741,7 +1405,7 @@
                           "explanation":  "The requirement directly points to Page Fault."
                       },
                       {
-                          "id":  146,
+                          "id":  118,
                           "question":  "Which Operating System concept best matches: cache storing recent page table translations?",
                           "options":  [
                                           "Internal Fragmentation",
@@ -1753,7 +1417,7 @@
                           "explanation":  "TLB is defined as: cache storing recent page table translations."
                       },
                       {
-                          "id":  147,
+                          "id":  119,
                           "question":  "What is the most accurate description of \u0027TLB\u0027 in OS context?",
                           "options":  [
                                           "cache storing recent page table translations",
@@ -1765,7 +1429,7 @@
                           "explanation":  "TLB refers to: cache storing recent page table translations."
                       },
                       {
-                          "id":  148,
+                          "id":  120,
                           "question":  "\u0027TLB\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "System Architecture",
@@ -1777,19 +1441,7 @@
                           "explanation":  "TLB is mainly part of Memory Management in Operating Systems."
                       },
                       {
-                          "id":  149,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "TLB -\u003e cache storing recent page table translations",
-                                          "Starvation -\u003e cache storing recent page table translations",
-                                          "External Fragmentation -\u003e cache storing recent page table translations",
-                                          "Race Condition -\u003e cache storing recent page table translations"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027TLB -\u003e cache storing recent page table translations\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  150,
+                          "id":  121,
                           "question":  "A system design requirement states: cache storing recent page table translations. Which concept should be selected?",
                           "options":  [
                                           "Internal Fragmentation",
@@ -1801,7 +1453,7 @@
                           "explanation":  "The requirement directly points to TLB."
                       },
                       {
-                          "id":  151,
+                          "id":  122,
                           "question":  "Which Operating System concept best matches: loading pages into memory only when referenced?",
                           "options":  [
                                           "Kernel",
@@ -1813,7 +1465,7 @@
                           "explanation":  "Demand Paging is defined as: loading pages into memory only when referenced."
                       },
                       {
-                          "id":  152,
+                          "id":  123,
                           "question":  "What is the most accurate description of \u0027Demand Paging\u0027 in OS context?",
                           "options":  [
                                           "smallest unit of CPU execution within a process",
@@ -1825,7 +1477,7 @@
                           "explanation":  "Demand Paging refers to: loading pages into memory only when referenced."
                       },
                       {
-                          "id":  153,
+                          "id":  124,
                           "question":  "\u0027Demand Paging\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Concurrency",
@@ -1837,19 +1489,7 @@
                           "explanation":  "Demand Paging is mainly part of Memory Management in Operating Systems."
                       },
                       {
-                          "id":  154,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Context Switch -\u003e loading pages into memory only when referenced",
-                                          "Demand Paging -\u003e loading pages into memory only when referenced",
-                                          "Turnaround Time -\u003e loading pages into memory only when referenced",
-                                          "Journaling -\u003e loading pages into memory only when referenced"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Demand Paging -\u003e loading pages into memory only when referenced\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  155,
+                          "id":  125,
                           "question":  "A system design requirement states: loading pages into memory only when referenced. Which concept should be selected?",
                           "options":  [
                                           "Demand Paging",
@@ -1861,7 +1501,7 @@
                           "explanation":  "The requirement directly points to Demand Paging."
                       },
                       {
-                          "id":  156,
+                          "id":  126,
                           "question":  "Which Operating System concept best matches: excessive paging that severely reduces CPU utilization?",
                           "options":  [
                                           "Turnaround Time",
@@ -1873,7 +1513,7 @@
                           "explanation":  "Thrashing is defined as: excessive paging that severely reduces CPU utilization."
                       },
                       {
-                          "id":  157,
+                          "id":  127,
                           "question":  "What is the most accurate description of \u0027Thrashing\u0027 in OS context?",
                           "options":  [
                                           "cache storing recent page table translations",
@@ -1885,7 +1525,7 @@
                           "explanation":  "Thrashing refers to: excessive paging that severely reduces CPU utilization."
                       },
                       {
-                          "id":  158,
+                          "id":  128,
                           "question":  "\u0027Thrashing\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "File Management",
@@ -1897,19 +1537,7 @@
                           "explanation":  "Thrashing is mainly part of Memory Management in Operating Systems."
                       },
                       {
-                          "id":  159,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Round Robin -\u003e excessive paging that severely reduces CPU utilization",
-                                          "Caching -\u003e excessive paging that severely reduces CPU utilization",
-                                          "Mutual Exclusion -\u003e excessive paging that severely reduces CPU utilization",
-                                          "Thrashing -\u003e excessive paging that severely reduces CPU utilization"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Thrashing -\u003e excessive paging that severely reduces CPU utilization\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  160,
+                          "id":  129,
                           "question":  "A system design requirement states: excessive paging that severely reduces CPU utilization. Which concept should be selected?",
                           "options":  [
                                           "Turnaround Time",
@@ -1921,7 +1549,7 @@
                           "explanation":  "The requirement directly points to Thrashing."
                       },
                       {
-                          "id":  161,
+                          "id":  130,
                           "question":  "Which Operating System concept best matches: unused memory space inside allocated fixed block?",
                           "options":  [
                                           "Internal Fragmentation",
@@ -1933,7 +1561,7 @@
                           "explanation":  "Internal Fragmentation is defined as: unused memory space inside allocated fixed block."
                       },
                       {
-                          "id":  162,
+                          "id":  131,
                           "question":  "What is the most accurate description of \u0027Internal Fragmentation\u0027 in OS context?",
                           "options":  [
                                           "unused memory space inside allocated fixed block",
@@ -1945,7 +1573,7 @@
                           "explanation":  "Internal Fragmentation refers to: unused memory space inside allocated fixed block."
                       },
                       {
-                          "id":  163,
+                          "id":  132,
                           "question":  "\u0027Internal Fragmentation\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "CPU Scheduling",
@@ -1957,19 +1585,7 @@
                           "explanation":  "Internal Fragmentation is mainly part of Memory Management in Operating Systems."
                       },
                       {
-                          "id":  164,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Internal Fragmentation -\u003e unused memory space inside allocated fixed block",
-                                          "Mutual Exclusion -\u003e unused memory space inside allocated fixed block",
-                                          "Virtual Memory -\u003e unused memory space inside allocated fixed block",
-                                          "Critical Section -\u003e unused memory space inside allocated fixed block"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Internal Fragmentation -\u003e unused memory space inside allocated fixed block\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  165,
+                          "id":  133,
                           "question":  "A system design requirement states: unused memory space inside allocated fixed block. Which concept should be selected?",
                           "options":  [
                                           "Monitor",
@@ -1981,7 +1597,7 @@
                           "explanation":  "The requirement directly points to Internal Fragmentation."
                       },
                       {
-                          "id":  166,
+                          "id":  134,
                           "question":  "Which Operating System concept best matches: free memory split into non-contiguous small blocks?",
                           "options":  [
                                           "External Fragmentation",
@@ -1993,7 +1609,7 @@
                           "explanation":  "External Fragmentation is defined as: free memory split into non-contiguous small blocks."
                       },
                       {
-                          "id":  167,
+                          "id":  135,
                           "question":  "What is the most accurate description of \u0027External Fragmentation\u0027 in OS context?",
                           "options":  [
                                           "free memory split into non-contiguous small blocks",
@@ -2005,7 +1621,7 @@
                           "explanation":  "External Fragmentation refers to: free memory split into non-contiguous small blocks."
                       },
                       {
-                          "id":  168,
+                          "id":  136,
                           "question":  "\u0027External Fragmentation\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Process Management",
@@ -2017,19 +1633,7 @@
                           "explanation":  "External Fragmentation is mainly part of Memory Management in Operating Systems."
                       },
                       {
-                          "id":  169,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "External Fragmentation -\u003e free memory split into non-contiguous small blocks",
-                                          "Semaphore -\u003e free memory split into non-contiguous small blocks",
-                                          "Directory -\u003e free memory split into non-contiguous small blocks",
-                                          "Deadlock -\u003e free memory split into non-contiguous small blocks"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027External Fragmentation -\u003e free memory split into non-contiguous small blocks\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  170,
+                          "id":  137,
                           "question":  "A system design requirement states: free memory split into non-contiguous small blocks. Which concept should be selected?",
                           "options":  [
                                           "External Fragmentation",
@@ -2041,7 +1645,7 @@
                           "explanation":  "The requirement directly points to External Fragmentation."
                       },
                       {
-                          "id":  171,
+                          "id":  138,
                           "question":  "Which Operating System concept best matches: allocation scheme splitting memory into power-of-two blocks?",
                           "options":  [
                                           "Buddy System",
@@ -2053,7 +1657,7 @@
                           "explanation":  "Buddy System is defined as: allocation scheme splitting memory into power-of-two blocks."
                       },
                       {
-                          "id":  172,
+                          "id":  139,
                           "question":  "What is the most accurate description of \u0027Buddy System\u0027 in OS context?",
                           "options":  [
                                           "integer-based synchronization primitive for shared resources",
@@ -2065,7 +1669,7 @@
                           "explanation":  "Buddy System refers to: allocation scheme splitting memory into power-of-two blocks."
                       },
                       {
-                          "id":  173,
+                          "id":  140,
                           "question":  "\u0027Buddy System\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Memory Management",
@@ -2077,19 +1681,7 @@
                           "explanation":  "Buddy System is mainly part of Memory Management in Operating Systems."
                       },
                       {
-                          "id":  174,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "External Fragmentation -\u003e allocation scheme splitting memory into power-of-two blocks",
-                                          "Buddy System -\u003e allocation scheme splitting memory into power-of-two blocks",
-                                          "Interrupt -\u003e allocation scheme splitting memory into power-of-two blocks",
-                                          "Aging -\u003e allocation scheme splitting memory into power-of-two blocks"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Buddy System -\u003e allocation scheme splitting memory into power-of-two blocks\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  175,
+                          "id":  141,
                           "question":  "A system design requirement states: allocation scheme splitting memory into power-of-two blocks. Which concept should be selected?",
                           "options":  [
                                           "Buddy System",
@@ -2101,7 +1693,7 @@
                           "explanation":  "The requirement directly points to Buddy System."
                       },
                       {
-                          "id":  176,
+                          "id":  142,
                           "question":  "Which Operating System concept best matches: method and structures for storing and retrieving files?",
                           "options":  [
                                           "Spooling",
@@ -2113,7 +1705,7 @@
                           "explanation":  "File System is defined as: method and structures for storing and retrieving files."
                       },
                       {
-                          "id":  177,
+                          "id":  143,
                           "question":  "What is the most accurate description of \u0027File System\u0027 in OS context?",
                           "options":  [
                                           "free memory split into non-contiguous small blocks",
@@ -2125,7 +1717,7 @@
                           "explanation":  "File System refers to: method and structures for storing and retrieving files."
                       },
                       {
-                          "id":  178,
+                          "id":  144,
                           "question":  "\u0027File System\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Concurrency",
@@ -2137,19 +1729,7 @@
                           "explanation":  "File System is mainly part of File Management in Operating Systems."
                       },
                       {
-                          "id":  179,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "No Preemption -\u003e method and structures for storing and retrieving files",
-                                          "File System -\u003e method and structures for storing and retrieving files",
-                                          "Round Robin -\u003e method and structures for storing and retrieving files",
-                                          "FCFS -\u003e method and structures for storing and retrieving files"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027File System -\u003e method and structures for storing and retrieving files\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  180,
+                          "id":  145,
                           "question":  "A system design requirement states: method and structures for storing and retrieving files. Which concept should be selected?",
                           "options":  [
                                           "Demand Paging",
@@ -2161,7 +1741,7 @@
                           "explanation":  "The requirement directly points to File System."
                       },
                       {
-                          "id":  181,
+                          "id":  146,
                           "question":  "Which Operating System concept best matches: metadata structure in Unix file systems describing a file?",
                           "options":  [
                                           "Critical Section",
@@ -2173,7 +1753,7 @@
                           "explanation":  "Inode is defined as: metadata structure in Unix file systems describing a file."
                       },
                       {
-                          "id":  182,
+                          "id":  147,
                           "question":  "What is the most accurate description of \u0027Inode\u0027 in OS context?",
                           "options":  [
                                           "metadata structure in Unix file systems describing a file",
@@ -2185,7 +1765,7 @@
                           "explanation":  "Inode refers to: metadata structure in Unix file systems describing a file."
                       },
                       {
-                          "id":  183,
+                          "id":  148,
                           "question":  "\u0027Inode\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Memory Management",
@@ -2197,19 +1777,7 @@
                           "explanation":  "Inode is mainly part of File Management in Operating Systems."
                       },
                       {
-                          "id":  184,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Thread -\u003e metadata structure in Unix file systems describing a file",
-                                          "Inode -\u003e metadata structure in Unix file systems describing a file",
-                                          "Spooling -\u003e metadata structure in Unix file systems describing a file",
-                                          "Page Fault -\u003e metadata structure in Unix file systems describing a file"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Inode -\u003e metadata structure in Unix file systems describing a file\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  185,
+                          "id":  149,
                           "question":  "A system design requirement states: metadata structure in Unix file systems describing a file. Which concept should be selected?",
                           "options":  [
                                           "Directory",
@@ -2221,7 +1789,7 @@
                           "explanation":  "The requirement directly points to Inode."
                       },
                       {
-                          "id":  186,
+                          "id":  150,
                           "question":  "Which Operating System concept best matches: file system technique logging changes before commit?",
                           "options":  [
                                           "Mutex",
@@ -2233,7 +1801,7 @@
                           "explanation":  "Journaling is defined as: file system technique logging changes before commit."
                       },
                       {
-                          "id":  187,
+                          "id":  151,
                           "question":  "What is the most accurate description of \u0027Journaling\u0027 in OS context?",
                           "options":  [
                                           "excessive paging that severely reduces CPU utilization",
@@ -2245,7 +1813,7 @@
                           "explanation":  "Journaling refers to: file system technique logging changes before commit."
                       },
                       {
-                          "id":  188,
+                          "id":  152,
                           "question":  "\u0027Journaling\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Memory Management",
@@ -2257,19 +1825,7 @@
                           "explanation":  "Journaling is mainly part of File Management in Operating Systems."
                       },
                       {
-                          "id":  189,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "External Fragmentation -\u003e file system technique logging changes before commit",
-                                          "Journaling -\u003e file system technique logging changes before commit",
-                                          "DMA -\u003e file system technique logging changes before commit",
-                                          "Thrashing -\u003e file system technique logging changes before commit"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Journaling -\u003e file system technique logging changes before commit\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  190,
+                          "id":  153,
                           "question":  "A system design requirement states: file system technique logging changes before commit. Which concept should be selected?",
                           "options":  [
                                           "Journaling",
@@ -2281,7 +1837,7 @@
                           "explanation":  "The requirement directly points to Journaling."
                       },
                       {
-                          "id":  191,
+                          "id":  154,
                           "question":  "Which Operating System concept best matches: special file that maps names to file metadata entries?",
                           "options":  [
                                           "Starvation",
@@ -2293,7 +1849,7 @@
                           "explanation":  "Directory is defined as: special file that maps names to file metadata entries."
                       },
                       {
-                          "id":  192,
+                          "id":  155,
                           "question":  "What is the most accurate description of \u0027Directory\u0027 in OS context?",
                           "options":  [
                                           "technique to prevent starvation by raising priority over time",
@@ -2305,7 +1861,7 @@
                           "explanation":  "Directory refers to: special file that maps names to file metadata entries."
                       },
                       {
-                          "id":  193,
+                          "id":  156,
                           "question":  "\u0027Directory\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "CPU Scheduling",
@@ -2317,19 +1873,7 @@
                           "explanation":  "Directory is mainly part of File Management in Operating Systems."
                       },
                       {
-                          "id":  194,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "FCFS -\u003e special file that maps names to file metadata entries",
-                                          "Buddy System -\u003e special file that maps names to file metadata entries",
-                                          "Directory -\u003e special file that maps names to file metadata entries",
-                                          "SRTF -\u003e special file that maps names to file metadata entries"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Directory -\u003e special file that maps names to file metadata entries\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  195,
+                          "id":  157,
                           "question":  "A system design requirement states: special file that maps names to file metadata entries. Which concept should be selected?",
                           "options":  [
                                           "Buddy System",
@@ -2341,7 +1885,7 @@
                           "explanation":  "The requirement directly points to Directory."
                       },
                       {
-                          "id":  196,
+                          "id":  158,
                           "question":  "Which Operating System concept best matches: operation attaching a file system to directory tree?",
                           "options":  [
                                           "Process",
@@ -2353,7 +1897,7 @@
                           "explanation":  "Mount is defined as: operation attaching a file system to directory tree."
                       },
                       {
-                          "id":  197,
+                          "id":  159,
                           "question":  "What is the most accurate description of \u0027Mount\u0027 in OS context?",
                           "options":  [
                                           "operation attaching a file system to directory tree",
@@ -2365,7 +1909,7 @@
                           "explanation":  "Mount refers to: operation attaching a file system to directory tree."
                       },
                       {
-                          "id":  198,
+                          "id":  160,
                           "question":  "\u0027Mount\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Memory Management",
@@ -2377,19 +1921,7 @@
                           "explanation":  "Mount is mainly part of File Management in Operating Systems."
                       },
                       {
-                          "id":  199,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "File System -\u003e operation attaching a file system to directory tree",
-                                          "Mount -\u003e operation attaching a file system to directory tree",
-                                          "Priority Scheduling -\u003e operation attaching a file system to directory tree",
-                                          "Device Driver -\u003e operation attaching a file system to directory tree"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Mount -\u003e operation attaching a file system to directory tree\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  200,
+                          "id":  161,
                           "question":  "A system design requirement states: operation attaching a file system to directory tree. Which concept should be selected?",
                           "options":  [
                                           "Spooling",
@@ -2401,7 +1933,7 @@
                           "explanation":  "The requirement directly points to Mount."
                       },
                       {
-                          "id":  201,
+                          "id":  162,
                           "question":  "Which Operating System concept best matches: program that loads kernel during system startup?",
                           "options":  [
                                           "Hold and Wait",
@@ -2413,7 +1945,7 @@
                           "explanation":  "Boot Loader is defined as: program that loads kernel during system startup."
                       },
                       {
-                          "id":  202,
+                          "id":  163,
                           "question":  "What is the most accurate description of \u0027Boot Loader\u0027 in OS context?",
                           "options":  [
                                           "program that loads kernel during system startup",
@@ -2425,7 +1957,7 @@
                           "explanation":  "Boot Loader refers to: program that loads kernel during system startup."
                       },
                       {
-                          "id":  203,
+                          "id":  164,
                           "question":  "\u0027Boot Loader\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Memory Management",
@@ -2437,19 +1969,7 @@
                           "explanation":  "Boot Loader is mainly part of System Architecture in Operating Systems."
                       },
                       {
-                          "id":  204,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Deadlock -\u003e program that loads kernel during system startup",
-                                          "Boot Loader -\u003e program that loads kernel during system startup",
-                                          "Journaling -\u003e program that loads kernel during system startup",
-                                          "Inode -\u003e program that loads kernel during system startup"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Boot Loader -\u003e program that loads kernel during system startup\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  205,
+                          "id":  165,
                           "question":  "A system design requirement states: program that loads kernel during system startup. Which concept should be selected?",
                           "options":  [
                                           "Boot Loader",
@@ -2461,7 +1981,7 @@
                           "explanation":  "The requirement directly points to Boot Loader."
                       },
                       {
-                          "id":  206,
+                          "id":  166,
                           "question":  "Which Operating System concept best matches: core operating system component managing hardware and resources?",
                           "options":  [
                                           "DMA",
@@ -2473,7 +1993,7 @@
                           "explanation":  "Kernel is defined as: core operating system component managing hardware and resources."
                       },
                       {
-                          "id":  207,
+                          "id":  167,
                           "question":  "What is the most accurate description of \u0027Kernel\u0027 in OS context?",
                           "options":  [
                                           "core operating system component managing hardware and resources",
@@ -2485,7 +2005,7 @@
                           "explanation":  "Kernel refers to: core operating system component managing hardware and resources."
                       },
                       {
-                          "id":  208,
+                          "id":  168,
                           "question":  "\u0027Kernel\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "File Management",
@@ -2497,19 +2017,7 @@
                           "explanation":  "Kernel is mainly part of System Architecture in Operating Systems."
                       },
                       {
-                          "id":  209,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Spooling -\u003e core operating system component managing hardware and resources",
-                                          "Scheduler -\u003e core operating system component managing hardware and resources",
-                                          "Buddy System -\u003e core operating system component managing hardware and resources",
-                                          "Kernel -\u003e core operating system component managing hardware and resources"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Kernel -\u003e core operating system component managing hardware and resources\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  210,
+                          "id":  169,
                           "question":  "A system design requirement states: core operating system component managing hardware and resources. Which concept should be selected?",
                           "options":  [
                                           "Mutual Exclusion",
@@ -2521,7 +2029,7 @@
                           "explanation":  "The requirement directly points to Kernel."
                       },
                       {
-                          "id":  211,
+                          "id":  170,
                           "question":  "Which Operating System concept best matches: controlled interface between user programs and kernel?",
                           "options":  [
                                           "Caching",
@@ -2533,7 +2041,7 @@
                           "explanation":  "System Call is defined as: controlled interface between user programs and kernel."
                       },
                       {
-                          "id":  212,
+                          "id":  171,
                           "question":  "What is the most accurate description of \u0027System Call\u0027 in OS context?",
                           "options":  [
                                           "controlled interface between user programs and kernel",
@@ -2545,7 +2053,7 @@
                           "explanation":  "System Call refers to: controlled interface between user programs and kernel."
                       },
                       {
-                          "id":  213,
+                          "id":  172,
                           "question":  "\u0027System Call\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "System Architecture",
@@ -2557,19 +2065,7 @@
                           "explanation":  "System Call is mainly part of System Architecture in Operating Systems."
                       },
                       {
-                          "id":  214,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "External Fragmentation -\u003e controlled interface between user programs and kernel",
-                                          "Deadlock -\u003e controlled interface between user programs and kernel",
-                                          "System Call -\u003e controlled interface between user programs and kernel",
-                                          "Directory -\u003e controlled interface between user programs and kernel"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027System Call -\u003e controlled interface between user programs and kernel\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  215,
+                          "id":  173,
                           "question":  "A system design requirement states: controlled interface between user programs and kernel. Which concept should be selected?",
                           "options":  [
                                           "Paging",
@@ -2581,7 +2077,7 @@
                           "explanation":  "The requirement directly points to System Call."
                       },
                       {
-                          "id":  216,
+                          "id":  174,
                           "question":  "Which Operating System concept best matches: signal causing CPU to suspend current flow for service routine?",
                           "options":  [
                                           "Interrupt",
@@ -2593,7 +2089,7 @@
                           "explanation":  "Interrupt is defined as: signal causing CPU to suspend current flow for service routine."
                       },
                       {
-                          "id":  217,
+                          "id":  175,
                           "question":  "What is the most accurate description of \u0027Interrupt\u0027 in OS context?",
                           "options":  [
                                           "module that gives CPU control to selected process",
@@ -2605,7 +2101,7 @@
                           "explanation":  "Interrupt refers to: signal causing CPU to suspend current flow for service routine."
                       },
                       {
-                          "id":  218,
+                          "id":  176,
                           "question":  "\u0027Interrupt\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Concurrency",
@@ -2617,19 +2113,7 @@
                           "explanation":  "Interrupt is mainly part of System Architecture in Operating Systems."
                       },
                       {
-                          "id":  219,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "External Fragmentation -\u003e signal causing CPU to suspend current flow for service routine",
-                                          "Interrupt -\u003e signal causing CPU to suspend current flow for service routine",
-                                          "Thread -\u003e signal causing CPU to suspend current flow for service routine",
-                                          "SRTF -\u003e signal causing CPU to suspend current flow for service routine"
-                                      ],
-                          "answer":  1,
-                          "explanation":  "Only \u0027Interrupt -\u003e signal causing CPU to suspend current flow for service routine\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  220,
+                          "id":  177,
                           "question":  "A system design requirement states: signal causing CPU to suspend current flow for service routine. Which concept should be selected?",
                           "options":  [
                                           "Inode",
@@ -2641,7 +2125,7 @@
                           "explanation":  "The requirement directly points to Interrupt."
                       },
                       {
-                          "id":  221,
+                          "id":  178,
                           "question":  "Which Operating System concept best matches: software-generated interrupt for exceptions or system calls?",
                           "options":  [
                                           "Trap",
@@ -2653,7 +2137,7 @@
                           "explanation":  "Trap is defined as: software-generated interrupt for exceptions or system calls."
                       },
                       {
-                          "id":  222,
+                          "id":  179,
                           "question":  "What is the most accurate description of \u0027Trap\u0027 in OS context?",
                           "options":  [
                                           "software-generated interrupt for exceptions or system calls",
@@ -2665,7 +2149,7 @@
                           "explanation":  "Trap refers to: software-generated interrupt for exceptions or system calls."
                       },
                       {
-                          "id":  223,
+                          "id":  180,
                           "question":  "\u0027Trap\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "I/O Management",
@@ -2677,19 +2161,7 @@
                           "explanation":  "Trap is mainly part of System Architecture in Operating Systems."
                       },
                       {
-                          "id":  224,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Trap -\u003e software-generated interrupt for exceptions or system calls",
-                                          "External Fragmentation -\u003e software-generated interrupt for exceptions or system calls",
-                                          "DMA -\u003e software-generated interrupt for exceptions or system calls",
-                                          "Semaphore -\u003e software-generated interrupt for exceptions or system calls"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Trap -\u003e software-generated interrupt for exceptions or system calls\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  225,
+                          "id":  181,
                           "question":  "A system design requirement states: software-generated interrupt for exceptions or system calls. Which concept should be selected?",
                           "options":  [
                                           "Critical Section",
@@ -2701,7 +2173,7 @@
                           "explanation":  "The requirement directly points to Trap."
                       },
                       {
-                          "id":  226,
+                          "id":  182,
                           "question":  "Which Operating System concept best matches: hardware feature transferring data without continuous CPU involvement?",
                           "options":  [
                                           "Buffering",
@@ -2713,7 +2185,7 @@
                           "explanation":  "DMA is defined as: hardware feature transferring data without continuous CPU involvement."
                       },
                       {
-                          "id":  227,
+                          "id":  183,
                           "question":  "What is the most accurate description of \u0027DMA\u0027 in OS context?",
                           "options":  [
                                           "hardware feature transferring data without continuous CPU involvement",
@@ -2725,7 +2197,7 @@
                           "explanation":  "DMA refers to: hardware feature transferring data without continuous CPU involvement."
                       },
                       {
-                          "id":  228,
+                          "id":  184,
                           "question":  "\u0027DMA\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "Memory Management",
@@ -2737,19 +2209,7 @@
                           "explanation":  "DMA is mainly part of I/O Management in Operating Systems."
                       },
                       {
-                          "id":  229,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Paging -\u003e hardware feature transferring data without continuous CPU involvement",
-                                          "Mutex -\u003e hardware feature transferring data without continuous CPU involvement",
-                                          "Buddy System -\u003e hardware feature transferring data without continuous CPU involvement",
-                                          "DMA -\u003e hardware feature transferring data without continuous CPU involvement"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027DMA -\u003e hardware feature transferring data without continuous CPU involvement\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  230,
+                          "id":  185,
                           "question":  "A system design requirement states: hardware feature transferring data without continuous CPU involvement. Which concept should be selected?",
                           "options":  [
                                           "Critical Section",
@@ -2761,7 +2221,7 @@
                           "explanation":  "The requirement directly points to DMA."
                       },
                       {
-                          "id":  231,
+                          "id":  186,
                           "question":  "Which Operating System concept best matches: buffering technique queuing I/O jobs for shared device?",
                           "options":  [
                                           "Journaling",
@@ -2773,7 +2233,7 @@
                           "explanation":  "Spooling is defined as: buffering technique queuing I/O jobs for shared device."
                       },
                       {
-                          "id":  232,
+                          "id":  187,
                           "question":  "What is the most accurate description of \u0027Spooling\u0027 in OS context?",
                           "options":  [
                                           "buffering technique queuing I/O jobs for shared device",
@@ -2785,7 +2245,7 @@
                           "explanation":  "Spooling refers to: buffering technique queuing I/O jobs for shared device."
                       },
                       {
-                          "id":  233,
+                          "id":  188,
                           "question":  "\u0027Spooling\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "CPU Scheduling",
@@ -2797,19 +2257,7 @@
                           "explanation":  "Spooling is mainly part of I/O Management in Operating Systems."
                       },
                       {
-                          "id":  234,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Spooling -\u003e buffering technique queuing I/O jobs for shared device",
-                                          "SRTF -\u003e buffering technique queuing I/O jobs for shared device",
-                                          "Paging -\u003e buffering technique queuing I/O jobs for shared device",
-                                          "Hold and Wait -\u003e buffering technique queuing I/O jobs for shared device"
-                                      ],
-                          "answer":  0,
-                          "explanation":  "Only \u0027Spooling -\u003e buffering technique queuing I/O jobs for shared device\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  235,
+                          "id":  189,
                           "question":  "A system design requirement states: buffering technique queuing I/O jobs for shared device. Which concept should be selected?",
                           "options":  [
                                           "Response Time",
@@ -2821,7 +2269,7 @@
                           "explanation":  "The requirement directly points to Spooling."
                       },
                       {
-                          "id":  236,
+                          "id":  190,
                           "question":  "Which Operating System concept best matches: temporary storage used to handle speed mismatch in I/O?",
                           "options":  [
                                           "Circular Wait",
@@ -2833,7 +2281,7 @@
                           "explanation":  "Buffering is defined as: temporary storage used to handle speed mismatch in I/O."
                       },
                       {
-                          "id":  237,
+                          "id":  191,
                           "question":  "What is the most accurate description of \u0027Buffering\u0027 in OS context?",
                           "options":  [
                                           "unused memory space inside allocated fixed block",
@@ -2845,7 +2293,7 @@
                           "explanation":  "Buffering refers to: temporary storage used to handle speed mismatch in I/O."
                       },
                       {
-                          "id":  238,
+                          "id":  192,
                           "question":  "\u0027Buffering\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "CPU Scheduling",
@@ -2857,19 +2305,7 @@
                           "explanation":  "Buffering is mainly part of I/O Management in Operating Systems."
                       },
                       {
-                          "id":  239,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Virtual Memory -\u003e temporary storage used to handle speed mismatch in I/O",
-                                          "Aging -\u003e temporary storage used to handle speed mismatch in I/O",
-                                          "Buffering -\u003e temporary storage used to handle speed mismatch in I/O",
-                                          "External Fragmentation -\u003e temporary storage used to handle speed mismatch in I/O"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Buffering -\u003e temporary storage used to handle speed mismatch in I/O\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  240,
+                          "id":  193,
                           "question":  "A system design requirement states: temporary storage used to handle speed mismatch in I/O. Which concept should be selected?",
                           "options":  [
                                           "Buddy System",
@@ -2881,7 +2317,7 @@
                           "explanation":  "The requirement directly points to Buffering."
                       },
                       {
-                          "id":  241,
+                          "id":  194,
                           "question":  "Which Operating System concept best matches: keeping frequently used data in faster storage for quick access?",
                           "options":  [
                                           "Dispatcher",
@@ -2893,7 +2329,7 @@
                           "explanation":  "Caching is defined as: keeping frequently used data in faster storage for quick access."
                       },
                       {
-                          "id":  242,
+                          "id":  195,
                           "question":  "What is the most accurate description of \u0027Caching\u0027 in OS context?",
                           "options":  [
                                           "memory management using variable-sized logical segments",
@@ -2905,7 +2341,7 @@
                           "explanation":  "Caching refers to: keeping frequently used data in faster storage for quick access."
                       },
                       {
-                          "id":  243,
+                          "id":  196,
                           "question":  "\u0027Caching\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "CPU Scheduling",
@@ -2917,19 +2353,7 @@
                           "explanation":  "Caching is mainly part of I/O Management in Operating Systems."
                       },
                       {
-                          "id":  244,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "DMA -\u003e keeping frequently used data in faster storage for quick access",
-                                          "Virtual Memory -\u003e keeping frequently used data in faster storage for quick access",
-                                          "Caching -\u003e keeping frequently used data in faster storage for quick access",
-                                          "Mutual Exclusion -\u003e keeping frequently used data in faster storage for quick access"
-                                      ],
-                          "answer":  2,
-                          "explanation":  "Only \u0027Caching -\u003e keeping frequently used data in faster storage for quick access\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  245,
+                          "id":  197,
                           "question":  "A system design requirement states: keeping frequently used data in faster storage for quick access. Which concept should be selected?",
                           "options":  [
                                           "Scheduler",
@@ -2941,7 +2365,7 @@
                           "explanation":  "The requirement directly points to Caching."
                       },
                       {
-                          "id":  246,
+                          "id":  198,
                           "question":  "Which Operating System concept best matches: software module enabling OS interaction with hardware device?",
                           "options":  [
                                           "Spooling",
@@ -2953,7 +2377,7 @@
                           "explanation":  "Device Driver is defined as: software module enabling OS interaction with hardware device."
                       },
                       {
-                          "id":  247,
+                          "id":  199,
                           "question":  "What is the most accurate description of \u0027Device Driver\u0027 in OS context?",
                           "options":  [
                                           "controlled interface between user programs and kernel",
@@ -2965,7 +2389,7 @@
                           "explanation":  "Device Driver refers to: software module enabling OS interaction with hardware device."
                       },
                       {
-                          "id":  248,
+                          "id":  200,
                           "question":  "\u0027Device Driver\u0027 is primarily associated with which OS area?",
                           "options":  [
                                           "System Architecture",
@@ -2977,19 +2401,7 @@
                           "explanation":  "Device Driver is mainly part of I/O Management in Operating Systems."
                       },
                       {
-                          "id":  249,
-                          "question":  "Identify the correct term-definition mapping.",
-                          "options":  [
-                                          "Mount -\u003e software module enabling OS interaction with hardware device",
-                                          "Kernel -\u003e software module enabling OS interaction with hardware device",
-                                          "Scheduler -\u003e software module enabling OS interaction with hardware device",
-                                          "Device Driver -\u003e software module enabling OS interaction with hardware device"
-                                      ],
-                          "answer":  3,
-                          "explanation":  "Only \u0027Device Driver -\u003e software module enabling OS interaction with hardware device\u0027 is correctly mapped."
-                      },
-                      {
-                          "id":  250,
+                          "id":  201,
                           "question":  "A system design requirement states: software module enabling OS interaction with hardware device. Which concept should be selected?",
                           "options":  [
                                           "Monitor",

@@ -18,7 +18,14 @@ import {
   setAnswer
 } from "./questionEngine.js";
 import { getExamById, loadExams, loadQuestionSet, loadTopics } from "./examLoader.js";
-import { buildResult, summaryItems } from "./resultEngine.js";
+import {
+  buildResult,
+  evaluateResponse,
+  formatAnswerForDisplay,
+  inferQuestionType,
+  isResponseEmpty,
+  summaryItems
+} from "./resultEngine.js";
 import { TestTimer } from "./timer.js";
 
 let timer = null;
@@ -185,17 +192,42 @@ function showError(message) {
 }
 
 function isValidQuestion(question) {
+  if (!question || typeof question.question !== "string" || question.question.trim().length === 0) {
+    return false;
+  }
+
+  if (typeof question.explanation !== "string") {
+    return false;
+  }
+
+  const type = inferQuestionType(question);
+  if (type === "text") {
+    if (Array.isArray(question.answer)) {
+      return question.answer.length > 0 && question.answer.every((value) => String(value).trim().length > 0);
+    }
+    return String(question.answer ?? "").trim().length > 0;
+  }
+
+  if (!Array.isArray(question.options) || question.options.length < 2) {
+    return false;
+  }
+
+  if (question.options.some((opt) => typeof opt !== "string" || opt.trim().length === 0)) {
+    return false;
+  }
+
+  if (type === "multi") {
+    return (
+      Array.isArray(question.answer) &&
+      question.answer.length > 0 &&
+      question.answer.every((idx) => Number.isInteger(idx) && idx >= 0 && idx < question.options.length)
+    );
+  }
+
   return (
-    question &&
-    typeof question.question === "string" &&
-    question.question.trim().length > 0 &&
-    Array.isArray(question.options) &&
-    question.options.length === 4 &&
-    question.options.every((opt) => typeof opt === "string" && opt.trim().length > 0) &&
     Number.isInteger(question.answer) &&
     question.answer >= 0 &&
-    question.answer <= 3 &&
-    typeof question.explanation === "string"
+    question.answer < question.options.length
   );
 }
 
@@ -657,13 +689,61 @@ async function initTopicList() {
   });
 }
 
-function getSelectedOption() {
-  const checked = document.querySelector('input[name="answer-option"]:checked');
-  if (!checked) {
-    return null;
+function getSelectedResponse() {
+  const question = activeQuestions[activeState.currentIndex];
+  const type = inferQuestionType(question);
+
+  if (type === "text") {
+    const textInput = document.getElementById("answer-input-text");
+    return textInput ? textInput.value.trim() : "";
   }
 
-  return Number(checked.value);
+  if (type === "multi") {
+    const checked = Array.from(document.querySelectorAll('input[name="answer-option"]:checked')).map((el) => Number(el.value));
+    return checked;
+  }
+
+  const checked = document.querySelector('input[name="answer-option"]:checked');
+  return checked ? Number(checked.value) : null;
+}
+
+function resetAnswerFeedback() {
+  const feedback = document.getElementById("answer-feedback");
+  if (!feedback) {
+    return;
+  }
+
+  feedback.className = "answer-feedback hidden";
+  feedback.textContent = "";
+}
+
+function showAnswerFeedback(response) {
+  const feedback = document.getElementById("answer-feedback");
+  if (!feedback) {
+    return;
+  }
+
+  const question = activeQuestions[activeState.currentIndex];
+  const type = inferQuestionType(question);
+  if (isResponseEmpty(response, type)) {
+    feedback.className = "answer-feedback wrong";
+    feedback.textContent = "Please provide an answer before checking.";
+    return;
+  }
+
+  const correct = evaluateResponse(question, response);
+  const yourAnswer = formatAnswerForDisplay(question, response);
+  const expected = formatAnswerForDisplay(question, question.answer);
+  const explanation = question.explanation || "No explanation provided.";
+
+  feedback.className = `answer-feedback ${correct ? "correct" : "wrong"}`;
+  feedback.innerHTML = "";
+
+  const heading = createEl("strong", "", correct ? "Correct" : "Not Correct");
+  const your = createEl("p", "", `Your Answer: ${yourAnswer}`);
+  const right = createEl("p", "", `Correct Answer: ${expected}`);
+  const explain = createEl("p", "", `Explanation: ${explanation}`);
+  feedback.append(heading, your, right, explain);
 }
 
 function renderQuestion() {
@@ -675,15 +755,38 @@ function renderQuestion() {
   questionIndex.textContent = `Question ${activeState.currentIndex + 1} of ${activeQuestions.length}`;
   questionText.textContent = question.question;
   optionsWrap.innerHTML = "";
+  resetAnswerFeedback();
+
+  const type = inferQuestionType(question);
+
+  if (type === "text") {
+    const input = createEl("input");
+    input.id = "answer-input-text";
+    input.type = "text";
+    input.className = "input-text-answer";
+    input.placeholder = "Type your answer";
+    const saved = activeState.answers[activeState.currentIndex];
+    if (typeof saved === "string") {
+      input.value = saved;
+    }
+    optionsWrap.append(input);
+    return;
+  }
+
+  const inputType = type === "multi" ? "checkbox" : "radio";
+  const savedAnswer = activeState.answers[activeState.currentIndex];
+  const selectedSet = Array.isArray(savedAnswer)
+    ? new Set(savedAnswer.map((val) => Number(val)))
+    : new Set([Number(savedAnswer)]);
 
   question.options.forEach((option, idx) => {
     const wrapper = createEl("label", "option");
     const input = createEl("input");
-    input.type = "radio";
+    input.type = inputType;
     input.name = "answer-option";
     input.value = String(idx);
 
-    if (Number(activeState.answers[activeState.currentIndex]) === idx) {
+    if (selectedSet.has(idx)) {
       input.checked = true;
     }
 
@@ -758,8 +861,8 @@ function initTestActions() {
   });
 
   document.getElementById("save-next-btn").addEventListener("click", () => {
-    const selected = getSelectedOption();
-    if (selected === null) {
+    const selected = getSelectedResponse();
+    if (isResponseEmpty(selected, inferQuestionType(activeQuestions[activeState.currentIndex]))) {
       clearAnswer(activeState, activeState.currentIndex);
     } else {
       setAnswer(activeState, activeState.currentIndex, selected);
@@ -772,8 +875,8 @@ function initTestActions() {
   });
 
   document.getElementById("mark-review-btn").addEventListener("click", () => {
-    const selected = getSelectedOption();
-    if (selected === null) {
+    const selected = getSelectedResponse();
+    if (isResponseEmpty(selected, inferQuestionType(activeQuestions[activeState.currentIndex]))) {
       clearAnswer(activeState, activeState.currentIndex);
     } else {
       setAnswer(activeState, activeState.currentIndex, selected);
@@ -792,6 +895,22 @@ function initTestActions() {
       submitTest();
     }
   });
+
+  const checkBtn = document.getElementById("check-answer-btn");
+  if (checkBtn) {
+    checkBtn.addEventListener("click", () => {
+      const selected = getSelectedResponse();
+      const type = inferQuestionType(activeQuestions[activeState.currentIndex]);
+
+      if (!isResponseEmpty(selected, type)) {
+        setAnswer(activeState, activeState.currentIndex, selected);
+        persistState(activeState);
+        renderPalette();
+      }
+
+      showAnswerFeedback(selected);
+    });
+  }
 }
 
 async function initTestPage() {
@@ -871,8 +990,8 @@ function initResultPage() {
 
   const reviewWrap = document.getElementById("review-wrap");
   result.review.forEach((row) => {
-    const selected = row.selected !== undefined ? row.options[row.selected] : "Not Attempted";
-    const correct = row.options[row.correctAnswer];
+    const selected = formatAnswerForDisplay(row, row.selected);
+    const correct = formatAnswerForDisplay(row, row.correctAnswer);
     const item = createEl("article", `review-item ${row.isCorrect ? "correct" : "wrong"}`);
     const title = createEl("h3", "", `Q${row.questionNo}. ${row.question}`);
     const yourAns = createEl("p");
