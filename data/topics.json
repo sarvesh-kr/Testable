@@ -5,7 +5,7 @@
                        "examId":  "bank_so_it",
                        "name":  "Computer Networks and Cyber Security",
                        "file":  "computer_networks_cyber_security.json",
-                       "questionCount":  902,
+                       "questionCount":  898,
                        "durationMinutes":  180
                    },
                    {
@@ -13,7 +13,7 @@
                        "examId":  "bank_so_it",
                        "name":  "Operating System",
                        "file":  "operating_system.json",
-                       "questionCount":  201,
+                       "questionCount":  901,
                        "durationMinutes":  180
                    },
                    {

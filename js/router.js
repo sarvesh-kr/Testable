@@ -717,6 +717,36 @@ function resetAnswerFeedback() {
   feedback.textContent = "";
 }
 
+function formatExamText(value) {
+  const text = String(value ?? "").replace(/\r\n?/g, "\n").trim();
+  if (!text) {
+    return "";
+  }
+
+  // Restore common inline enumerations into separate lines for readability.
+  return text
+    .replace(/\s+(?=(?:i|ii|iii|iv|v|vi|vii|viii|ix|x)\.\s)/gi, "\n")
+    .replace(/\s+(?=(?:\d+)\.\s)/g, "\n");
+}
+
+function appendOptionContent(parent, optionValue) {
+  const raw = String(optionValue ?? "").trim();
+  const text = formatExamText(raw);
+
+  // Support plain image URL options while keeping text options unchanged.
+  const imageUrlMatch = text.match(/^(https?:\/\/\S+\.(?:png|jpe?g|gif|webp|svg)|\.{0,2}\/\S+\.(?:png|jpe?g|gif|webp|svg))$/i);
+  if (imageUrlMatch) {
+    const img = createEl("img", "option-image");
+    img.src = imageUrlMatch[1];
+    img.alt = "Option image";
+    img.loading = "lazy";
+    parent.append(img);
+    return;
+  }
+
+  parent.textContent = text;
+}
+
 function showAnswerFeedback(response) {
   const feedback = document.getElementById("answer-feedback");
   if (!feedback) {
@@ -740,9 +770,9 @@ function showAnswerFeedback(response) {
   feedback.innerHTML = "";
 
   const heading = createEl("strong", "", correct ? "Correct" : "Not Correct");
-  const your = createEl("p", "", `Your Answer: ${yourAnswer}`);
-  const right = createEl("p", "", `Correct Answer: ${expected}`);
-  const explain = createEl("p", "", `Explanation: ${explanation}`);
+  const your = createEl("p", "", `Your Answer: ${formatExamText(yourAnswer)}`);
+  const right = createEl("p", "", `Correct Answer: ${formatExamText(expected)}`);
+  const explain = createEl("p", "", `Explanation: ${formatExamText(explanation)}`);
   feedback.append(heading, your, right, explain);
 }
 
@@ -753,7 +783,7 @@ function renderQuestion() {
   const optionsWrap = document.getElementById("options-wrap");
 
   questionIndex.textContent = `Question ${activeState.currentIndex + 1} of ${activeQuestions.length}`;
-  questionText.textContent = question.question;
+  questionText.textContent = formatExamText(question.question);
   optionsWrap.innerHTML = "";
   resetAnswerFeedback();
 
@@ -790,7 +820,8 @@ function renderQuestion() {
       input.checked = true;
     }
 
-    const txt = createEl("span", "", option);
+    const txt = createEl("span");
+    appendOptionContent(txt, option);
     wrapper.append(input, txt);
     optionsWrap.append(wrapper);
   });
@@ -809,6 +840,11 @@ function renderPalette() {
       persistState(activeState);
       renderQuestion();
       renderPalette();
+
+      const questionPanel = document.querySelector(".question-panel");
+      if (questionPanel && typeof questionPanel.scrollIntoView === "function") {
+        questionPanel.scrollIntoView({ behavior: "smooth", block: "start" });
+      }
     });
     palette.append(btn);
   }
@@ -990,16 +1026,16 @@ function initResultPage() {
 
   const reviewWrap = document.getElementById("review-wrap");
   result.review.forEach((row) => {
-    const selected = formatAnswerForDisplay(row, row.selected);
-    const correct = formatAnswerForDisplay(row, row.correctAnswer);
+    const selected = formatExamText(formatAnswerForDisplay(row, row.selected));
+    const correct = formatExamText(formatAnswerForDisplay(row, row.correctAnswer));
     const item = createEl("article", `review-item ${row.isCorrect ? "correct" : "wrong"}`);
-    const title = createEl("h3", "", `Q${row.questionNo}. ${row.question}`);
+    const title = createEl("h3", "", `Q${row.questionNo}. ${formatExamText(row.question)}`);
     const yourAns = createEl("p");
     yourAns.append(createEl("strong", "", "Your Answer: "), document.createTextNode(selected));
     const correctAns = createEl("p");
     correctAns.append(createEl("strong", "", "Correct Answer: "), document.createTextNode(correct));
     const explanation = createEl("p");
-    explanation.append(createEl("strong", "", "Explanation: "), document.createTextNode(row.explanation));
+    explanation.append(createEl("strong", "", "Explanation: "), document.createTextNode(formatExamText(row.explanation)));
     item.append(title, yourAns, correctAns, explanation);
     reviewWrap.append(item);
   });
